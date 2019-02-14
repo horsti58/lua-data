@@ -187,7 +187,7 @@ function start_update()
 	if (exitcode ~= 0) then
 		ret:hide()
 		print("rsync missing?")
-        local ok,err,exitcode = os.execute("cp -f " .. setting_intro .. "/settingupdater_0.png " .. icondir .. "/settingupdater.png")
+        local ok,err,exitcode = os.execute("cp -f " .. setting_intro .. "/settingupdater_" .. nconf_value("osd_resolution") .. ".png " .. icondir .. "/settingupdater.png")
 	else
 		ret:hide();
 	end	
