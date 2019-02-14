@@ -183,13 +183,14 @@ function start_update()
 	else
 		ret:hide();
 	end
-	--local ok,err,exitcode = os.execute("rsync -rlpgoD --size-only " .. setting_intro .. "/settingupdater_" .. nconf_value("osd_resolution") .. ".png " .. icondir .. "/settingupdater.png")
-	--if (exitcode ~= 0) then
-	--	ret:hide()
-	--	print("rsync missing?")
-	--else
-	--	ret:hide();
-	--end	
+	local ok,err,exitcode = os.execute("rsync -rlpgoD --size-only " .. setting_intro .. "/settingupdater_" .. nconf_value("osd_resolution") .. ".png " .. icondir .. "/settingupdater.png")
+	if (exitcode ~= 0) then
+		ret:hide()
+		print("rsync missing?")
+        local ok,err,exitcode = os.execute("cp -f " .. setting_intro .. "/settingupdater_0.png " .. icondir .. "/settingupdater.png")
+	else
+		ret:hide();
+	end	
 	local ret = hintbox.new { title = caption, icon = "settings", text = locale[lang].write_settings};
 	ret:paint();
 	local positions ={}
@@ -208,21 +209,21 @@ function start_update()
 
 	bouquets = io.open(zapitdir .. "/bouquets.xml", 'w')
 	for i, v in ipairs(positions) do
-		for line in io.lines(tmp .. "/data/" .. v .. "/bouquets.xml") do
+		for line in io.lines(tmp .. "/" .. v .. "/bouquets.xml") do
 			bouquets:write(line, "\n")
 		end
 	end
 
 	services = io.open(zapitdir .. "/services.xml", 'w')
 	for i, v in ipairs(positions) do
-		for line in io.lines(tmp .. "/data/" .. v .. "/services.xml") do
+		for line in io.lines(tmp .. "/" .. v .. "/services.xml") do
 			services:write(line, "\n")
 		end
 	end
 
 	satellites = io.open(neutrino_conf_base .. "/satellites.xml", 'w')
 	for i, v in ipairs(positions) do
-		for line in io.lines(tmp .. "/data/" .. v .. "/satellites.xml") do
+		for line in io.lines(tmp .. "/" .. v .. "/satellites.xml") do
 			satellites:write(line, "\n")
 		end
 	end
