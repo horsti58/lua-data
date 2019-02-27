@@ -21,6 +21,9 @@
 
 caption = "Settings Updater"
 
+local on = "ein"
+local off = "aus"
+
 locale = {}
 locale["deutsch"] = {
 fetch_source = "Die aktuellen Senderlisten werden geladen",
@@ -30,8 +33,6 @@ cleanup = "Temporäre Dateien werden gelöscht",
 cleanup_failed = "Temporäre Dateien konnten nicht entfernt werden",
 menu_options = "Einstellungen",
 menu_update = "Update starten",
-yes = "ja",
-no = "nein",
 cfg_install_a = "Senderliste ",
 cfg_install_b = " installieren",
 cfg_ubouquets = "uBouquets installieren",
@@ -49,7 +50,7 @@ menu_update = "Start update",
 yes = "yes",
 no = "no",
 cfg_install_a = "Install ",
-cfg_install_b = " settings",    
+cfg_install_b = " settings",
 cfg_ubouquets = "Install ubouqets",
 cfg_git = "Use git for downloading",
 last_update = "Last update: "
@@ -59,7 +60,7 @@ n = neutrino()
 tmp = "/tmp/settingupdate"
 neutrino_conf_base = "/var/tuxbox/config"
 icondir = "/share/tuxbox/neutrino/icons"
-neutrino_conf = neutrino_conf_base .. "/neutrino.conf" 
+neutrino_conf = neutrino_conf_base .. "/neutrino.conf"
 zapitdir = neutrino_conf_base .. "/zapit"
 setting_intro = tmp .. "/lua"
 settingupdater_cfg = neutrino_conf_base .. "/settingupdater.cfg"
@@ -137,10 +138,8 @@ end
 
 timing_menu = nconf_value("timing.menu")
 
-function sleep(a) 
-	local sec = tonumber(os.clock() + a); 
-	while (os.clock() < sec) do 
-	end 
+function sleep(n)
+  os.execute("sleep " .. tonumber(n))
 end
 
 function show_error(msg)
@@ -155,7 +154,7 @@ function start_update()
 	if (isdir(tmp) == true) then os.execute("rm -rf " .. tmp) end
 	local ret = hintbox.new { title = caption, icon = "settings", text = locale[lang].fetch_source };
 	ret:paint();
-	if (get_cfg_value("use_git") == 1) then 
+	if (get_cfg_value("use_git") == 1) then
 		setting_url = "https://github.com/horsti58/lua-data"
 		ok ,err, exitcode = os.execute("git clone " .. setting_url .. " " .. tmp)
 	else
@@ -186,7 +185,7 @@ function start_update()
 		local ok,err,exitcode = os.execute("cp -f " .. setting_intro .. "/settingupdater_" .. nconf_value("osd_resolution") .. ".png " .. icondir .. "/settingupdater.png")
 	else
 		ret:hide();
-	end	
+	end
 	local ret = hintbox.new { title = caption, icon = "settings", text = locale[lang].write_settings};
 	ret:paint();
 	local positions ={}
@@ -239,11 +238,11 @@ function start_update()
 		return
 	else
 		ret:hide()
-	end	
+	end
 end
 
 function write_cfg(k, v, str)
-	if (v == locale[lang].yes) then a = 1 else a = 0 end
+	if (v == on) then a = 1 else a = 0 end
 	local cfg_content = {}
 	for line in io.lines(settingupdater_cfg) do
 		if line:match(str .. "=") then
@@ -258,17 +257,17 @@ function write_cfg(k, v, str)
 		file:write(v, "\n")
 	end
 	io.close(file)
-	end
+end
 
-function astra_gb_cfg(k, v, str) 
+function astra_gb_cfg(k, v, str)
 	write_cfg(k, v, "28.2E")
 end
 
-function badr_cfg(k, v, str) 
+function badr_cfg(k, v, str)
 	write_cfg(k, v, "26.0E")
 end
 
-function astra_nl_cfg(k, v, str) 
+function astra_nl_cfg(k, v, str)
 	write_cfg(k, v, "23.5E")
 end
 
@@ -276,31 +275,31 @@ function astra_cfg(k, v, str)
 	write_cfg(k, v, "19.2E")
 end
 
-function eutelsatc_cfg(k, v, str) 
+function eutelsatc_cfg(k, v, str)
 	write_cfg(k, v, "16.0E")
 end
 
-function hotbird_cfg(k, v, str) 
+function hotbird_cfg(k, v, str)
 	write_cfg(k, v, "13.0E")
 end
 
-function eutelsata_cfg(k, v, str) 
+function eutelsata_cfg(k, v, str)
 	write_cfg(k, v, "9.0E")
 end
 
-function eutelsatb_cfg(k, v, str) 
+function eutelsatb_cfg(k, v, str)
 	write_cfg(k, v, "7.0E")
 end
 
-function astraa_cfg(k, v, str) 
+function astraa_cfg(k, v, str)
 	write_cfg(k, v, "4.8E")
 end
 
-function thor_cfg(k, v, str) 
+function thor_cfg(k, v, str)
 	write_cfg(k, v, "0.8W")
 end
 
-function use_git_cfg(k, v, str) 
+function use_git_cfg(k, v, str)
 	write_cfg(k, v, "use_git")
 end
 
@@ -309,61 +308,60 @@ function options ()
 	menu = menu.new{name=locale[lang].menu_options}
 	menu:addItem{type="back"}
 	menu:addItem{type="separatorline"}
-	opt = {locale[lang].yes ,locale[lang].no}	
 	if (get_cfg_value("19.2E") == 1) then
-		menu:addItem{type="chooser", action="astra_cfg", options={opt[1], opt[2]}, icon=1, directkey=RC["1"], name=locale[lang].cfg_install_a .. " 19.2E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="astra_cfg", options={on, off}, icon=1, directkey=RC["1"], name=locale[lang].cfg_install_a .. " 19.2E " .. locale[lang].cfg_install_b}
 	elseif (get_cfg_value("19.2E") == 0) then
-		menu:addItem{type="chooser", action="astra_cfg", options={opt[2], opt[1]}, icon=1, directkey=RC["1"], name=locale[lang].cfg_install_a .. " 19.2E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="astra_cfg", options={off, on}, icon=1, directkey=RC["1"], name=locale[lang].cfg_install_a .. " 19.2E " .. locale[lang].cfg_install_b}
 	end
 	if (get_cfg_value("13.0E") == 1) then
-		menu:addItem{type="chooser", action="hotbird_cfg", options={opt[1], opt[2]}, icon=2, directkey=RC["2"], name=locale[lang].cfg_install_a .. " 13.0E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="hotbird_cfg", options={on, off}, icon=2, directkey=RC["2"], name=locale[lang].cfg_install_a .. " 13.0E " .. locale[lang].cfg_install_b}
 	elseif (get_cfg_value("13.0E") == 0) then
-		menu:addItem{type="chooser", action="hotbird_cfg", options={opt[2], opt[1]}, icon=2, directkey=RC["2"], name=locale[lang].cfg_install_a .. " 13.0E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="hotbird_cfg", options={off, on}, icon=2, directkey=RC["2"], name=locale[lang].cfg_install_a .. " 13.0E " .. locale[lang].cfg_install_b}
 	end
 	if (get_cfg_value("16.0E") == 1) then
-		menu:addItem{type="chooser", action="eutelsatc_cfg", options={opt[1], opt[2]}, icon=3, directkey=RC["3"], name=locale[lang].cfg_install_a .. " 16.0E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="eutelsatc_cfg", options={on, off}, icon=3, directkey=RC["3"], name=locale[lang].cfg_install_a .. " 16.0E " .. locale[lang].cfg_install_b}
 	elseif (get_cfg_value("16.0E") == 0) then
-		menu:addItem{type="chooser", action="eutelsatc_cfg", options={opt[2], opt[1]}, icon=3, directkey=RC["3"], name=locale[lang].cfg_install_a .. " 16.0E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="eutelsatc_cfg", options={off, on}, icon=3, directkey=RC["3"], name=locale[lang].cfg_install_a .. " 16.0E " .. locale[lang].cfg_install_b}
 	end
 	if (get_cfg_value("23.5E") == 1) then
-		menu:addItem{type="chooser", action="astra_nl_cfg", options={opt[1], opt[2]}, icon=4, directkey=RC["4"], name=locale[lang].cfg_install_a .. " 23.5E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="astra_nl_cfg", options={on, off}, icon=4, directkey=RC["4"], name=locale[lang].cfg_install_a .. " 23.5E " .. locale[lang].cfg_install_b}
 	elseif (get_cfg_value("23.5E") == 0) then
-		menu:addItem{type="chooser", action="astra_nl_cfg", options={opt[2], opt[1]}, icon=4, directkey=RC["4"], name=locale[lang].cfg_install_a .. " 23.5E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="astra_nl_cfg", options={off, on}, icon=4, directkey=RC["4"], name=locale[lang].cfg_install_a .. " 23.5E " .. locale[lang].cfg_install_b}
 	end
 	if (get_cfg_value("26.0E") == 1) then
-		menu:addItem{type="chooser", action="badr_cfg", options={opt[1], opt[2]}, icon=5, directkey=RC["5"], name=locale[lang].cfg_install_a .. " 26.0E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="badr_cfg", options={on, off}, icon=5, directkey=RC["5"], name=locale[lang].cfg_install_a .. " 26.0E " .. locale[lang].cfg_install_b}
 	elseif (get_cfg_value("26.0E") == 0) then
-		menu:addItem{type="chooser", action="badr_cfg", options={opt[2], opt[1]}, icon=5, directkey=RC["5"], name=locale[lang].cfg_install_a .. " 26.0E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="badr_cfg", options={off, on}, icon=5, directkey=RC["5"], name=locale[lang].cfg_install_a .. " 26.0E " .. locale[lang].cfg_install_b}
 	end
 	if (get_cfg_value("28.2E") == 1) then
-		menu:addItem{type="chooser", action="astra_gb_cfg", options={opt[1], opt[2]}, icon=6, directkey=RC["6"], name=locale[lang].cfg_install_a .. " 28.2E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="astra_gb_cfg", options={on, off}, icon=6, directkey=RC["6"], name=locale[lang].cfg_install_a .. " 28.2E " .. locale[lang].cfg_install_b}
 	elseif (get_cfg_value("28.2E") == 0) then
-		menu:addItem{type="chooser", action="astra_gb_cfg", options={opt[2], opt[1]}, icon=6, directkey=RC["6"], name=locale[lang].cfg_install_a .. " 28.2E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="astra_gb_cfg", options={off, on}, icon=6, directkey=RC["6"], name=locale[lang].cfg_install_a .. " 28.2E " .. locale[lang].cfg_install_b}
 	end
 	if (get_cfg_value("9.0E") == 1) then
-		menu:addItem{type="chooser", action="eutelsata_cfg", options={opt[1], opt[2]}, icon=7, directkey=RC["7"], name=locale[lang].cfg_install_a .. " 9.0E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="eutelsata_cfg", options={on, off}, icon=7, directkey=RC["7"], name=locale[lang].cfg_install_a .. " 9.0E " .. locale[lang].cfg_install_b}
 	elseif (get_cfg_value("9.0E") == 0) then
-		menu:addItem{type="chooser", action="eutelsata_cfg", options={opt[2], opt[1]}, icon=7, directkey=RC["7"], name=locale[lang].cfg_install_a .. " 9.0E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="eutelsata_cfg", options={off, on}, icon=7, directkey=RC["7"], name=locale[lang].cfg_install_a .. " 9.0E " .. locale[lang].cfg_install_b}
 	end
 	if (get_cfg_value("7.0E") == 1) then
-		menu:addItem{type="chooser", action="eutelsatb_cfg", options={opt[1], opt[2]}, icon=8, directkey=RC["8"], name=locale[lang].cfg_install_a .. " 7.0E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="eutelsatb_cfg", options={on, off}, icon=8, directkey=RC["8"], name=locale[lang].cfg_install_a .. " 7.0E " .. locale[lang].cfg_install_b}
 	elseif (get_cfg_value("7.0E") == 0) then
-		menu:addItem{type="chooser", action="eutelsatb_cfg", options={opt[2], opt[1]}, icon=8, directkey=RC["8"], name=locale[lang].cfg_install_a .. " 7.0E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="eutelsatb_cfg", options={off, on}, icon=8, directkey=RC["8"], name=locale[lang].cfg_install_a .. " 7.0E " .. locale[lang].cfg_install_b}
 	end
 	if (get_cfg_value("4.8E") == 1) then
-		menu:addItem{type="chooser", action="astraa_cfg", options={opt[1], opt[2]}, icon=9, directkey=RC["9"], name=locale[lang].cfg_install_a .. " 4.8E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="astraa_cfg", options={on, off}, icon=9, directkey=RC["9"], name=locale[lang].cfg_install_a .. " 4.8E " .. locale[lang].cfg_install_b}
 	elseif (get_cfg_value("4.8E") == 0) then
-		menu:addItem{type="chooser", action="astraa_cfg", options={opt[2], opt[1]}, icon=9, directkey=RC["9"], name=locale[lang].cfg_install_a .. " 4.8E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="astraa_cfg", options={off, on}, icon=9, directkey=RC["9"], name=locale[lang].cfg_install_a .. " 4.8E " .. locale[lang].cfg_install_b}
 	end
 	if (get_cfg_value("0.8W") == 1) then
-		menu:addItem{type="chooser", action="thor_cfg", options={opt[1], opt[2]}, icon=0, directkey=RC["0"], name=locale[lang].cfg_install_a .. " 0.8E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="thor_cfg", options={on, off}, icon=0, directkey=RC["0"], name=locale[lang].cfg_install_a .. " 0.8E " .. locale[lang].cfg_install_b}
 	elseif (get_cfg_value("0.8W") == 0) then
-		menu:addItem{type="chooser", action="thor_cfg", options={opt[2], opt[1]}, icon=0, directkey=RC["0"], name=locale[lang].cfg_install_a .. " 0.8E " .. locale[lang].cfg_install_b}
+		menu:addItem{type="chooser", action="thor_cfg", options={off, on}, icon=0, directkey=RC["0"], name=locale[lang].cfg_install_a .. " 0.8E " .. locale[lang].cfg_install_b}
 	end
 	if (get_cfg_value("use_git") == 1) then
-		menu:addItem{type="chooser", action="use_git_cfg", options={opt[1], opt[2]}, name=locale[lang].cfg_git}
+		menu:addItem{type="chooser", action="use_git_cfg", options={on, off}, name=locale[lang].cfg_git}
 	elseif (get_cfg_value("use_git") == 0) then
-		menu:addItem{type="chooser", action="use_git_cfg", options={opt[2], opt[1]}, name=locale[lang].cfg_git}
+		menu:addItem{type="chooser", action="use_git_cfg", options={off, on}, name=locale[lang].cfg_git}
 	end
 	menu:exec()
 	main()

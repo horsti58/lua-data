@@ -1,4 +1,4 @@
-	<sat name="4.8E Astra 4A SES 5" position="48" diseqc="-1" uncommited="-1">
+	<sat name="4.8E Astra" position="48" diseqc="-1" uncommited="-1">
 		<TS id="0021" on="0056" frq="11265000" inv="2" sr="30000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0898" f="4" s="1" t="16" n="Disney Channel NO"/>
 			<S i="089d" f="4" s="1" t="16" n="TV2 Fri"/>
@@ -13,7 +13,6 @@
 			<S i="08c5" f="4" s="1" t="16" n="Disney JR"/>
 			<S i="08ca" f="4" s="1" t="16" n="TV6 (N)"/>
 			<S i="08cf" f="4" s="1" t="16" n="TV2 Zulu"/>
-			<S i="08d4" f="2" s="1" t="16" n="Comedy Central Norway"/>
 			<S i="08d9" f="4" s="1" t="16" n="DK4"/>
 			<S i="08de" f="4" s="1" t="16" n="Nat Geo Norway"/>
 			<S i="08e3" f="4" s="1" t="16" n="Disney Channel (D)"/>
@@ -30,7 +29,7 @@
 			<S i="0a32" f="4" s="1" t="19" n="TV6 HD Sweden"/>
 			<S i="0a37" f="4" s="1" t="16" n="E!"/>
 			<S i="0a3c" f="4" s="1" t="19" n="Viasat Explore HD"/>
-			<S i="0a41" f="4" s="1" t="16" n="MTV (S)"/>
+			<S i="0a41" f="4" s="1" t="16" n="MTV Nordic"/>
 			<S i="0a46" f="4" s="1" t="19" n="Viasat 4 HD"/>
 			<S i="0a50" f="4" s="1" t="19" n="Viasat Nature HD"/>
 			<S i="0a5a" f="4" s="1" t="19" n="TV3 HD Danmark"/>
@@ -94,7 +93,6 @@
 			<S i="0b3b" f="4" s="1" t="16" n="SBN"/>
 			<S i="0b40" f="4" s="1" t="16" n="Cartoon Network"/>
 			<S i="0b45" f="4" s="1" t="16" n="Boomerang"/>
-			<S i="0b4a" f="2" s="1" t="16" n="Nat Geo People"/>
 			<S i="0b4f" f="4" s="1" t="16" n="NHK World TV"/>
 		</TS>
 		<TS id="001f" on="0056" frq="11385000" inv="2" sr="30000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -117,9 +115,7 @@
 			<S i="0bc8" f="4" s="1" t="2" n="Bandit Classics"/>
 			<S i="0bca" f="4" s="1" t="2" n="Svenska Favoriter"/>
 			<S i="0bcc" f="4" s="1" t="19" n="Cmore Sport HD"/>
-			<S i="0bd6" f="2" s="1" t="19" n="Cmore Hockey HD"/>
-			<S i="0be0" f="2" s="1" t="19" n="Cmore Fotboll HD"/>
-			<S i="0bea" f="4" s="1" t="19" n="U test 27 2"/>
+			<S i="0bea" f="4" s="0" t="19" n="U test 27 2"/>
 			<S i="0bf4" f="4" s="1" t="19" n="Cmore Golf HD"/>
 			<S i="0bfe" f="4" s="1" t="19" n="Cmore Live HD"/>
 			<S i="0c08" f="4" s="1" t="19" n="TV12 HD"/>
@@ -200,6 +196,18 @@
 			<S i="27d8" f="4" s="1" t="1" n="MTV Hits"/>
 			<S i="27dd" f="4" s="1" t="1" n="Kidzone TV"/>
 			<S i="27e2" f="4" s="1" t="1" n="Kanal 12"/>
+		</TS>
+		<TS id="001b" on="0056" frq="11823000" inv="2" sr="27500000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="0640" f="4" s="1" t="19" n="Viasat Film Premiere HD"/>
+			<S i="064a" f="4" s="1" t="19" n="SVT 1 HD"/>
+			<S i="0654" f="4" s="0" t="16" n="VOX"/>
+			<S i="065e" f="4" s="1" t="19" n="TV3+ HD"/>
+			<S i="0668" f="4" s="1" t="19" n="SVT 2 HD"/>
+			<S i="0672" f="4" s="1" t="16" n="TV2 Humorkanalen"/>
+			<S i="067c" f="4" s="1" t="19" n="MAX HD"/>
+			<S i="0686" f="4" s="1" t="19" n="NatGeo HD"/>
+			<S i="0690" f="4" s="1" t="16" n="Viasat Urheilu"/>
+			<S i="069a" f="4" s="1" t="19" n="Cmore Live HD"/>
 		</TS>
 		<TS id="000d" on="0055" frq="11843000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="1888" f="4" s="1" t="16" n="Tallinna TV"/>
@@ -330,11 +338,11 @@
 			<S i="1991" f="4" s="0" t="1" n="KARAVAN"/>
 			<S i="1996" f="4" s="0" t="1" n="hromadske"/>
 			<S i="19a0" f="4" s="0" t="1" n="ZIK"/>
-			<S i="19a5" f="2" s="0" t="1" n="Mist TV test"/>
 			<S i="19aa" f="4" s="0" t="1" n="RADA"/>
 			<S i="19af" f="4" s="1" t="1" n="UKRAINA-SD"/>
 			<S i="19b4" f="4" s="1" t="1" n="ENGLISH CLUB TV"/>
 			<S i="19be" f="4" s="0" t="1" n="NATALI"/>
+			<S i="1af4" f="4" s="0" t="2" n="ARMY FM"/>
 		</TS>
 		<TS id="001a" on="0044" frq="12092000" inv="2" sr="30000000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0ab4" f="4" s="1" t="1" n="Viasat Nature"/>
@@ -343,21 +351,9 @@
 			<S i="0ad2" f="4" s="1" t="1" n="Viasat Explore"/>
 			<S i="0adc" f="4" s="1" t="1" n="BOLT"/>
 			<S i="0ae6" f="4" s="1" t="1" n="TV1000 Action"/>
-			<S i="0af0" f="2" s="1" t="1" n="P2800"/>
 			<S i="0afa" f="4" s="1" t="1" n="TV1000 World Kino"/>
-			<S i="0b04" f="2" s="1" t="1" n="P2820"/>
-			<S i="0b0e" f="2" s="1" t="1" n="SONY SCI-FI"/>
-			<S i="0b18" f="2" s="1" t="1" n="P2840"/>
-			<S i="0b22" f="2" s="1" t="1" n="Настоящее страшное"/>
-			<S i="0b2c" f="2" s="1" t="1" n="P2860"/>
-			<S i="0b36" f="2" s="1" t="1" n="P2870"/>
-			<S i="0b40" f="2" s="1" t="1" n="P2880"/>
-			<S i="0b4a" f="2" s="1" t="1" n="P2890"/>
-			<S i="0b54" f="2" s="1" t="1" n="P2900"/>
 			<S i="0bd6" f="4" s="0" t="19" n="Viasat Nature/History HD"/>
 			<S i="0be0" f="4" s="1" t="19" n="Discovery Showcase HD"/>
-			<S i="0bea" f="2" s="1" t="19" n="Test HD (тест)"/>
-			<S i="0bfe" f="2" s="1" t="1" n="Домашние животные"/>
 			<S i="0c08" f="4" s="1" t="1" n="Fine Living"/>
 			<S i="1004" f="4" s="1" t="1" n="ViP Premiere"/>
 			<S i="100e" f="4" s="1" t="1" n="ViP Megahit"/>
@@ -418,28 +414,22 @@
 			<S i="0a0a" f="4" s="1" t="1" n="Discovery Science"/>
 			<S i="0a14" f="4" s="1" t="1" n="Fox"/>
 			<S i="0a1e" f="4" s="1" t="1" n="Viasat History"/>
-			<S i="0a28" f="2" s="1" t="1" n="Erox"/>
 			<S i="0a32" f="4" s="1" t="1" n="Penthouse"/>
 			<S i="0a3c" f="4" s="1" t="1" n="National Geographic"/>
 			<S i="0a46" f="4" s="1" t="1" n="Outdoor Channel"/>
-			<S i="0a50" f="2" s="1" t="1" n="P2640"/>
 			<S i="0a5a" f="4" s="1" t="19" n="Nickelodeon HD"/>
 			<S i="0a64" f="4" s="1" t="1" n="Nick Jr."/>
-			<S i="0a6e" f="2" s="1" t="1" n="UA: Перший"/>
-			<S i="0a78" f="2" s="1" t="1" n="Еврокино"/>
-			<S i="0a82" f="2" s="1" t="19" n="MTV Live HD"/>
 			<S i="0a8c" f="4" s="1" t="1" n="History"/>
 			<S i="0a96" f="4" s="1" t="1" n="Sony Channel"/>
 			<S i="0aa0" f="4" s="1" t="1" n="Nickelodeon"/>
 			<S i="0aaa" f="4" s="1" t="1" n="Food Network"/>
 			<S i="0bb8" f="4" s="1" t="1" n="Eurosport 1"/>
 			<S i="0bc2" f="4" s="1" t="1" n="Eurosport 2"/>
-			<S i="0bcc" f="2" s="1" t="1" n="Telekanal Deda Moroza"/>
 		</TS>
 		<TS id="0035" on="0053" frq="12245000" inv="2" sr="30000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="0b5e" f="1" s="1" t="19" n="Ukraine XD"/>
-			<S i="0b5f" f="1" s="1" t="19" n="NLO XD"/>
-			<S i="0bae" f="1" s="1" t="19" n="Test"/>
+			<S i="0b5e" f="4" s="1" t="19" n="Ukraine XD"/>
+			<S i="0b5f" f="4" s="1" t="19" n="NLO XD"/>
+			<S i="0bae" f="4" s="1" t="19" n="Test"/>
 		</TS>
 		<TS id="002c" on="0055" frq="12265000" inv="2" sr="30000000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="1e15" f="4" s="1" t="1" n="TEST1"/>
@@ -452,16 +442,13 @@
 			<S i="1e23" f="4" s="0" t="16" n="Nauka"/>
 			<S i="1e24" f="4" s="0" t="16" n="Fauna"/>
 			<S i="1e25" f="4" s="1" t="1" n="FILMUADRAMA"/>
-			<S i="1e26" f="2" s="1" t="1" n="BOLT"/>
 			<S i="1e27" f="4" s="0" t="1" n="36.6"/>
 			<S i="1e29" f="4" s="0" t="1" n="Kyiv TV"/>
-			<S i="1e2a" f="3" s="1" t="19" n="Test"/>
 			<S i="1e32" f="4" s="1" t="1" n="TEST7730"/>
 			<S i="1e69" f="4" s="1" t="1" n="UKRAINA-SD"/>
 		</TS>
 		<TS id="0011" on="0055" frq="12284000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="1af4" f="4" s="0" t="2" n="ARMY FM"/>
-			<S i="1af6" f="2" s="0" t="2" n="Meydan FM TEST"/>
 			<S i="1afe" f="4" s="0" t="1" n="NewsNetwork Ukraine"/>
 			<S i="1b03" f="4" s="0" t="16" n="NADIYA"/>
 			<S i="1b08" f="4" s="0" t="1" n="SONCE (UA)"/>
@@ -485,32 +472,30 @@
 			<S i="026c" f="4" s="1" t="1" n="Diva Balkans"/>
 			<S i="026d" f="4" s="1" t="1" n="Universal HUNGARY"/>
 			<S i="026f" f="4" s="1" t="1" n="Universal HUNGARY"/>
-			<S i="02bc" f="2" s="0" t="2" n="BBC AM Dist1"/>
-			<S i="02c6" f="4" s="0" t="2" n="BBC AM Dist2"/>
+			<S i="02bc" f="4" s="0" t="2" n="BBC AM Dist1"/>
 			<S i="02da" f="4" s="0" t="2" n="BBC AM Dist4"/>
 			<S i="02e4" f="4" s="0" t="2" n="BBC AM Dist5"/>
 			<S i="03ee" f="4" s="0" t="2" n="Absolute Radio"/>
 			<S i="04f9" f="4" s="0" t="2" n="IRN"/>
 			<S i="0503" f="4" s="0" t="2" n="1283"/>
 			<S i="0507" f="4" s="1" t="1" n="Travel"/>
-			<S i="050a" f="2" s="1" t="1" n="GBI Racing"/>
 			<S i="050b" f="4" s="0" t="1" n="Belsat TV"/>
 		</TS>
 		<TS id="0001" on="005e" frq="12360000" inv="2" sr="27500000" fec="5" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="0258" f="4" s="1" t="1" n="Turbo Xtra Poland"/>
-			<S i="0320" f="4" s="1" t="1" n="TLC Balkans"/>
-			<S i="03e8" f="4" s="1" t="1" n="TLC Hungary"/>
-			<S i="04b0" f="4" s="1" t="1" n="Discovery Poland"/>
-			<S i="05dc" f="4" s="1" t="1" n="Discovery Life Poland"/>
-			<S i="0640" f="4" s="1" t="1" n="ID Sweden"/>
-			<S i="06a4" f="4" s="1" t="1" n="Animal Planet Poland HD"/>
-			<S i="0708" f="4" s="1" t="1" n="Science Poland HD"/>
-			<S i="0834" f="4" s="1" t="1" n="ID Poland"/>
-			<S i="0898" f="4" s="1" t="1" n="Discovery Sweden"/>
-			<S i="0b54" f="4" s="1" t="1" n="TLC Pan Regional"/>
-			<S i="0b55" f="4" s="1" t="1" n="TLC Pan regional - Portuguese"/>
-			<S i="0c1c" f="4" s="1" t="1" n="TLC Poland HD"/>
-			<S i="125c" f="4" s="0" t="19" n="ESP2 PAN HD"/>
+			<S i="0258" f="1" s="1" t="1" n="Turbo Xtra Poland"/>
+			<S i="0320" f="1" s="1" t="1" n="TLC Balkans"/>
+			<S i="03e8" f="1" s="1" t="1" n="TLC Hungary"/>
+			<S i="04b0" f="1" s="1" t="1" n="Discovery Poland"/>
+			<S i="05dc" f="1" s="1" t="1" n="Discovery Life Poland"/>
+			<S i="0640" f="1" s="1" t="1" n="ID Sweden"/>
+			<S i="06a4" f="1" s="1" t="1" n="Animal Planet Poland HD"/>
+			<S i="0708" f="1" s="1" t="1" n="Science Poland HD"/>
+			<S i="0834" f="1" s="1" t="1" n="ID Poland"/>
+			<S i="0898" f="1" s="1" t="1" n="Discovery Sweden"/>
+			<S i="0b54" f="1" s="1" t="1" n="TLC Pan Regional"/>
+			<S i="0b55" f="1" s="1" t="1" n="TLC Pan regional - Portuguese"/>
+			<S i="0c1c" f="1" s="1" t="1" n="TLC Poland HD"/>
+			<S i="125c" f="1" s="0" t="19" n="ESP2 PAN HD"/>
 		</TS>
 		<TS id="0002" on="0055" frq="12380000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="00c8" f="4" s="0" t="1" n="TVGE INTERNATIONAL"/>
@@ -541,12 +526,10 @@
 			<S i="000c" f="4" s="1" t="1" n="ALT VC 11"/>
 			<S i="0021" f="4" s="1" t="1" n="LADBROKES SIS LES2 - CISCO 1"/>
 			<S i="0023" f="4" s="1" t="1" n="ALT VC 39"/>
-			<S i="0027" f="2" s="1" t="1" n="LADBROKES SIS DATA"/>
 			<S i="002a" f="4" s="1" t="1" n="ALT VC 49"/>
 			<S i="0031" f="4" s="1" t="1" n="BETFRED TOTE 2 - CISCO 1"/>
 			<S i="0035" f="4" s="1" t="1" n="WILLIAM HILL IP CLEAR - CISCO 6"/>
 			<S i="0036" f="4" s="1" t="1" n="WH 2"/>
-			<S i="003b" f="2" s="1" t="1" n="WILLIAM HILL SIS DATA - CISCO 6"/>
 			<S i="0046" f="4" s="1" t="1" n="SIS VISION BTC AUDIO (Ch11)"/>
 			<S i="0047" f="4" s="1" t="1" n="ALT VC 70"/>
 			<S i="004b" f="4" s="1" t="1" n="ALPHAMERIC UK WITH BTC"/>
@@ -574,8 +557,6 @@
 			<S i="00a8" f="4" s="1" t="1" n="BETFRED SIS - CISCO 1"/>
 			<S i="00a9" f="4" s="1" t="1" n="ALT VC 168"/>
 			<S i="00c8" f="4" s="1" t="1" n="MCUK Test"/>
-			<S i="012e" f="2" s="1" t="1" n="SIS UK - CISCO 1"/>
-			<S i="0130" f="2" s="1" t="1" n="SIS UK (DATA ONLY)"/>
 			<S i="0131" f="4" s="1" t="1" n="SIS UK (AUDIO ONLY)"/>
 			<S i="0132" f="4" s="1" t="1" n="ALT VC 302"/>
 			<S i="01f4" f="4" s="0" t="2" n="Upgrade Test Channel"/>
@@ -596,7 +577,6 @@
 			<S i="076c" f="4" s="1" t="1" n="Viasat Feed"/>
 			<S i="0776" f="4" s="1" t="1" n="TV 1000 Ru Kino FSS"/>
 			<S i="0780" f="4" s="1" t="1" n="TV1000 East FSS"/>
-			<S i="078a" f="2" s="1" t="1" n="Viasat Golf"/>
 			<S i="079e" f="4" s="1" t="1" n="TV1000 Action East FSS"/>
 			<S i="07a8" f="4" s="1" t="1" n="Viasat Nature East FSS"/>
 			<S i="07b2" f="4" s="1" t="19" n="Viasat Nature/History HD"/>

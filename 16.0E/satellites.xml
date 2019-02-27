@@ -1,4 +1,4 @@
-	<sat name="16.0E Ku-band Eutelsat 16A" flags="1" position="160">
+	<sat name="16.0E Eutelsat" flags="1" position="160">
 		<transponder frequency="10721000" symbol_rate="27500000" polarization="0" fec_inner="3" system="0" modulation="1"/>
 		<transponder frequency="10762000" symbol_rate="30000000" polarization="0" fec_inner="7" system="1" modulation="2"/>
 		<transponder frequency="10804000" symbol_rate="29950000" polarization="0" fec_inner="2" system="1" modulation="2"/>

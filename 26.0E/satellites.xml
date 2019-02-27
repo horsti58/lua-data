@@ -1,4 +1,4 @@
-	<sat name="26.0E Badr 4/5/6/7" flags="1" position="260">
+	<sat name="26.0E Badr" flags="1" position="260">
 		<transponder frequency="10730000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="10810000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="10890000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/>

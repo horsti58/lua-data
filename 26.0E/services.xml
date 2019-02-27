@@ -1,15 +1,17 @@
-	<sat name="26.0E Badr 4/5/6/7" position="260" diseqc="-1" uncommited="-1">
+	<sat name="26.0E Badr" position="260" diseqc="-1" uncommited="-1">
 		<TS id="001a" on="001a" frq="11958000" inv="2" sr="27500000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="0003" f="2" s="0" t="1" n="Palestine News"/>
-			<S i="0b9a" f="1" s="0" t="1" n="Palestine HD"/>
+			<S i="0b9a" f="4" s="0" t="1" n="Palestine HD"/>
 			<S i="0ba4" f="4" s="0" t="1" n="MUSAWA"/>
-			<S i="0bae" f="1" s="0" t="1" n="Palestine News"/>
+			<S i="0bae" f="4" s="0" t="1" n="Palestine News"/>
 			<S i="0d02" f="4" s="0" t="1" n="Palestine Live"/>
 			<S i="0d16" f="4" s="0" t="1" n="Palestine"/>
 			<S i="0d2a" f="4" s="0" t="1" n="Awdeh"/>
 			<S i="0d66" f="4" s="0" t="1" n="Palestine Sport"/>
 			<S i="1389" f="4" s="0" t="2" n="Voice of Palestine"/>
 			<S i="138b" f="4" s="0" t="2" n="Palestine Quraan"/>
+		</TS>
+		<TS id="0006" on="ff06" frq="11977000" inv="2" sr="27500000" fec="5" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
+			<S i="001a" f="4" s="0" t="1" n="Test"/>
 		</TS>
 		<TS id="01fd" on="02be" frq="11996000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0014" f="4" s="0" t="2" n="RFI Francais"/>
@@ -21,9 +23,9 @@
 			<S i="001f" f="4" s="0" t="1" n="France 24 (En Francais)"/>
 			<S i="0020" f="4" s="0" t="1" n="France 24 (in English)"/>
 			<S i="0021" f="4" s="0" t="1" n="DW-TV ARABIA"/>
-			<S i="0023" f="4" s="0" t="2" n="Sky News Arabia Radio"/>
+			<S i="0023" f="4" s="0" t="1" n="Sky News Arabia Radio"/>
 			<S i="0025" f="4" s="0" t="16" n="TEST"/>
-			<S i="0029" f="4" s="0" t="2" n="CNBC Arabiya R1"/>
+			<S i="0029" f="4" s="0" t="1" n="CNBC Arabiya R1"/>
 			<S i="002a" f="4" s="0" t="2" n="WRN (Sawt Al Alam) R1"/>
 			<S i="002c" f="4" s="0" t="2" n="DW A2"/>
 			<S i="002d" f="4" s="0" t="2" n="BBC World Service Arabic"/>
@@ -70,7 +72,7 @@
 			<S i="01ae" f="4" s="0" t="1" n="Tayba TV"/>
 			<S i="01af" f="4" s="0" t="1" n="Agar TV"/>
 			<S i="01b0" f="4" s="0" t="1" n="Nile River"/>
-			<S i="01b1" f="1" s="0" t="1" n="Alalamia 2 TV"/>
+			<S i="01b1" f="4" s="0" t="1" n="Alalamia 2 TV"/>
 			<S i="01b8" f="4" s="0" t="1" n="Al-Marikh TV"/>
 		</TS>
 		<TS id="01fa" on="02be" frq="12054000" inv="2" sr="27500000" fec="5" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
@@ -91,6 +93,17 @@
 			<S i="0730" f="4" s="0" t="1" n="Iqra TV"/>
 			<S i="0731" f="4" s="0" t="1" n="test"/>
 			<S i="0732" f="4" s="0" t="2" n="SSBC RADIO"/>
+		</TS>
+		<TS id="01ff" on="0001" frq="12111000" inv="2" sr="27500000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
+			<S i="0002" f="1" s="1" t="1" n="UNK (0x01FF_0x0002)"/>
+			<S i="0009" f="1" s="1" t="1" n="UNK (0x01FF_0x0009)"/>
+			<S i="000e" f="1" s="1" t="1" n="UNK (0x01FF_0x000E)"/>
+			<S i="000f" f="1" s="1" t="1" n="UNK (0x01FF_0x000F)"/>
+			<S i="0010" f="1" s="1" t="1" n="UNK (0x01FF_0x0010)"/>
+			<S i="0011" f="1" s="1" t="1" n="UNK (0x01FF_0x0011)"/>
+			<S i="0012" f="1" s="1" t="1" n="UNK (0x01FF_0x0012)"/>
+			<S i="0013" f="1" s="1" t="1" n="UNK (0x01FF_0x0013)"/>
+			<S i="0019" f="1" s="1" t="1" n="UNK (0x01FF_0x0019)"/>
 		</TS>
 		<TS id="01fc" on="02be" frq="12130000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0899" f="4" s="0" t="1" n="Dubai TV"/>
@@ -177,7 +190,7 @@
 			<S i="001b" f="4" s="0" t="2" n="Alqwat Almosalaha"/>
 			<S i="001c" f="4" s="0" t="2" n="Alraba94"/>
 			<S i="001d" f="4" s="0" t="2" n="ALBASIRA TEST"/>
-			<S i="001e" f="4" s="0" t="2" n="Test"/>
+			<S i="001e" f="4" s="0" t="2" n="Danga"/>
 			<S i="001f" f="4" s="0" t="2" n="ALBASERA TEST"/>
 			<S i="0020" f="4" s="0" t="2" n="Radio_012"/>
 			<S i="0022" f="4" s="0" t="2" n="Sports FM104"/>

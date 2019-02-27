@@ -1,4 +1,4 @@
-	<sat name="9.0E Ku-band Eutelsat 9B Ka-Sat 9A" position="90" diseqc="-1" uncommited="-1">
+	<sat name="9.0E Eutelsat" position="90" diseqc="-1" uncommited="-1">
 		<TS id="c35a" on="009e" frq="11727000" inv="2" sr="30000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0322" f="4" s="1" t="19" n="Ziggo Sport Select HD"/>
 			<S i="0324" f="4" s="1" t="19" n="VTM HD"/>
@@ -113,12 +113,10 @@
 			<S i="065e" f="4" s="0" t="2" n="Carrefour Iper"/>
 			<S i="0668" f="4" s="0" t="2" n="Carrefour Market"/>
 			<S i="06a4" f="4" s="0" t="2" n="RADIO WE"/>
-			<S i="06ae" f="4" s="0" t="2" n="Athavan Radio"/>
 			<S i="0712" f="4" s="1" t="1" n="SISAL 1"/>
 			<S i="071c" f="4" s="1" t="1" n="SISAL 2"/>
 			<S i="0726" f="4" s="1" t="1" n="SISAL 3"/>
 			<S i="0730" f="4" s="1" t="1" n="SISAL 4"/>
-			<S i="073a" f="4" s="0" t="1" n="Athavan TV"/>
 		</TS>
 		<TS id="0001" on="00aa" frq="11843000" inv="2" sr="27500000" fec="10" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="03f5" f="4" s="1" t="1" n="Stingray iConcerts"/>
@@ -162,12 +160,12 @@
 			<S i="0dc1" f="4" s="1" t="1" n="OPAP VG1"/>
 			<S i="0dc2" f="4" s="1" t="1" n="OPAP MG"/>
 			<S i="0dc3" f="4" s="1" t="1" n="OPAP HR"/>
-			<S i="0dc4" f="1" s="0" t="2" n="TRT Tamil Oli"/>
+			<S i="0dc4" f="4" s="0" t="2" n="TRT Tamil Oli"/>
 		</TS>
 		<TS id="170c" on="009e" frq="11900000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="000e" f="4" s="1" t="1" n="TRACE SPORTS INTER HD"/>
 			<S i="000f" f="4" s="1" t="1" n="TRACE URBAN INTER HD"/>
-			<S i="0014" f="4" s="0" t="1" n="TVT International"/>
+			<S i="0014" f="4" s="0" t="16" n="TVT International"/>
 			<S i="0015" f="4" s="0" t="2" n="TVT Radio 1 (Radio Lome)"/>
 			<S i="0016" f="4" s="0" t="2" n="TVT Radio 2 (Radio Kara)"/>
 			<S i="0017" f="4" s="0" t="1" n="RTB TV"/>
@@ -188,10 +186,8 @@
 			<S i="003a" f="4" s="0" t="1" n="Italy Service 3"/>
 			<S i="003c" f="4" s="0" t="1" n="Italy Service 5"/>
 			<S i="0046" f="4" s="0" t="2" n="IBC TAMIL Radio"/>
-			<S i="0050" f="2" s="0" t="1" n="FEED"/>
 		</TS>
 		<TS id="c3c8" on="009e" frq="11938000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="0259" f="2" s="0" t="1" n="ZOOMOO HD"/>
 			<S i="025a" f="4" s="1" t="1" n="Better-1"/>
 			<S i="025b" f="4" s="1" t="1" n="Better-2"/>
 			<S i="025c" f="4" s="1" t="1" n="Better-3"/>
@@ -240,7 +236,6 @@
 			<S i="01ff" f="4" s="1" t="1" n="Kinomir"/>
 			<S i="0200" f="4" s="1" t="1" n="TeleBom/TeleDom"/>
 			<S i="0201" f="4" s="1" t="19" n="PENTHOUSE HD (20-06)"/>
-			<S i="0202" f="2" s="1" t="19" n="Duck TV HD"/>
 			<S i="0203" f="4" s="1" t="1" n="Playboy TV SD (20-06)"/>
 		</TS>
 		<TS id="1900" on="009c" frq="11996000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
@@ -252,9 +247,7 @@
 			<S i="0270" f="4" s="1" t="1" n="TV Globo"/>
 			<S i="0271" f="4" s="0" t="1" n="JiangSu TV"/>
 			<S i="0272" f="4" s="0" t="1" n="PTV Global"/>
-			<S i="0275" f="2" s="1" t="1" n="OPAP Horse Races"/>
 			<S i="0277" f="4" s="0" t="2" n="Babcock FM Feed 1"/>
-			<S i="0279" f="2" s="1" t="1" n="OPAP VG1"/>
 		</TS>
 		<TS id="1964" on="009c" frq="12015000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0196" f="4" s="1" t="19" n="SUPER RTL HD"/>
@@ -287,7 +280,7 @@
 			<S i="041a" f="4" s="1" t="1" n="Nat Geo Wild HD"/>
 			<S i="0424" f="4" s="1" t="1" n="Επιλογές Τηλεόραση"/>
 			<S i="0426" f="4" s="1" t="1" n="Fashion TV"/>
-			<S i="0427" f="4" s="1" t="1" n="MAD Valentine Hits"/>
+			<S i="0427" f="4" s="1" t="1" n="MAD Hits HD"/>
 			<S i="042d" f="4" s="0" t="1" n="ANT1 EUROPE"/>
 			<S i="0430" f="4" s="1" t="1" n="Baby TV"/>
 			<S i="0438" f="4" s="1" t="1" n="Euronews Greek"/>
@@ -414,8 +407,8 @@
 			<S i="03f0" f="4" s="1" t="1" n="COSMOTECinema1HD"/>
 			<S i="03f2" f="4" s="1" t="1" n="Attica TV"/>
 			<S i="03f3" f="4" s="1" t="1" n="CinemaOnDemand2"/>
-			<S i="03fe" f="4" s="1" t="1" n="CinemaOnDemand3"/>
-			<S i="03ff" f="4" s="1" t="1" n="CinemaOnDemand4"/>
+			<S i="03fe" f="4" s="1" t="1" n="PPV1 Test"/>
+			<S i="03ff" f="4" s="1" t="1" n="PPV2 Test"/>
 			<S i="0402" f="4" s="1" t="1" n="Μακεδονία TV"/>
 			<S i="0405" f="4" s="1" t="1" n="OPEN BEYOND HD"/>
 			<S i="0411" f="4" s="1" t="1" n="Hustler TV HD"/>
@@ -496,7 +489,7 @@
 			<S i="4ef3" f="4" s="1" t="19" n="Discovery Channel HD"/>
 			<S i="4ef6" f="4" s="1" t="19" n="FOX HD"/>
 		</TS>
-		<TS id="0007" on="0001" frq="12475500" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+		<TS id="0007" on="0022" frq="12475000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="03ea" f="4" s="1" t="1" n="UNK (0x0007_0x03EA)"/>
 			<S i="03eb" f="4" s="1" t="1" n="UNK (0x0007_0x03EB)"/>
 			<S i="03f8" f="4" s="1" t="1" n="UNK (0x0007_0x03F8)"/>
@@ -508,31 +501,5 @@
 			<S i="0458" f="4" s="1" t="1" n="UNK (0x0007_0x0458)"/>
 			<S i="0459" f="4" s="1" t="1" n="UNK (0x0007_0x0459)"/>
 			<S i="0460" f="4" s="1" t="1" n="UNK (0x0007_0x0460)"/>
-		</TS>
-		<TS id="0007" on="0022" frq="12475000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="03ea" f="4" s="1" t="1" n="UNK (0x0007_0x03EA)"/>
-			<S i="03eb" f="4" s="1" t="1" n="UNK (0x0007_0x03EB)"/>
-			<S i="03f8" f="4" s="1" t="1" n="UNK (0x0007_0x03F8)"/>
-			<S i="0429" f="4" s="1" t="1" n="UNK (0x0007_0x0429)"/>
-			<S i="0435" f="4" s="1" t="1" n="UNK (0x0007_0x0435)"/>
-			<S i="0451" f="4" s="1" t="1" n="UNK (0x0007_0x0451)"/>
-			<S i="0458" f="4" s="1" t="1" n="UNK (0x0007_0x0458)"/>
-			<S i="0459" f="4" s="1" t="1" n="UNK (0x0007_0x0459)"/>
-			<S i="0460" f="4" s="1" t="1" n="UNK (0x0007_0x0460)"/>
-		</TS>
-		<TS id="0007" on="00aa" frq="12475000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="03ea" f="4" s="1" t="1" n="UNK (0x0007_0x03EA)"/>
-			<S i="03eb" f="4" s="1" t="1" n="UNK (0x0007_0x03EB)"/>
-			<S i="03f8" f="4" s="1" t="1" n="UNK (0x0007_0x03F8)"/>
-			<S i="040e" f="4" s="0" t="1" n="UNK (0x0007_0x040E)"/>
-			<S i="0429" f="4" s="1" t="1" n="UNK (0x0007_0x0429)"/>
-			<S i="0435" f="4" s="1" t="1" n="UNK (0x0007_0x0435)"/>
-			<S i="0451" f="4" s="1" t="1" n="UNK (0x0007_0x0451)"/>
-			<S i="0455" f="4" s="1" t="1" n="UNK (0x0007_0x0455)"/>
-			<S i="0457" f="2" s="1" t="1" n="TEST I"/>
-			<S i="0458" f="4" s="1" t="1" n="UNK (0x0007_0x0458)"/>
-			<S i="0459" f="4" s="1" t="1" n="UNK (0x0007_0x0459)"/>
-			<S i="0460" f="4" s="1" t="1" n="UNK (0x0007_0x0460)"/>
-			<S i="0468" f="2" s="1" t="1" n="TEST 13"/>
 		</TS>
 	</sat>
