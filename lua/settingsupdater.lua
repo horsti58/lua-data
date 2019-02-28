@@ -101,28 +101,36 @@ if (exists(settingupdater_cfg) ~= true) then
 end
 
 function last_updated()
-	for line in io.lines(neutrino_conf_base .. "/satellites.xml") do
-		if line:match(",") then
-		local _,mark_begin = string.find(line, ",")
-		local _,mark_end = string.find(line, ":")
-		date = string.sub(line,mark_begin+2, mark_end-3)
-		if date == nil then date = "" end
-			return date
+	if exists(neutrino_conf_base .. "/satellites.xml") then
+		for line in io.lines(neutrino_conf_base .. "/satellites.xml") do
+			if line:match(",") then
+				local _,mark_begin = string.find(line, ",")
+				local _,mark_end = string.find(line, ":")
+				date = string.sub(line,mark_begin+2, mark_end-3)
+				if date == nil then date = "" end
+			end
 		end
+	else
+		date = ""
 	end
+	return date
 end
 
 function check_for_update()
 	if not isdir(tmp) then os.execute("mkdir -p " .. tmp) end
-		os.execute("curl https://raw.githubusercontent.com/horsti58/lua-data/master/start/satellites.xml -o " .. tmp .. "/version_online")
-		for line in io.lines(tmp .. "/version_online") do
-			if line:match(",") then
-				local _,mark_begin = string.find(line, ",")
-				local _,mark_end = string.find(line, ":")
-				online_date = string.sub(line,mark_begin+2, mark_end-3)
-				if online_date == nil then online_date = "" end
-				if last_updated() ~= online_date then return false end
-			return true 
+	os.execute("curl https://raw.githubusercontent.com/horsti58/lua-data/master/start/satellites.xml -o " .. tmp .. "/version_online")
+	for line in io.lines(tmp .. "/version_online") do
+		if line:match(",") then
+			local _,mark_begin = string.find(line, ",")
+			local _,mark_end = string.find(line, ":")
+			online_date = string.sub(line,mark_begin+2, mark_end-3)
+			if online_date == nil then online_date = "" end
+			if last_updated() ~= online_date then
+				os.execute("rm -rf " .. tmp)
+				return true
+			end
+			os.execute("rm -rf " .. tmp)
+			return false
 		end
 	end
 end
@@ -383,7 +391,7 @@ function options ()
 	main()
 end
 
-if not check_for_update() then show_msg(locale[lang].update_available) end
+if check_for_update() then show_msg(locale[lang].update_available) end
 
 function main()
 	chooser_dx = n:scale2Res(560)
