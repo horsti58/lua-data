@@ -37,7 +37,8 @@ cfg_install_a = "Senderliste ",
 cfg_install_b = " installieren",
 cfg_ubouquets = "uBouquets installieren",
 cfg_git = "Git für den Download verwenden",
-last_update = "Letztes Update: "
+last_update = "Letztes Update: ",
+update_available = "Aktualisierung verfügbar"
 }
 locale["english"] = {
 fetch_source = "The latest settings are getting downloaded",
@@ -47,13 +48,12 @@ cleanup = "Cleanup temporary files",
 cleanup_failed = "Cleanup data failed",
 menu_options = "Options",
 menu_update = "Start update",
-yes = "yes",
-no = "no",
 cfg_install_a = "Install ",
 cfg_install_b = " settings",
 cfg_ubouquets = "Install ubouqets",
 cfg_git = "Use git for downloading",
-last_update = "Last update: "
+last_update = "Last update: ",
+update_available = "Update available"
 }
 
 n = neutrino()
@@ -96,19 +96,35 @@ function create_settingupdater_cfg()
 	file:close()
 end
 
-function get_modify_time(file)
-	local file = io.popen("stat -c %Y " .. file)
-	local last_modified = file:read()
-	return last_modified
-end
-
-function show_modify_time(file)
-	modify_time = os.date("%c", get_modify_time(file))
-	return modify_time
-end
-
 if (exists(settingupdater_cfg) ~= true) then
 	create_settingupdater_cfg()
+end
+
+function last_updated()
+	for line in io.lines(neutrino_conf_base .. "/satellites.xml") do
+		if line:match(",") then
+		local _,mark_begin = string.find(line, ",")
+		local _,mark_end = string.find(line, ":")
+		date = string.sub(line,mark_begin+2, mark_end-3)
+		if date == nil then date = "" end
+			return date
+		end
+	end
+end
+
+function check_for_update()
+	if not isdir(tmp) then os.execute("mkdir -p " .. tmp) end
+		os.execute("curl https://raw.githubusercontent.com/horsti58/lua-data/master/start/satellites.xml -o " .. tmp .. "/version_online")
+		for line in io.lines(tmp .. "/version_online") do
+			if line:match(",") then
+				local _,mark_begin = string.find(line, ",")
+				local _,mark_end = string.find(line, ":")
+				online_date = string.sub(line,mark_begin+2, mark_end-3)
+				if online_date == nil then online_date = "" end
+				if last_updated() ~= online_date then return false end
+			return true 
+		end
+	end
 end
 
 function get_cfg_value(str)
@@ -139,13 +155,13 @@ end
 timing_menu = nconf_value("timing.menu")
 
 function sleep(n)
-  os.execute("sleep " .. tonumber(n))
+	os.execute("sleep " .. tonumber(n))
 end
 
-function show_error(msg)
+function show_msg(msg)
 	ret = hintbox.new { title = caption, icon = "settings", text = msg };
 	ret:paint();
-	sleep(3);
+	sleep(1);
 	ret:hide();
 end
 
@@ -173,7 +189,7 @@ function start_update()
 
 	if (exitcode ~= 0) then
 		ret:hide()
-		show_error(locale[lang].fetch_failed)
+		show_msg(locale[lang].fetch_failed)
 		return
 	else
 		ret:hide();
@@ -234,7 +250,7 @@ function start_update()
 	sleep(1);
 	if (exitcode ~= 0) then
 		ret:hide()
-		show_error(locale[lang].cleanup_failed)
+		show_msg(locale[lang].cleanup_failed)
 		return
 	else
 		ret:hide()
@@ -367,6 +383,8 @@ function options ()
 	main()
 end
 
+if not check_for_update() then show_msg(locale[lang].update_available) end
+
 function main()
 	chooser_dx = n:scale2Res(560)
 	chooser_dy = n:scale2Res(350)
@@ -374,7 +392,7 @@ function main()
 	chooser_y = SCREEN.OFF_Y + (((SCREEN.END_Y - SCREEN.OFF_Y) - chooser_dy) / 2)
 
 	chooser = cwindow.new {
-	caption = locale[lang].last_update .. show_modify_time(zapitdir .. "/bouquets.xml"),
+	caption = locale[lang].last_update .. last_updated(),
 	x = chooser_x,
 	y = chooser_y,
 	dx = chooser_dx,
