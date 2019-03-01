@@ -389,7 +389,8 @@
 			<S i="52e5" f="4" s="1" t="16" n="UP NETWORK CZ"/>
 		</TS>
 		<TS id="0c98" on="0003" frq="12168000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="1451" f="4" s="0" t="1" n="Ocko TV"/>
+			<S i="1451" f="4" s="0" t="16" n="Ocko TV"/>
+			<S i="1452" f="1" s="0" t="1" n="Ocko TV"/>
 			<S i="145a" f="4" s="0" t="19" n="TV Lux HD"/>
 			<S i="1469" f="4" s="0" t="1" n="Chamber TV HD"/>
 			<S i="1478" f="4" s="0" t="1" n="RTL Tele Letzebuerg 23.5"/>
@@ -556,7 +557,7 @@
 			<S i="1db3" f="4" s="1" t="1" n="PTI Test"/>
 			<S i="1db4" f="4" s="1" t="1" n="PRO CINEMA"/>
 			<S i="1db5" f="4" s="1" t="1" n="PRO X"/>
-			<S i="1db6" f="4" s="1" t="1" n="MTV Romania"/>
+			<S i="1db6" f="4" s="1" t="1" n="TEST 1"/>
 			<S i="1db7" f="4" s="1" t="1" n="PRO GOLD"/>
 		</TS>
 	</sat>

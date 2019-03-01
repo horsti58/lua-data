@@ -160,6 +160,12 @@
 		<S i="38" t="0" on="16e" s="160" frq="11131" n="Radio Romantic"/>
 		<S i="37" t="0" on="16e" s="160" frq="11131" n="Radio Zu"/>
 	</Bouquet>
+	<Bouquet name="[E016.0] Digitalb">
+		<S i="27f" t="c418" on="16e" s="160" frq="11470" n="Baby TV"/>
+		<S i="27a" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
+		<S i="27d" t="c418" on="16e" s="160" frq="11470" n="ID Xtra HD"/>
+		<S i="27e" t="c418" on="16e" s="160" frq="11470" n="TLC"/>
+	</Bouquet>
 	<Bouquet name="[E016.0] DigitALB">
 		<S i="3fd" t="51a4" on="16e" s="160" frq="10887" n="24 Kitchen"/>
 		<S i="ce4" t="5014" on="16e" s="160" frq="10804" n="A2 CNN"/>
@@ -263,12 +269,6 @@
 		<S i="96a" t="5014" on="16e" s="160" frq="10804" n="Radio Travel"/>
 		<S i="708" t="4f4c" on="16e" s="160" frq="10762" n="Top Albania Radio"/>
 		<S i="71c" t="4f4c" on="16e" s="160" frq="10762" n="Top Gold Radio"/>
-	</Bouquet>
-	<Bouquet name="[E016.0] Digitalb">
-		<S i="27f" t="c418" on="16e" s="160" frq="11470" n="Baby TV"/>
-		<S i="27a" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
-		<S i="27d" t="c418" on="16e" s="160" frq="11470" n="ID Xtra HD"/>
-		<S i="27e" t="c418" on="16e" s="160" frq="11470" n="TLC"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] DM-SAT">
 		<S i="1" t="a78" on="1" s="160" frq="12593" n="DM-SAT"/>
@@ -847,6 +847,17 @@
 		<S i="55b" t="75fb" on="16e" s="160" frq="10972" n="Radio Studio B"/>
 		<S i="55c" t="75fb" on="16e" s="160" frq="10972" n="Test 1"/>
 	</Bouquet>
+	<Bouquet name="[E016.0] Tring tv">
+		<S i="50" t="168" on="16e" s="160" frq="11427" n="Living HD"/>
+		<S i="7b" t="168" on="16e" s="160" frq="11427" n="TVSH"/>
+	</Bouquet>
+	<Bouquet name="[E016.0] TRING TV">
+		<S i="4c" t="168" on="16e" s="160" frq="11427" n="Shenja TV"/>
+		<S i="46" t="16a" on="16e" s="160" frq="11400" n="TRING HISTORY"/>
+	</Bouquet>
+	<Bouquet name="[E016.0] Tring Tv">
+		<S i="321" t="168" on="16e" s="160" frq="11427" n="Kids"/>
+	</Bouquet>
 	<Bouquet name="[E016.0] Tring TV">
 		<S i="3c" t="16a" on="16e" s="160" frq="11400" n="BBF"/>
 		<S i="b18" t="16a" on="16e" s="160" frq="11400" n="Bizzare"/>
@@ -889,17 +900,6 @@
 		<S i="42" t="168" on="16e" s="160" frq="11427" n="Tring World"/>
 		<S i="1" t="168" on="16e" s="160" frq="11427" n="VIZION PLUS HD"/>
 		<S i="761" t="16a" on="16e" s="160" frq="11400" n="CLUB FM"/>
-	</Bouquet>
-	<Bouquet name="[E016.0] Tring Tv">
-		<S i="321" t="168" on="16e" s="160" frq="11427" n="Kids"/>
-	</Bouquet>
-	<Bouquet name="[E016.0] Tring tv">
-		<S i="50" t="168" on="16e" s="160" frq="11427" n="Living HD"/>
-		<S i="7b" t="168" on="16e" s="160" frq="11427" n="TVSH"/>
-	</Bouquet>
-	<Bouquet name="[E016.0] TRING TV">
-		<S i="4c" t="168" on="16e" s="160" frq="11427" n="Shenja TV"/>
-		<S i="46" t="16a" on="16e" s="160" frq="11400" n="TRING HISTORY"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] TringTV">
 		<S i="391" t="16a" on="16e" s="160" frq="11400" n="MEDIASET ITALIA"/>

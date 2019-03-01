@@ -25,10 +25,6 @@
 		<S i="1f7e" t="ca1" on="3" s="235" frq="12344" n="CRo TEST DD"/>
 		<S i="1f75" t="ca1" on="3" s="235" frq="12344" n="CRo VLTAVA"/>
 	</Bouquet>
-	<Bouquet name="[E023.5] M7 group">
-		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
-		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
-	</Bouquet>
 	<Bouquet name="[E023.5] M7 Group">
 		<S i="177f" t="c82" on="3" s="235" frq="11739" n="192TV"/>
 		<S i="523f" t="c99" on="3" s="235" frq="12188" n="24Kitchen"/>
@@ -244,6 +240,10 @@
 		<S i="5262" t="c99" on="3" s="235" frq="12188" n="SLAM!"/>
 		<S i="52db" t="c96" on="3" s="235" frq="12129" n="Studio Brussel"/>
 	</Bouquet>
+	<Bouquet name="[E023.5] M7 group">
+		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
+		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
+	</Bouquet>
 	<Bouquet name="[E023.5] MB Satellite">
 		<S i="36d9" t="c8c" on="3" s="235" frq="11934" n="GERMAN TOTE TV"/>
 	</Bouquet>
@@ -255,12 +255,12 @@
 		<S i="1db1" t="145c" on="5" s="235" frq="12517" n="PRO TV"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] ProTV">
-		<S i="1db6" t="145c" on="5" s="235" frq="12517" n="MTV Romania"/>
 		<S i="1db2" t="145c" on="5" s="235" frq="12517" n="PRO 2"/>
 		<S i="1db4" t="145c" on="5" s="235" frq="12517" n="PRO CINEMA"/>
 		<S i="1db7" t="145c" on="5" s="235" frq="12517" n="PRO GOLD"/>
 		<S i="1db5" t="145c" on="5" s="235" frq="12517" n="PRO X"/>
 		<S i="1db3" t="145c" on="5" s="235" frq="12517" n="PTI Test"/>
+		<S i="1db6" t="145c" on="5" s="235" frq="12517" n="TEST 1"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] Scopus Network Technologies">
 		<S i="1485" t="c98" on="3" s="235" frq="12168" n="TELEIPPICA 1"/>
@@ -273,6 +273,7 @@
 		<S i="150e" t="c84" on="3" s="235" frq="11778" n="Astra UHD Demo"/>
 		<S i="1469" t="c98" on="3" s="235" frq="12168" n="Chamber TV HD"/>
 		<S i="1451" t="c98" on="3" s="235" frq="12168" n="Ocko TV"/>
+		<S i="1452" t="c98" on="3" s="235" frq="12168" n="Ocko TV"/>
 		<S i="1478" t="c98" on="3" s="235" frq="12168" n="RTL Tele Letzebuerg 23.5"/>
 		<S i="145a" t="c98" on="3" s="235" frq="12168" n="TV Lux HD"/>
 		<S i="147e" t="c98" on="3" s="235" frq="12168" n="radio 100,7 Letzebuerg"/>
@@ -545,4 +546,5 @@
 		<S i="1388" t="0" on="1" s="235" frq="11644" n="5000 - Testowy 1"/>
 		<S i="1392" t="0" on="1" s="235" frq="11644" n="5010 - Testowy 2"/>
 		<S i="1f4a" t="0" on="1" s="235" frq="11644" n="8010 - Radio Rodzina"/>
+		<S i="1451" t="c98" on="3" s="235" frq="12168" n="Ocko TV"/>
 	</Bouquet>
