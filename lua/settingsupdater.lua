@@ -103,16 +103,15 @@ end
 function last_updated()
 	if exists(neutrino_conf_base .. "/satellites.xml") then
 		for line in io.lines(neutrino_conf_base .. "/satellites.xml") do
-			if line:match(",") then
+			if line:match(",") and line:match(":") then
 				local _,mark_begin = string.find(line, ",")
 				local _,mark_end = string.find(line, ":")
 				date = string.sub(line,mark_begin+2, mark_end-3)
-				if date == nil then date = "" end
+				found = true
 			end
 		end
-	else
-		date = ""
 	end
+	if not found then date = "" end
 	return date
 end
 
