@@ -82,6 +82,11 @@
 		<S i="27ce" t="c9" on="55" s="48" frq="11785" n="Viasat History HD"/>
 		<S i="2936" t="cb" on="55" s="48" frq="11938" n="Viasat Nature"/>
 	</Bouquet>
+	<Bouquet name="[E004.8] ARQIVA">
+		<S i="46" t="0" on="1" s="48" frq="12303" n="BBC - CCI DAB"/>
+		<S i="50b" t="0" on="1" s="48" frq="12303" n="Belsat TV"/>
+		<S i="503" t="0" on="1" s="48" frq="12303" n="1283"/>
+	</Bouquet>
 	<Bouquet name="[E004.8] Arqiva">
 		<S i="507" t="0" on="1" s="48" frq="12303" n="Travel"/>
 		<S i="3ee" t="0" on="1" s="48" frq="12303" n="Absolute Radio"/>
@@ -89,11 +94,6 @@
 		<S i="2da" t="0" on="1" s="48" frq="12303" n="BBC AM Dist4"/>
 		<S i="2e4" t="0" on="1" s="48" frq="12303" n="BBC AM Dist5"/>
 		<S i="4f9" t="0" on="1" s="48" frq="12303" n="IRN"/>
-	</Bouquet>
-	<Bouquet name="[E004.8] ARQIVA">
-		<S i="46" t="0" on="1" s="48" frq="12303" n="BBC - CCI DAB"/>
-		<S i="50b" t="0" on="1" s="48" frq="12303" n="Belsat TV"/>
-		<S i="503" t="0" on="1" s="48" frq="12303" n="1283"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] AVERS">
 		<S i="1815" t="c" on="55" s="48" frq="11766" n="AVERS"/>
@@ -236,8 +236,8 @@
 		<S i="1388" t="7" on="56" s="48" frq="11881" n="Cmore Fotboll HD"/>
 		<S i="bf4" t="25" on="56" s="48" frq="11385" n="Cmore Golf HD"/>
 		<S i="6ea" t="19" on="56" s="48" frq="11345" n="Cmore Hockey HD"/>
-		<S i="bfe" t="25" on="56" s="48" frq="11385" n="Cmore Live HD"/>
 		<S i="69a" t="1b" on="56" s="48" frq="12437" n="Cmore Live HD"/>
+		<S i="bfe" t="25" on="56" s="48" frq="11385" n="Cmore Live HD"/>
 		<S i="69a" t="1b" on="56" s="48" frq="11823" n="Cmore Live HD"/>
 		<S i="bcc" t="25" on="56" s="48" frq="11385" n="Cmore Sport HD"/>
 		<S i="aff" t="24" on="56" s="48" frq="11345" n="CNN"/>
@@ -294,8 +294,8 @@
 		<S i="21" t="65" on="1" s="48" frq="12418" n="LADBROKES SIS LES2 - CISCO 1"/>
 		<S i="58" t="c9" on="1" s="48" frq="12149" n="LADBROKES XTRA - PVU5"/>
 		<S i="f0" t="2" on="55" s="48" frq="12380" n="LTV World"/>
-		<S i="67c" t="1b" on="56" s="48" frq="12437" n="MAX HD"/>
 		<S i="67c" t="1b" on="56" s="48" frq="11823" n="MAX HD"/>
+		<S i="67c" t="1b" on="56" s="48" frq="12437" n="MAX HD"/>
 		<S i="c8" t="65" on="1" s="48" frq="12418" n="MCUK Test"/>
 		<S i="1cac" t="13" on="55" s="48" frq="12399" n="MEGA"/>
 		<S i="c9" t="c9" on="1" s="48" frq="12149" n="MK Test"/>
@@ -424,8 +424,8 @@
 		<S i="13ab" t="7" on="56" s="48" frq="11881" n="TV2 Fyn"/>
 		<S i="55a" t="1f" on="56" s="48" frq="11385" n="TV2 HD"/>
 		<S i="6c2" t="19" on="56" s="48" frq="11345" n="TV2 HD Lorry"/>
-		<S i="672" t="1b" on="56" s="48" frq="12437" n="TV2 Humorkanalen"/>
 		<S i="672" t="1b" on="56" s="48" frq="11823" n="TV2 Humorkanalen"/>
+		<S i="672" t="1b" on="56" s="48" frq="12437" n="TV2 Humorkanalen"/>
 		<S i="139c" t="7" on="56" s="48" frq="11881" n="TV2 Midt-Vest"/>
 		<S i="8b1" t="21" on="56" s="48" frq="11265" n="TV2 NEWS"/>
 		<S i="1397" t="7" on="56" s="48" frq="11881" n="TV2 Nord"/>
@@ -444,8 +444,8 @@
 		<S i="1133" t="18" on="56" s="48" frq="11919" n="TV3 Puls HD"/>
 		<S i="6b8" t="19" on="56" s="48" frq="11345" n="TV3 SPORT"/>
 		<S i="ad2" t="23" on="56" s="48" frq="11305" n="TV3 Sport HD"/>
-		<S i="65e" t="1b" on="56" s="48" frq="11823" n="TV3+ HD"/>
 		<S i="65e" t="1b" on="56" s="48" frq="12437" n="TV3+ HD"/>
+		<S i="65e" t="1b" on="56" s="48" frq="11823" n="TV3+ HD"/>
 		<S i="13ce" t="7" on="56" s="48" frq="11881" n="TV4 Fakta"/>
 		<S i="13d3" t="7" on="56" s="48" frq="11881" n="TV4 Film"/>
 		<S i="13d8" t="7" on="56" s="48" frq="11881" n="TV4 Guld"/>
@@ -482,8 +482,8 @@
 		<S i="58c" t="20" on="56" s="48" frq="11305" n="Viasat Series HD"/>
 		<S i="a8c" t="23" on="56" s="48" frq="11305" n="Viasat Sport HD"/>
 		<S i="ac8" t="23" on="56" s="48" frq="11305" n="Viasat Sport Premium HD"/>
-		<S i="690" t="1b" on="56" s="48" frq="11823" n="Viasat Urheilu"/>
 		<S i="690" t="1b" on="56" s="48" frq="12437" n="Viasat Urheilu"/>
+		<S i="690" t="1b" on="56" s="48" frq="11823" n="Viasat Urheilu"/>
 		<S i="1f54" t="19" on="56" s="48" frq="11345" n="Viasat Xtra 1"/>
 		<S i="1f5e" t="19" on="56" s="48" frq="11345" n="Viasat Xtra 2"/>
 		<S i="1f68" t="19" on="56" s="48" frq="11345" n="Viasat Xtra 3"/>
@@ -519,16 +519,16 @@
 		<S i="bca" t="25" on="56" s="48" frq="11385" n="Svenska Favoriter"/>
 		<S i="1f4" t="65" on="1" s="48" frq="12418" n="Upgrade Test Channel"/>
 	</Bouquet>
-	<Bouquet name="[E004.8] Viasat">
-		<S i="3a5" t="3" on="56" s="48" frq="12054" n="CORE SI"/>
-		<S i="456" t="3" on="56" s="48" frq="12054" n="Ohota i Rybalka"/>
-		<S i="385" t="3" on="56" s="48" frq="12054" n="XSI_Data"/>
-	</Bouquet>
 	<Bouquet name="[E004.8] viasat">
 		<S i="286e" t="ca" on="55" s="48" frq="11727" n="ESPORTSTV HD"/>
 		<S i="28b4" t="ca" on="55" s="48" frq="11727" n="NHK World Japan"/>
 		<S i="1928" t="14" on="56" s="48" frq="12637" n="TV1000 Russian Kino"/>
 		<S i="195a" t="14" on="56" s="48" frq="12637" n="Viasat History (FSS)"/>
+	</Bouquet>
+	<Bouquet name="[E004.8] Viasat">
+		<S i="3a5" t="3" on="56" s="48" frq="12054" n="CORE SI"/>
+		<S i="456" t="3" on="56" s="48" frq="12054" n="Ohota i Rybalka"/>
+		<S i="385" t="3" on="56" s="48" frq="12054" n="XSI_Data"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] VisionTV">
 		<S i="9ce" t="18" on="44" s="48" frq="12207" n="Animal Planet"/>

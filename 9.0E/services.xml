@@ -192,7 +192,7 @@
 			<S i="025b" f="4" s="1" t="1" n="Better-2"/>
 			<S i="025c" f="4" s="1" t="1" n="Better-3"/>
 			<S i="025d" f="4" s="1" t="1" n="Better-4"/>
-			<S i="025e" f="4" s="0" t="19" n="RTS2"/>
+			<S i="025e" f="2" s="0" t="19" n="RTS2"/>
 		</TS>
 		<TS id="1838" on="009e" frq="11958000" inv="2" sr="27500000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0065" f="4" s="0" t="19" n="M1 HD"/>
@@ -244,8 +244,8 @@
 			<S i="026d" f="4" s="0" t="1" n="CGTN-R"/>
 			<S i="026e" f="4" s="0" t="1" n="CGTN-A"/>
 			<S i="026f" f="4" s="0" t="1" n="CGTN Documentary"/>
-			<S i="0270" f="4" s="1" t="1" n="TV Globo"/>
-			<S i="0271" f="4" s="0" t="1" n="JiangSu TV"/>
+			<S i="0270" f="2" s="1" t="1" n="TV Globo"/>
+			<S i="0271" f="2" s="0" t="1" n="JiangSu TV"/>
 			<S i="0272" f="4" s="0" t="1" n="PTV Global"/>
 			<S i="0277" f="4" s="0" t="2" n="Babcock FM Feed 1"/>
 		</TS>

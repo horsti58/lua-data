@@ -67,13 +67,13 @@
 		<S i="16" t="1fd" on="2be" s="260" frq="11996" n="France 24 (in Arabic)"/>
 		<S i="20" t="1fd" on="2be" s="260" frq="11996" n="France 24 (in English)"/>
 	</Bouquet>
-	<Bouquet name="[E026.0] GlobeCast">
-		<S i="2a" t="1fd" on="2be" s="260" frq="11996" n="WRN (Sawt Al Alam) R1"/>
-	</Bouquet>
 	<Bouquet name="[E026.0] GLOBECAST">
 		<S i="35" t="1fd" on="2be" s="260" frq="11996" n="Afrique Media TV"/>
 		<S i="14" t="1fd" on="2be" s="260" frq="11996" n="RFI Francais"/>
 		<S i="33" t="1fd" on="2be" s="260" frq="11996" n="RMC Doualia"/>
+	</Bouquet>
+	<Bouquet name="[E026.0] GlobeCast">
+		<S i="2a" t="1fd" on="2be" s="260" frq="11996" n="WRN (Sawt Al Alam) R1"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] Harmonic">
 		<S i="1b8" t="1015" on="2be" s="260" frq="12034" n="Al-Marikh TV"/>
@@ -83,6 +83,9 @@
 		<S i="b9a" t="1a" on="1a" s="260" frq="11958" n="Palestine HD"/>
 		<S i="1a6" t="1015" on="2be" s="260" frq="12034" n="Sudania 24"/>
 		<S i="1" t="1015" on="2be" s="260" frq="12034" n="TAseti Radio"/>
+	</Bouquet>
+	<Bouquet name="[E026.0] jmc">
+		<S i="718" t="1fa" on="2be" s="260" frq="12054" n="Jordan Radio"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] JMC">
 		<S i="1af" t="1015" on="2be" s="260" frq="12034" n="Agar TV"/>
@@ -117,9 +120,6 @@
 		<S i="72f" t="1fa" on="2be" s="260" frq="12054" n="DJIBOUTI R3"/>
 		<S i="726" t="1fa" on="2be" s="260" frq="12054" n="Radio Orient"/>
 		<S i="732" t="1fa" on="2be" s="260" frq="12054" n="SSBC RADIO"/>
-	</Bouquet>
-	<Bouquet name="[E026.0] jmc">
-		<S i="718" t="1fa" on="2be" s="260" frq="12054" n="Jordan Radio"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] Kuwait Radio">
 		<S i="11" t="1a" on="1b" s="260" frq="12523" n="Kuwait Classical"/>
