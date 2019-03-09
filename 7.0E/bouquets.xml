@@ -1,6 +1,7 @@
 	<Bouquet name="[E007.0] ABS">
 		<S i="201" t="765c" on="7e" s="70" frq="11304" n="Iran International HD"/>
 		<S i="1649" t="9efc" on="7e" s="70" frq="11221" n="IRAN INTERNATIONAL To Eutelsat"/>
+		<S i="1af4" t="9efc" on="7e" s="70" frq="11221" n="IRANEFARDA"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] BBC World Service">
 		<S i="1" t="4e20" on="64" s="70" frq="10721" n="BBC Persian"/>
@@ -40,6 +41,7 @@
 		<S i="1940" t="c60c" on="7e" s="70" frq="11596" n="A PARA"/>
 		<S i="1c8d" t="c738" on="7e" s="70" frq="11617" n="A PARA HD"/>
 		<S i="1fa8" t="50dc" on="7e" s="70" frq="10845" n="A SPOR"/>
+		<S i="26d" t="c47c" on="7e" s="70" frq="11637" n="A SPOR HD"/>
 		<S i="1de7" t="c544" on="7e" s="70" frq="11554" n="A2"/>
 		<S i="1f44" t="5140" on="7e" s="70" frq="10845" n="A2 HD"/>
 		<S i="1f49" t="5140" on="7e" s="70" frq="10845" n="AL JAZEERA English HD"/>
@@ -62,8 +64,8 @@
 		<S i="610" t="c418" on="7e" s="70" frq="11492" n="beIN BOX OFFICE HD 2"/>
 		<S i="611" t="c418" on="7e" s="70" frq="11492" n="beIN BOX OFFICE HD 3"/>
 		<S i="cb" t="526c" on="7e" s="70" frq="10887" n="beIN GURME HD"/>
-		<S i="20bd" t="52d0" on="7e" s="70" frq="10928" n="beIN H&amp;E HD"/>
 		<S i="206d" t="52d0" on="7e" s="70" frq="10928" n="beIN H&amp;E HD"/>
+		<S i="20bd" t="52d0" on="7e" s="70" frq="10928" n="beIN H&amp;E HD"/>
 		<S i="1e80" t="5208" on="7e" s="70" frq="10928" n="beIN HD"/>
 		<S i="14b6" t="c6d4" on="7e" s="70" frq="11513" n="beIN MOVIES ACTION 2 HD"/>
 		<S i="2079" t="52d0" on="7e" s="70" frq="10928" n="beIN MOVIES ACTION HD"/>
@@ -78,7 +80,9 @@
 		<S i="d2" t="526c" on="7e" s="70" frq="10887" n="beIN SERIES VICE HD"/>
 		<S i="9cc" t="5014" on="7e" s="70" frq="10804" n="beIN SPORTS HABER HD"/>
 		<S i="ca" t="526c" on="7e" s="70" frq="10887" n="beIN SPORTS HD 1"/>
+		<S i="26e" t="c47c" on="7e" s="70" frq="11637" n="beIN SPORTS HD 2"/>
 		<S i="d0" t="526c" on="7e" s="70" frq="10887" n="beIN SPORTS HD 3"/>
+		<S i="26a" t="c47c" on="7e" s="70" frq="11637" n="beIN SPORTS HD 4"/>
 		<S i="6e3" t="c4e0" on="7e" s="70" frq="11534" n="beIN SPORTS MAX HD 1"/>
 		<S i="2076" t="52d0" on="7e" s="70" frq="10928" n="beIN SPORTS MAX HD 2"/>
 		<S i="1ffd" t="50dc" on="7e" s="70" frq="10845" n="beIN İZ HD"/>
@@ -91,6 +95,7 @@
 		<S i="1dea" t="c544" on="7e" s="70" frq="11554" n="BLOOMBERG HT"/>
 		<S i="1e81" t="5208" on="7e" s="70" frq="10928" n="BLOOMBERG HT HD"/>
 		<S i="14ca" t="c6d4" on="7e" s="70" frq="11513" n="BLUES"/>
+		<S i="272" t="c47c" on="7e" s="70" frq="11637" n="BOOMERANG HD"/>
 		<S i="6e6" t="c4e0" on="7e" s="70" frq="11534" n="CARTOON NETWORK"/>
 		<S i="9d8" t="5014" on="7e" s="70" frq="10804" n="CGTN DOCUMENTARY HD"/>
 		<S i="208a" t="52d0" on="7e" s="70" frq="10928" n="CGTN HD"/>
@@ -131,6 +136,7 @@
 		<S i="14ea" t="c6d4" on="7e" s="70" frq="11513" n="GREEK SONGS"/>
 		<S i="1ddf" t="c544" on="7e" s="70" frq="11554" n="GS TV HD"/>
 		<S i="1941" t="c60c" on="7e" s="70" frq="11596" n="HABER GLOBAL"/>
+		<S i="271" t="c47c" on="7e" s="70" frq="11637" n="HABER GLOBAL HD"/>
 		<S i="909" t="c5a8" on="7e" s="70" frq="11575" n="HABERTÜRK"/>
 		<S i="1c8b" t="c738" on="7e" s="70" frq="11617" n="HABERTÜRK HD"/>
 		<S i="91a" t="c5a8" on="7e" s="70" frq="11575" n="HALK TV"/>
@@ -188,11 +194,13 @@
 		<S i="1fae" t="50dc" on="7e" s="70" frq="10845" n="S SPORT HD"/>
 		<S i="14dc" t="c6d4" on="7e" s="70" frq="11513" n="SHOW RADYO"/>
 		<S i="8fd" t="c5a8" on="7e" s="70" frq="11575" n="SHOW TV"/>
+		<S i="26b" t="c47c" on="7e" s="70" frq="11637" n="SHOW TV HD"/>
 		<S i="14d8" t="c6d4" on="7e" s="70" frq="11513" n="SLOW TURK"/>
 		<S i="14d6" t="c6d4" on="7e" s="70" frq="11513" n="SMOOTH JAZZ"/>
 		<S i="6d2" t="c4e0" on="7e" s="70" frq="11534" n="STAR"/>
 		<S i="1eea" t="51a4" on="7e" s="70" frq="10887" n="STAR TV HD"/>
 		<S i="14db" t="c6d4" on="7e" s="70" frq="11513" n="SÜPER FM"/>
+		<S i="282" t="c47c" on="7e" s="70" frq="11637" n="TARAFTAR 2 HD"/>
 		<S i="109" t="526c" on="7e" s="70" frq="10887" n="TARAFTAR 3 HD"/>
 		<S i="de" t="526c" on="7e" s="70" frq="10887" n="TARAFTAR HD"/>
 		<S i="6e4" t="c4e0" on="7e" s="70" frq="11534" n="test_i1"/>
@@ -225,6 +233,8 @@
 		<S i="ce" t="526c" on="7e" s="70" frq="10887" n="TRT WORLD HD"/>
 		<S i="213f" t="4fb0" on="7e" s="70" frq="10804" n="TRT ÇOCUK"/>
 		<S i="6d1" t="c4e0" on="7e" s="70" frq="11534" n="TRT1"/>
+		<S i="2b2" t="c47c" on="7e" s="70" frq="11637" n="TRT1 HD"/>
+		<S i="26c" t="c47c" on="7e" s="70" frq="11637" n="TRT1 HD"/>
 		<S i="2136" t="4fb0" on="7e" s="70" frq="10804" n="TRT2 HD"/>
 		<S i="192e" t="c60c" on="7e" s="70" frq="11596" n="TV5 MONDE EUROPE"/>
 		<S i="1de4" t="c544" on="7e" s="70" frq="11554" n="TV8"/>
@@ -234,7 +244,9 @@
 		<S i="609" t="c418" on="7e" s="70" frq="11492" n="TVNET"/>
 		<S i="1c87" t="c738" on="7e" s="70" frq="11617" n="TVNET HD"/>
 		<S i="df" t="526c" on="7e" s="70" frq="10887" n="TİCARİ beIN SPORTS HD 1"/>
+		<S i="278" t="c47c" on="7e" s="70" frq="11637" n="TİCARİ beIN SPORTS HD 2"/>
 		<S i="108" t="526c" on="7e" s="70" frq="10887" n="TİCARİ beIN SPORTS HD 3"/>
+		<S i="27e" t="c47c" on="7e" s="70" frq="11637" n="TİCARİ beIN SPORTS HD 4"/>
 		<S i="1935" t="c60c" on="7e" s="70" frq="11596" n="VH1"/>
 		<S i="14e4" t="c6d4" on="7e" s="70" frq="11513" n="VIRGIN RADIO"/>
 		<S i="90b" t="c5a8" on="7e" s="70" frq="11575" n="ÜLKE TV"/>
@@ -267,6 +279,7 @@
 	</Bouquet>
 	<Bouquet name="[E007.0] Harmonic">
 		<S i="139" t="9efc" on="7e" s="70" frq="11345" n="Csat"/>
+		<S i="1" t="1000" on="2000" s="70" frq="12530" n="SatView"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] iKOMG">
 		<S i="2199" t="4e20" on="64" s="70" frq="10721" n="Rangarang TV"/>

@@ -194,6 +194,8 @@
 		<S i="1a18" t="10" on="55" s="48" frq="12130" n="NLO TV"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] Unknown Provider">
+		<S i="b68" t="35" on="53" s="48" frq="12245" n="1+1 XD"/>
+		<S i="b6a" t="35" on="53" s="48" frq="12245" n="2+2 XD"/>
 		<S i="564" t="1f" on="56" s="48" frq="11385" n="6'eren HD"/>
 		<S i="78" t="c9" on="1" s="48" frq="12149" n="Alphameric Studio and SIS+ (PVU1)"/>
 		<S i="82" t="c9" on="1" s="48" frq="12149" n="Alphameric Studio with BTC Audio"/>
@@ -236,9 +238,9 @@
 		<S i="1388" t="7" on="56" s="48" frq="11881" n="Cmore Fotboll HD"/>
 		<S i="bf4" t="25" on="56" s="48" frq="11385" n="Cmore Golf HD"/>
 		<S i="6ea" t="19" on="56" s="48" frq="11345" n="Cmore Hockey HD"/>
+		<S i="69a" t="1b" on="56" s="48" frq="11823" n="Cmore Live HD"/>
 		<S i="69a" t="1b" on="56" s="48" frq="12437" n="Cmore Live HD"/>
 		<S i="bfe" t="25" on="56" s="48" frq="11385" n="Cmore Live HD"/>
-		<S i="69a" t="1b" on="56" s="48" frq="11823" n="Cmore Live HD"/>
 		<S i="bcc" t="25" on="56" s="48" frq="11385" n="Cmore Sport HD"/>
 		<S i="aff" t="24" on="56" s="48" frq="11345" n="CNN"/>
 		<S i="14" t="c9" on="1" s="48" frq="12149" n="CORAL TV1 - PVU4"/>
@@ -257,8 +259,8 @@
 		<S i="46a" t="3" on="56" s="48" frq="12054" n="Disney Junior"/>
 		<S i="8ac" t="21" on="56" s="48" frq="11265" n="Disney XD"/>
 		<S i="26c" t="0" on="1" s="48" frq="12303" n="Diva Balkans"/>
-		<S i="1f5" t="0" on="1" s="48" frq="12303" n="Diva Romania"/>
 		<S i="262" t="0" on="1" s="48" frq="12303" n="Diva Romania"/>
+		<S i="1f5" t="0" on="1" s="48" frq="12303" n="Diva Romania"/>
 		<S i="8d9" t="21" on="56" s="48" frq="11265" n="DK4"/>
 		<S i="13c4" t="7" on="56" s="48" frq="11881" n="DR K"/>
 		<S i="13c9" t="7" on="56" s="48" frq="11881" n="DR Ramasjang"/>
@@ -294,8 +296,8 @@
 		<S i="21" t="65" on="1" s="48" frq="12418" n="LADBROKES SIS LES2 - CISCO 1"/>
 		<S i="58" t="c9" on="1" s="48" frq="12149" n="LADBROKES XTRA - PVU5"/>
 		<S i="f0" t="2" on="55" s="48" frq="12380" n="LTV World"/>
-		<S i="67c" t="1b" on="56" s="48" frq="11823" n="MAX HD"/>
 		<S i="67c" t="1b" on="56" s="48" frq="12437" n="MAX HD"/>
+		<S i="67c" t="1b" on="56" s="48" frq="11823" n="MAX HD"/>
 		<S i="c8" t="65" on="1" s="48" frq="12418" n="MCUK Test"/>
 		<S i="1cac" t="13" on="55" s="48" frq="12399" n="MEGA"/>
 		<S i="c9" t="c9" on="1" s="48" frq="12149" n="MK Test"/>
@@ -399,6 +401,7 @@
 		<S i="1e15" t="2c" on="55" s="48" frq="12265" n="TEST1"/>
 		<S i="1e16" t="2c" on="55" s="48" frq="12265" n="TEST2"/>
 		<S i="1e17" t="2c" on="55" s="48" frq="12265" n="TEST3"/>
+		<S i="b69" t="35" on="53" s="48" frq="12245" n="TET XD"/>
 		<S i="320" t="1" on="5e" s="48" frq="12360" n="TLC Balkans"/>
 		<S i="3e8" t="1" on="5e" s="48" frq="12360" n="TLC Hungary"/>
 		<S i="b54" t="1" on="5e" s="48" frq="12360" n="TLC Pan Regional"/>
@@ -424,8 +427,8 @@
 		<S i="13ab" t="7" on="56" s="48" frq="11881" n="TV2 Fyn"/>
 		<S i="55a" t="1f" on="56" s="48" frq="11385" n="TV2 HD"/>
 		<S i="6c2" t="19" on="56" s="48" frq="11345" n="TV2 HD Lorry"/>
-		<S i="672" t="1b" on="56" s="48" frq="11823" n="TV2 Humorkanalen"/>
 		<S i="672" t="1b" on="56" s="48" frq="12437" n="TV2 Humorkanalen"/>
+		<S i="672" t="1b" on="56" s="48" frq="11823" n="TV2 Humorkanalen"/>
 		<S i="139c" t="7" on="56" s="48" frq="11881" n="TV2 Midt-Vest"/>
 		<S i="8b1" t="21" on="56" s="48" frq="11265" n="TV2 NEWS"/>
 		<S i="1397" t="7" on="56" s="48" frq="11881" n="TV2 Nord"/>

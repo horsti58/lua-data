@@ -303,6 +303,7 @@
 	</Bouquet>
 	<Bouquet name="[W000.8] Telenor">
 		<S i="12c7" t="43" on="46" s="-8" frq="10778" n="6`eren HD"/>
+		<S i="1d1c" t="48" on="46" s="-8" frq="10873" n="AlfaTV"/>
 		<S i="b60" t="14" on="46" s="-8" frq="12418" n="AlJazeera English"/>
 		<S i="1c19" t="3d" on="46" s="-8" frq="10872" n="Animal Planet HD"/>
 		<S i="1c09" t="22" on="46" s="-8" frq="11389" n="auto motor og sport TV"/>
@@ -322,10 +323,13 @@
 		<S i="1e40" t="23" on="46" s="-8" frq="11372" n="C More Golf HD"/>
 		<S i="1af7" t="e" on="46" s="-8" frq="10934" n="C More Hits HD"/>
 		<S i="1bf7" t="3f" on="46" s="-8" frq="10841" n="C More Hockey HD"/>
+		<S i="45f3" t="48" on="46" s="-8" frq="10873" n="C More Juniori"/>
+		<S i="132b" t="48" on="46" s="-8" frq="10873" n="C More Juniori"/>
 		<S i="57c" t="e" on="46" s="-8" frq="10934" n="C More Live 5 HD"/>
 		<S i="1af5" t="23" on="46" s="-8" frq="11372" n="C More Live HD"/>
 		<S i="1325" t="3f" on="46" s="-8" frq="10841" n="C More MAX HD"/>
 		<S i="584" t="e" on="46" s="-8" frq="10934" n="C More Series HD"/>
+		<S i="1bb1" t="48" on="46" s="-8" frq="10873" n="C More Sport 1 HD"/>
 		<S i="1c12" t="1" on="46" s="-8" frq="11247" n="C More Sport 2 HD"/>
 		<S i="583" t="e" on="46" s="-8" frq="10934" n="CANAL9 HD (D)"/>
 		<S i="1b5e" t="1c" on="46" s="-8" frq="11403" n="Cartoon Network"/>
@@ -378,6 +382,7 @@
 		<S i="1c05" t="2b" on="46" s="-8" frq="11341" n="ID Investigation Discovery"/>
 		<S i="1c8f" t="a" on="46" s="-8" frq="10934" n="ID Investigation Discovery (D)"/>
 		<S i="1c2b" t="21" on="46" s="-8" frq="11261" n="ID Investigation Discovery (S)"/>
+		<S i="60b" t="48" on="46" s="-8" frq="10873" n="JIM"/>
 		<S i="17d5" t="20" on="46" s="-8" frq="11357" n="Kanal 10 Norge"/>
 		<S i="1d30" t="4" on="46" s="-8" frq="11229" n="Kanal 11 HD"/>
 		<S i="4698" t="4" on="46" s="-8" frq="11229" n="Kanal 11 HD - Text"/>
@@ -396,9 +401,10 @@
 		<S i="1d82" t="1b" on="46" s="-8" frq="11216" n="Kunskapskanalen HD"/>
 		<S i="449f" t="1b" on="46" s="-8" frq="11216" n="Kunskapskanalen HD - Talande Text"/>
 		<S i="1d8f" t="1b" on="46" s="-8" frq="11216" n="Kunskapskanalen HD - Text"/>
-		<S i="42bc" t="2b" on="46" s="-8" frq="11341" n="Kuukauden kanava"/>
 		<S i="42bc" t="18" on="46" s="-8" frq="11293" n="Kuukauden kanava"/>
+		<S i="42bc" t="2b" on="46" s="-8" frq="11341" n="Kuukauden kanava"/>
 		<S i="29e" t="47" on="46" s="-8" frq="10716" n="LifeStyleTV"/>
+		<S i="1195" t="48" on="46" s="-8" frq="10873" n="liv"/>
 		<S i="1c48" t="2b" on="46" s="-8" frq="11341" n="Matkanalen"/>
 		<S i="425" t="43" on="46" s="-8" frq="10778" n="MAX HD"/>
 		<S i="2b35" t="43" on="46" s="-8" frq="10778" n="MAX HD - Tekst"/>
@@ -409,6 +415,7 @@
 		<S i="447" t="18" on="46" s="-8" frq="11293" n="Nat Geo HD (N)"/>
 		<S i="449" t="18" on="46" s="-8" frq="11293" n="Nat Geo HD (S/F)"/>
 		<S i="1c46" t="29" on="46" s="-8" frq="12015" n="Nat Geo Wild HD"/>
+		<S i="130" t="48" on="46" s="-8" frq="10873" n="Nelonen"/>
 		<S i="1c36" t="2b" on="46" s="-8" frq="11341" n="Nick Jr."/>
 		<S i="1c2c" t="2b" on="46" s="-8" frq="11341" n="Nickelodeon (D)"/>
 		<S i="1c33" t="2b" on="46" s="-8" frq="11341" n="Nickelodeon (N)"/>
@@ -441,6 +448,7 @@
 		<S i="1b85" t="19" on="46" s="-8" frq="11325" n="Sjuan HD"/>
 		<S i="efd" t="14" on="46" s="-8" frq="12418" n="Sky News"/>
 		<S i="fee" t="30" on="46" s="-8" frq="10903" n="Sportkanalen HD"/>
+		<S i="8fd" t="48" on="46" s="-8" frq="10873" n="Sub"/>
 		<S i="1d86" t="2c" on="46" s="-8" frq="11421" n="SVT1 Dalarna"/>
 		<S i="1d94" t="2c" on="46" s="-8" frq="11421" n="SVT1 Gävleborg"/>
 		<S i="1d7f" t="1b" on="46" s="-8" frq="11216" n="SVT1 HD"/>
@@ -477,6 +485,10 @@
 		<S i="1d81" t="1b" on="46" s="-8" frq="11216" n="SVTB/SVT24 HD"/>
 		<S i="449e" t="1b" on="46" s="-8" frq="11216" n="SVTB/SVT24 HD - Talande Text"/>
 		<S i="1d8e" t="1b" on="46" s="-8" frq="11216" n="SVTB/SVT24 HD - Text"/>
+		<S i="1d25" t="48" on="46" s="-8" frq="10873" n="Telia Liiga 1"/>
+		<S i="1d26" t="48" on="46" s="-8" frq="10873" n="Telia Liiga 2"/>
+		<S i="1d27" t="48" on="46" s="-8" frq="10873" n="Telia Liiga 3"/>
+		<S i="1d28" t="48" on="46" s="-8" frq="10873" n="Telia Liiga 4"/>
 		<S i="1f1d" t="4f" on="46" s="-8" frq="12437" n="Telia Liiga 5"/>
 		<S i="1f1e" t="4f" on="46" s="-8" frq="12437" n="Telia Liiga 6"/>
 		<S i="1f1f" t="4f" on="46" s="-8" frq="12437" n="Telia Liiga 7"/>
@@ -553,20 +565,6 @@
 		<S i="1b91" t="41" on="46" s="-8" frq="10809" n="UNK (0x0041_0x1B91)"/>
 		<S i="1b92" t="41" on="46" s="-8" frq="10809" n="UNK (0x0041_0x1B92)"/>
 		<S i="1bee" t="41" on="46" s="-8" frq="10809" n="UNK (0x0041_0x1BEE)"/>
-		<S i="21" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x0021)"/>
-		<S i="130" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x0130)"/>
-		<S i="60b" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x060B)"/>
-		<S i="8fd" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x08FD)"/>
-		<S i="b78" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x0B78)"/>
-		<S i="1195" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x1195)"/>
-		<S i="132b" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x132B)"/>
-		<S i="1bb1" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x1BB1)"/>
-		<S i="1d1c" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x1D1C)"/>
-		<S i="1d25" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x1D25)"/>
-		<S i="1d26" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x1D26)"/>
-		<S i="1d27" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x1D27)"/>
-		<S i="1d28" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x1D28)"/>
-		<S i="45f3" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x45F3)"/>
 		<S i="1ef2" t="50" on="46" s="-8" frq="12476" n="VGTV HD"/>
 		<S i="1c38" t="2b" on="46" s="-8" frq="11341" n="VH1"/>
 		<S i="1c39" t="2b" on="46" s="-8" frq="11341" n="VH1 Classic"/>
@@ -592,6 +590,8 @@
 		<S i="45b5" t="a" on="46" s="-8" frq="10934" n="Yle Teema &amp; Fem HD"/>
 		<S i="b75" t="3d" on="46" s="-8" frq="10872" n="Yle TV1 HD"/>
 		<S i="b77" t="3d" on="46" s="-8" frq="10872" n="Yle TV1 HD"/>
+		<S i="21" t="48" on="46" s="-8" frq="10873" n="Yle TV2 HD"/>
+		<S i="b78" t="48" on="46" s="-8" frq="10873" n="Yle TV2 HD"/>
 		<S i="1ca4" t="22" on="46" s="-8" frq="11389" n="DR P3"/>
 		<S i="afd" t="22" on="46" s="-8" frq="11389" n="RUV Ras 1"/>
 		<S i="afe" t="22" on="46" s="-8" frq="11389" n="RUV Ras 2"/>
@@ -599,25 +599,17 @@
 	</Bouquet>
 	<Bouquet name="[W000.8] Unknown Provider">
 		<S i="1453" t="41" on="46" s="-8" frq="10809" n="UNK (0x0041_0x1453)"/>
+		<S i="1453" t="41" on="1" s="-8" frq="10809" n="UNK (0x0041_0x1453)"/>
 		<S i="1b79" t="41" on="46" s="-8" frq="10809" n="UNK (0x0041_0x1B79)"/>
+		<S i="1b79" t="41" on="1" s="-8" frq="10809" n="UNK (0x0041_0x1B79)"/>
 		<S i="1b80" t="41" on="46" s="-8" frq="10809" n="UNK (0x0041_0x1B80)"/>
+		<S i="1b80" t="41" on="1" s="-8" frq="10809" n="UNK (0x0041_0x1B80)"/>
 		<S i="1b91" t="41" on="46" s="-8" frq="10809" n="UNK (0x0041_0x1B91)"/>
+		<S i="1b91" t="41" on="1" s="-8" frq="10809" n="UNK (0x0041_0x1B91)"/>
 		<S i="1b92" t="41" on="46" s="-8" frq="10809" n="UNK (0x0041_0x1B92)"/>
+		<S i="1b92" t="41" on="1" s="-8" frq="10809" n="UNK (0x0041_0x1B92)"/>
 		<S i="1bee" t="41" on="46" s="-8" frq="10809" n="UNK (0x0041_0x1BEE)"/>
-		<S i="21" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x0021)"/>
-		<S i="130" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x0130)"/>
-		<S i="60b" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x060B)"/>
-		<S i="8fd" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x08FD)"/>
-		<S i="b78" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x0B78)"/>
-		<S i="1195" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x1195)"/>
-		<S i="132b" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x132B)"/>
-		<S i="1bb1" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x1BB1)"/>
-		<S i="1d1c" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x1D1C)"/>
-		<S i="1d25" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x1D25)"/>
-		<S i="1d26" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x1D26)"/>
-		<S i="1d27" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x1D27)"/>
-		<S i="1d28" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x1D28)"/>
-		<S i="45f3" t="48" on="46" s="-8" frq="10872" n="UNK (0x0048_0x45F3)"/>
+		<S i="1bee" t="41" on="1" s="-8" frq="10809" n="UNK (0x0041_0x1BEE)"/>
 	</Bouquet>
 	<Bouquet name="[W000.8] UPC">
 		<S i="778e" t="2c2" on="600" s="-8" frq="12073" n="Auto Motor Sport"/>

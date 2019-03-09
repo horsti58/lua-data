@@ -120,7 +120,7 @@
 		</TS>
 		<TS id="0001" on="00aa" frq="11843000" inv="2" sr="27500000" fec="10" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="03f5" f="4" s="1" t="1" n="Stingray iConcerts"/>
-			<S i="03fd" f="4" s="1" t="1" n="Κρήτη TV"/>
+			<S i="03fd" f="4" s="1" t="1" n="ΚΡΗΤΗ TV"/>
 			<S i="0407" f="4" s="1" t="1" n="Luxe TV HD"/>
 			<S i="041d" f="4" s="1" t="1" n="Stingray CMusic"/>
 			<S i="041e" f="4" s="1" t="1" n="MAD Hits"/>
@@ -153,7 +153,7 @@
 			<S i="0db9" f="4" s="1" t="1" n="EUROBET 13"/>
 			<S i="0dba" f="4" s="1" t="1" n="EUROBET 14"/>
 			<S i="0dbb" f="4" s="0" t="1" n="ORTB TV"/>
-			<S i="0dbd" f="4" s="1" t="19" n="ZOOMOO HD"/>
+			<S i="0dbd" f="2" s="1" t="19" n="ZOOMOO HD"/>
 			<S i="0dbe" f="4" s="1" t="1" n="Love Nature HD"/>
 			<S i="0dbf" f="4" s="0" t="1" n="RTS 1"/>
 			<S i="0dc0" f="4" s="0" t="2" n="RSI"/>
@@ -501,5 +501,20 @@
 			<S i="0458" f="4" s="1" t="1" n="UNK (0x0007_0x0458)"/>
 			<S i="0459" f="4" s="1" t="1" n="UNK (0x0007_0x0459)"/>
 			<S i="0460" f="4" s="1" t="1" n="UNK (0x0007_0x0460)"/>
+		</TS>
+		<TS id="0007" on="00aa" frq="12475000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="03ea" f="4" s="1" t="1" n="ΕΡΤ3"/>
+			<S i="03eb" f="4" s="1" t="1" n="COSMOTESport6HD"/>
+			<S i="03f8" f="4" s="1" t="1" n="Village Cinema HD"/>
+			<S i="040e" f="4" s="1" t="1" n="FOX HD"/>
+			<S i="0429" f="4" s="1" t="1" n="TEST 2"/>
+			<S i="0435" f="4" s="1" t="1" n="CinemaOnDemand1HD"/>
+			<S i="0451" f="4" s="1" t="1" n="ΕΡΤ Sports HD"/>
+			<S i="0455" f="4" s="1" t="1" n="COSMOTESport5HD"/>
+			<S i="0457" f="4" s="1" t="1" n="TEST I"/>
+			<S i="0458" f="4" s="1" t="1" n="Nat Geo HD"/>
+			<S i="0459" f="4" s="1" t="1" n="ΕΡΤ2"/>
+			<S i="0460" f="4" s="1" t="1" n="COSMOTECinema2HD"/>
+			<S i="0468" f="4" s="1" t="1" n="TEST 13"/>
 		</TS>
 	</sat>

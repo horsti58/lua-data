@@ -429,7 +429,10 @@
 		<TS id="0035" on="0053" frq="12245000" inv="2" sr="30000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0b5e" f="4" s="1" t="19" n="Ukraine XD"/>
 			<S i="0b5f" f="4" s="1" t="19" n="NLO XD"/>
-			<S i="0bae" f="4" s="1" t="19" n="Test"/>
+			<S i="0b68" f="1" s="1" t="19" n="1+1 XD"/>
+			<S i="0b69" f="1" s="1" t="19" n="TET XD"/>
+			<S i="0b6a" f="1" s="1" t="19" n="2+2 XD"/>
+			<S i="0bae" f="2" s="1" t="19" n="Test"/>
 		</TS>
 		<TS id="002c" on="0055" frq="12265000" inv="2" sr="30000000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="1e15" f="4" s="1" t="1" n="TEST1"/>
@@ -482,20 +485,20 @@
 			<S i="050b" f="4" s="0" t="1" n="Belsat TV"/>
 		</TS>
 		<TS id="0001" on="005e" frq="12360000" inv="2" sr="27500000" fec="5" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="0258" f="1" s="1" t="1" n="Turbo Xtra Poland"/>
-			<S i="0320" f="1" s="1" t="1" n="TLC Balkans"/>
-			<S i="03e8" f="1" s="1" t="1" n="TLC Hungary"/>
-			<S i="04b0" f="1" s="1" t="1" n="Discovery Poland"/>
-			<S i="05dc" f="1" s="1" t="1" n="Discovery Life Poland"/>
-			<S i="0640" f="1" s="1" t="1" n="ID Sweden"/>
-			<S i="06a4" f="1" s="1" t="1" n="Animal Planet Poland HD"/>
-			<S i="0708" f="1" s="1" t="1" n="Science Poland HD"/>
-			<S i="0834" f="1" s="1" t="1" n="ID Poland"/>
-			<S i="0898" f="1" s="1" t="1" n="Discovery Sweden"/>
-			<S i="0b54" f="1" s="1" t="1" n="TLC Pan Regional"/>
-			<S i="0b55" f="1" s="1" t="1" n="TLC Pan regional - Portuguese"/>
-			<S i="0c1c" f="1" s="1" t="1" n="TLC Poland HD"/>
-			<S i="125c" f="1" s="0" t="19" n="ESP2 PAN HD"/>
+			<S i="0258" f="4" s="1" t="1" n="Turbo Xtra Poland"/>
+			<S i="0320" f="4" s="1" t="1" n="TLC Balkans"/>
+			<S i="03e8" f="4" s="1" t="1" n="TLC Hungary"/>
+			<S i="04b0" f="4" s="1" t="1" n="Discovery Poland"/>
+			<S i="05dc" f="4" s="1" t="1" n="Discovery Life Poland"/>
+			<S i="0640" f="4" s="1" t="1" n="ID Sweden"/>
+			<S i="06a4" f="4" s="1" t="1" n="Animal Planet Poland HD"/>
+			<S i="0708" f="4" s="1" t="1" n="Science Poland HD"/>
+			<S i="0834" f="4" s="1" t="1" n="ID Poland"/>
+			<S i="0898" f="4" s="1" t="1" n="Discovery Sweden"/>
+			<S i="0b54" f="4" s="1" t="1" n="TLC Pan Regional"/>
+			<S i="0b55" f="4" s="1" t="1" n="TLC Pan regional - Portuguese"/>
+			<S i="0c1c" f="4" s="1" t="1" n="TLC Poland HD"/>
+			<S i="125c" f="4" s="0" t="19" n="ESP2 PAN HD"/>
 		</TS>
 		<TS id="0002" on="0055" frq="12380000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="00c8" f="4" s="0" t="1" n="TVGE INTERNATIONAL"/>

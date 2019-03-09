@@ -310,6 +310,7 @@
 		<S i="3f6" t="6" on="aa" s="90" frq="12399" n="Blue Sky"/>
 		<S i="46b" t="8" on="aa" s="90" frq="12169" n="CBS Reality"/>
 		<S i="40a" t="2" on="aa" s="90" frq="12054" n="CENTER TV"/>
+		<S i="435" t="7" on="aa" s="90" frq="12475" n="CinemaOnDemand1HD"/>
 		<S i="3f3" t="5" on="aa" s="90" frq="12284" n="CinemaOnDemand2"/>
 		<S i="43d" t="1" on="aa" s="90" frq="11843" n="CNBC"/>
 		<S i="410" t="2" on="aa" s="90" frq="12054" n="CNN"/>
@@ -318,10 +319,13 @@
 		<S i="45d" t="5" on="aa" s="90" frq="12284" n="COSMOTE History"/>
 		<S i="408" t="4" on="aa" s="90" frq="12207" n="COSMOTE History HD"/>
 		<S i="3f0" t="5" on="aa" s="90" frq="12284" n="COSMOTECinema1HD"/>
+		<S i="460" t="7" on="aa" s="90" frq="12475" n="COSMOTECinema2HD"/>
 		<S i="446" t="6" on="aa" s="90" frq="12399" n="COSMOTECinema3"/>
 		<S i="447" t="5" on="aa" s="90" frq="12284" n="COSMOTESport1HD"/>
 		<S i="404" t="6" on="aa" s="90" frq="12399" n="COSMOTESport3HD"/>
 		<S i="40f" t="2" on="aa" s="90" frq="12054" n="COSMOTESport4HD"/>
+		<S i="455" t="7" on="aa" s="90" frq="12475" n="COSMOTESport5HD"/>
+		<S i="3eb" t="7" on="aa" s="90" frq="12475" n="COSMOTESport6HD"/>
 		<S i="443" t="2" on="aa" s="90" frq="12054" n="COSMOTESport7HD"/>
 		<S i="44d" t="6" on="aa" s="90" frq="12399" n="COSMOTESport8HD"/>
 		<S i="466" t="8" on="aa" s="90" frq="12169" n="COSMOTESport9HD"/>
@@ -339,6 +343,7 @@
 		<S i="426" t="2" on="aa" s="90" frq="12054" n="Fashion TV"/>
 		<S i="470" t="8" on="aa" s="90" frq="12169" n="Fine Living HD"/>
 		<S i="46a" t="8" on="aa" s="90" frq="12169" n="Food Network HD"/>
+		<S i="40e" t="7" on="aa" s="90" frq="12475" n="FOX HD"/>
 		<S i="461" t="4" on="aa" s="90" frq="12207" n="FOX Life HD"/>
 		<S i="469" t="8" on="aa" s="90" frq="12169" n="FOX Sports HD"/>
 		<S i="43a" t="6" on="aa" s="90" frq="12399" n="France 24 En"/>
@@ -354,6 +359,7 @@
 		<S i="449" t="1" on="aa" s="90" frq="11843" n="MEZZO"/>
 		<S i="401" t="4" on="aa" s="90" frq="12207" n="Motorvision Channel HD"/>
 		<S i="45a" t="1" on="aa" s="90" frq="11843" n="MTV Live HD"/>
+		<S i="458" t="7" on="aa" s="90" frq="12475" n="Nat Geo HD"/>
 		<S i="41a" t="2" on="aa" s="90" frq="12054" n="Nat Geo Wild HD"/>
 		<S i="471" t="8" on="aa" s="90" frq="12169" n="Nautical Channel HD"/>
 		<S i="445" t="6" on="aa" s="90" frq="12399" n="Nickelodeon HD"/>
@@ -373,10 +379,13 @@
 		<S i="3f5" t="1" on="aa" s="90" frq="11843" n="Stingray iConcerts"/>
 		<S i="44a" t="2" on="aa" s="90" frq="12054" n="SundanceTV"/>
 		<S i="414" t="6" on="aa" s="90" frq="12399" n="TCM"/>
+		<S i="468" t="7" on="aa" s="90" frq="12475" n="TEST 13"/>
+		<S i="429" t="7" on="aa" s="90" frq="12475" n="TEST 2"/>
 		<S i="45f" t="1" on="aa" s="90" frq="11843" n="TEST 3"/>
 		<S i="462" t="8" on="aa" s="90" frq="12169" n="TEST 5"/>
 		<S i="415" t="2" on="aa" s="90" frq="12054" n="TEST C"/>
 		<S i="448" t="4" on="aa" s="90" frq="12207" n="TEST G"/>
+		<S i="457" t="7" on="aa" s="90" frq="12475" n="TEST I"/>
 		<S i="40d" t="6" on="aa" s="90" frq="12399" n="Travel Channel HD"/>
 		<S i="41b" t="4" on="aa" s="90" frq="12207" n="VH1"/>
 		<S i="46d" t="8" on="aa" s="90" frq="12169" n="Viasat Explore"/>
@@ -386,8 +395,10 @@
 		<S i="3ed" t="2" on="aa" s="90" frq="12054" n="ΒΟΥΛΗ"/>
 		<S i="400" t="6" on="aa" s="90" frq="12399" n="ΔΙΚΤΥΟ Τηλεόραση"/>
 		<S i="3e9" t="2" on="aa" s="90" frq="12054" n="ΕΡΤ1"/>
+		<S i="459" t="7" on="aa" s="90" frq="12475" n="ΕΡΤ2"/>
+		<S i="3ea" t="7" on="aa" s="90" frq="12475" n="ΕΡΤ3"/>
 		<S i="424" t="2" on="aa" s="90" frq="12054" n="Επιλογές Τηλεόραση"/>
-		<S i="3fd" t="1" on="aa" s="90" frq="11843" n="Κρήτη TV"/>
+		<S i="3fd" t="1" on="aa" s="90" frq="11843" n="ΚΡΗΤΗ TV"/>
 		<S i="463" t="8" on="aa" s="90" frq="12169" n="Κρήτη Νέα Τηλεόραση"/>
 		<S i="402" t="5" on="aa" s="90" frq="12284" n="Μακεδονία TV"/>
 		<S i="441" t="4" on="aa" s="90" frq="12207" n="ΣΚΑΪ HD"/>
@@ -499,8 +510,10 @@
 		<S i="419" t="6" on="aa" s="90" frq="12399" n="TEST H"/>
 		<S i="45e" t="6" on="aa" s="90" frq="12399" n="TRT"/>
 		<S i="3f1" t="6" on="aa" s="90" frq="12399" n="TV ΔΕΛΤΑ"/>
+		<S i="3f8" t="7" on="aa" s="90" frq="12475" n="Village Cinema HD"/>
 		<S i="450" t="6" on="aa" s="90" frq="12399" n="Αιγαίο TV"/>
 		<S i="3f9" t="6" on="aa" s="90" frq="12399" n="Βεργίνα TV"/>
+		<S i="451" t="7" on="aa" s="90" frq="12475" n="ΕΡΤ Sports HD"/>
 		<S i="423" t="6" on="aa" s="90" frq="12399" n="ΤΕΣΤ 8"/>
 		<S i="42b" t="6" on="aa" s="90" frq="12399" n="TEST Radio1"/>
 		<S i="428" t="6" on="aa" s="90" frq="12399" n="ΠΕΙΡΑΙΚΗ ΕΚΚΛΗΣΙΑ"/>

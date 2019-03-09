@@ -156,7 +156,7 @@
 			<S i="01fd" f="4" s="0" t="19" n="Nat Geo Farsi HD"/>
 			<S i="01fe" f="4" s="0" t="19" n="Cine Film HD"/>
 			<S i="01ff" f="4" s="0" t="19" n="Cine Series HD"/>
-			<S i="0200" f="4" s="0" t="1" n="Radio Javan HD"/>
+			<S i="0200" f="2" s="0" t="1" n="Radio Javan HD"/>
 			<S i="0201" f="4" s="0" t="19" n="Iran International HD"/>
 		</TS>
 		<TS id="9efc" on="007e" frq="11345000" inv="2" sr="27500000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
@@ -164,7 +164,7 @@
 			<S i="012e" f="4" s="0" t="1" n="Gala TV"/>
 			<S i="0135" f="4" s="0" t="1" n="Nat Geo Farsi"/>
 			<S i="0138" f="4" s="0" t="1" n="4Music"/>
-			<S i="0139" f="4" s="0" t="1" n="Csat"/>
+			<S i="0139" f="2" s="0" t="1" n="Csat"/>
 			<S i="013a" f="4" s="0" t="1" n="PMC SD"/>
 		</TS>
 		<TS id="9fc4" on="007e" frq="11387000" inv="2" sr="27500000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
@@ -330,7 +330,23 @@
 			<S i="0282" f="4" s="1" t="1" n="UNK (0xC47C_0x0282)"/>
 			<S i="02b2" f="4" s="1" t="1" n="UNK (0xC47C_0x02B2)"/>
 		</TS>
+		<TS id="c47c" on="007e" frq="11637000" inv="2" sr="30000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
+			<S i="026a" f="4" s="1" t="11" n="beIN SPORTS HD 4"/>
+			<S i="026b" f="4" s="1" t="11" n="SHOW TV HD"/>
+			<S i="026c" f="4" s="0" t="11" n="TRT1 HD"/>
+			<S i="026d" f="4" s="1" t="11" n="A SPOR HD"/>
+			<S i="026e" f="4" s="1" t="11" n="beIN SPORTS HD 2"/>
+			<S i="0271" f="4" s="1" t="11" n="HABER GLOBAL HD"/>
+			<S i="0272" f="4" s="1" t="11" n="BOOMERANG HD"/>
+			<S i="0278" f="4" s="1" t="11" n="TİCARİ beIN SPORTS HD 2"/>
+			<S i="027e" f="4" s="1" t="11" n="TİCARİ beIN SPORTS HD 4"/>
+			<S i="0282" f="4" s="1" t="11" n="TARAFTAR 2 HD"/>
+			<S i="02b2" f="4" s="1" t="11" n="TRT1 HD"/>
+		</TS>
 		<TS id="0001" on="0001" frq="12530000" inv="2" sr="1480000" fec="9" pol="0" mod="6" pli="0" plc="1" plm="0" sys="0">
 			<S i="0101" f="1" s="0" t="1" n="TV-101"/>
+		</TS>
+		<TS id="1000" on="2000" frq="12530000" inv="2" sr="1480000" fec="9" pol="0" mod="6" pli="0" plc="1" plm="0" sys="0">
+			<S i="0001" f="1" s="0" t="1" n="SatView"/>
 		</TS>
 	</sat>
