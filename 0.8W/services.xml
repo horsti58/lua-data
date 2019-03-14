@@ -40,6 +40,14 @@
 			<S i="4668" f="4" s="1" t="19" n="Kanal 9 HD - Text"/>
 			<S i="4687" f="4" s="1" t="19" n="Kanal 5 HD (S) - Text"/>
 		</TS>
+		<TS id="0041" on="0001" frq="10808000" inv="2" sr="25000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="1453" f="4" s="1" t="1" n="UNK (0x0041_0x1453)"/>
+			<S i="1b79" f="4" s="1" t="1" n="UNK (0x0041_0x1B79)"/>
+			<S i="1b80" f="4" s="1" t="1" n="UNK (0x0041_0x1B80)"/>
+			<S i="1b91" f="4" s="1" t="1" n="UNK (0x0041_0x1B91)"/>
+			<S i="1b92" f="4" s="1" t="1" n="UNK (0x0041_0x1B92)"/>
+			<S i="1bee" f="4" s="1" t="1" n="UNK (0x0041_0x1BEE)"/>
+		</TS>
 		<TS id="003e" on="0046" frq="10809000" inv="2" sr="25000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0eec" f="4" s="1" t="19" n="Viasat Sport HD"/>
 			<S i="1cd8" f="4" s="1" t="19" n="Viasat Sport Premium HD"/>
@@ -48,21 +56,13 @@
 			<S i="1d74" f="4" s="1" t="19" n="Viasport 1"/>
 			<S i="1e06" f="4" s="1" t="19" n="Viasat Hockey HD (S)"/>
 		</TS>
-		<TS id="0041" on="0001" frq="10809000" inv="2" sr="25000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="1453" f="4" s="1" t="1" n="UNK (0x0041_0x1453)"/>
-			<S i="1b79" f="4" s="1" t="1" n="UNK (0x0041_0x1B79)"/>
-			<S i="1b80" f="4" s="1" t="1" n="UNK (0x0041_0x1B80)"/>
-			<S i="1b91" f="4" s="1" t="1" n="UNK (0x0041_0x1B91)"/>
-			<S i="1b92" f="4" s="1" t="1" n="UNK (0x0041_0x1B92)"/>
-			<S i="1bee" f="4" s="1" t="1" n="UNK (0x0041_0x1BEE)"/>
-		</TS>
-		<TS id="0041" on="0046" frq="10809000" inv="2" sr="25000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="1453" f="4" s="1" t="1" n="UNK (0x0041_0x1453)"/>
-			<S i="1b79" f="4" s="1" t="1" n="UNK (0x0041_0x1B79)"/>
-			<S i="1b80" f="4" s="1" t="1" n="UNK (0x0041_0x1B80)"/>
-			<S i="1b91" f="4" s="1" t="1" n="UNK (0x0041_0x1B91)"/>
-			<S i="1b92" f="4" s="1" t="1" n="UNK (0x0041_0x1B92)"/>
-			<S i="1bee" f="4" s="1" t="1" n="UNK (0x0041_0x1BEE)"/>
+		<TS id="0041" on="0046" frq="10810000" inv="2" sr="25000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="1453" f="1" s="1" t="1" n="CNBC"/>
+			<S i="1b79" f="1" s="1" t="19" n="Eurosport 1 HD (N)"/>
+			<S i="1b80" f="1" s="1" t="19" n="Eurosport 1 HD (S)"/>
+			<S i="1b91" f="1" s="1" t="19" n="TV3 HD (D)"/>
+			<S i="1b92" f="1" s="1" t="19" n="TV3 Sport HD (D)"/>
+			<S i="1bee" f="1" s="1" t="1" n="DW English"/>
 		</TS>
 		<TS id="003f" on="0046" frq="10841000" inv="2" sr="25000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="125d" f="4" s="1" t="16" n="TV 2 / Nord"/>
@@ -84,23 +84,23 @@
 			<S i="1b94" f="4" s="1" t="19" n="C More Fotboll HD"/>
 			<S i="1c19" f="4" s="1" t="19" n="Animal Planet HD"/>
 		</TS>
-		<TS id="0048" on="0001" frq="10873000" inv="2" sr="25000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="0021" f="4" s="1" t="1" n="UNK (0x0048_0x0021)"/>
-			<S i="0130" f="4" s="1" t="1" n="UNK (0x0048_0x0130)"/>
-			<S i="060b" f="4" s="1" t="1" n="UNK (0x0048_0x060B)"/>
-			<S i="08fd" f="4" s="1" t="1" n="UNK (0x0048_0x08FD)"/>
-			<S i="0b78" f="4" s="1" t="1" n="UNK (0x0048_0x0B78)"/>
-			<S i="1195" f="4" s="1" t="1" n="UNK (0x0048_0x1195)"/>
-			<S i="132b" f="4" s="1" t="1" n="UNK (0x0048_0x132B)"/>
-			<S i="1bb1" f="4" s="1" t="1" n="UNK (0x0048_0x1BB1)"/>
-			<S i="1d1c" f="4" s="1" t="1" n="UNK (0x0048_0x1D1C)"/>
-			<S i="1d25" f="4" s="1" t="1" n="UNK (0x0048_0x1D25)"/>
-			<S i="1d26" f="4" s="1" t="1" n="UNK (0x0048_0x1D26)"/>
-			<S i="1d27" f="4" s="1" t="1" n="UNK (0x0048_0x1D27)"/>
-			<S i="1d28" f="4" s="1" t="1" n="UNK (0x0048_0x1D28)"/>
-			<S i="45f3" f="4" s="1" t="1" n="UNK (0x0048_0x45F3)"/>
+		<TS id="0048" on="0001" frq="10872000" inv="2" sr="25000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="0021" f="1" s="1" t="1" n="UNK (0x0048_0x0021)"/>
+			<S i="0130" f="1" s="1" t="1" n="UNK (0x0048_0x0130)"/>
+			<S i="060b" f="1" s="1" t="1" n="UNK (0x0048_0x060B)"/>
+			<S i="08fd" f="1" s="1" t="1" n="UNK (0x0048_0x08FD)"/>
+			<S i="0b78" f="1" s="1" t="1" n="UNK (0x0048_0x0B78)"/>
+			<S i="1195" f="1" s="1" t="1" n="UNK (0x0048_0x1195)"/>
+			<S i="132b" f="1" s="1" t="1" n="UNK (0x0048_0x132B)"/>
+			<S i="1bb1" f="1" s="1" t="1" n="UNK (0x0048_0x1BB1)"/>
+			<S i="1d1c" f="1" s="1" t="1" n="UNK (0x0048_0x1D1C)"/>
+			<S i="1d25" f="1" s="1" t="1" n="UNK (0x0048_0x1D25)"/>
+			<S i="1d26" f="1" s="1" t="1" n="UNK (0x0048_0x1D26)"/>
+			<S i="1d27" f="1" s="1" t="1" n="UNK (0x0048_0x1D27)"/>
+			<S i="1d28" f="1" s="1" t="1" n="UNK (0x0048_0x1D28)"/>
+			<S i="45f3" f="1" s="1" t="1" n="UNK (0x0048_0x45F3)"/>
 		</TS>
-		<TS id="0048" on="0046" frq="10873000" inv="2" sr="25000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+		<TS id="0048" on="0046" frq="10872000" inv="2" sr="25000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0021" f="4" s="1" t="19" n="Yle TV2 HD"/>
 			<S i="0130" f="4" s="1" t="16" n="Nelonen"/>
 			<S i="060b" f="4" s="1" t="16" n="JIM"/>

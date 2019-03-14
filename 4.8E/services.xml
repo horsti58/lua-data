@@ -155,6 +155,24 @@
 			<S i="28af" f="4" s="1" t="1" n="Playboy TV"/>
 			<S i="28b4" f="4" s="1" t="1" n="NHK World Japan"/>
 		</TS>
+		<TS id="002b" on="0055" frq="11747000" inv="2" sr="30000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="1db5" f="4" s="1" t="16" n="Tellytrack"/>
+			<S i="1dba" f="4" s="0" t="19" n="ZIK HD TEST"/>
+			<S i="1dbf" f="4" s="0" t="16" n="Mist TV"/>
+			<S i="1dc4" f="4" s="0" t="16" n="Sirius TV"/>
+			<S i="1dc9" f="4" s="1" t="16" n="Test A"/>
+			<S i="1dce" f="4" s="0" t="19" n="NEWS ONE HD"/>
+			<S i="1dd3" f="4" s="1" t="16" n="Test B"/>
+			<S i="1dd8" f="4" s="0" t="16" n="Channel 4 (Ukraine)"/>
+			<S i="1ddd" f="4" s="1" t="16" n="Test C"/>
+			<S i="1de2" f="4" s="1" t="16" n="ERC"/>
+			<S i="1df1" f="4" s="0" t="16" n="TV5"/>
+			<S i="1dfb" f="4" s="1" t="16" n="Test D"/>
+			<S i="1e00" f="4" s="0" t="19" n="ATR HD"/>
+			<S i="1e05" f="4" s="0" t="16" n="ObozTV"/>
+			<S i="1e0a" f="4" s="1" t="19" n="English Club HD"/>
+			<S i="1e0f" f="4" s="1" t="19" n="TEST-5"/>
+		</TS>
 		<TS id="000c" on="0055" frq="11766000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="17d4" f="4" s="0" t="1" n="1+1"/>
 			<S i="17de" f="4" s="0" t="1" n="TET"/>
@@ -429,9 +447,9 @@
 		<TS id="0035" on="0053" frq="12245000" inv="2" sr="30000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0b5e" f="4" s="1" t="19" n="Ukraine XD"/>
 			<S i="0b5f" f="4" s="1" t="19" n="NLO XD"/>
-			<S i="0b68" f="1" s="1" t="19" n="1+1 XD"/>
-			<S i="0b69" f="1" s="1" t="19" n="TET XD"/>
-			<S i="0b6a" f="1" s="1" t="19" n="2+2 XD"/>
+			<S i="0b68" f="4" s="1" t="19" n="1+1 XD"/>
+			<S i="0b69" f="4" s="1" t="19" n="TET XD"/>
+			<S i="0b6a" f="4" s="1" t="19" n="2+2 XD"/>
 			<S i="0bae" f="2" s="1" t="19" n="Test"/>
 		</TS>
 		<TS id="002c" on="0055" frq="12265000" inv="2" sr="30000000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
@@ -483,6 +501,31 @@
 			<S i="0503" f="4" s="0" t="2" n="1283"/>
 			<S i="0507" f="4" s="1" t="1" n="Travel"/>
 			<S i="050b" f="4" s="0" t="1" n="Belsat TV"/>
+		</TS>
+		<TS id="0001" on="005e" frq="12322000" inv="2" sr="27500000" fec="5" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="0064" f="1" s="1" t="1" n="Animal Planet Europe"/>
+			<S i="0065" f="1" s="1" t="1" n="Animal Planet Europe"/>
+			<S i="0066" f="1" s="1" t="1" n="Animal Planet Europe"/>
+			<S i="00c8" f="1" s="1" t="1" n="Discovery Central Europe"/>
+			<S i="00c9" f="1" s="1" t="1" n="Discovery Central Europe"/>
+			<S i="0190" f="1" s="1" t="1" n="ID Xtra Europe"/>
+			<S i="0191" f="1" s="1" t="1" n="ID Xtra Europe"/>
+			<S i="0192" f="1" s="1" t="1" n="ID Xtra Europe"/>
+			<S i="01f4" f="1" s="1" t="1" n="Discovery Central Europe"/>
+			<S i="0384" f="1" s="1" t="1" n="Science Europe"/>
+			<S i="0385" f="1" s="1" t="1" n="Science Europe"/>
+			<S i="0386" f="1" s="1" t="1" n="Science Europe"/>
+			<S i="03e8" f="1" s="1" t="1" n="Discovery World"/>
+			<S i="03e9" f="1" s="1" t="1" n="Discovery World"/>
+			<S i="03ea" f="1" s="1" t="1" n="Discovery World"/>
+			<S i="044c" f="1" s="1" t="1" n="Discovery Turkey HD"/>
+			<S i="0514" f="1" s="1" t="1" n="Animal Planet Turkey HD"/>
+			<S i="05dc" f="1" s="1" t="1" n="Science Turkey HD"/>
+			<S i="1068" f="1" s="1" t="1" n="ESP2 Clean DE"/>
+			<S i="10cc" f="1" s="1" t="1" n="ESP1 Clean DE"/>
+			<S i="1130" f="1" s="1" t="1" n="ESP1 Clean"/>
+			<S i="1194" f="1" s="1" t="1" n="ESP2 Clean"/>
+			<S i="11f8" f="1" s="1" t="1" n="ESP2 BL Clean"/>
 		</TS>
 		<TS id="0001" on="005e" frq="12360000" inv="2" sr="27500000" fec="5" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0258" f="4" s="1" t="1" n="Turbo Xtra Poland"/>

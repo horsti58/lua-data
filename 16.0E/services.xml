@@ -129,7 +129,7 @@
 			<S i="0e38" f="4" s="0" t="19" n="Discovery Showcase HD"/>
 			<S i="125c" f="4" s="0" t="19" n="Animal Planet HD"/>
 			<S i="1270" f="4" s="0" t="19" n="Discovery Science HD"/>
-			<S i="1284" f="4" s="0" t="19" n="Discovery Showcase HD"/>
+			<S i="1284" f="4" s="1" t="19" n="Discovery Showcase HD"/>
 		</TS>
 		<TS id="526c" on="016e" frq="10928000" inv="2" sr="30000000" fec="10" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="044d" f="4" s="1" t="16" n="Ginx"/>
@@ -153,11 +153,11 @@
 			<S i="0548" f="4" s="1" t="1" n="Palma Plus"/>
 			<S i="0549" f="4" s="1" t="1" n="Pink Kids"/>
 			<S i="054a" f="4" s="1" t="1" n="Alfa"/>
-			<S i="054b" f="4" s="0" t="1" n="Arena Sport 4"/>
+			<S i="054b" f="4" s="1" t="1" n="Arena Sport 4"/>
 			<S i="054c" f="4" s="1" t="1" n="24 Vesti"/>
 			<S i="054d" f="4" s="1" t="1" n="Telma"/>
 			<S i="054e" f="4" s="1" t="1" n="1TV"/>
-			<S i="054f" f="4" s="1" t="1" n="Kanal 5+"/>
+			<S i="054f" f="4" s="1" t="1" n="Alfa MKD"/>
 			<S i="0550" f="4" s="1" t="1" n="Comedy Central"/>
 			<S i="0551" f="4" s="1" t="1" n="CineStar HRV"/>
 			<S i="0552" f="4" s="1" t="1" n="Travel"/>
@@ -221,7 +221,7 @@
 			<S i="04c8" f="4" s="1" t="1f" n="Noe"/>
 			<S i="04c9" f="4" s="1" t="1f" n="RiK"/>
 			<S i="04ca" f="4" s="1" t="1f" n="Spektrum"/>
-			<S i="04cb" f="4" s="0" t="1f" n="Spektrum Home"/>
+			<S i="04cb" f="4" s="1" t="1f" n="Spektrum Home"/>
 			<S i="04cc" f="4" s="1" t="1f" n="Sport 2 HD"/>
 			<S i="04cd" f="4" s="1" t="1f" n="TV Paprika"/>
 			<S i="04ce" f="4" s="1" t="1f" n="Sport 1"/>
@@ -549,6 +549,7 @@
 			<S i="0263" f="4" s="1" t="16" n="BNT 4"/>
 			<S i="0264" f="4" s="1" t="16" n="Eurosport 2"/>
 			<S i="0265" f="4" s="1" t="16" n="Planeta folk"/>
+			<S i="0266" f="1" s="1" t="16" n="Fine Living"/>
 			<S i="0267" f="4" s="1" t="16" n="Discovery Channel"/>
 			<S i="0268" f="4" s="1" t="16" n="Duck TV SAT"/>
 			<S i="0269" f="4" s="1" t="16" n="Fen TV"/>
@@ -569,6 +570,7 @@
 			<S i="0278" f="4" s="1" t="19" n="Eurosport 1 HD"/>
 			<S i="0279" f="4" s="1" t="19" n="Eurosport 2 HD"/>
 			<S i="027a" f="4" s="1" t="16" n="Fine Living"/>
+			<S i="027b" f="1" s="1" t="16" n="TLC"/>
 			<S i="027c" f="4" s="1" t="19" n="eSportsTV"/>
 			<S i="027d" f="4" s="1" t="19" n="ID Xtra HD"/>
 			<S i="027e" f="4" s="1" t="16" n="TLC"/>
@@ -584,6 +586,9 @@
 			<S i="0289" f="4" s="1" t="16" n="National Geographic Wild"/>
 			<S i="028a" f="4" s="1" t="16" n="Boomerang"/>
 			<S i="028b" f="4" s="1" t="16" n="Boomerang"/>
+			<S i="028c" f="1" s="1" t="19" n="Eurosport 1 HD"/>
+			<S i="028e" f="1" s="1" t="16" n="ID Xtra HD"/>
+			<S i="028f" f="1" s="1" t="16" n="Baby TV"/>
 			<S i="02ba" f="4" s="1" t="16" n="Fine Living"/>
 			<S i="02bb" f="4" s="1" t="16" n="Duck TV"/>
 		</TS>
@@ -624,6 +629,7 @@
 			<S i="002c" f="4" s="1" t="16" n="BBC Earth."/>
 			<S i="002e" f="4" s="1" t="16" n="Cinestar Premiere 1."/>
 			<S i="002f" f="4" s="1" t="16" n="Cinestar Fantasy."/>
+			<S i="0030" f="1" s="1" t="16" n="Nickelodeon HR."/>
 			<S i="0032" f="4" s="1" t="16" n="Vavoom."/>
 			<S i="0033" f="4" s="1" t="16" n="Boomerang TV."/>
 			<S i="0034" f="4" s="1" t="16" n="Baby TV."/>

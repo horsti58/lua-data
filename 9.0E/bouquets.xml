@@ -7,14 +7,14 @@
 	<Bouquet name="[E009.0] ARC/DCM1 TSOIP">
 		<S i="166" t="19c8" on="9e" s="90" frq="12034" n="Disney Channel ME"/>
 	</Bouquet>
+	<Bouquet name="[E009.0] ARQIVA">
+		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
+	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva">
 		<S i="451" t="1af4" on="9e" s="90" frq="12092" n="DISJ1_CEMA"/>
 		<S i="479" t="1af4" on="9e" s="90" frq="12092" n="E! Entertainment Europe"/>
 		<S i="456" t="1af4" on="9e" s="90" frq="12092" n="Luxe TV"/>
 		<S i="46a" t="1af4" on="9e" s="90" frq="12092" n="Vivolta"/>
-	</Bouquet>
-	<Bouquet name="[E009.0] ARQIVA">
-		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva LTD">
 		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="TV5MONDE France Belgique Suisse"/>
@@ -58,9 +58,6 @@
 		<S i="db5" t="16a8" on="9c" s="90" frq="11881" n="RTI"/>
 		<S i="db2" t="16a8" on="9c" s="90" frq="11881" n="World Fashion Channel"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] Encoder">
-		<S i="dc3" t="16a8" on="9c" s="90" frq="11881" n="OPAP HR"/>
-	</Bouquet>
 	<Bouquet name="[E009.0] encoder">
 		<S i="25a" t="c3c8" on="9e" s="90" frq="11938" n="Better-1"/>
 		<S i="25b" t="c3c8" on="9e" s="90" frq="11938" n="Better-2"/>
@@ -73,6 +70,9 @@
 		<S i="dc2" t="16a8" on="9c" s="90" frq="11881" n="OPAP MG"/>
 		<S i="dc1" t="16a8" on="9c" s="90" frq="11881" n="OPAP VG1"/>
 		<S i="dbb" t="16a8" on="9c" s="90" frq="11881" n="ORTB TV"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] Encoder">
+		<S i="dc3" t="16a8" on="9c" s="90" frq="11881" n="OPAP HR"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Eutelsat">
 		<S i="672" t="170c" on="9e" s="90" frq="11900" n="myZen.tv HD"/>
