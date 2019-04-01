@@ -2,9 +2,8 @@
 		<S i="1b1" t="170c" on="9e" s="90" frq="11900" n="EBS+HD"/>
 		<S i="e9" t="170c" on="9e" s="90" frq="11900" n="EBSHD"/>
 		<S i="65" t="170c" on="9e" s="90" frq="11900" n="RTS2"/>
-		<S i="25e" t="c3c8" on="9e" s="90" frq="11938" n="RTS2"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] ARC/DCM1 TSOIP">
+	<Bouquet name="[E009.0] ARC/DCM2 TSOIP">
 		<S i="166" t="19c8" on="9e" s="90" frq="12034" n="Disney Channel ME"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] ARQIVA">
@@ -58,6 +57,10 @@
 		<S i="db5" t="16a8" on="9c" s="90" frq="11881" n="RTI"/>
 		<S i="db2" t="16a8" on="9c" s="90" frq="11881" n="World Fashion Channel"/>
 	</Bouquet>
+	<Bouquet name="[E009.0] Encoder">
+		<S i="dc5" t="16a8" on="9c" s="90" frq="11881" n="EFB1 TEST"/>
+		<S i="dc3" t="16a8" on="9c" s="90" frq="11881" n="OPAP HR"/>
+	</Bouquet>
 	<Bouquet name="[E009.0] encoder">
 		<S i="25a" t="c3c8" on="9e" s="90" frq="11938" n="Better-1"/>
 		<S i="25b" t="c3c8" on="9e" s="90" frq="11938" n="Better-2"/>
@@ -70,9 +73,6 @@
 		<S i="dc2" t="16a8" on="9c" s="90" frq="11881" n="OPAP MG"/>
 		<S i="dc1" t="16a8" on="9c" s="90" frq="11881" n="OPAP VG1"/>
 		<S i="dbb" t="16a8" on="9c" s="90" frq="11881" n="ORTB TV"/>
-	</Bouquet>
-	<Bouquet name="[E009.0] Encoder">
-		<S i="dc3" t="16a8" on="9c" s="90" frq="11881" n="OPAP HR"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Eutelsat">
 		<S i="672" t="170c" on="9e" s="90" frq="11900" n="myZen.tv HD"/>
@@ -102,14 +102,11 @@
 		<S i="26e" t="1900" on="9c" s="90" frq="11996" n="CGTN-A"/>
 		<S i="26c" t="1900" on="9c" s="90" frq="11996" n="CGTN-E"/>
 		<S i="26d" t="1900" on="9c" s="90" frq="11996" n="CGTN-R"/>
-		<S i="271" t="1900" on="9c" s="90" frq="11996" n="JiangSu TV"/>
 		<S i="272" t="1900" on="9c" s="90" frq="11996" n="PTV Global"/>
-		<S i="270" t="1900" on="9c" s="90" frq="11996" n="TV Globo"/>
 		<S i="277" t="1900" on="9c" s="90" frq="11996" n="Babcock FM Feed 1"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] iKO Media Group">
 		<S i="dbe" t="16a8" on="9c" s="90" frq="11881" n="Love Nature HD"/>
-		<S i="dbd" t="16a8" on="9c" s="90" frq="11881" n="ZOOMOO HD"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] iKOMG">
 		<S i="dc4" t="16a8" on="9c" s="90" frq="11881" n="TRT Tamil Oli"/>
@@ -241,8 +238,8 @@
 		<S i="26e" t="206c" on="9c" s="90" frq="12360" n="National Geographic HD"/>
 		<S i="267" t="206c" on="9c" s="90" frq="12360" n="Nick Jr."/>
 		<S i="1fe" t="2134" on="9c" s="90" frq="11977" n="OstWest"/>
-		<S i="1fb" t="2134" on="9c" s="90" frq="11977" n="PENTHOUSE HD"/>
-		<S i="201" t="2134" on="9c" s="90" frq="11977" n="PENTHOUSE HD (20-06)"/>
+		<S i="1fb" t="2134" on="9c" s="90" frq="11977" n="Penthouse Passion"/>
+		<S i="201" t="2134" on="9c" s="90" frq="11977" n="Penthouse Passion (20-06)"/>
 		<S i="1f6" t="2134" on="9c" s="90" frq="11977" n="Playboy TV"/>
 		<S i="203" t="2134" on="9c" s="90" frq="11977" n="Playboy TV SD (20-06)"/>
 		<S i="b54" t="1bbc" on="9c" s="90" frq="12130" n="Pro7 FUN HD"/>
@@ -315,7 +312,6 @@
 		<S i="43d" t="1" on="aa" s="90" frq="11843" n="CNBC"/>
 		<S i="410" t="2" on="aa" s="90" frq="12054" n="CNN"/>
 		<S i="44f" t="6" on="aa" s="90" frq="12399" n="Corfu Channel"/>
-		<S i="41c" t="8" on="aa" s="90" frq="12169" n="COSMOTE Cinema Oscars HD"/>
 		<S i="45d" t="5" on="aa" s="90" frq="12284" n="COSMOTE History"/>
 		<S i="408" t="4" on="aa" s="90" frq="12207" n="COSMOTE History HD"/>
 		<S i="3f0" t="5" on="aa" s="90" frq="12284" n="COSMOTECinema1HD"/>
@@ -365,7 +361,8 @@
 		<S i="445" t="6" on="aa" s="90" frq="12399" n="Nickelodeon HD"/>
 		<S i="405" t="5" on="aa" s="90" frq="12284" n="OPEN BEYOND HD"/>
 		<S i="46f" t="8" on="aa" s="90" frq="12169" n="Outdoor Channel HD"/>
-		<S i="425" t="5" on="aa" s="90" frq="12284" n="Penthouse HD1"/>
+		<S i="425" t="5" on="aa" s="90" frq="12284" n="Penthouse Gold"/>
+		<S i="41c" t="8" on="aa" s="90" frq="12169" n="POPUP HD TEST"/>
 		<S i="3fe" t="5" on="aa" s="90" frq="12284" n="PPV1 Test"/>
 		<S i="3ff" t="5" on="aa" s="90" frq="12284" n="PPV2 Test"/>
 		<S i="456" t="5" on="aa" s="90" frq="12284" n="Private TV"/>
@@ -378,7 +375,7 @@
 		<S i="41d" t="1" on="aa" s="90" frq="11843" n="Stingray CMusic"/>
 		<S i="3f5" t="1" on="aa" s="90" frq="11843" n="Stingray iConcerts"/>
 		<S i="44a" t="2" on="aa" s="90" frq="12054" n="SundanceTV"/>
-		<S i="414" t="6" on="aa" s="90" frq="12399" n="TCM"/>
+		<S i="414" t="6" on="aa" s="90" frq="12399" n="TCM HD"/>
 		<S i="468" t="7" on="aa" s="90" frq="12475" n="TEST 13"/>
 		<S i="429" t="7" on="aa" s="90" frq="12475" n="TEST 2"/>
 		<S i="45f" t="1" on="aa" s="90" frq="11843" n="TEST 3"/>
@@ -413,14 +410,12 @@
 	</Bouquet>
 	<Bouquet name="[E009.0] RRSat">
 		<S i="1" t="1770" on="64" s="90" frq="11919" n="Fashion Television"/>
-		<S i="3" t="1770" on="64" s="90" frq="11919" n="IBC TAMIL"/>
 		<S i="2c" t="1770" on="64" s="90" frq="11919" n="Italy Service 2"/>
 		<S i="3a" t="1770" on="64" s="90" frq="11919" n="Italy Service 3"/>
 		<S i="3c" t="1770" on="64" s="90" frq="11919" n="Italy Service 5"/>
 		<S i="11" t="1770" on="64" s="90" frq="11919" n="NLM TV"/>
 		<S i="2a" t="1770" on="64" s="90" frq="11919" n="Star Vijay"/>
 		<S i="c" t="1770" on="64" s="90" frq="11919" n="TIN_972737998873"/>
-		<S i="46" t="1770" on="64" s="90" frq="11919" n="IBC TAMIL Radio"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Scopus Network Technologies">
 		<S i="dbf" t="16a8" on="9c" s="90" frq="11881" n="RTS 1"/>
@@ -434,7 +429,6 @@
 		<S i="dad" t="16a8" on="9c" s="90" frq="11881" n="Virtual Verde"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] TRACE">
-		<S i="e" t="170c" on="9e" s="90" frq="11900" n="TRACE SPORTS INTER HD"/>
 		<S i="f" t="170c" on="9e" s="90" frq="11900" n="TRACE URBAN INTER HD"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] TVT">
@@ -454,17 +448,7 @@
 		<S i="6b" t="65" on="12" s="90" frq="11804" n="AFN|sports 2"/>
 		<S i="192" t="65" on="12" s="90" frq="11804" n="Bars &amp; Tone"/>
 		<S i="191" t="65" on="12" s="90" frq="11804" n="Reaper (EPG Video)"/>
-		<S i="3ea" t="7" on="22" s="90" frq="12475" n="UNK (0x0007_0x03EA)"/>
-		<S i="3eb" t="7" on="22" s="90" frq="12475" n="UNK (0x0007_0x03EB)"/>
-		<S i="3f8" t="7" on="22" s="90" frq="12475" n="UNK (0x0007_0x03F8)"/>
-		<S i="40e" t="7" on="22" s="90" frq="12475" n="UNK (0x0007_0x040E)"/>
-		<S i="429" t="7" on="22" s="90" frq="12475" n="UNK (0x0007_0x0429)"/>
-		<S i="435" t="7" on="22" s="90" frq="12475" n="UNK (0x0007_0x0435)"/>
-		<S i="451" t="7" on="22" s="90" frq="12475" n="UNK (0x0007_0x0451)"/>
-		<S i="455" t="7" on="22" s="90" frq="12475" n="UNK (0x0007_0x0455)"/>
-		<S i="458" t="7" on="22" s="90" frq="12475" n="UNK (0x0007_0x0458)"/>
-		<S i="459" t="7" on="22" s="90" frq="12475" n="UNK (0x0007_0x0459)"/>
-		<S i="460" t="7" on="22" s="90" frq="12475" n="UNK (0x0007_0x0460)"/>
+		<S i="e" t="170c" on="9e" s="90" frq="11900" n="TRACE SPORTS INTER HD"/>
 		<S i="78" t="65" on="12" s="90" frq="11804" n="AFN Atlantic Eagle"/>
 		<S i="84" t="65" on="12" s="90" frq="11804" n="AFN Contingency"/>
 		<S i="81" t="65" on="12" s="90" frq="11804" n="AFN Country"/>

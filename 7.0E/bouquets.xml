@@ -1,7 +1,6 @@
 	<Bouquet name="[E007.0] ABS">
 		<S i="201" t="765c" on="7e" s="70" frq="11304" n="Iran International HD"/>
 		<S i="1649" t="9efc" on="7e" s="70" frq="11221" n="IRAN INTERNATIONAL To Eutelsat"/>
-		<S i="1af4" t="9efc" on="7e" s="70" frq="11221" n="IRANEFARDA"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] BBC World Service">
 		<S i="1" t="4e20" on="64" s="70" frq="10721" n="BBC Persian"/>
@@ -64,8 +63,8 @@
 		<S i="610" t="c418" on="7e" s="70" frq="11492" n="beIN BOX OFFICE HD 2"/>
 		<S i="611" t="c418" on="7e" s="70" frq="11492" n="beIN BOX OFFICE HD 3"/>
 		<S i="cb" t="526c" on="7e" s="70" frq="10887" n="beIN GURME HD"/>
-		<S i="206d" t="52d0" on="7e" s="70" frq="10928" n="beIN H&amp;E HD"/>
 		<S i="20bd" t="52d0" on="7e" s="70" frq="10928" n="beIN H&amp;E HD"/>
+		<S i="206d" t="52d0" on="7e" s="70" frq="10928" n="beIN H&amp;E HD"/>
 		<S i="1e80" t="5208" on="7e" s="70" frq="10928" n="beIN HD"/>
 		<S i="14b6" t="c6d4" on="7e" s="70" frq="11513" n="beIN MOVIES ACTION 2 HD"/>
 		<S i="2079" t="52d0" on="7e" s="70" frq="10928" n="beIN MOVIES ACTION HD"/>
@@ -85,8 +84,8 @@
 		<S i="26a" t="c47c" on="7e" s="70" frq="11637" n="beIN SPORTS HD 4"/>
 		<S i="6e3" t="c4e0" on="7e" s="70" frq="11534" n="beIN SPORTS MAX HD 1"/>
 		<S i="2076" t="52d0" on="7e" s="70" frq="10928" n="beIN SPORTS MAX HD 2"/>
-		<S i="1ffd" t="50dc" on="7e" s="70" frq="10845" n="beIN İZ HD"/>
 		<S i="1fb6" t="50dc" on="7e" s="70" frq="10845" n="beIN İZ HD"/>
+		<S i="1ffd" t="50dc" on="7e" s="70" frq="10845" n="beIN İZ HD"/>
 		<S i="14e7" t="c6d4" on="7e" s="70" frq="11513" n="BEST FM"/>
 		<S i="1de8" t="c544" on="7e" s="70" frq="11554" n="BEYAZ TV"/>
 		<S i="1fab" t="50dc" on="7e" s="70" frq="10845" n="BEYAZ TV HD"/>
@@ -116,8 +115,8 @@
 		<S i="1f47" t="5140" on="7e" s="70" frq="10845" n="DMAX"/>
 		<S i="2007" t="50dc" on="7e" s="70" frq="10845" n="DMAX HD"/>
 		<S i="14d4" t="c6d4" on="7e" s="70" frq="11513" n="DREAMY"/>
-		<S i="1e83" t="5208" on="7e" s="70" frq="10928" n="DİYANET TV"/>
 		<S i="213d" t="4fb0" on="7e" s="70" frq="10804" n="DİYANET TV"/>
+		<S i="1e83" t="5208" on="7e" s="70" frq="10928" n="DİYANET TV"/>
 		<S i="14d1" t="c6d4" on="7e" s="70" frq="11513" n="EASY LISTENING"/>
 		<S i="6ea" t="c4e0" on="7e" s="70" frq="11534" n="EKOTÜRK"/>
 		<S i="207a" t="52d0" on="7e" s="70" frq="10928" n="EKOTÜRK HD"/>
@@ -162,7 +161,6 @@
 		<S i="14e9" t="c6d4" on="7e" s="70" frq="11513" n="KRAL POP RADYO"/>
 		<S i="1944" t="c60c" on="7e" s="70" frq="11596" n="KRT TV"/>
 		<S i="14cc" t="c6d4" on="7e" s="70" frq="11513" n="LATIN"/>
-		<S i="6d0" t="c4e0" on="7e" s="70" frq="11534" n="LIFETIME"/>
 		<S i="14bd" t="c6d4" on="7e" s="70" frq="11513" n="LOVE SONGS"/>
 		<S i="14ed" t="c6d4" on="7e" s="70" frq="11513" n="MASAL RADYO"/>
 		<S i="1c88" t="c738" on="7e" s="70" frq="11617" n="MCM TOP HD"/>
@@ -229,8 +227,8 @@
 		<S i="2143" t="4fb0" on="7e" s="70" frq="10804" n="TRT SPOR HD"/>
 		<S i="2139" t="4fb0" on="7e" s="70" frq="10804" n="TRT TÜRK"/>
 		<S i="14e1" t="c6d4" on="7e" s="70" frq="11513" n="TRT TÜRKÜ"/>
-		<S i="11e" t="526c" on="7e" s="70" frq="10887" n="TRT WORLD HD"/>
 		<S i="ce" t="526c" on="7e" s="70" frq="10887" n="TRT WORLD HD"/>
+		<S i="11e" t="526c" on="7e" s="70" frq="10887" n="TRT WORLD HD"/>
 		<S i="213f" t="4fb0" on="7e" s="70" frq="10804" n="TRT ÇOCUK"/>
 		<S i="6d1" t="c4e0" on="7e" s="70" frq="11534" n="TRT1"/>
 		<S i="2b2" t="c47c" on="7e" s="70" frq="11637" n="TRT1 HD"/>
@@ -247,6 +245,7 @@
 		<S i="278" t="c47c" on="7e" s="70" frq="11637" n="TİCARİ beIN SPORTS HD 2"/>
 		<S i="108" t="526c" on="7e" s="70" frq="10887" n="TİCARİ beIN SPORTS HD 3"/>
 		<S i="27e" t="c47c" on="7e" s="70" frq="11637" n="TİCARİ beIN SPORTS HD 4"/>
+		<S i="6d0" t="c4e0" on="7e" s="70" frq="11534" n="unknown (0xC4E0_0x06D0)"/>
 		<S i="1935" t="c60c" on="7e" s="70" frq="11596" n="VH1"/>
 		<S i="14e4" t="c6d4" on="7e" s="70" frq="11513" n="VIRGIN RADIO"/>
 		<S i="90b" t="c5a8" on="7e" s="70" frq="11575" n="ÜLKE TV"/>
@@ -255,15 +254,23 @@
 		<S i="14bb" t="c6d4" on="7e" s="70" frq="11513" n="ŞÖMİNE KEYFİ"/>
 		<S i="1faf" t="50dc" on="7e" s="70" frq="10845" n="test_i3-"/>
 	</Bouquet>
+	<Bouquet name="[E007.0] ERICSSON Television">
+		<S i="802" t="7788" on="7e" s="70" frq="11324" n="IFILM HD"/>
+	</Bouquet>
 	<Bouquet name="[E007.0] Eutelsat">
 		<S i="1630" t="9efc" on="7e" s="70" frq="11221" n="Andisheh TV"/>
+		<S i="806" t="7788" on="7e" s="70" frq="11324" n="Bartar TV"/>
 		<S i="1fe" t="765c" on="7e" s="70" frq="11304" n="Cine Film HD"/>
 		<S i="1ff" t="765c" on="7e" s="70" frq="11304" n="Cine Series HD"/>
+		<S i="803" t="7788" on="7e" s="70" frq="11324" n="English Club Farsi"/>
 		<S i="1612" t="9efc" on="7e" s="70" frq="11221" n="Erfan Halgheh"/>
+		<S i="808" t="7788" on="7e" s="70" frq="11324" n="Family TV"/>
+		<S i="805" t="7788" on="7e" s="70" frq="11324" n="Fashion TV HD"/>
 		<S i="1af4" t="9efc" on="7e" s="70" frq="11221" n="IRANEFARDA"/>
 		<S i="15ea" t="9efc" on="7e" s="70" frq="11221" n="Kalemeh TV"/>
 		<S i="1626" t="9efc" on="7e" s="70" frq="11221" n="Kanal Yek TV"/>
 		<S i="1f9" t="765c" on="7e" s="70" frq="11304" n="Maah TV HD"/>
+		<S i="775" t="9fc4" on="7e" s="70" frq="11387" n="Manoto HD +1"/>
 		<S i="1f8" t="765c" on="7e" s="70" frq="11304" n="Melody TV HD"/>
 		<S i="1fd" t="765c" on="7e" s="70" frq="11304" n="Nat Geo Farsi HD"/>
 		<S i="1608" t="9efc" on="7e" s="70" frq="11221" n="PTN"/>
@@ -277,10 +284,6 @@
 	<Bouquet name="[E007.0] GLOBECAST">
 		<S i="2" t="4e20" on="64" s="70" frq="10721" n="Simaye-Azadi"/>
 	</Bouquet>
-	<Bouquet name="[E007.0] Harmonic">
-		<S i="139" t="9efc" on="7e" s="70" frq="11345" n="Csat"/>
-		<S i="1" t="1000" on="2000" s="70" frq="12530" n="SatView"/>
-	</Bouquet>
 	<Bouquet name="[E007.0] iKOMG">
 		<S i="2199" t="4e20" on="64" s="70" frq="10721" n="Rangarang TV"/>
 	</Bouquet>
@@ -290,17 +293,21 @@
 	<Bouquet name="[E007.0] Manoto HD">
 		<S i="1" t="765c" on="7e" s="70" frq="11304" n="Manoto HD"/>
 	</Bouquet>
-	<Bouquet name="[E007.0] MMB">
-		<S i="16e" t="765c" on="7e" s="70" frq="11262" n="4U TV"/>
-		<S i="16a" t="765c" on="7e" s="70" frq="11262" n="IR Cama 1 TV"/>
-		<S i="168" t="765c" on="7e" s="70" frq="11262" n="Khane Honarmandan"/>
+	<Bouquet name="[E007.0] MBC">
+		<S i="773" t="9fc4" on="7e" s="70" frq="11387" n="Cine Film"/>
+		<S i="772" t="9fc4" on="7e" s="70" frq="11387" n="Cine Series"/>
+		<S i="76d" t="9fc4" on="7e" s="70" frq="11387" n="MBC Persia"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] MX1">
+		<S i="809" t="7788" on="7e" s="70" frq="11324" n="PMC HD"/>
 		<S i="13a" t="9efc" on="7e" s="70" frq="11345" n="PMC SD"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] none">
+		<S i="16e" t="765c" on="7e" s="70" frq="11262" n="4U TV"/>
+		<S i="12e" t="765c" on="7e" s="70" frq="11262" n="Erfan Halgheh"/>
 		<S i="70" t="765c" on="7e" s="70" frq="11262" n="Hadi 4"/>
 		<S i="6e" t="765c" on="7e" s="70" frq="11262" n="Hadi 7"/>
+		<S i="16a" t="765c" on="7e" s="70" frq="11262" n="IR Cama 1 TV"/>
 		<S i="164" t="765c" on="7e" s="70" frq="11262" n="Janatol baghie TV"/>
 		<S i="12d" t="765c" on="7e" s="70" frq="11262" n="Maah TV"/>
 	</Bouquet>
@@ -308,26 +315,6 @@
 		<S i="e" t="4e20" on="64" s="70" frq="10721" n="Azadi"/>
 		<S i="5" t="4e20" on="64" s="70" frq="10721" n="NEJAT TV"/>
 	</Bouquet>
-	<Bouquet name="[E007.0] TV-Provider">
-		<S i="101" t="1" on="1" s="70" frq="12530" n="TV-101"/>
-	</Bouquet>
 	<Bouquet name="[E007.0] Unknown Provider">
-		<S i="773" t="9fc4" on="7e" s="70" frq="11387" n="Cine Film"/>
-		<S i="772" t="9fc4" on="7e" s="70" frq="11387" n="Cine Series"/>
 		<S i="6d" t="765c" on="7e" s="70" frq="11262" n="hidayah turky"/>
-		<S i="775" t="9fc4" on="7e" s="70" frq="11387" n="Manoto HD +1"/>
-		<S i="26a" t="c47c" on="20" s="70" frq="11637" n="UNK (0xC47C_0x026A)"/>
-		<S i="26b" t="c47c" on="20" s="70" frq="11637" n="UNK (0xC47C_0x026B)"/>
-		<S i="26c" t="c47c" on="20" s="70" frq="11637" n="UNK (0xC47C_0x026C)"/>
-		<S i="26d" t="c47c" on="20" s="70" frq="11637" n="UNK (0xC47C_0x026D)"/>
-		<S i="26e" t="c47c" on="20" s="70" frq="11637" n="UNK (0xC47C_0x026E)"/>
-		<S i="271" t="c47c" on="20" s="70" frq="11637" n="UNK (0xC47C_0x0271)"/>
-		<S i="272" t="c47c" on="20" s="70" frq="11637" n="UNK (0xC47C_0x0272)"/>
-		<S i="278" t="c47c" on="20" s="70" frq="11637" n="UNK (0xC47C_0x0278)"/>
-		<S i="27e" t="c47c" on="20" s="70" frq="11637" n="UNK (0xC47C_0x027E)"/>
-		<S i="282" t="c47c" on="20" s="70" frq="11637" n="UNK (0xC47C_0x0282)"/>
-		<S i="2b2" t="c47c" on="20" s="70" frq="11637" n="UNK (0xC47C_0x02B2)"/>
-	</Bouquet>
-	<Bouquet name="[E007.0] Wide Network Solutions">
-		<S i="200" t="765c" on="7e" s="70" frq="11304" n="Radio Javan HD"/>
 	</Bouquet>
