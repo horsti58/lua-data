@@ -117,6 +117,7 @@
 			<S i="071c" f="4" s="1" t="1" n="SISAL 2"/>
 			<S i="0726" f="4" s="1" t="1" n="SISAL 3"/>
 			<S i="0730" f="4" s="1" t="1" n="SISAL 4"/>
+			<S i="073a" f="4" s="1" t="1" n="SISAL 5"/>
 		</TS>
 		<TS id="0001" on="00aa" frq="11843000" inv="2" sr="27500000" fec="10" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="03f5" f="4" s="1" t="1" n="Stingray iConcerts"/>
@@ -146,7 +147,6 @@
 			<S i="0dad" f="4" s="1" t="1" n="Virtual Verde"/>
 			<S i="0dae" f="4" s="1" t="1" n="Virtual Giallo"/>
 			<S i="0daf" f="4" s="1" t="1" n="Rai Africa"/>
-			<S i="0db2" f="4" s="0" t="19" n="World Fashion Channel"/>
 			<S i="0db5" f="4" s="0" t="1" n="RTI"/>
 			<S i="0db7" f="4" s="1" t="1" n="EUROBET 11"/>
 			<S i="0db8" f="4" s="1" t="1" n="EUROBET 12"/>
@@ -160,7 +160,6 @@
 			<S i="0dc2" f="4" s="1" t="1" n="OPAP MG"/>
 			<S i="0dc3" f="4" s="0" t="1" n="OPAP HR"/>
 			<S i="0dc4" f="4" s="0" t="2" n="TRT Tamil Oli"/>
-			<S i="0dc5" f="4" s="0" t="1" n="EFB1 TEST"/>
 		</TS>
 		<TS id="170c" on="009e" frq="11900000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="000e" f="4" s="1" t="1" n="TRACE SPORTS INTER HD"/>
@@ -169,8 +168,12 @@
 			<S i="0015" f="4" s="0" t="2" n="TVT Radio 1 (Radio Lome)"/>
 			<S i="0016" f="4" s="0" t="2" n="TVT Radio 2 (Radio Kara)"/>
 			<S i="0017" f="4" s="0" t="1" n="RTB TV"/>
-			<S i="0018" f="4" s="0" t="2" n="RTB Radio"/>
+			<S i="0018" f="4" s="0" t="1" n="RTB Radio"/>
 			<S i="0065" f="4" s="0" t="19" n="RTS2"/>
+			<S i="006f" f="4" s="1" t="1" n="Better-1"/>
+			<S i="0070" f="4" s="1" t="1" n="Better-2"/>
+			<S i="0071" f="4" s="1" t="1" n="Better-3"/>
+			<S i="0072" f="4" s="1" t="1" n="Better-4"/>
 			<S i="00e9" f="4" s="0" t="19" n="EBSHD"/>
 			<S i="01b1" f="4" s="0" t="19" n="EBS+HD"/>
 			<S i="0672" f="4" s="1" t="19" n="myZen.tv HD"/>
@@ -190,6 +193,7 @@
 			<S i="025b" f="4" s="1" t="1" n="Better-2"/>
 			<S i="025c" f="4" s="1" t="1" n="Better-3"/>
 			<S i="025d" f="4" s="1" t="1" n="Better-4"/>
+			<S i="025e" f="4" s="1" t="1" n="TEST 81"/>
 		</TS>
 		<TS id="1838" on="009e" frq="11958000" inv="2" sr="27500000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0065" f="4" s="0" t="19" n="M1 HD"/>
@@ -259,6 +263,8 @@
 			<S i="0160" f="4" s="0" t="1" n="RTG int"/>
 			<S i="0161" f="4" s="0" t="1" n="Phoenix Info News"/>
 			<S i="0162" f="4" s="0" t="1" n="ORTM"/>
+			<S i="0163" f="4" s="0" t="1" n="Télé Sahel"/>
+			<S i="0164" f="4" s="0" t="2" n="La Voix Du Sahel"/>
 			<S i="0165" f="4" s="1" t="1" n="BBC_Entertainment_Europe"/>
 			<S i="0166" f="4" s="1" t="1" n="Disney Channel ME"/>
 			<S i="0168" f="4" s="0" t="1" n="Karusel Int"/>
@@ -401,9 +407,9 @@
 			<S i="03ef" f="4" s="1" t="1" n="α.Epsilon"/>
 			<S i="03f0" f="4" s="1" t="1" n="COSMOTECinema1HD"/>
 			<S i="03f2" f="4" s="1" t="1" n="Attica TV"/>
-			<S i="03f3" f="4" s="1" t="1" n="CinemaOnDemand2"/>
-			<S i="03fe" f="4" s="1" t="1" n="PPV1 Test"/>
-			<S i="03ff" f="4" s="1" t="1" n="PPV2 Test"/>
+			<S i="03f3" f="4" s="1" t="1" n="PPV TST2"/>
+			<S i="03fe" f="4" s="1" t="1" n="COSMOTE CinemaOnDemand 1 HD"/>
+			<S i="03ff" f="4" s="1" t="1" n="COSMOTE CinemaOnDemand 2"/>
 			<S i="0402" f="4" s="1" t="1" n="Μακεδονία TV"/>
 			<S i="0405" f="4" s="1" t="1" n="OPEN BEYOND HD"/>
 			<S i="0411" f="4" s="1" t="1" n="Hustler TV HD"/>
@@ -490,7 +496,7 @@
 			<S i="03f8" f="4" s="1" t="1" n="Village Cinema HD"/>
 			<S i="040e" f="4" s="1" t="1" n="FOX HD"/>
 			<S i="0429" f="4" s="1" t="1" n="TEST 2"/>
-			<S i="0435" f="4" s="1" t="1" n="CinemaOnDemand1HD"/>
+			<S i="0435" f="4" s="1" t="1" n="PPV TST1"/>
 			<S i="0451" f="4" s="1" t="1" n="ΕΡΤ Sports HD"/>
 			<S i="0455" f="4" s="1" t="1" n="COSMOTESport5HD"/>
 			<S i="0457" f="4" s="1" t="1" n="TEST I"/>

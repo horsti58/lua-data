@@ -1,8 +1,10 @@
 	<sat name="26.0E Badr" position="260" diseqc="-1" uncommited="-1">
 		<TS id="001a" on="001a" frq="11958000" inv="2" sr="27500000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
+			<S i="08ac" f="4" s="0" t="1" n="Palestine Live HD"/>
 			<S i="0b9a" f="4" s="0" t="1" n="Palestine HD"/>
 			<S i="0ba4" f="4" s="0" t="1" n="MUSAWA"/>
 			<S i="0bae" f="4" s="0" t="1" n="Palestine News"/>
+			<S i="0bb8" f="4" s="0" t="1" n="MUSAWA HD"/>
 			<S i="0d02" f="4" s="0" t="1" n="Palestine Live"/>
 			<S i="0d16" f="4" s="0" t="1" n="Palestine"/>
 			<S i="0d2a" f="4" s="0" t="1" n="Awdeh"/>
@@ -19,7 +21,7 @@
 			<S i="0019" f="4" s="0" t="1" n="Sky News Arabia"/>
 			<S i="001f" f="4" s="0" t="1" n="France 24 (en Français)"/>
 			<S i="0020" f="4" s="0" t="1" n="France 24 (in English)"/>
-			<S i="0021" f="4" s="0" t="1" n="DW-TV ARABIA"/>
+			<S i="0021" f="4" s="0" t="1" n="DW Arabia"/>
 			<S i="0023" f="4" s="0" t="1" n="Sky News Arabia Radio"/>
 			<S i="0025" f="4" s="0" t="16" n="TEST"/>
 			<S i="0029" f="4" s="0" t="1" n="CNBC Arabiya R1"/>
@@ -31,7 +33,7 @@
 			<S i="0033" f="4" s="0" t="2" n="RMC Doualia"/>
 			<S i="0034" f="4" s="0" t="1" n="Euronews"/>
 			<S i="0035" f="4" s="0" t="1" n="Afrique Media TV"/>
-			<S i="0036" f="4" s="0" t="1" n="RTI 1"/>
+			<S i="0036" f="4" s="1" t="1" n="UNK (0x01FD_0x0036)"/>
 		</TS>
 		<TS id="001a" on="02be" frq="12015000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0a29" f="4" s="0" t="1" n="Saudi 1"/>
@@ -53,7 +55,7 @@
 		<TS id="1015" on="02be" frq="12034000" inv="2" sr="27500000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0001" f="4" s="0" t="1" n="TAseti Radio"/>
 			<S i="004c" f="4" s="0" t="1" n="Quran Kareem"/>
-			<S i="004d" f="4" s="0" t="1" n="SAMSAR"/>
+			<S i="004d" f="4" s="0" t="1" n="Dongula Radio"/>
 			<S i="019b" f="4" s="0" t="1" n="Test"/>
 			<S i="019c" f="4" s="0" t="1" n="Al Istijaba TV"/>
 			<S i="019d" f="4" s="0" t="19" n="Alalamia (University of Africa)"/>
@@ -66,9 +68,8 @@
 			<S i="01a5" f="4" s="0" t="1" n="Sudan Sport"/>
 			<S i="01a6" f="4" s="0" t="1" n="Sudania 24"/>
 			<S i="01a8" f="4" s="0" t="1" n="Omdurman TV"/>
-			<S i="01ae" f="4" s="0" t="1" n="Tayba TV"/>
-			<S i="01af" f="4" s="0" t="1" n="Test"/>
-			<S i="01b0" f="4" s="0" t="1" n="Nile River"/>
+			<S i="01ae" f="4" s="0" t="1" n="TEST"/>
+			<S i="01b0" f="4" s="0" t="19" n="Nile River"/>
 			<S i="01b1" f="4" s="0" t="1" n="Alalamia 2 TV"/>
 			<S i="01b8" f="4" s="0" t="1" n="Al-Marikh TV"/>
 		</TS>
@@ -79,7 +80,7 @@
 			<S i="0714" f="4" s="0" t="2" n="Amman FM"/>
 			<S i="0718" f="4" s="0" t="2" n="Jordan Radio Foreign"/>
 			<S i="071a" f="4" s="0" t="19" n="Almamlaka TV"/>
-			<S i="071b" f="4" s="0" t="1" n="Al-Arabiya"/>
+			<S i="071b" f="4" s="0" t="19" n="RO`YA HD"/>
 			<S i="0726" f="4" s="0" t="2" n="Radio Orient"/>
 			<S i="0729" f="4" s="0" t="1" n="RTD-Djibouti"/>
 			<S i="072a" f="4" s="0" t="1" n="SSBC"/>
@@ -90,6 +91,18 @@
 			<S i="0730" f="4" s="0" t="1" n="Iqra TV"/>
 			<S i="0731" f="4" s="0" t="1" n="test"/>
 			<S i="0732" f="4" s="0" t="2" n="SSBC RADIO"/>
+		</TS>
+		<TS id="01ff" on="02be" frq="12111000" inv="2" sr="27500000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
+			<S i="0002" f="4" s="0" t="1" n="ARIRANG"/>
+			<S i="0009" f="4" s="0" t="1" n="ALAAN TV"/>
+			<S i="000e" f="4" s="0" t="1" n="JAWNA"/>
+			<S i="000f" f="4" s="0" t="1" n="PEACE TV"/>
+			<S i="0010" f="4" s="0" t="19" n="PEACE TV HD"/>
+			<S i="0011" f="4" s="0" t="19" n="CITRUSS TV HD"/>
+			<S i="0012" f="4" s="0" t="19" n="ALAAN TV HD"/>
+			<S i="0013" f="4" s="0" t="19" n="HAWAS TV HD"/>
+			<S i="0019" f="4" s="0" t="2" n="ALAAN FM"/>
+			<S i="001e" f="4" s="0" t="1" n="Dubai Holy Quran"/>
 		</TS>
 		<TS id="01fc" on="02be" frq="12130000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0899" f="4" s="0" t="1" n="Dubai TV"/>
@@ -154,53 +167,6 @@
 			<S i="0064" f="4" s="0" t="19" n="KTV CH1 HD"/>
 			<S i="006e" f="4" s="0" t="19" n="KTV Sport HD"/>
 		</TS>
-		<TS id="024e" on="02be" frq="12523000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="0002" f="4" s="0" t="1" n="test"/>
-			<S i="0004" f="4" s="0" t="1" n="ASHOROOQ"/>
-			<S i="0005" f="4" s="0" t="1" n="S24"/>
-			<S i="0006" f="4" s="0" t="1" n="Neelain Sport"/>
-			<S i="0007" f="4" s="0" t="1" n="Tayba TV"/>
-			<S i="0008" f="4" s="0" t="1" n="Sudan Drama"/>
-			<S i="0009" f="4" s="0" t="2" n="test"/>
-			<S i="000a" f="4" s="0" t="1" n="IXIR"/>
-			<S i="000b" f="4" s="0" t="1" n="TEST"/>
-			<S i="000c" f="4" s="0" t="1" n="Sudan Music"/>
-			<S i="000e" f="4" s="0" t="1" n="Test2"/>
-			<S i="000f" f="4" s="0" t="1" n="Sudan Sport"/>
-			<S i="0015" f="4" s="0" t="2" n="Quran Omdurman"/>
-			<S i="0016" f="4" s="0" t="2" n="FM-100"/>
-			<S i="0017" f="4" s="0" t="2" n="Omdurman Radio"/>
-			<S i="0018" f="4" s="0" t="2" n="Darfur FM"/>
-			<S i="0019" f="4" s="0" t="2" n="test"/>
-			<S i="001a" f="4" s="0" t="2" n="Radio_010"/>
-			<S i="001b" f="4" s="0" t="2" n="Alqwat Almosalaha"/>
-			<S i="001c" f="4" s="0" t="2" n="Alraba94"/>
-			<S i="001d" f="4" s="0" t="2" n="ALBASIRA TEST"/>
-			<S i="001e" f="4" s="0" t="2" n="Danga"/>
-			<S i="001f" f="4" s="0" t="2" n="Radio_011"/>
-			<S i="0020" f="4" s="0" t="2" n="Radio_012"/>
-			<S i="0022" f="4" s="0" t="2" n="Sports FM104"/>
-			<S i="0023" f="4" s="0" t="2" n="BLADI SUDAN"/>
-			<S i="0024" f="4" s="0" t="2" n="Sahiroon"/>
-			<S i="0025" f="4" s="0" t="2" n="Radio_017"/>
-			<S i="0026" f="4" s="0" t="2" n="Radio_018"/>
-			<S i="0027" f="4" s="0" t="2" n="Radio_019"/>
-			<S i="0028" f="4" s="0" t="2" n="Radio_020"/>
-			<S i="0029" f="4" s="0" t="2" n="Albasira FM"/>
-			<S i="002a" f="4" s="0" t="2" n="test"/>
-			<S i="002b" f="4" s="0" t="2" n="unknown (0x024E_0x002B)"/>
-			<S i="002c" f="4" s="0" t="2" n="test"/>
-			<S i="002e" f="4" s="0" t="2" n="OUS-Sudan"/>
-			<S i="002f" f="4" s="0" t="2" n="Beladi Sudan"/>
-			<S i="0030" f="4" s="0" t="2" n="Radio_028"/>
-			<S i="0032" f="4" s="0" t="19" n="Sudania24HD"/>
-			<S i="005a" f="4" s="0" t="1" n="Sudan monwaat"/>
-			<S i="0065" f="4" s="0" t="19" n="Sudan Sport HD"/>
-			<S i="0071" f="4" s="0" t="1" n="TEST"/>
-			<S i="01fd" f="4" s="0" t="2" n="TEST"/>
-			<S i="07da" f="4" s="0" t="1" n="Sudan"/>
-			<S i="07db" f="4" s="0" t="1" n="test12"/>
-		</TS>
 		<TS id="001a" on="0088" frq="12563000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0001" f="4" s="0" t="1" n="ELMOURITANIA"/>
 			<S i="0002" f="4" s="0" t="1" n="ELMOURITANIA 2"/>
@@ -213,10 +179,10 @@
 			<S i="0009" f="4" s="0" t="1" n="DAVA TV"/>
 			<S i="000a" f="4" s="0" t="1" n="Athagavia MR"/>
 			<S i="000b" f="4" s="0" t="1" n="Arriadia MR"/>
-			<S i="000c" f="4" s="0" t="1" n="TV 12"/>
+			<S i="000c" f="4" s="0" t="1" n="AL BARLEMANIA"/>
 			<S i="000d" f="4" s="0" t="1" n="TV 13"/>
 			<S i="000e" f="4" s="0" t="1" n="TV 14"/>
-			<S i="000f" f="4" s="0" t="1" n="TV 15"/>
+			<S i="000f" f="4" s="0" t="1" n="AL MOURITANIYA HD"/>
 			<S i="0082" f="4" s="0" t="2" n="RADIO MAURITANIE"/>
 			<S i="0083" f="4" s="0" t="2" n="RADIO CORAN"/>
 			<S i="0084" f="4" s="0" t="2" n="RADIO JEUNESSE"/>

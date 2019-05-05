@@ -1,6 +1,4 @@
 	<Bouquet name="[E009.0] aCAN Group">
-		<S i="1b1" t="170c" on="9e" s="90" frq="11900" n="EBS+HD"/>
-		<S i="e9" t="170c" on="9e" s="90" frq="11900" n="EBSHD"/>
 		<S i="65" t="170c" on="9e" s="90" frq="11900" n="RTS2"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] ARC/DCM2 TSOIP">
@@ -53,19 +51,20 @@
 		<S i="1a0" t="1964" on="9c" s="90" frq="12015" n="sixx HD"/>
 		<S i="196" t="1964" on="9c" s="90" frq="12015" n="SUPER RTL HD"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] DVB">
-		<S i="db5" t="16a8" on="9c" s="90" frq="11881" n="RTI"/>
-		<S i="db2" t="16a8" on="9c" s="90" frq="11881" n="World Fashion Channel"/>
-	</Bouquet>
 	<Bouquet name="[E009.0] Encoder">
-		<S i="dc5" t="16a8" on="9c" s="90" frq="11881" n="EFB1 TEST"/>
 		<S i="dc3" t="16a8" on="9c" s="90" frq="11881" n="OPAP HR"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] encoder">
+		<S i="6f" t="170c" on="9e" s="90" frq="11900" n="Better-1"/>
 		<S i="25a" t="c3c8" on="9e" s="90" frq="11938" n="Better-1"/>
 		<S i="25b" t="c3c8" on="9e" s="90" frq="11938" n="Better-2"/>
+		<S i="70" t="170c" on="9e" s="90" frq="11900" n="Better-2"/>
 		<S i="25c" t="c3c8" on="9e" s="90" frq="11938" n="Better-3"/>
+		<S i="71" t="170c" on="9e" s="90" frq="11900" n="Better-3"/>
 		<S i="25d" t="c3c8" on="9e" s="90" frq="11938" n="Better-4"/>
+		<S i="72" t="170c" on="9e" s="90" frq="11900" n="Better-4"/>
+		<S i="1b1" t="170c" on="9e" s="90" frq="11900" n="EBS+HD"/>
+		<S i="e9" t="170c" on="9e" s="90" frq="11900" n="EBSHD"/>
 		<S i="db7" t="16a8" on="9c" s="90" frq="11881" n="EUROBET 11"/>
 		<S i="db8" t="16a8" on="9c" s="90" frq="11881" n="EUROBET 12"/>
 		<S i="db9" t="16a8" on="9c" s="90" frq="11881" n="EUROBET 13"/>
@@ -80,6 +79,7 @@
 		<S i="71c" t="1" on="64" s="90" frq="11823" n="SISAL 2"/>
 		<S i="726" t="1" on="64" s="90" frq="11823" n="SISAL 3"/>
 		<S i="730" t="1" on="64" s="90" frq="11823" n="SISAL 4"/>
+		<S i="73a" t="1" on="64" s="90" frq="11823" n="SISAL 5"/>
 		<S i="65e" t="1" on="64" s="90" frq="11823" n="Carrefour Iper"/>
 		<S i="668" t="1" on="64" s="90" frq="11823" n="Carrefour Market"/>
 		<S i="6a4" t="1" on="64" s="90" frq="11823" n="RADIO WE"/>
@@ -93,7 +93,9 @@
 		<S i="162" t="19c8" on="9e" s="90" frq="12034" n="ORTM"/>
 		<S i="161" t="19c8" on="9e" s="90" frq="12034" n="Phoenix Info News"/>
 		<S i="160" t="19c8" on="9e" s="90" frq="12034" n="RTG int"/>
+		<S i="163" t="19c8" on="9e" s="90" frq="12034" n="Télé Sahel"/>
 		<S i="cd" t="19c8" on="9e" s="90" frq="12034" n="W9 Suisse HD"/>
+		<S i="164" t="19c8" on="9e" s="90" frq="12034" n="La Voix Du Sahel"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] GlobeCast">
 		<S i="165" t="19c8" on="9e" s="90" frq="12034" n="BBC_Entertainment_Europe"/>
@@ -307,11 +309,11 @@
 		<S i="3f6" t="6" on="aa" s="90" frq="12399" n="Blue Sky"/>
 		<S i="46b" t="8" on="aa" s="90" frq="12169" n="CBS Reality"/>
 		<S i="40a" t="2" on="aa" s="90" frq="12054" n="CENTER TV"/>
-		<S i="435" t="7" on="aa" s="90" frq="12475" n="CinemaOnDemand1HD"/>
-		<S i="3f3" t="5" on="aa" s="90" frq="12284" n="CinemaOnDemand2"/>
 		<S i="43d" t="1" on="aa" s="90" frq="11843" n="CNBC"/>
 		<S i="410" t="2" on="aa" s="90" frq="12054" n="CNN"/>
 		<S i="44f" t="6" on="aa" s="90" frq="12399" n="Corfu Channel"/>
+		<S i="3fe" t="5" on="aa" s="90" frq="12284" n="COSMOTE CinemaOnDemand 1 HD"/>
+		<S i="3ff" t="5" on="aa" s="90" frq="12284" n="COSMOTE CinemaOnDemand 2"/>
 		<S i="45d" t="5" on="aa" s="90" frq="12284" n="COSMOTE History"/>
 		<S i="408" t="4" on="aa" s="90" frq="12207" n="COSMOTE History HD"/>
 		<S i="3f0" t="5" on="aa" s="90" frq="12284" n="COSMOTECinema1HD"/>
@@ -363,8 +365,8 @@
 		<S i="46f" t="8" on="aa" s="90" frq="12169" n="Outdoor Channel HD"/>
 		<S i="425" t="5" on="aa" s="90" frq="12284" n="Penthouse Gold"/>
 		<S i="41c" t="8" on="aa" s="90" frq="12169" n="POPUP HD TEST"/>
-		<S i="3fe" t="5" on="aa" s="90" frq="12284" n="PPV1 Test"/>
-		<S i="3ff" t="5" on="aa" s="90" frq="12284" n="PPV2 Test"/>
+		<S i="435" t="7" on="aa" s="90" frq="12475" n="PPV TST1"/>
+		<S i="3f3" t="5" on="aa" s="90" frq="12284" n="PPV TST2"/>
 		<S i="456" t="5" on="aa" s="90" frq="12284" n="Private TV"/>
 		<S i="3fb" t="8" on="aa" s="90" frq="12169" n="Promo HD"/>
 		<S i="43e" t="2" on="aa" s="90" frq="12054" n="RT"/>
@@ -380,6 +382,7 @@
 		<S i="429" t="7" on="aa" s="90" frq="12475" n="TEST 2"/>
 		<S i="45f" t="1" on="aa" s="90" frq="11843" n="TEST 3"/>
 		<S i="462" t="8" on="aa" s="90" frq="12169" n="TEST 5"/>
+		<S i="25e" t="c3c8" on="9e" s="90" frq="11938" n="TEST 81"/>
 		<S i="415" t="2" on="aa" s="90" frq="12054" n="TEST C"/>
 		<S i="448" t="4" on="aa" s="90" frq="12207" n="TEST G"/>
 		<S i="457" t="7" on="aa" s="90" frq="12475" n="TEST I"/>
@@ -404,6 +407,7 @@
 	</Bouquet>
 	<Bouquet name="[E009.0] RAI">
 		<S i="daf" t="16a8" on="9c" s="90" frq="11881" n="Rai Africa"/>
+		<S i="db5" t="16a8" on="9c" s="90" frq="11881" n="RTI"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] RR Media">
 		<S i="10" t="1770" on="64" s="90" frq="11919" n="Holy God TV"/>
@@ -421,9 +425,6 @@
 		<S i="dbf" t="16a8" on="9c" s="90" frq="11881" n="RTS 1"/>
 		<S i="dc0" t="16a8" on="9c" s="90" frq="11881" n="RSI"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] Service Provider">
-		<S i="18" t="170c" on="9e" s="90" frq="11900" n="RTB Radio"/>
-	</Bouquet>
 	<Bouquet name="[E009.0] Telespazio">
 		<S i="dae" t="16a8" on="9c" s="90" frq="11881" n="Virtual Giallo"/>
 		<S i="dad" t="16a8" on="9c" s="90" frq="11881" n="Virtual Verde"/>
@@ -432,6 +433,7 @@
 		<S i="f" t="170c" on="9e" s="90" frq="11900" n="TRACE URBAN INTER HD"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] TVT">
+		<S i="18" t="170c" on="9e" s="90" frq="11900" n="RTB Radio"/>
 		<S i="17" t="170c" on="9e" s="90" frq="11900" n="RTB TV"/>
 		<S i="14" t="170c" on="9e" s="90" frq="11900" n="TVT International"/>
 		<S i="15" t="170c" on="9e" s="90" frq="11900" n="TVT Radio 1 (Radio Lome)"/>

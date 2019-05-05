@@ -28,7 +28,6 @@
 			<S i="0a28" f="4" s="1" t="19" n="Viasat History HD"/>
 			<S i="0a2d" f="4" s="1" t="16" n="Paramount Network SE"/>
 			<S i="0a32" f="4" s="1" t="19" n="TV6 HD Sweden"/>
-			<S i="0a37" f="4" s="1" t="16" n="E!"/>
 			<S i="0a3c" f="4" s="1" t="19" n="Viasat Explore HD"/>
 			<S i="0a41" f="4" s="1" t="16" n="MTV Nordic"/>
 			<S i="0a46" f="4" s="1" t="19" n="Viasat 4 HD"/>
@@ -75,6 +74,19 @@
 			<S i="06d6" f="4" s="1" t="19" n="TV3 MAX"/>
 			<S i="06e0" f="4" s="1" t="16" n="FEM"/>
 			<S i="06ea" f="4" s="1" t="19" n="Cmore Hockey HD"/>
+			<S i="06ee" f="4" s="1" t="2" n="P4 Lyden av Norge"/>
+			<S i="06f0" f="4" s="1" t="2" n="DR P2 Klassisk"/>
+			<S i="06f2" f="4" s="1" t="2" n="DR P3"/>
+			<S i="06f4" f="4" s="1" t="2" n="Bandit Classic 2"/>
+			<S i="06f6" f="4" s="1" t="2" n="Svenska favoriter 2"/>
+			<S i="06f8" f="4" s="1" t="2" n="Classic 2"/>
+			<S i="06fa" f="4" s="1" t="2" n="Power Hit Radio"/>
+			<S i="06fc" f="4" s="1" t="2" n="Power Club 2"/>
+			<S i="06fe" f="4" s="1" t="2" n="Star FM"/>
+			<S i="0700" f="4" s="1" t="2" n="Bandit"/>
+			<S i="0702" f="4" s="1" t="2" n="Rix"/>
+			<S i="0704" f="4" s="1" t="2" n="Lugna favoriter"/>
+			<S i="0706" f="4" s="1" t="2" n="DR1"/>
 			<S i="1f54" f="4" s="1" t="16" n="Viasat Xtra 1"/>
 			<S i="1f5e" f="4" s="1" t="16" n="Viasat Xtra 2"/>
 			<S i="1f68" f="4" s="1" t="16" n="Viasat Xtra 3"/>
@@ -98,7 +110,6 @@
 		</TS>
 		<TS id="001f" on="0056" frq="11385000" inv="2" sr="30000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0514" f="4" s="1" t="19" n="TV 2 Nyhetskanalen HD"/>
-			<S i="051e" f="4" s="1" t="16" n="National Geographic S"/>
 			<S i="0528" f="4" s="1" t="19" n="TV2 Zebra HD"/>
 			<S i="0532" f="4" s="1" t="19" n="TV2 Sport Premium 1"/>
 			<S i="053c" f="4" s="1" t="19" n="TV2 Sport Premium 2"/>
@@ -116,8 +127,7 @@
 			<S i="0bc8" f="4" s="1" t="2" n="Bandit Classics"/>
 			<S i="0bca" f="4" s="1" t="2" n="Svenska Favoriter"/>
 			<S i="0bcc" f="4" s="1" t="19" n="Cmore Sport HD"/>
-			<S i="0bea" f="4" s="1" t="19" n="U test 27 2"/>
-			<S i="0bf4" f="4" s="1" t="19" n="Cmore Golf HD"/>
+			<S i="0bea" f="4" s="0" t="19" n="U test 27 2"/>
 			<S i="0bfe" f="4" s="1" t="19" n="Cmore Live HD"/>
 			<S i="0c08" f="4" s="1" t="19" n="TV12 HD"/>
 			<S i="0c0c" f="4" s="1" t="2" n="Classic"/>
@@ -238,8 +248,6 @@
 		<TS id="0018" on="0056" frq="11919000" inv="2" sr="28000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="1130" f="4" s="1" t="19" n="TV10 HD"/>
 			<S i="1133" f="4" s="1" t="19" n="TV3 Puls HD"/>
-			<S i="1136" f="4" s="1" t="16" n="TV10"/>
-			<S i="1139" f="4" s="1" t="16" n="TV8"/>
 			<S i="113c" f="4" s="1" t="16" n="Kunskapskanalen"/>
 			<S i="113f" f="4" s="1" t="16" n="SVTB"/>
 			<S i="1142" f="4" s="1" t="16" n="SVT24"/>
@@ -379,7 +387,6 @@
 			<S i="19af" f="4" s="1" t="1" n="UKRAINA-SD"/>
 			<S i="19b4" f="4" s="1" t="1" n="ENGLISH CLUB TV"/>
 			<S i="19be" f="4" s="0" t="1" n="NATALI"/>
-			<S i="1af4" f="4" s="0" t="2" n="ARMY FM"/>
 		</TS>
 		<TS id="001a" on="0044" frq="12092000" inv="2" sr="30000000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0ab4" f="4" s="1" t="1" n="Viasat Nature"/>
@@ -441,7 +448,7 @@
 		</TS>
 		<TS id="0018" on="0044" frq="12207000" inv="2" sr="30000000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0960" f="4" s="0" t="82" n="EPG DU"/>
-			<S i="09c4" f="4" s="1" t="1" n="SONY SCI-FI"/>
+			<S i="09c4" f="4" s="1" t="1" n="Sony Sci-Fi"/>
 			<S i="09ce" f="4" s="1" t="1" n="Animal Planet"/>
 			<S i="09d8" f="4" s="1" t="1" n="TLC"/>
 			<S i="09e2" f="4" s="1" t="1" n="Discovery Channel"/>
@@ -469,12 +476,12 @@
 			<S i="0b68" f="4" s="1" t="19" n="1+1 XD"/>
 			<S i="0b69" f="4" s="1" t="19" n="TET XD"/>
 			<S i="0b6a" f="4" s="1" t="19" n="2+2 XD"/>
+			<S i="0b87" f="4" s="0" t="19" n="OU-FEED-HD-2951"/>
 		</TS>
 		<TS id="002c" on="0055" frq="12265000" inv="2" sr="30000000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="1e15" f="4" s="1" t="1" n="TEST1"/>
 			<S i="1e16" f="4" s="1" t="1" n="TEST2"/>
 			<S i="1e17" f="4" s="1" t="1" n="TEST3"/>
-			<S i="1e18" f="4" s="1" t="1" n="TEST4"/>
 			<S i="1e1f" f="4" s="0" t="1" n="Trofey"/>
 			<S i="1e20" f="4" s="1" t="1" n="DACHA"/>
 			<S i="1e21" f="4" s="1" t="1" n="EPOQUE"/>
@@ -484,7 +491,7 @@
 			<S i="1e25" f="4" s="1" t="1" n="FILMUADRAMA"/>
 			<S i="1e27" f="4" s="0" t="1" n="36.6"/>
 			<S i="1e29" f="4" s="0" t="1" n="Kyiv TV"/>
-			<S i="1e32" f="4" s="1" t="1" n="TEST7730"/>
+			<S i="1e2a" f="4" s="0" t="1" n="OU-FEED-SD-7722"/>
 			<S i="1e69" f="4" s="1" t="1" n="UKRAINA-SD"/>
 		</TS>
 		<TS id="0011" on="0055" frq="12284000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
@@ -514,57 +521,15 @@
 			<S i="026f" f="4" s="1" t="1" n="Universal HUNGARY"/>
 			<S i="02bc" f="4" s="0" t="2" n="BBC AM Dist1"/>
 			<S i="02da" f="4" s="0" t="2" n="BBC AM Dist4"/>
-			<S i="02e4" f="4" s="0" t="2" n="BBC AM Dist5"/>
 			<S i="03ee" f="4" s="0" t="2" n="Absolute Radio"/>
 			<S i="0503" f="4" s="0" t="2" n="IRN"/>
 			<S i="0507" f="4" s="1" t="1" n="Travel"/>
 			<S i="050b" f="4" s="0" t="1" n="Belsat TV"/>
 		</TS>
-		<TS id="0001" on="005e" frq="12322000" inv="2" sr="27500000" fec="5" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="0064" f="4" s="1" t="1" n="Animal Planet Europe"/>
-			<S i="0065" f="4" s="1" t="1" n="Animal Planet Europe"/>
-			<S i="0066" f="4" s="1" t="1" n="Animal Planet Europe"/>
-			<S i="00c8" f="4" s="1" t="1" n="Discovery Central Europe"/>
-			<S i="00c9" f="4" s="1" t="1" n="Discovery Central Europe"/>
-			<S i="0190" f="4" s="1" t="1" n="ID Xtra Europe"/>
-			<S i="0191" f="4" s="1" t="1" n="ID Xtra Europe"/>
-			<S i="0192" f="4" s="1" t="1" n="ID Xtra Europe"/>
-			<S i="01f4" f="4" s="1" t="1" n="Discovery Central Europe"/>
-			<S i="0384" f="4" s="1" t="1" n="Science Europe"/>
-			<S i="0385" f="4" s="1" t="1" n="Science Europe"/>
-			<S i="0386" f="4" s="1" t="1" n="Science Europe"/>
-			<S i="03e8" f="4" s="1" t="1" n="Discovery World"/>
-			<S i="03e9" f="4" s="1" t="1" n="Discovery World"/>
-			<S i="03ea" f="4" s="1" t="1" n="Discovery World"/>
-			<S i="044c" f="4" s="1" t="1" n="Discovery Turkey HD"/>
-			<S i="0514" f="4" s="1" t="1" n="Animal Planet Turkey HD"/>
-			<S i="05dc" f="4" s="1" t="1" n="Science Turkey HD"/>
-			<S i="1068" f="4" s="1" t="1" n="ESP2 Clean DE"/>
-			<S i="10cc" f="4" s="1" t="1" n="ESP1 Clean DE"/>
-			<S i="1130" f="4" s="1" t="1" n="ESP1 Clean"/>
-			<S i="1194" f="4" s="1" t="1" n="ESP2 Clean"/>
-			<S i="11f8" f="4" s="1" t="1" n="ESP2 BL Clean"/>
-		</TS>
-		<TS id="0001" on="005e" frq="12360000" inv="2" sr="27500000" fec="5" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="0064" f="4" s="0" t="1" n="Travel EMEA HD"/>
-			<S i="0258" f="4" s="1" t="1" n="Turbo Xtra Poland"/>
-			<S i="0320" f="4" s="1" t="1" n="TLC Balkans"/>
-			<S i="03e8" f="4" s="1" t="1" n="TLC Hungary"/>
-			<S i="04b0" f="4" s="1" t="1" n="Discovery Poland"/>
-			<S i="05dc" f="4" s="1" t="1" n="Discovery Life Poland"/>
-			<S i="0640" f="4" s="1" t="1" n="ID Sweden"/>
-			<S i="06a4" f="4" s="1" t="1" n="Animal Planet Poland HD"/>
-			<S i="0708" f="4" s="1" t="1" n="Science Poland HD"/>
-			<S i="0834" f="4" s="1" t="1" n="ID Poland"/>
-			<S i="0898" f="4" s="1" t="1" n="Discovery Sweden"/>
-			<S i="0b54" f="4" s="1" t="1" n="TLC Pan Regional"/>
-			<S i="0b55" f="4" s="1" t="1" n="TLC Pan regional - Portuguese"/>
-			<S i="0c1c" f="4" s="1" t="1" n="TLC Poland HD"/>
-			<S i="125c" f="4" s="0" t="19" n="ESP2 PAN HD"/>
-		</TS>
 		<TS id="0002" on="0055" frq="12380000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="00c8" f="4" s="0" t="1" n="TVGE INTERNATIONAL"/>
 			<S i="00d2" f="4" s="0" t="1" n="ATG EU BSS"/>
+			<S i="00dc" f="4" s="1" t="1" n="RTVi"/>
 			<S i="00e6" f="4" s="0" t="2" n="European Radio for Belarus"/>
 			<S i="00ea" f="4" s="0" t="2" n="Radio Marija Latvia"/>
 			<S i="00ec" f="4" s="1" t="2" n="Test R"/>
@@ -652,11 +617,5 @@
 			<S i="1914" f="4" s="1" t="1" n="TV1000 Balkan FSS"/>
 			<S i="1928" f="4" s="1" t="1" n="TV1000 Russian Kino"/>
 			<S i="195a" f="4" s="1" t="1" n="Viasat History (FSS)"/>
-		</TS>
-		<TS id="01f2" on="0055" frq="12735000" inv="2" sr="3333000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="0001" f="4" s="0" t="1" n="JurnalTV"/>
-			<S i="0002" f="4" s="0" t="1" n="RTR_Moldova"/>
-			<S i="0003" f="4" s="0" t="2" n="Radio-JurnalFM"/>
-			<S i="0005" f="4" s="0" t="2" n="Radio-Micul_Samaritean"/>
 		</TS>
 	</sat>
