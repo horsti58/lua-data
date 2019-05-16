@@ -141,7 +141,7 @@
 			<S i="012d" f="4" s="0" t="1" n="Maah TV"/>
 			<S i="012e" f="4" s="0" t="1" n="Erfan Halgheh"/>
 			<S i="0164" f="4" s="0" t="1" n="Janatol baghie TV"/>
-			<S i="016a" f="4" s="1" t="1" n="UNK (0x765C_0x016A)"/>
+			<S i="016a" f="4" s="0" t="1" n="IR Cama 1 TV"/>
 			<S i="016e" f="4" s="0" t="1" n="4U TV"/>
 			<S i="0170" f="4" s="0" t="1" n="DUA CHANNEL"/>
 			<S i="0172" f="4" s="0" t="1" n="Family TV"/>
@@ -233,7 +233,7 @@
 			<S i="06cf" f="4" s="1" t="1" n="DISNEY JUNIOR"/>
 			<S i="06d1" f="4" s="0" t="1" n="TRT1"/>
 			<S i="06d2" f="4" s="1" t="1" n="STAR"/>
-			<S i="06d3" f="4" s="0" t="11" n="TELE1L HD"/>
+			<S i="06d3" f="4" s="1" t="11" n="TELE 1 HD"/>
 			<S i="06da" f="4" s="1" t="1" n="İDMAN AZERBAYCAN"/>
 			<S i="06de" f="4" s="1" t="1" n="NICK JR."/>
 			<S i="06df" f="4" s="1" t="1" n="BABY FIRST"/>
@@ -276,7 +276,7 @@
 			<S i="090e" f="4" s="1" t="1" n="TEVE2"/>
 			<S i="091a" f="4" s="0" t="1" n="HALK TV"/>
 			<S i="092e" f="4" s="1" t="1" n="BLOOMBERG"/>
-			<S i="092f" f="4" s="0" t="1" n="TELE 1 SD"/>
+			<S i="092f" f="4" s="1" t="1" n="TELE 1"/>
 		</TS>
 		<TS id="c60c" on="007e" frq="11596000" inv="2" sr="30000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="1929" f="4" s="1" t="1" n="RAI 1"/>
@@ -293,7 +293,7 @@
 			<S i="1940" f="4" s="1" t="1" n="A PARA"/>
 			<S i="1941" f="4" s="1" t="1" n="HABER GLOBAL"/>
 			<S i="1944" f="4" s="1" t="1" n="KRT TV"/>
-			<S i="1945" f="4" s="1" t="11" n="unknown (0xC60C_0x1945)"/>
+			<S i="1945" f="4" s="1" t="11" n="TV 100 HD"/>
 		</TS>
 		<TS id="c738" on="007e" frq="11617000" inv="2" sr="30000000" fec="5" pol="1" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="1c85" f="4" s="1" t="11" n="BBC CBeebies HD"/>
@@ -301,11 +301,11 @@
 			<S i="1c87" f="4" s="1" t="11" n="TVNET HD"/>
 			<S i="1c88" f="4" s="1" t="11" n="MCM TOP HD"/>
 			<S i="1c89" f="4" s="1" t="11" n="FASHION TV HD"/>
-			<S i="1c8a" f="4" s="1" t="11" n="TJK TV HD"/>
+			<S i="1c8a" f="4" s="1" t="11" n="unknown (0xC738_0x1C8A)"/>
 			<S i="1c8b" f="4" s="1" t="11" n="HABERTÜRK HD"/>
 			<S i="1c8c" f="4" s="1" t="11" n="NAT GEO HD"/>
 			<S i="1c8d" f="4" s="1" t="11" n="A PARA HD"/>
-			<S i="1c8e" f="4" s="1" t="1" n="unknown (0xC738_0x1C8E)"/>
+			<S i="1c8e" f="4" s="1" t="1" n="TV 100"/>
 		</TS>
 		<TS id="c47c" on="007e" frq="11637000" inv="2" sr="30000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="026a" f="4" s="1" t="11" n="beIN SPORTS HD 4"/>

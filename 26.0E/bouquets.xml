@@ -84,7 +84,7 @@
 	</Bouquet>
 	<Bouquet name="[E026.0] GLOBECAST">
 		<S i="35" t="1fd" on="2be" s="260" frq="11996" n="Afrique Media TV"/>
-		<S i="36" t="1fd" on="2be" s="260" frq="11996" n="UNK (0x01FD_0x0036)"/>
+		<S i="36" t="1fd" on="2be" s="260" frq="11996" n="RTI 1"/>
 		<S i="14" t="1fd" on="2be" s="260" frq="11996" n="RFI Francais"/>
 		<S i="33" t="1fd" on="2be" s="260" frq="11996" n="RMC Doualia"/>
 	</Bouquet>
@@ -183,6 +183,9 @@
 		<S i="b" t="1" on="1" s="260" frq="12169" n="Sout Alkhaleej 3"/>
 		<S i="c" t="1" on="1" s="260" frq="12169" n="Sout Alkhaleej 4"/>
 		<S i="d" t="1" on="1" s="260" frq="12169" n="Sout Alkhaleej Europe"/>
+	</Bouquet>
+	<Bouquet name="[E026.0] RTI 1 PRINCIPAL">
+		<S i="36" t="1fd" on="2be" s="260" frq="11996" n="RTI 1"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] Sky News Arabia">
 		<S i="19" t="1fd" on="2be" s="260" frq="11996" n="Sky News Arabia"/>

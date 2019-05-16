@@ -21,9 +21,9 @@
 		<S i="172" t="765c" on="7e" s="70" frq="11262" n="Family TV"/>
 		<S i="12e" t="9efc" on="7e" s="70" frq="11345" n="Gala TV"/>
 		<S i="12d" t="9efc" on="7e" s="70" frq="11345" n="HodHod TV"/>
+		<S i="16a" t="765c" on="7e" s="70" frq="11262" n="IR Cama 1 TV"/>
 		<S i="176" t="765c" on="7e" s="70" frq="11262" n="iToon TV"/>
 		<S i="135" t="9efc" on="7e" s="70" frq="11345" n="Nat Geo Farsi"/>
-		<S i="16a" t="765c" on="7e" s="70" frq="11262" n="UNK (0x765C_0x016A)"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] Digital Platform">
 		<S i="90a" t="c5a8" on="7e" s="70" frq="11575" n="24"/>
@@ -200,8 +200,8 @@
 		<S i="282" t="c47c" on="7e" s="70" frq="11637" n="TARAFTAR 2 HD"/>
 		<S i="109" t="526c" on="7e" s="70" frq="10887" n="TARAFTAR 3 HD"/>
 		<S i="de" t="526c" on="7e" s="70" frq="10887" n="TARAFTAR HD"/>
-		<S i="92f" t="c5a8" on="7e" s="70" frq="11575" n="TELE 1 SD"/>
-		<S i="6d3" t="c4e0" on="7e" s="70" frq="11534" n="TELE1L HD"/>
+		<S i="92f" t="c5a8" on="7e" s="70" frq="11575" n="TELE 1"/>
+		<S i="6d3" t="c4e0" on="7e" s="70" frq="11534" n="TELE 1 HD"/>
 		<S i="6e4" t="c4e0" on="7e" s="70" frq="11534" n="test_i1"/>
 		<S i="6e5" t="c4e0" on="7e" s="70" frq="11534" n="test_i2"/>
 		<S i="1fb0" t="50dc" on="7e" s="70" frq="10845" n="test_i4-"/>
@@ -209,7 +209,6 @@
 		<S i="1e7e" t="5208" on="7e" s="70" frq="10928" n="TEVE2 HD"/>
 		<S i="608" t="c418" on="7e" s="70" frq="11492" n="TGRT HABER"/>
 		<S i="1fa9" t="50dc" on="7e" s="70" frq="10845" n="TJK TV"/>
-		<S i="1c8a" t="c738" on="7e" s="70" frq="11617" n="TJK TV HD"/>
 		<S i="1de9" t="c544" on="7e" s="70" frq="11554" n="TLC"/>
 		<S i="1f4c" t="5140" on="7e" s="70" frq="10845" n="TLC HD"/>
 		<S i="213b" t="4fb0" on="7e" s="70" frq="10804" n="TRT 3/TRT SPOR"/>
@@ -228,13 +227,15 @@
 		<S i="2143" t="4fb0" on="7e" s="70" frq="10804" n="TRT SPOR HD"/>
 		<S i="2139" t="4fb0" on="7e" s="70" frq="10804" n="TRT TÜRK"/>
 		<S i="14e1" t="c6d4" on="7e" s="70" frq="11513" n="TRT TÜRKÜ"/>
-		<S i="11e" t="526c" on="7e" s="70" frq="10887" n="TRT WORLD HD"/>
 		<S i="ce" t="526c" on="7e" s="70" frq="10887" n="TRT WORLD HD"/>
+		<S i="11e" t="526c" on="7e" s="70" frq="10887" n="TRT WORLD HD"/>
 		<S i="213f" t="4fb0" on="7e" s="70" frq="10804" n="TRT ÇOCUK"/>
 		<S i="6d1" t="c4e0" on="7e" s="70" frq="11534" n="TRT1"/>
 		<S i="2b2" t="c47c" on="7e" s="70" frq="11637" n="TRT1 HD"/>
 		<S i="26c" t="c47c" on="7e" s="70" frq="11637" n="TRT1 HD"/>
 		<S i="2136" t="4fb0" on="7e" s="70" frq="10804" n="TRT2 HD"/>
+		<S i="1c8e" t="c738" on="7e" s="70" frq="11617" n="TV 100"/>
+		<S i="1945" t="c60c" on="7e" s="70" frq="11596" n="TV 100 HD"/>
 		<S i="192e" t="c60c" on="7e" s="70" frq="11596" n="TV5 MONDE EUROPE"/>
 		<S i="1de4" t="c544" on="7e" s="70" frq="11554" n="TV8"/>
 		<S i="1ee4" t="51a4" on="7e" s="70" frq="10887" n="TV8 HD"/>
@@ -246,8 +247,7 @@
 		<S i="278" t="c47c" on="7e" s="70" frq="11637" n="TİCARİ beIN SPORTS HD 2"/>
 		<S i="108" t="526c" on="7e" s="70" frq="10887" n="TİCARİ beIN SPORTS HD 3"/>
 		<S i="27e" t="c47c" on="7e" s="70" frq="11637" n="TİCARİ beIN SPORTS HD 4"/>
-		<S i="1945" t="c60c" on="7e" s="70" frq="11596" n="unknown (0xC60C_0x1945)"/>
-		<S i="1c8e" t="c738" on="7e" s="70" frq="11617" n="unknown (0xC738_0x1C8E)"/>
+		<S i="1c8a" t="c738" on="7e" s="70" frq="11617" n="unknown (0xC738_0x1C8A)"/>
 		<S i="1935" t="c60c" on="7e" s="70" frq="11596" n="VH1"/>
 		<S i="14e4" t="c6d4" on="7e" s="70" frq="11513" n="VIRGIN RADIO"/>
 		<S i="90b" t="c5a8" on="7e" s="70" frq="11575" n="ÜLKE TV"/>
@@ -260,6 +260,7 @@
 		<S i="1630" t="9efc" on="7e" s="70" frq="11221" n="Andisheh TV"/>
 		<S i="1af4" t="9efc" on="7e" s="70" frq="11221" n="IRANEFARDA"/>
 		<S i="1626" t="9efc" on="7e" s="70" frq="11221" n="Kanal Yek TV"/>
+		<S i="775" t="9fc4" on="7e" s="70" frq="11387" n="Manoto HD +1"/>
 		<S i="1608" t="9efc" on="7e" s="70" frq="11221" n="PTN"/>
 		<S i="1647" t="9efc" on="7e" s="70" frq="11221" n="TFM Senegal"/>
 		<S i="1659" t="9efc" on="7e" s="70" frq="11221" n="TPAI"/>
@@ -291,6 +292,7 @@
 		<S i="12e" t="765c" on="7e" s="70" frq="11262" n="Erfan Halgheh"/>
 		<S i="70" t="765c" on="7e" s="70" frq="11262" n="Hadi 4"/>
 		<S i="6e" t="765c" on="7e" s="70" frq="11262" n="Hadi 7"/>
+		<S i="16a" t="765c" on="7e" s="70" frq="11262" n="IR Cama 1 TV"/>
 		<S i="164" t="765c" on="7e" s="70" frq="11262" n="Janatol baghie TV"/>
 		<S i="12d" t="765c" on="7e" s="70" frq="11262" n="Maah TV"/>
 	</Bouquet>

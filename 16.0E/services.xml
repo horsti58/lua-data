@@ -341,7 +341,7 @@
 		<TS id="0001" on="016e" frq="11262000" inv="2" sr="30000000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0004" f="4" s="0" t="1" n="BN SAT HD"/>
 			<S i="0005" f="4" s="0" t="1" n="BN Music HD"/>
-			<S i="0007" f="4" s="0" t="1" n="RTRS"/>
+			<S i="0007" f="4" s="1" t="1" n="RTRS"/>
 			<S i="0008" f="4" s="0" t="2" n="Radio Stari Grad"/>
 			<S i="0009" f="4" s="0" t="2" n="Radio Kalman"/>
 			<S i="000a" f="4" s="0" t="2" n="VIP Radio"/>
@@ -349,6 +349,7 @@
 			<S i="000c" f="4" s="0" t="1" n="BN BIH HD"/>
 			<S i="000d" f="4" s="0" t="2" n="Radio BN"/>
 			<S i="000e" f="4" s="0" t="2" n="Radio MIX"/>
+			<S i="000f" f="1" s="0" t="2" n="Fles Radio"/>
 			<S i="0010" f="4" s="0" t="2" n="Radio Curak"/>
 			<S i="0011" f="4" s="0" t="1" n="RTRS plus"/>
 			<S i="0012" f="4" s="0" t="2" n="RTRS RRS"/>
@@ -476,22 +477,30 @@
 			<S i="0688" f="4" s="1" t="1" n="Nova BH"/>
 		</TS>
 		<TS id="016a" on="016e" frq="11400000" inv="2" sr="13846000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="0007" f="4" s="1" t="1" n="RTV21"/>
-			<S i="000e" f="4" s="1" t="1" n="Klan Kosova"/>
+			<S i="0007" f="2" s="1" t="1" n="RTV21"/>
+			<S i="000e" f="2" s="1" t="1" n="Klan Kosova"/>
 			<S i="000f" f="4" s="1" t="1" n="TNT"/>
-			<S i="0032" f="4" s="1" t="1" n="Jolly HD"/>
-			<S i="003c" f="4" s="1" t="1" n="BBF"/>
-			<S i="0046" f="4" s="1" t="1" n="TRING HISTORY"/>
+			<S i="0022" f="1" s="1" t="1" n="Luxe"/>
+			<S i="0032" f="2" s="1" t="1" n="Jolly HD"/>
+			<S i="003c" f="2" s="1" t="1" n="BBF"/>
+			<S i="0046" f="2" s="1" t="1" n="TRING HISTORY"/>
+			<S i="004c" f="1" s="1" t="1" n="Shenja TV"/>
 			<S i="0063" f="4" s="1" t="1" n="Nat Geographic"/>
-			<S i="0080" f="4" s="0" t="1" n="FAX NEWS"/>
+			<S i="007a" f="1" s="1" t="1" n="Click TV"/>
+			<S i="007b" f="1" s="0" t="1" n="TVSH"/>
+			<S i="007c" f="1" s="1" t="1" n="RTV 21 Popullore"/>
+			<S i="0080" f="2" s="0" t="1" n="FAX NEWS"/>
+			<S i="0087" f="1" s="0" t="1" n="RTK"/>
+			<S i="0097" f="1" s="1" t="1" n="TRING International"/>
 			<S i="00d9" f="4" s="1" t="1" n="CLUB TV"/>
-			<S i="0185" f="4" s="1" t="1" n="MUSE"/>
+			<S i="0185" f="2" s="1" t="1" n="MUSE"/>
 			<S i="038a" f="4" s="1" t="1" n="Fox Life"/>
 			<S i="038b" f="4" s="1" t="1" n="Fox CRIME"/>
 			<S i="0391" f="4" s="1" t="1" n="MEDIASET ITALIA"/>
+			<S i="03f7" f="1" s="1" t="1" n="FOX"/>
 			<S i="04c9" f="4" s="1" t="1" n="ELRODI"/>
 			<S i="0761" f="4" s="0" t="2" n="Club FM"/>
-			<S i="08d4" f="4" s="1" t="1" n="TRING FANTASY"/>
+			<S i="08d4" f="2" s="1" t="1" n="TRING FANTASY"/>
 			<S i="0b0e" f="4" s="1" t="1" n="Bunga Bunga"/>
 			<S i="0b18" f="4" s="1" t="1" n="Bizzare"/>
 			<S i="0c26" f="4" s="1" t="1" n="RTV 21 M"/>
@@ -501,9 +510,11 @@
 			<S i="0002" f="4" s="1" t="1" n="Tring Super HD"/>
 			<S i="0003" f="4" s="1" t="1" n="Tring Sport News"/>
 			<S i="0005" f="4" s="1" t="1" n="Tring Comedy"/>
+			<S i="0007" f="1" s="1" t="1" n="RTV 21"/>
 			<S i="0008" f="4" s="1" t="1" n="TIP TV"/>
 			<S i="0009" f="4" s="1" t="1" n="Tring Tring"/>
 			<S i="000c" f="4" s="1" t="1" n="Tring Planet"/>
+			<S i="000e" f="1" s="1" t="1" n="Klan Kosova"/>
 			<S i="0014" f="4" s="1" t="1" n="Tring Life"/>
 			<S i="0015" f="4" s="1" t="1" n="Tring Action"/>
 			<S i="001a" f="4" s="1" t="1" n="SPORT 4 HD"/>
@@ -511,22 +522,28 @@
 			<S i="001c" f="4" s="1" t="1" n="SPORT 2 HD"/>
 			<S i="001d" f="4" s="1" t="1" n="SPORT 3 HD"/>
 			<S i="0021" f="4" s="1" t="1" n="Smile"/>
-			<S i="0022" f="4" s="1" t="1" n="LUXE TV"/>
+			<S i="0022" f="2" s="1" t="1" n="LUXE TV"/>
+			<S i="0032" f="1" s="1" t="1" n="Jolly HD"/>
 			<S i="0038" f="4" s="1" t="1" n="3 Plus"/>
+			<S i="003c" f="1" s="1" t="1" n="BBF"/>
 			<S i="0042" f="4" s="1" t="1" n="Tring World"/>
-			<S i="004c" f="4" s="1" t="1" n="Shenja TV"/>
+			<S i="0046" f="1" s="1" t="1" n="Tring History"/>
+			<S i="004c" f="2" s="1" t="1" n="Shenja TV"/>
 			<S i="0050" f="4" s="1" t="1" n="Living HD"/>
 			<S i="0058" f="4" s="1" t="1" n="Tring Shqip"/>
-			<S i="007a" f="4" s="1" t="1" n="Click"/>
-			<S i="007b" f="4" s="0" t="1" n="TVSH"/>
-			<S i="007c" f="4" s="1" t="1" n="RTV 21 Popullore"/>
+			<S i="007a" f="2" s="1" t="1" n="Click"/>
+			<S i="007b" f="2" s="0" t="1" n="TVSH"/>
+			<S i="007c" f="2" s="1" t="1" n="RTV 21 Popullore"/>
 			<S i="007d" f="4" s="1" t="1" n="Folk +"/>
-			<S i="0087" f="4" s="0" t="1" n="RTK"/>
-			<S i="0097" f="4" s="1" t="1" n="Tring International"/>
+			<S i="0080" f="1" s="0" t="1" n="FAX NEWS"/>
+			<S i="0087" f="2" s="0" t="1" n="RTK"/>
+			<S i="0097" f="2" s="1" t="1" n="Tring International"/>
+			<S i="0185" f="1" s="1" t="1" n="Muse"/>
 			<S i="022b" f="4" s="1" t="1" n="Desire"/>
 			<S i="0321" f="4" s="1" t="1" n="Kids"/>
 			<S i="03e7" f="4" s="0" t="1" n="Kanali 7"/>
-			<S i="03f7" f="4" s="1" t="1" n="FOX"/>
+			<S i="03f7" f="2" s="1" t="1" n="FOX"/>
+			<S i="08d4" f="1" s="1" t="1" n="TRING FANTASY"/>
 		</TS>
 		<TS id="c418" on="016e" frq="11470000" inv="2" sr="30000000" fec="5" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0259" f="4" s="1" t="16" n="Diema Family"/>
@@ -878,6 +895,9 @@
 		</TS>
 		<TS id="0001" on="0001" frq="12564000" inv="2" sr="3617000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0001" f="4" s="0" t="1" n="Kanal D"/>
+		</TS>
+		<TS id="0a78" on="0001" frq="12593000" inv="2" sr="2500000" fec="2" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
+			<S i="0001" f="1" s="0" t="1" n="DM-SAT"/>
 		</TS>
 		<TS id="4289" on="016e" frq="12606000" inv="2" sr="30000000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="1195" f="4" s="0" t="19" n="M1 HD (Europe)"/>
