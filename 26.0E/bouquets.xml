@@ -6,11 +6,11 @@
 		<S i="a2c" t="1a" on="2be" s="260" frq="12015" n="Al EKhbaria"/>
 		<S i="15e4" t="1a" on="2be" s="260" frq="12015" n="KAS Sports +1"/>
 		<S i="a2a" t="1a" on="2be" s="260" frq="12015" n="KSA SPORT 2"/>
-		<S i="a2d" t="1a" on="2be" s="260" frq="12015" n="KSA Sports +2"/>
 		<S i="a2b" t="1a" on="2be" s="260" frq="12015" n="KSA SPORTS 1"/>
 		<S i="a29" t="1a" on="2be" s="260" frq="12015" n="Saudi 1"/>
 		<S i="15e1" t="1a" on="2be" s="260" frq="12015" n="Saudi Ch For Quran"/>
 		<S i="15e2" t="1a" on="2be" s="260" frq="12015" n="Saudi Ch For Sunnah"/>
+		<S i="a2d" t="1a" on="2be" s="260" frq="12015" n="SAUDI MUBASHER"/>
 		<S i="15e3" t="1a" on="2be" s="260" frq="12015" n="SBC"/>
 		<S i="a3f" t="1a" on="2be" s="260" frq="12015" n="European Radio"/>
 		<S i="a3c" t="1a" on="2be" s="260" frq="12015" n="Holy Quran Radio"/>
@@ -99,6 +99,7 @@
 	</Bouquet>
 	<Bouquet name="[E026.0] JMC">
 		<S i="19e" t="1015" on="2be" s="260" frq="12034" n="Al Gezira TV"/>
+		<S i="4e" t="1015" on="2be" s="260" frq="12034" n="Al Ghad TV"/>
 		<S i="709" t="1fa" on="2be" s="260" frq="12054" n="Al Hiwar TV"/>
 		<S i="19c" t="1015" on="2be" s="260" frq="12034" n="Al Istijaba TV"/>
 		<S i="1b8" t="1015" on="2be" s="260" frq="12034" n="Al-Marikh TV"/>
@@ -243,6 +244,16 @@
 	</Bouquet>
 	<Bouquet name="[E026.0] TV-MAURITANIE">
 		<S i="1" t="1a" on="88" s="260" frq="12563" n="ELMOURITANIA"/>
+	</Bouquet>
+	<Bouquet name="[E026.0] Twofour54">
+		<S i="1b" t="208" on="2be" s="260" frq="12092" n="AA hadath"/>
+		<S i="15" t="208" on="2be" s="260" frq="12092" n="MTV Lebanon HD"/>
+		<S i="1d" t="208" on="2be" s="260" frq="12092" n="Quest Arabiya HD"/>
+		<S i="17" t="208" on="2be" s="260" frq="12092" n="Test 3"/>
+		<S i="19" t="208" on="2be" s="260" frq="12092" n="Test 4"/>
+		<S i="1a" t="208" on="2be" s="260" frq="12092" n="Test 5"/>
+		<S i="1c" t="208" on="2be" s="260" frq="12092" n="Test 6"/>
+		<S i="18" t="208" on="2be" s="260" frq="12092" n="TRT Arabi"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] Unknown Provider">
 		<S i="e" t="1137" on="2be" s="260" frq="12643" n="Aljanoubia TV"/>

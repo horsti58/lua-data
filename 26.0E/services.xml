@@ -40,7 +40,7 @@
 			<S i="0a2a" f="4" s="0" t="1" n="KSA SPORT 2"/>
 			<S i="0a2b" f="4" s="0" t="1" n="KSA SPORTS 1"/>
 			<S i="0a2c" f="4" s="0" t="1" n="Al EKhbaria"/>
-			<S i="0a2d" f="4" s="0" t="1" n="KSA Sports +2"/>
+			<S i="0a2d" f="4" s="0" t="1" n="SAUDI MUBASHER"/>
 			<S i="0a3c" f="4" s="0" t="2" n="Holy Quran Radio"/>
 			<S i="0a3d" f="4" s="0" t="2" n="Saudi Radio 1"/>
 			<S i="0a3e" f="4" s="0" t="2" n="Saudi Radio 2"/>
@@ -56,20 +56,21 @@
 			<S i="0001" f="4" s="0" t="1" n="TAseti Radio"/>
 			<S i="004c" f="4" s="0" t="1" n="Quran Kareem"/>
 			<S i="004d" f="4" s="0" t="1" n="Dongula Radio"/>
-			<S i="019b" f="4" s="0" t="1" n="Test"/>
+			<S i="004e" f="1" s="0" t="1" n="Al Ghad TV"/>
+			<S i="019b" f="2" s="0" t="1" n="Test"/>
 			<S i="019c" f="4" s="0" t="1" n="Al Istijaba TV"/>
-			<S i="019d" f="4" s="0" t="19" n="Alalamia (University of Africa)"/>
+			<S i="019d" f="4" s="0" t="1" n="Alalamia (University of Africa)"/>
 			<S i="019e" f="4" s="0" t="1" n="Al Gezira TV"/>
 			<S i="019f" f="4" s="0" t="1" n="Kassala TV"/>
-			<S i="01a0" f="4" s="0" t="1" n="Test 1"/>
+			<S i="01a0" f="2" s="0" t="1" n="Test 1"/>
 			<S i="01a1" f="4" s="0" t="1" n="Red Sea"/>
-			<S i="01a3" f="4" s="0" t="1" n="Test 2"/>
+			<S i="01a3" f="2" s="0" t="1" n="Test 2"/>
 			<S i="01a4" f="4" s="0" t="1" n="Sudan Knowledge"/>
 			<S i="01a5" f="4" s="0" t="1" n="Sudan Sport"/>
 			<S i="01a6" f="4" s="0" t="1" n="Sudania 24"/>
 			<S i="01a8" f="4" s="0" t="1" n="Omdurman TV"/>
-			<S i="01ae" f="4" s="0" t="1" n="TEST"/>
-			<S i="01b0" f="4" s="0" t="19" n="Nile River"/>
+			<S i="01ae" f="2" s="0" t="1" n="TEST"/>
+			<S i="01b0" f="4" s="0" t="1" n="Nile River"/>
 			<S i="01b1" f="4" s="0" t="1" n="Alalamia 2 TV"/>
 			<S i="01b8" f="4" s="0" t="1" n="Al-Marikh TV"/>
 		</TS>
@@ -91,6 +92,16 @@
 			<S i="0730" f="4" s="0" t="1" n="Iqra TV"/>
 			<S i="0731" f="4" s="0" t="1" n="test"/>
 			<S i="0732" f="4" s="0" t="2" n="SSBC RADIO"/>
+		</TS>
+		<TS id="0208" on="02be" frq="12092000" inv="2" sr="27500000" fec="5" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
+			<S i="0015" f="1" s="0" t="19" n="MTV Lebanon HD"/>
+			<S i="0017" f="1" s="0" t="16" n="Test 3"/>
+			<S i="0018" f="1" s="0" t="1" n="TRT Arabi"/>
+			<S i="0019" f="1" s="0" t="16" n="Test 4"/>
+			<S i="001a" f="1" s="0" t="16" n="Test 5"/>
+			<S i="001b" f="1" s="0" t="1" n="AA hadath"/>
+			<S i="001c" f="1" s="0" t="16" n="Test 6"/>
+			<S i="001d" f="1" s="0" t="19" n="Quest Arabiya HD"/>
 		</TS>
 		<TS id="01ff" on="02be" frq="12111000" inv="2" sr="27500000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0002" f="4" s="0" t="1" n="ARIRANG"/>

@@ -244,13 +244,13 @@
 		<S i="1040" t="50dc" on="16e" s="160" frq="10845" n="STAR PLUS TV"/>
 		<S i="3f0" t="51a4" on="16e" s="160" frq="10887" n="Stars XXX"/>
 		<S i="488" t="4f4c" on="16e" s="160" frq="10762" n="Stinet"/>
-		<S i="5dc" t="4f4c" on="16e" s="160" frq="10762" n="Stinet."/>
 		<S i="3eb" t="51a4" on="16e" s="160" frq="10887" n="STV Folk"/>
 		<S i="406" t="51a4" on="16e" s="160" frq="10887" n="SuperSonic TV"/>
 		<S i="578" t="4f4c" on="16e" s="160" frq="10762" n="T HD"/>
 		<S i="1144" t="50dc" on="16e" s="160" frq="10845" n="T7"/>
 		<S i="866" t="5014" on="16e" s="160" frq="10804" n="Tema TV"/>
-		<S i="5c8" t="4f4c" on="16e" s="160" frq="10762" n="TEST"/>
+		<S i="5c8" t="4f4c" on="16e" s="160" frq="10762" n="TEST1"/>
+		<S i="5dc" t="4f4c" on="16e" s="160" frq="10762" n="TEST2"/>
 		<S i="7d0" t="5014" on="16e" s="160" frq="10804" n="Top Channel HD"/>
 		<S i="3fc" t="4f4c" on="16e" s="160" frq="10762" n="Top News"/>
 		<S i="e74" t="50dc" on="16e" s="160" frq="10845" n="Travel Channel HD"/>
@@ -548,6 +548,9 @@
 		<S i="da" t="2" on="40" s="160" frq="11595" n="R. Mediaservis"/>
 		<S i="d3" t="2" on="40" s="160" frq="11595" n="R.Marija."/>
 	</Bouquet>
+	<Bouquet name="[E016.0] Tag Broadcasting">
+		<S i="483" t="76c0" on="16e" s="160" frq="11055" n="Prima Krimi"/>
+	</Bouquet>
 	<Bouquet name="[E016.0] TAG Broadcasting">
 		<S i="aa0" t="9dd0" on="16e" s="160" frq="11283" n="360TuneBox"/>
 		<S i="4b2" t="76c1" on="16e" s="160" frq="11094" n="AMC"/>
@@ -607,8 +610,8 @@
 		<S i="a95" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Plus"/>
 		<S i="a9e" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Plus"/>
 		<S i="aa7" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Plus"/>
-		<S i="a9f" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Premium"/>
 		<S i="aa4" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Premium"/>
+		<S i="a9f" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Premium"/>
 		<S i="2ba" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
 		<S i="281" t="c418" on="16e" s="160" frq="11470" n="Fine Living Network"/>
 		<S i="450" t="526c" on="16e" s="160" frq="10928" n="Fix&amp;Foxi"/>
@@ -671,9 +674,6 @@
 	</Bouquet>
 	<Bouquet name="[E016.0] TAG BRoadcasting">
 		<S i="a8d" t="9dd0" on="16e" s="160" frq="11283" n="Filmbox Premium HD"/>
-	</Bouquet>
-	<Bouquet name="[E016.0] Tag Broadcasting">
-		<S i="483" t="76c0" on="16e" s="160" frq="11055" n="Prima Krimi"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] TAG Brodcasting">
 		<S i="48c" t="76c0" on="16e" s="160" frq="11055" n="Prima MAX HD"/>

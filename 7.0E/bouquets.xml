@@ -116,6 +116,7 @@
 		<S i="2007" t="50dc" on="7e" s="70" frq="10845" n="DMAX HD"/>
 		<S i="14d4" t="c6d4" on="7e" s="70" frq="11513" n="DREAMY"/>
 		<S i="1e83" t="5208" on="7e" s="70" frq="10928" n="DİYANET TV"/>
+		<S i="1d68" t="c3b4" on="7e" s="70" frq="11471" n="DİYANET TV HD"/>
 		<S i="14d1" t="c6d4" on="7e" s="70" frq="11513" n="EASY LISTENING"/>
 		<S i="6ea" t="c4e0" on="7e" s="70" frq="11534" n="EKOTÜRK"/>
 		<S i="207a" t="52d0" on="7e" s="70" frq="10928" n="EKOTÜRK HD"/>
@@ -158,6 +159,7 @@
 		<S i="1ee2" t="51a4" on="7e" s="70" frq="10887" n="KANAL D HD"/>
 		<S i="14e8" t="c6d4" on="7e" s="70" frq="11513" n="KRAL FM"/>
 		<S i="14e9" t="c6d4" on="7e" s="70" frq="11513" n="KRAL POP RADYO"/>
+		<S i="1d69" t="c3b4" on="7e" s="70" frq="11471" n="KRT HD"/>
 		<S i="1944" t="c60c" on="7e" s="70" frq="11596" n="KRT TV"/>
 		<S i="14cc" t="c6d4" on="7e" s="70" frq="11513" n="LATIN"/>
 		<S i="14bd" t="c6d4" on="7e" s="70" frq="11513" n="LOVE SONGS"/>
@@ -176,6 +178,7 @@
 		<S i="6de" t="c4e0" on="7e" s="70" frq="11534" n="NICK JR."/>
 		<S i="193e" t="c60c" on="7e" s="70" frq="11596" n="NICKELODEON"/>
 		<S i="9ca" t="5014" on="7e" s="70" frq="10804" n="NICKELODEON HD"/>
+		<S i="1d6a" t="c3b4" on="7e" s="70" frq="11471" n="NICKELODEON HD"/>
 		<S i="1de1" t="c544" on="7e" s="70" frq="11554" n="NTV"/>
 		<S i="613" t="c418" on="7e" s="70" frq="11492" n="NTV HD"/>
 		<S i="14c8" t="c6d4" on="7e" s="70" frq="11513" n="NU JAZZ"/>
@@ -208,6 +211,8 @@
 		<S i="90e" t="c5a8" on="7e" s="70" frq="11575" n="TEVE2"/>
 		<S i="1e7e" t="5208" on="7e" s="70" frq="10928" n="TEVE2 HD"/>
 		<S i="608" t="c418" on="7e" s="70" frq="11492" n="TGRT HABER"/>
+		<S i="1d6b" t="c3b4" on="7e" s="70" frq="11471" n="TGRT HABER HD"/>
+		<S i="1c8a" t="c738" on="7e" s="70" frq="11617" n="TJK HD"/>
 		<S i="1fa9" t="50dc" on="7e" s="70" frq="10845" n="TJK TV"/>
 		<S i="1de9" t="c544" on="7e" s="70" frq="11554" n="TLC"/>
 		<S i="1f4c" t="5140" on="7e" s="70" frq="10845" n="TLC HD"/>
@@ -247,7 +252,6 @@
 		<S i="278" t="c47c" on="7e" s="70" frq="11637" n="TİCARİ beIN SPORTS HD 2"/>
 		<S i="108" t="526c" on="7e" s="70" frq="10887" n="TİCARİ beIN SPORTS HD 3"/>
 		<S i="27e" t="c47c" on="7e" s="70" frq="11637" n="TİCARİ beIN SPORTS HD 4"/>
-		<S i="1c8a" t="c738" on="7e" s="70" frq="11617" n="unknown (0xC738_0x1C8A)"/>
 		<S i="1935" t="c60c" on="7e" s="70" frq="11596" n="VH1"/>
 		<S i="14e4" t="c6d4" on="7e" s="70" frq="11513" n="VIRGIN RADIO"/>
 		<S i="90b" t="c5a8" on="7e" s="70" frq="11575" n="ÜLKE TV"/>
