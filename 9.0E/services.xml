@@ -144,8 +144,8 @@
 			<S i="00eb" f="4" s="1" t="19" n="TLC HD"/>
 		</TS>
 		<TS id="16a8" on="009c" frq="11881000" inv="2" sr="27500000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="0dad" f="4" s="1" t="1" n="Virtual Verde"/>
-			<S i="0dae" f="4" s="1" t="1" n="Virtual Giallo"/>
+			<S i="0dad" f="2" s="1" t="1" n="Virtual Verde"/>
+			<S i="0dae" f="2" s="1" t="1" n="Virtual Giallo"/>
 			<S i="0daf" f="4" s="1" t="1" n="Rai Africa"/>
 			<S i="0db5" f="4" s="0" t="1" n="RTI"/>
 			<S i="0db7" f="4" s="1" t="1" n="EUROBET 11"/>
@@ -162,7 +162,7 @@
 			<S i="0dc4" f="4" s="0" t="2" n="TRT Tamil Oli"/>
 		</TS>
 		<TS id="170c" on="009e" frq="11900000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="000e" f="4" s="1" t="1" n="TRACE SPORTS INTER HD"/>
+			<S i="000e" f="4" s="0" t="1" n="TRACE SPORTS INT HD"/>
 			<S i="000f" f="4" s="1" t="1" n="TRACE URBAN INTER HD"/>
 			<S i="0014" f="4" s="0" t="16" n="TVT International"/>
 			<S i="0015" f="4" s="0" t="2" n="TVT Radio 1 (Radio Lome)"/>
@@ -193,6 +193,7 @@
 			<S i="025b" f="4" s="0" t="1" n="Better-2"/>
 			<S i="025c" f="4" s="1" t="1" n="Better-3"/>
 			<S i="025d" f="4" s="1" t="1" n="Better-4"/>
+			<S i="0429" f="1" s="1" t="1" n="TEST 2"/>
 			<S i="0472" f="4" s="1" t="1" n="TEST 81"/>
 			<S i="0473" f="4" s="1" t="1" n="TEST 3"/>
 		</TS>
@@ -206,8 +207,8 @@
 		<TS id="1838" on="009e" frq="11958000" inv="2" sr="27500000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0065" f="4" s="0" t="19" n="M1 HD"/>
 			<S i="0066" f="4" s="0" t="19" n="M2 HD"/>
-			<S i="0067" f="4" s="1" t="19" n="Duna HD"/>
-			<S i="0068" f="4" s="1" t="19" n="M4 Sport HD"/>
+			<S i="0067" f="4" s="0" t="19" n="Duna HD"/>
+			<S i="0068" f="4" s="0" t="19" n="M4 Sport HD"/>
 			<S i="0069" f="4" s="0" t="16" n="Duna World SD"/>
 			<S i="006a" f="4" s="0" t="19" n="M5 HD"/>
 			<S i="006e" f="4" s="1" t="1" n="M3"/>
@@ -276,6 +277,7 @@
 			<S i="0165" f="4" s="1" t="1" n="BBC_Entertainment_Europe"/>
 			<S i="0166" f="4" s="1" t="1" n="Disney Channel ME"/>
 			<S i="0168" f="4" s="0" t="1" n="Karusel Int"/>
+			<S i="0169" f="1" s="0" t="1" n="MST"/>
 		</TS>
 		<TS id="0002" on="00aa" frq="12054000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="03e9" f="4" s="1" t="1" n="ΕΡΤ1"/>
@@ -366,7 +368,7 @@
 		<TS id="0008" on="00aa" frq="12169000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="03fb" f="4" s="1" t="1" n="Promo HD"/>
 			<S i="03fc" f="4" s="1" t="1" n="IONIAN TV"/>
-			<S i="041c" f="4" s="1" t="1" n="Cosmote Sport Basketball StoriesHD"/>
+			<S i="041c" f="4" s="1" t="1" n="POP UP TEST HD"/>
 			<S i="0462" f="4" s="1" t="1" n="TEST 5"/>
 			<S i="0463" f="4" s="1" t="1" n="Κρήτη Νέα Τηλεόραση"/>
 			<S i="0464" f="4" s="1" t="1" n="Action 24"/>
@@ -469,7 +471,7 @@
 			<S i="0414" f="4" s="1" t="1" n="TCM HD"/>
 			<S i="0417" f="4" s="1" t="1" n="Extra Channel"/>
 			<S i="0418" f="4" s="1" t="1" n="Body in Balance"/>
-			<S i="0419" f="4" s="1" t="1" n="National Geographic +"/>
+			<S i="0419" f="4" s="1" t="1" n="National Geographic+"/>
 			<S i="0420" f="4" s="1" t="1" n="MAD"/>
 			<S i="0421" f="4" s="0" t="1" n="TEST BISS"/>
 			<S i="0423" f="4" s="0" t="1" n="ΤΕΣΤ 8"/>
@@ -503,7 +505,7 @@
 			<S i="03eb" f="4" s="1" t="1" n="COSMOTESport6HD"/>
 			<S i="03f8" f="4" s="1" t="1" n="Village Cinema HD"/>
 			<S i="040e" f="4" s="1" t="1" n="FOX HD"/>
-			<S i="0429" f="4" s="1" t="1" n="TEST 2"/>
+			<S i="0429" f="2" s="1" t="1" n="TEST 2"/>
 			<S i="0435" f="4" s="1" t="1" n="PPV TST1"/>
 			<S i="0451" f="4" s="1" t="1" n="ΕΡΤ Sports HD"/>
 			<S i="0455" f="4" s="1" t="1" n="COSMOTESport5HD"/>

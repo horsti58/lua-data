@@ -23,7 +23,7 @@
 			<S i="0816" f="4" s="1" t="1" n="2070 - ESKA Krakow"/>
 			<S i="0820" f="4" s="1" t="1" n="2080 - ESKA Leszno"/>
 			<S i="082a" f="4" s="1" t="1" n="2090 - ESKA Pila"/>
-			<S i="0834" f="4" s="1" t="1" n="2100 - ESKA Lodz"/>
+			<S i="0834" f="2" s="1" t="1" n="2100 - ESKA Lodz"/>
 			<S i="083e" f="4" s="1" t="1" n="2110 - ESKA Olsztyn"/>
 			<S i="0848" f="4" s="1" t="1" n="2120 - ESKA Opole"/>
 			<S i="0852" f="4" s="1" t="1" n="2130 - ESKA Lublin"/>
@@ -43,7 +43,7 @@
 			<S i="08de" f="4" s="1" t="1" n="2270 - ESKA Koszalin"/>
 			<S i="08fc" f="4" s="1" t="1" n="2300 - ESKA Beskidy/Zywiec"/>
 			<S i="0906" f="4" s="1" t="1" n="2310 - ESKA Szczecinek"/>
-			<S i="0910" f="4" s="1" t="1" n="2320 - ESKA Przemyśl"/>
+			<S i="0910" f="4" s="1" t="1" n="2320 - ESKA Przemysl"/>
 			<S i="091a" f="4" s="1" t="1" n="2330 - ESKA Malopolska"/>
 			<S i="0938" f="4" s="1" t="1" n="2360 - ESKA Krasnik"/>
 			<S i="0960" f="4" s="1" t="1" n="2400 - ESKA Starachowice"/>
@@ -423,7 +423,7 @@
 		</TS>
 		<TS id="0c91" on="0003" frq="12032000" inv="2" sr="27500000" fec="11" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="17d4" f="4" s="1" t="19" n="unknown (0x0C91_0x17D4)"/>
-			<S i="17d5" f="4" s="1" t="19" n="UNITEL CLASSICA HD"/>
+			<S i="17d5" f="4" s="1" t="19" n="Stingray Classica HD"/>
 			<S i="17d6" f="4" s="1" t="19" n="iConcert"/>
 			<S i="17d7" f="4" s="1" t="19" n="AutoMotorSport HD"/>
 			<S i="17de" f="4" s="0" t="19" n="SES Demo HD"/>
@@ -473,7 +473,7 @@
 			<S i="51c2" f="4" s="1" t="16" n="Ziggo Sport Golf"/>
 			<S i="51d1" f="4" s="1" t="16" n="SBS9"/>
 			<S i="51d5" f="4" s="1" t="16" n="TLC"/>
-			<S i="51da" f="4" s="1" t="16" n="EVENAAR"/>
+			<S i="51da" f="4" s="1" t="16" n="Eclips TV"/>
 			<S i="51db" f="4" s="1" t="19" n="Film1 Premiere HD"/>
 			<S i="51e0" f="4" s="1" t="19" n="Ziggo Sport Select HD"/>
 			<S i="51e5" f="4" s="1" t="19" n="NGC HD"/>
@@ -634,7 +634,7 @@
 			<S i="4eb1" f="4" s="0" t="1" n="TV Hayat"/>
 			<S i="4eb2" f="4" s="0" t="1" n="TV Hayat Plus"/>
 			<S i="4eb3" f="4" s="0" t="1" n="TV Hayatovci"/>
-			<S i="4eb4" f="4" s="1" t="1" n="TV Hayat Folk"/>
+			<S i="4eb4" f="4" s="0" t="1" n="TV Hayat Folk"/>
 			<S i="4eb5" f="4" s="0" t="1" n="TV Hayat Music"/>
 			<S i="4eb6" f="4" s="0" t="1" n="VH1"/>
 			<S i="4eb7" f="4" s="0" t="1" n="Pink Music"/>
@@ -660,7 +660,7 @@
 			<S i="4ed5" f="4" s="0" t="1" n="Brazzers TV"/>
 			<S i="4ed6" f="4" s="0" t="1" n="Balkan Hot"/>
 			<S i="4ed8" f="4" s="0" t="1" n="Erotic"/>
-			<S i="4ed9" f="4" s="0" t="1" n="Erotic 2"/>
+			<S i="4ed9" f="4" s="1" t="1" n="Erotic 2"/>
 			<S i="4eda" f="4" s="0" t="1" n="Hustler"/>
 			<S i="4f02" f="4" s="0" t="1" n="Digi 24"/>
 			<S i="4f03" f="4" s="0" t="1" n="Pro TV International"/>

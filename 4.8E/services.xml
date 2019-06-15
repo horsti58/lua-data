@@ -121,24 +121,24 @@
 		</TS>
 		<TS id="0025" on="0056" frq="11385000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0bb8" f="4" s="1" t="1f" n="U test 27"/>
-			<S i="0bc2" f="4" s="0" t="2" n="DR P1"/>
-			<S i="0bc4" f="4" s="0" t="2" n="DR P3"/>
-			<S i="0bc6" f="4" s="0" t="2" n="DR Klassisk"/>
+			<S i="0bc2" f="2" s="0" t="2" n="DR P1"/>
+			<S i="0bc4" f="2" s="0" t="2" n="DR P3"/>
+			<S i="0bc6" f="2" s="0" t="2" n="DR Klassisk"/>
 			<S i="0bc7" f="4" s="1" t="19" n="Astra UHD Test"/>
-			<S i="0bc8" f="4" s="1" t="2" n="Bandit Classics"/>
-			<S i="0bca" f="4" s="1" t="2" n="Svenska Favoriter"/>
+			<S i="0bc8" f="2" s="1" t="2" n="Bandit Classics"/>
+			<S i="0bca" f="2" s="1" t="2" n="Svenska Favoriter"/>
 			<S i="0bcc" f="4" s="1" t="19" n="Cmore Sport HD"/>
 			<S i="0bea" f="4" s="0" t="19" n="U test 27 2"/>
 			<S i="0bfe" f="4" s="1" t="19" n="TV3P"/>
-			<S i="0c08" f="4" s="1" t="19" n="TV12 HD"/>
-			<S i="0c0c" f="4" s="1" t="2" n="Classic"/>
-			<S i="0c0e" f="4" s="1" t="2" n="Power Hit Radio"/>
-			<S i="0c10" f="4" s="1" t="2" n="Power Club"/>
-			<S i="0c12" f="4" s="1" t="2" n="Star 90"/>
-			<S i="0c14" f="4" s="1" t="2" n="Bandit"/>
-			<S i="0c16" f="4" s="1" t="2" n="Rix FM"/>
-			<S i="0c18" f="4" s="1" t="2" n="P4 Lyden av Norge"/>
-			<S i="0c1a" f="4" s="1" t="2" n="Lugna Favoriter"/>
+			<S i="0c08" f="2" s="1" t="19" n="TV12 HD"/>
+			<S i="0c0c" f="2" s="1" t="2" n="Classic"/>
+			<S i="0c0e" f="2" s="1" t="2" n="Power Hit Radio"/>
+			<S i="0c10" f="2" s="1" t="2" n="Power Club"/>
+			<S i="0c12" f="2" s="1" t="2" n="Star 90"/>
+			<S i="0c14" f="2" s="1" t="2" n="Bandit"/>
+			<S i="0c16" f="2" s="1" t="2" n="Rix FM"/>
+			<S i="0c18" f="2" s="1" t="2" n="P4 Lyden av Norge"/>
+			<S i="0c1a" f="2" s="1" t="2" n="Lugna Favoriter"/>
 		</TS>
 		<TS id="00ca" on="0055" frq="11727000" inv="2" sr="27500000" fec="5" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="283c" f="4" s="1" t="1" n="TV6 (LT)"/>
@@ -212,9 +212,11 @@
 		<TS id="001b" on="0056" frq="11823000" inv="2" sr="27500000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0640" f="4" s="1" t="19" n="Viasat Film Premiere HD"/>
 			<S i="064a" f="4" s="1" t="19" n="SVT 1 HD"/>
+			<S i="064c" f="1" s="0" t="19" n="SVT 1 HD talande text"/>
 			<S i="0654" f="4" s="0" t="16" n="VOX"/>
 			<S i="065e" f="4" s="1" t="19" n="TV3+ HD"/>
 			<S i="0668" f="4" s="1" t="19" n="SVT 2 HD"/>
+			<S i="066a" f="1" s="0" t="19" n="SVT 2 HD talande text"/>
 			<S i="0672" f="4" s="1" t="16" n="TV2 Humorkanalen"/>
 			<S i="067c" f="4" s="1" t="19" n="MAX HD"/>
 			<S i="0686" f="4" s="1" t="19" n="NatGeo HD"/>
@@ -249,10 +251,11 @@
 		<TS id="0018" on="0056" frq="11919000" inv="2" sr="28000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="1130" f="4" s="1" t="19" n="TV10 HD"/>
 			<S i="1133" f="4" s="1" t="19" n="TV3 Puls HD"/>
-			<S i="1136" f="1" s="1" t="16" n="Barn/SVT 24 talande text"/>
+			<S i="1136" f="4" s="1" t="16" n="Barn/SVT 24 talande text"/>
 			<S i="113c" f="4" s="1" t="16" n="Kunskapskanalen"/>
 			<S i="113f" f="4" s="1" t="16" n="SVTB"/>
 			<S i="1142" f="4" s="1" t="16" n="SVT24"/>
+			<S i="1143" f="1" s="0" t="16" n="Kunskapskanalen talande text"/>
 			<S i="1145" f="4" s="1" t="19" n="TV8 HD"/>
 			<S i="1148" f="4" s="1" t="19" n="Cmore Golf HD"/>
 			<S i="114b" f="4" s="1" t="16" n="SVT1 Norrbotten"/>
@@ -507,6 +510,7 @@
 			<S i="1e15" f="4" s="1" t="1" n="TEST1"/>
 			<S i="1e16" f="4" s="1" t="1" n="TEST2"/>
 			<S i="1e17" f="4" s="1" t="1" n="TEST3"/>
+			<S i="1e18" f="1" s="1" t="16" n="Verimatrix TEST"/>
 			<S i="1e1f" f="4" s="0" t="1" n="Trofey"/>
 			<S i="1e20" f="4" s="1" t="1" n="DACHA"/>
 			<S i="1e21" f="4" s="1" t="1" n="EPOQUE"/>
@@ -545,7 +549,8 @@
 			<S i="026d" f="4" s="1" t="1" n="Universal HUNGARY"/>
 			<S i="026f" f="4" s="1" t="1" n="Universal HUNGARY"/>
 			<S i="02bc" f="2" s="0" t="2" n="BBC AM Dist1"/>
-			<S i="02da" f="2" s="0" t="2" n="BBC AM Dist4"/>
+			<S i="02da" f="4" s="0" t="2" n="BBC AM Dist4"/>
+			<S i="02e4" f="1" s="0" t="2" n="BBC AM Dist5"/>
 			<S i="03ee" f="4" s="0" t="2" n="Absolute Radio"/>
 			<S i="0503" f="4" s="0" t="2" n="IRN"/>
 			<S i="0507" f="4" s="1" t="1" n="Travel"/>

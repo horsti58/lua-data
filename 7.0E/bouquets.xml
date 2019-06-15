@@ -84,8 +84,8 @@
 		<S i="26a" t="c47c" on="7e" s="70" frq="11637" n="beIN SPORTS HD 4"/>
 		<S i="6e3" t="c4e0" on="7e" s="70" frq="11534" n="beIN SPORTS MAX HD 1"/>
 		<S i="2076" t="52d0" on="7e" s="70" frq="10928" n="beIN SPORTS MAX HD 2"/>
-		<S i="1ffd" t="50dc" on="7e" s="70" frq="10845" n="beIN İZ HD"/>
 		<S i="1fb6" t="50dc" on="7e" s="70" frq="10845" n="beIN İZ HD"/>
+		<S i="1ffd" t="50dc" on="7e" s="70" frq="10845" n="beIN İZ HD"/>
 		<S i="14e7" t="c6d4" on="7e" s="70" frq="11513" n="BEST FM"/>
 		<S i="1de8" t="c544" on="7e" s="70" frq="11554" n="BEYAZ TV"/>
 		<S i="1fab" t="50dc" on="7e" s="70" frq="10845" n="BEYAZ TV HD"/>
@@ -274,6 +274,7 @@
 		<S i="1648" t="9efc" on="7e" s="70" frq="11221" n="RFM Senegal"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] GLOBECAST">
+		<S i="e" t="4e20" on="64" s="70" frq="10721" n="Azadi"/>
 		<S i="2" t="4e20" on="64" s="70" frq="10721" n="Simaye-Azadi"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] iKOMG">
@@ -286,7 +287,7 @@
 		<S i="773" t="9fc4" on="7e" s="70" frq="11387" n="Cine Film"/>
 		<S i="772" t="9fc4" on="7e" s="70" frq="11387" n="Cine Series"/>
 		<S i="775" t="9fc4" on="7e" s="70" frq="11387" n="Manoto HD +1"/>
-		<S i="76d" t="9fc4" on="7e" s="70" frq="11387" n="MBC Persia"/>
+		<S i="76d" t="9fc4" on="7e" s="70" frq="11387" n="MBC Persia HD"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] MX1">
 		<S i="13a" t="9efc" on="7e" s="70" frq="11345" n="PMC SD"/>
