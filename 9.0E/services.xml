@@ -144,8 +144,6 @@
 			<S i="00eb" f="4" s="1" t="19" n="TLC HD"/>
 		</TS>
 		<TS id="16a8" on="009c" frq="11881000" inv="2" sr="27500000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="0dad" f="2" s="1" t="1" n="Virtual Verde"/>
-			<S i="0dae" f="2" s="1" t="1" n="Virtual Giallo"/>
 			<S i="0daf" f="4" s="1" t="1" n="Rai Africa"/>
 			<S i="0db5" f="4" s="0" t="1" n="RTI"/>
 			<S i="0db7" f="4" s="1" t="1" n="EUROBET 11"/>
@@ -160,9 +158,10 @@
 			<S i="0dc2" f="4" s="1" t="1" n="OPAP MG"/>
 			<S i="0dc3" f="4" s="1" t="1" n="OPAP HR"/>
 			<S i="0dc4" f="4" s="0" t="2" n="TRT Tamil Oli"/>
+			<S i="0dc5" f="4" s="0" t="19" n="MCM TOP"/>
 		</TS>
 		<TS id="170c" on="009e" frq="11900000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="000e" f="4" s="0" t="1" n="TRACE SPORTS INT HD"/>
+			<S i="000e" f="4" s="1" t="1" n="TRACE SPORTS INTER HD"/>
 			<S i="000f" f="4" s="1" t="1" n="TRACE URBAN INTER HD"/>
 			<S i="0014" f="4" s="0" t="16" n="TVT International"/>
 			<S i="0015" f="4" s="0" t="2" n="TVT Radio 1 (Radio Lome)"/>
@@ -184,7 +183,6 @@
 			<S i="0010" f="4" s="0" t="1" n="Holy God TV"/>
 			<S i="0011" f="4" s="0" t="1" n="NLM TV"/>
 			<S i="002a" f="4" s="0" t="1" n="Star Vijay"/>
-			<S i="002c" f="4" s="0" t="1" n="Italy Service 2"/>
 			<S i="003a" f="4" s="0" t="1" n="Italy Service 3"/>
 			<S i="003c" f="4" s="0" t="1" n="Italy Service 5"/>
 		</TS>
@@ -193,16 +191,9 @@
 			<S i="025b" f="4" s="0" t="1" n="Better-2"/>
 			<S i="025c" f="4" s="1" t="1" n="Better-3"/>
 			<S i="025d" f="4" s="1" t="1" n="Better-4"/>
-			<S i="0429" f="1" s="1" t="1" n="TEST 2"/>
+			<S i="0429" f="4" s="1" t="1" n="TEST 2"/>
 			<S i="0472" f="4" s="1" t="1" n="TEST 81"/>
 			<S i="0473" f="4" s="1" t="1" n="TEST 3"/>
-		</TS>
-		<TS id="c3c8" on="009e" frq="11938000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="025a" f="4" s="1" t="1" n="Better-1"/>
-			<S i="025b" f="4" s="1" t="1" n="Better-2"/>
-			<S i="025c" f="4" s="1" t="1" n="Better-3"/>
-			<S i="025d" f="4" s="1" t="1" n="Better-4"/>
-			<S i="025e" f="4" s="1" t="1" n="TEST 81"/>
 		</TS>
 		<TS id="1838" on="009e" frq="11958000" inv="2" sr="27500000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0065" f="4" s="0" t="19" n="M1 HD"/>
@@ -277,7 +268,7 @@
 			<S i="0165" f="4" s="1" t="1" n="BBC_Entertainment_Europe"/>
 			<S i="0166" f="4" s="1" t="1" n="Disney Channel ME"/>
 			<S i="0168" f="4" s="0" t="1" n="Karusel Int"/>
-			<S i="0169" f="1" s="0" t="1" n="MST"/>
+			<S i="0169" f="4" s="1" t="1" n="MST"/>
 		</TS>
 		<TS id="0002" on="00aa" frq="12054000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="03e9" f="4" s="1" t="1" n="ΕΡΤ1"/>
@@ -344,7 +335,7 @@
 		</TS>
 		<TS id="1af4" on="009e" frq="12092000" inv="2" sr="27500000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0451" f="4" s="1" t="1" n="DISJ1_CEMA"/>
-			<S i="0456" f="4" s="0" t="19" n="Luxe TV"/>
+			<S i="0456" f="4" s="1" t="19" n="Luxe TV"/>
 			<S i="0460" f="4" s="0" t="16" n="NTDTV"/>
 			<S i="046a" f="4" s="1" t="1" n="Vivolta"/>
 			<S i="0479" f="4" s="1" t="19" n="E! Entertainment Europe"/>
@@ -452,7 +443,7 @@
 			<S i="0267" f="4" s="1" t="1" n="Nick Jr."/>
 			<S i="0268" f="4" s="1" t="19" n="Spiegel TV Wissen HD"/>
 			<S i="0269" f="4" s="1" t="1" n="History"/>
-			<S i="026a" f="4" s="1" t="19" n="A&amp;E HD"/>
+			<S i="026a" f="4" s="1" t="19" n="Crime + Investigation HD"/>
 			<S i="026c" f="4" s="1" t="19" n="13th Street HD"/>
 			<S i="026d" f="4" s="1" t="19" n="SyFy HD"/>
 			<S i="026e" f="4" s="1" t="19" n="National Geographic HD"/>
@@ -505,7 +496,6 @@
 			<S i="03eb" f="4" s="1" t="1" n="COSMOTESport6HD"/>
 			<S i="03f8" f="4" s="1" t="1" n="Village Cinema HD"/>
 			<S i="040e" f="4" s="1" t="1" n="FOX HD"/>
-			<S i="0429" f="2" s="1" t="1" n="TEST 2"/>
 			<S i="0435" f="4" s="1" t="1" n="PPV TST1"/>
 			<S i="0451" f="4" s="1" t="1" n="ΕΡΤ Sports HD"/>
 			<S i="0455" f="4" s="1" t="1" n="COSMOTESport5HD"/>

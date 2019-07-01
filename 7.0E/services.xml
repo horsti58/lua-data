@@ -15,7 +15,6 @@
 		<TS id="4e20" on="0064" frq="10721000" inv="2" sr="22000000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0001" f="4" s="0" t="1" n="BBC Persian"/>
 			<S i="0002" f="4" s="0" t="1" n="Simaye-Azadi"/>
-			<S i="0005" f="2" s="0" t="1" n="NEJAT TV"/>
 			<S i="000e" f="4" s="0" t="1" n="Azadi"/>
 			<S i="1cbb" f="4" s="0" t="1" n="Manoto"/>
 			<S i="2199" f="4" s="0" t="1" n="Rangarang TV"/>
@@ -181,7 +180,6 @@
 		<TS id="c6d4" on="007e" frq="11513000" inv="2" sr="29900000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="14b5" f="4" s="1" t="1f" n="DIGITURK 4K"/>
 			<S i="14b6" f="4" s="1" t="11" n="beIN MOVIES ACTION 2 HD"/>
-			<S i="14b9" f="2" s="1" t="11" n="DISCOVERY SHOWCASE HD"/>
 			<S i="14ba" f="4" s="1" t="11" n="BBC HD"/>
 			<S i="14bb" f="4" s="0" t="82" n="ŞÖMİNE KEYFİ"/>
 			<S i="14bc" f="4" s="1" t="82" n="HOTTEST HITS"/>
@@ -242,8 +240,7 @@
 			<S i="06d3" f="4" s="1" t="11" n="TELE 1 HD"/>
 			<S i="06da" f="4" s="1" t="1" n="İDMAN AZERBAYCAN"/>
 			<S i="06de" f="4" s="1" t="1" n="NICK JR."/>
-			<S i="06df" f="4" s="1" t="1" n="BABY FIRST"/>
-			<S i="06e2" f="2" s="1" t="11" n="ID HD"/>
+			<S i="06df" f="4" s="1" t="11" n="DA VINCI HD"/>
 			<S i="06e3" f="4" s="1" t="11" n="beIN SPORTS MAX HD 1"/>
 			<S i="06e4" f="4" s="1" t="1" n="test_i1"/>
 			<S i="06e5" f="4" s="1" t="1" n="test_i2"/>
@@ -267,7 +264,6 @@
 			<S i="1de9" f="4" s="1" t="1" n="TLC"/>
 			<S i="1dea" f="4" s="1" t="1" n="BLOOMBERG HT"/>
 			<S i="1dec" f="4" s="1" t="1" n="DISNEY CHANNEL"/>
-			<S i="1ded" f="2" s="1" t="11" n="ANIMAL PLANET HD"/>
 		</TS>
 		<TS id="c5a8" on="007e" frq="11575000" inv="2" sr="30000000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="08fd" f="4" s="1" t="1" n="SHOW TV"/>
@@ -307,7 +303,7 @@
 			<S i="1c87" f="4" s="1" t="11" n="TVNET HD"/>
 			<S i="1c88" f="4" s="1" t="11" n="MCM TOP HD"/>
 			<S i="1c89" f="4" s="1" t="11" n="FASHION TV HD"/>
-			<S i="1c8a" f="4" s="1" t="11" n="TJK HD"/>
+			<S i="1c8a" f="4" s="1" t="11" n="unknown (0xC738_0x1C8A)"/>
 			<S i="1c8b" f="4" s="1" t="11" n="HABERTÜRK HD"/>
 			<S i="1c8c" f="4" s="1" t="11" n="NAT GEO HD"/>
 			<S i="1c8d" f="4" s="1" t="11" n="A PARA HD"/>
