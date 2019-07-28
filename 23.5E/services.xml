@@ -96,6 +96,7 @@
 		<TS id="0c82" on="0003" frq="11739000" inv="2" sr="29900000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="177a" f="4" s="1" t="16" n="NPO Politiek"/>
 			<S i="177f" f="4" s="1" t="16" n="192TV"/>
+			<S i="1789" f="2" s="0" t="1" n="NPO Zapp Xtra/NPO 1 extra"/>
 			<S i="178e" f="4" s="1" t="16" n="FOX Channel"/>
 			<S i="1793" f="4" s="1" t="16" n="Boomerang"/>
 			<S i="1794" f="4" s="1" t="16" n="Boomerang CZ"/>
@@ -113,6 +114,7 @@
 			<S i="17ce" f="4" s="1" t="19" n="the QYOU"/>
 			<S i="17cf" f="4" s="1" t="19" n="the QYOU CZ"/>
 			<S i="17d1" f="4" s="1" t="16" n="Discovery Channel"/>
+			<S i="17df" f="2" s="0" t="1" n="EDGE"/>
 			<S i="17e0" f="4" s="0" t="16" n="CD Infokanaal"/>
 			<S i="17e1" f="4" s="0" t="16" n="TVV Infokanaal"/>
 			<S i="17e9" f="4" s="1" t="16" n="Cartoon Network"/>
@@ -469,6 +471,7 @@
 			<S i="5262" f="4" s="0" t="2" n="SLAM!"/>
 			<S i="5265" f="4" s="1" t="16" n="TV Noord"/>
 			<S i="5268" f="4" s="1" t="16" n="Omroep Brabant Televisie"/>
+			<S i="5269" f="2" s="0" t="1" n="Omroep Zeeland Televisie"/>
 			<S i="526a" f="4" s="1" t="16" n="Golf Channel"/>
 			<S i="52b0" f="4" s="1" t="19" n="Discovery Showcase HD"/>
 		</TS>
@@ -589,7 +592,7 @@
 			<S i="4ed5" f="4" s="0" t="1" n="Brazzers TV"/>
 			<S i="4ed6" f="4" s="0" t="1" n="Balkan Hot"/>
 			<S i="4ed8" f="4" s="0" t="1" n="Erotic"/>
-			<S i="4ed9" f="4" s="0" t="1" n="Erotic 2"/>
+			<S i="4ed9" f="4" s="1" t="1" n="Erotic 2"/>
 			<S i="4eda" f="4" s="0" t="1" n="Hustler"/>
 			<S i="4f02" f="4" s="0" t="1" n="Digi 24"/>
 			<S i="4f03" f="4" s="0" t="1" n="Pro TV International"/>

@@ -298,9 +298,11 @@
 		<S i="3f4" t="2" on="aa" s="90" frq="12054" n="4E"/>
 		<S i="464" t="8" on="aa" s="90" frq="12169" n="Action 24"/>
 		<S i="43c" t="2" on="aa" s="90" frq="12054" n="Al Jazeera"/>
+		<S i="43c" t="7" on="aa" s="90" frq="12475" n="Al Jazeera"/>
 		<S i="413" t="4" on="aa" s="90" frq="12207" n="ALPHA HD"/>
 		<S i="406" t="2" on="aa" s="90" frq="12054" n="ANT1 HD"/>
 		<S i="409" t="4" on="aa" s="90" frq="12207" n="Atlas TV"/>
+		<S i="409" t="9" on="aa" s="90" frq="11938" n="Atlas TV"/>
 		<S i="430" t="2" on="aa" s="90" frq="12054" n="Baby TV"/>
 		<S i="467" t="8" on="aa" s="90" frq="12169" n="BBC Earth HD"/>
 		<S i="440" t="1" on="aa" s="90" frq="11843" n="BBC World News"/>
@@ -312,6 +314,7 @@
 		<S i="40a" t="2" on="aa" s="90" frq="12054" n="CENTER TV"/>
 		<S i="43d" t="1" on="aa" s="90" frq="11843" n="CNBC"/>
 		<S i="410" t="2" on="aa" s="90" frq="12054" n="CNN"/>
+		<S i="410" t="9" on="aa" s="90" frq="11938" n="CNN"/>
 		<S i="44f" t="6" on="aa" s="90" frq="12399" n="Corfu Channel"/>
 		<S i="3fe" t="5" on="aa" s="90" frq="12284" n="COSMOTE CinemaOnDemand 1 HD"/>
 		<S i="3ff" t="5" on="aa" s="90" frq="12284" n="COSMOTE CinemaOnDemand 2"/>
@@ -331,6 +334,7 @@
 		<S i="42f" t="4" on="aa" s="90" frq="12207" n="COSMOTESportHighlightsHD"/>
 		<S i="41f" t="5" on="aa" s="90" frq="12284" n="CRETA"/>
 		<S i="46e" t="8" on="aa" s="90" frq="12169" n="Crime + Investigation"/>
+		<S i="439" t="7" on="aa" s="90" frq="12475" n="Deutsche Welle"/>
 		<S i="439" t="2" on="aa" s="90" frq="12054" n="Deutsche Welle"/>
 		<S i="42e" t="4" on="aa" s="90" frq="12207" n="Disney Channel"/>
 		<S i="403" t="6" on="aa" s="90" frq="12399" n="Disney Junior"/>
@@ -343,6 +347,7 @@
 		<S i="470" t="8" on="aa" s="90" frq="12169" n="Fine Living HD"/>
 		<S i="46a" t="8" on="aa" s="90" frq="12169" n="Food Network HD"/>
 		<S i="40e" t="7" on="aa" s="90" frq="12475" n="FOX HD"/>
+		<S i="40e" t="8" on="aa" s="90" frq="12169" n="FOX HD"/>
 		<S i="461" t="4" on="aa" s="90" frq="12207" n="FOX Life HD"/>
 		<S i="469" t="8" on="aa" s="90" frq="12169" n="FOX Sports HD"/>
 		<S i="43a" t="6" on="aa" s="90" frq="12399" n="France 24 En"/>
@@ -364,6 +369,7 @@
 		<S i="445" t="6" on="aa" s="90" frq="12399" n="Nickelodeon HD"/>
 		<S i="415" t="2" on="aa" s="90" frq="12054" n="ONE Channel HD"/>
 		<S i="405" t="5" on="aa" s="90" frq="12284" n="OPEN BEYOND HD"/>
+		<S i="46f" t="7" on="aa" s="90" frq="12475" n="Outdoor Channel HD"/>
 		<S i="46f" t="8" on="aa" s="90" frq="12169" n="Outdoor Channel HD"/>
 		<S i="425" t="5" on="aa" s="90" frq="12284" n="Penthouse Gold"/>
 		<S i="41c" t="8" on="aa" s="90" frq="12169" n="POP UP TEST HD"/>
@@ -378,11 +384,10 @@
 		<S i="437" t="1" on="aa" s="90" frq="11843" n="Star Κεντρικής Ελλάδας"/>
 		<S i="41d" t="1" on="aa" s="90" frq="11843" n="Stingray CMusic"/>
 		<S i="3f5" t="1" on="aa" s="90" frq="11843" n="Stingray iConcerts"/>
-		<S i="44a" t="2" on="aa" s="90" frq="12054" n="SundanceTV"/>
 		<S i="414" t="6" on="aa" s="90" frq="12399" n="TCM HD"/>
+		<S i="473" t="9" on="aa" s="90" frq="11938" n="TEST - 3"/>
 		<S i="468" t="7" on="aa" s="90" frq="12475" n="TEST 13"/>
-		<S i="429" t="9" on="aa" s="90" frq="11938" n="TEST 2"/>
-		<S i="473" t="9" on="aa" s="90" frq="11938" n="TEST 3"/>
+		<S i="429" t="9" on="aa" s="90" frq="11938" n="TEST 2 SD"/>
 		<S i="45f" t="1" on="aa" s="90" frq="11843" n="TEST 4"/>
 		<S i="462" t="8" on="aa" s="90" frq="12169" n="TEST 5"/>
 		<S i="472" t="9" on="aa" s="90" frq="11938" n="TEST 81"/>
@@ -403,6 +408,7 @@
 		<S i="3fd" t="1" on="aa" s="90" frq="11843" n="ΚΡΗΤΗ TV"/>
 		<S i="463" t="8" on="aa" s="90" frq="12169" n="Κρήτη Νέα Τηλεόραση"/>
 		<S i="402" t="5" on="aa" s="90" frq="12284" n="Μακεδονία TV"/>
+		<S i="44a" t="2" on="aa" s="90" frq="12054" n="Μακεδονία TV HD"/>
 		<S i="441" t="4" on="aa" s="90" frq="12207" n="ΣΚΑΪ HD"/>
 		<S i="3ef" t="5" on="aa" s="90" frq="12284" n="α.Epsilon"/>
 		<S i="432" t="6" on="aa" s="90" frq="12399" n="OICHALIA - CHRISTIANITY RADIO"/>

@@ -32,6 +32,7 @@
 			<S i="0a41" f="4" s="1" t="16" n="MTV Nordic"/>
 			<S i="0a46" f="4" s="1" t="19" n="Viasat 4 HD"/>
 			<S i="0a50" f="4" s="1" t="19" n="Viasat Nature HD"/>
+			<S i="0a55" f="1" s="0" t="19" n="Xee"/>
 			<S i="0a5a" f="4" s="1" t="19" n="TV3 HD Danmark"/>
 			<S i="0a64" f="4" s="1" t="16" n="MTV Hits"/>
 			<S i="0a69" f="4" s="1" t="16" n="Nick DK"/>
@@ -125,13 +126,13 @@
 			<S i="0bcc" f="4" s="1" t="19" n="Cmore Sport HD"/>
 			<S i="0bea" f="4" s="0" t="19" n="U test 27 2"/>
 		</TS>
-		<TS id="00ca" on="0055" frq="11727000" inv="2" sr="27500000" fec="5" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+		<TS id="00ca" on="0055" frq="11727000" inv="2" sr="27500000" fec="2" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="283c" f="4" s="1" t="1" n="TV6 (LT)"/>
 			<S i="2841" f="4" s="1" t="1" n="TV3"/>
-			<S i="2846" f="4" s="1" t="1" n="TV6 (EE)"/>
+			<S i="2846" f="4" s="1" t="1" n="TV6"/>
 			<S i="284b" f="4" s="1" t="1" n="ETV"/>
 			<S i="2850" f="4" s="1" t="1" n="Kanal 2"/>
-			<S i="2855" f="4" s="1" t="1" n="Kanal 11 (EE)"/>
+			<S i="2855" f="4" s="1" t="1" n="Kanal 11"/>
 			<S i="285a" f="4" s="1" t="1" n="Tallinna TV"/>
 			<S i="285f" f="4" s="1" t="1" n="TV1000 Action"/>
 			<S i="2864" f="4" s="1" t="1" n="Ohota i Rybalka"/>
@@ -146,7 +147,7 @@
 			<S i="2891" f="4" s="0" t="1" n="Nicktoons"/>
 			<S i="2896" f="4" s="1" t="1" n="E! Entertainment"/>
 			<S i="289b" f="4" s="1" t="1" n="BBC World News"/>
-			<S i="28a0" f="4" s="1" t="1" n="Ticket"/>
+			<S i="28a0" f="4" s="1" t="1" n="Brazzers TV"/>
 			<S i="28a5" f="4" s="1" t="19" n="TVPlay Sports+ HD"/>
 			<S i="28aa" f="4" s="1" t="1" n="VH1"/>
 			<S i="28af" f="4" s="1" t="1" n="Playboy TV"/>
@@ -170,14 +171,14 @@
 			<S i="182e" f="4" s="0" t="1" n="O-TV"/>
 			<S i="1831" f="4" s="1" t="1" n="Unian TV"/>
 		</TS>
-		<TS id="00c9" on="0055" frq="11785000" inv="2" sr="27500000" fec="5" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
+		<TS id="00c9" on="0055" frq="11785000" inv="2" sr="27500000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="2774" f="4" s="1" t="1" n="LTV1"/>
 			<S i="2779" f="4" s="1" t="1" n="LTV7"/>
 			<S i="277e" f="4" s="1" t="1" n="TV3 (LV)"/>
 			<S i="2783" f="4" s="1" t="1" n="LNT"/>
 			<S i="2788" f="4" s="1" t="1" n="TV6 (LV)"/>
 			<S i="278d" f="4" s="1" t="1" n="Kanāls 2"/>
-			<S i="2792" f="4" s="1" t="1" n="3+ (LV)"/>
+			<S i="2792" f="4" s="1" t="1" n="3+"/>
 			<S i="2797" f="4" s="1" t="1" n="TV8"/>
 			<S i="279c" f="4" s="1" t="1" n="LNK"/>
 			<S i="27a1" f="4" s="1" t="1" n="BTV"/>
@@ -195,7 +196,7 @@
 			<S i="27e2" f="4" s="1" t="1" n="Kanal 12"/>
 			<S i="27e7" f="4" s="1" t="1" n="FOX"/>
 		</TS>
-		<TS id="001b" on="0056" frq="11823000" inv="2" sr="27500000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
+		<TS id="001b" on="0056" frq="11823000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="0640" f="4" s="1" t="19" n="Viasat Film Premiere HD"/>
 			<S i="064a" f="4" s="1" t="19" n="SVT 1 HD"/>
 			<S i="064c" f="4" s="0" t="19" n="SVT 1 HD talande text"/>
@@ -266,7 +267,7 @@
 			<S i="118a" f="4" s="1" t="16" n="SVT2 Småland"/>
 			<S i="118d" f="4" s="1" t="16" n="SVT2 Skåne"/>
 		</TS>
-		<TS id="00cb" on="0055" frq="11938000" inv="2" sr="27500000" fec="5" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
+		<TS id="00cb" on="0055" frq="11938000" inv="2" sr="27500000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="2904" f="4" s="1" t="1" n="TV3 (LT)"/>
 			<S i="2909" f="4" s="1" t="1" n="LRT Televizija"/>
 			<S i="290e" f="4" s="1" t="1" n="LRT Lituanica"/>
@@ -281,7 +282,7 @@
 			<S i="293b" f="4" s="1" t="1" n="Nat Geo Wild"/>
 			<S i="2940" f="4" s="1" t="19" n="TV1000 Premium HD"/>
 			<S i="2945" f="4" s="1" t="19" n="TVPlay Sports HD"/>
-			<S i="294a" f="4" s="1" t="19" n="Viasat Epic Drama HD"/>
+			<S i="294a" f="4" s="1" t="19" n="Epic Drama HD"/>
 			<S i="294f" f="4" s="1" t="19" n="TV3 Estonia HD"/>
 			<S i="2954" f="4" s="1" t="19" n="TV3 Latvia HD"/>
 			<S i="2959" f="4" s="1" t="19" n="TV3 Lithuania HD"/>
@@ -290,10 +291,10 @@
 		<TS id="00ca" on="0055" frq="11958000" inv="2" sr="27500000" fec="5" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="283c" f="4" s="1" t="1" n="TV6 (LT)"/>
 			<S i="2841" f="4" s="1" t="1" n="TV3"/>
-			<S i="2846" f="4" s="1" t="1" n="TV6 (EE)"/>
+			<S i="2846" f="4" s="1" t="1" n="TV6"/>
 			<S i="284b" f="4" s="1" t="1" n="ETV"/>
 			<S i="2850" f="4" s="1" t="1" n="Kanal 2"/>
-			<S i="2855" f="4" s="1" t="1" n="Kanal 11 (EE)"/>
+			<S i="2855" f="4" s="1" t="1" n="Kanal 11"/>
 			<S i="285a" f="4" s="1" t="1" n="Tallinna TV"/>
 			<S i="285f" f="4" s="1" t="1" n="TV1000 Action"/>
 			<S i="2864" f="4" s="1" t="1" n="Ohota i Rybalka"/>
@@ -308,7 +309,7 @@
 			<S i="2891" f="4" s="0" t="1" n="Nicktoons"/>
 			<S i="2896" f="4" s="1" t="1" n="E! Entertainment"/>
 			<S i="289b" f="4" s="1" t="1" n="BBC World News"/>
-			<S i="28a0" f="4" s="1" t="1" n="Ticket"/>
+			<S i="28a0" f="4" s="1" t="1" n="Brazzers TV"/>
 			<S i="28a5" f="4" s="1" t="19" n="TVPlay Sports+ HD"/>
 			<S i="28aa" f="4" s="1" t="1" n="VH1"/>
 			<S i="28af" f="4" s="1" t="1" n="Playboy TV"/>
@@ -321,7 +322,7 @@
 			<S i="0fb4" f="4" s="1" t="1" n="Nick JR"/>
 			<S i="0fb9" f="4" s="0" t="2" n="TT"/>
 			<S i="0fbc" f="4" s="1" t="1" n="VH1"/>
-			<S i="0fbe" f="4" s="1" t="1" n="RTR Planeta"/>
+			<S i="0fbe" f="2" s="1" t="1" n="RTR Planeta"/>
 			<S i="0fd2" f="4" s="0" t="1" n="Kanal 10"/>
 			<S i="0fdc" f="4" s="0" t="1" n="GOD Channel"/>
 			<S i="0ff0" f="4" s="0" t="1" n="Russia Today"/>
@@ -355,7 +356,7 @@
 		</TS>
 		<TS id="000f" on="0055" frq="12073000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="1964" f="4" s="0" t="2" n="Emmanuel"/>
-			<S i="1967" f="4" s="0" t="2" n="RADIO ERA"/>
+			<S i="1967" f="4" s="0" t="2" n="radio nv"/>
 			<S i="1969" f="4" s="0" t="16" n="New Christian"/>
 			<S i="196c" f="4" s="0" t="2" n="Hromadske Radio"/>
 			<S i="196e" f="4" s="0" t="1" n="NEWS ONE"/>
@@ -455,6 +456,7 @@
 		<TS id="0035" on="0053" frq="12245000" inv="2" sr="30000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0b5e" f="4" s="1" t="19" n="Ukraine XD"/>
 			<S i="0b5f" f="4" s="1" t="19" n="NLO XD"/>
+			<S i="0b60" f="1" s="1" t="19" n="Indigo XD"/>
 			<S i="0b68" f="4" s="1" t="19" n="1+1 XD"/>
 			<S i="0b69" f="4" s="1" t="19" n="TET XD"/>
 			<S i="0b6a" f="4" s="1" t="19" n="2+2 XD"/>
@@ -502,6 +504,9 @@
 			<S i="026c" f="4" s="1" t="1" n="Diva Balkans"/>
 			<S i="026d" f="4" s="1" t="1" n="Universal HUNGARY"/>
 			<S i="026f" f="4" s="1" t="1" n="Universal HUNGARY"/>
+			<S i="02bc" f="1" s="0" t="2" n="BBC AM Dist1"/>
+			<S i="02c6" f="1" s="0" t="2" n="BBC AM Dist2"/>
+			<S i="02e4" f="1" s="0" t="2" n="BBC AM Dist5"/>
 			<S i="03ee" f="4" s="0" t="2" n="Absolute Radio"/>
 			<S i="0503" f="4" s="0" t="2" n="IRN"/>
 			<S i="050b" f="4" s="0" t="1" n="Belsat TV"/>
@@ -556,7 +561,7 @@
 			<S i="00ea" f="4" s="0" t="2" n="Radio Marija Latvia"/>
 			<S i="00ec" f="4" s="1" t="2" n="Test R"/>
 			<S i="00f0" f="4" s="1" t="1" n="LTV World"/>
-			<S i="00fa" f="4" s="0" t="1" n="SBN Global"/>
+			<S i="00fa" f="4" s="0" t="1" n="SBN International"/>
 			<S i="0104" f="4" s="0" t="1" n="K75 International"/>
 			<S i="010e" f="4" s="0" t="1" n="TBN Ukraine"/>
 			<S i="0122" f="4" s="0" t="1" n="DW Deutsch"/>
@@ -574,7 +579,7 @@
 			<S i="1cca" f="4" s="0" t="1" n="Enter Film"/>
 			<S i="1cde" f="4" s="1" t="16" n="INTER +"/>
 		</TS>
-		<TS id="0065" on="0001" frq="12418000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
+		<TS id="0065" on="0001" frq="12418000" inv="2" sr="27500000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="000b" f="4" s="1" t="1" n="SIS VISION AUDIO &amp; VBI - CISCO 1"/>
 			<S i="000c" f="4" s="1" t="1" n="ALT VC 11"/>
 			<S i="0021" f="4" s="1" t="1" n="LADBROKES SIS LES2 - CISCO 1"/>
