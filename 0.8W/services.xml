@@ -57,12 +57,12 @@
 			<S i="1bee" f="4" s="1" t="1" n="UNK (0x0041_0x1BEE)"/>
 		</TS>
 		<TS id="0041" on="0046" frq="10809000" inv="2" sr="25000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="1453" f="1" s="1" t="1" n="CNBC"/>
-			<S i="1b79" f="1" s="1" t="19" n="Eurosport 1 HD (N)"/>
-			<S i="1b80" f="1" s="1" t="19" n="Eurosport 1 HD (S)"/>
-			<S i="1b91" f="1" s="1" t="19" n="TV3 HD (D)"/>
-			<S i="1b92" f="1" s="1" t="19" n="TV3 Sport HD (D)"/>
-			<S i="1bee" f="1" s="1" t="1" n="DW English"/>
+			<S i="1453" f="4" s="1" t="1" n="CNBC"/>
+			<S i="1b79" f="4" s="1" t="19" n="Eurosport 1 HD (N)"/>
+			<S i="1b80" f="4" s="1" t="19" n="Eurosport 1 HD (S)"/>
+			<S i="1b91" f="4" s="1" t="19" n="TV3 HD (D)"/>
+			<S i="1b92" f="4" s="1" t="19" n="TV3 Sport HD (D)"/>
+			<S i="1bee" f="4" s="1" t="1" n="DW English"/>
 		</TS>
 		<TS id="003f" on="0046" frq="10841000" inv="2" sr="25000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="125d" f="4" s="1" t="16" n="TV 2 / Nord"/>
@@ -112,7 +112,7 @@
 			<S i="1b9f" f="4" s="1" t="19" n="TV 2 Zulu HD"/>
 			<S i="1c8f" f="4" s="1" t="16" n="ID Investigation Discovery (D)"/>
 			<S i="1c93" f="4" s="1" t="16" n="dk4"/>
-			<S i="1c94" f="4" s="1" t="16" n="DanToto"/>
+			<S i="1c94" f="4" s="1" t="16" n="Sport Live"/>
 			<S i="1c95" f="4" s="1" t="16" n="TV3 Puls"/>
 			<S i="1c96" f="4" s="1" t="16" n="DR2"/>
 			<S i="1c97" f="4" s="1" t="16" n="DR Ultra"/>
@@ -170,7 +170,7 @@
 			<S i="1c12" f="4" s="1" t="19" n="C More Sport 2 HD"/>
 			<S i="1c18" f="4" s="1" t="16" n="SF Kanalen"/>
 			<S i="1c1a" f="4" s="1" t="16" n="Horse &amp; Country TV"/>
-			<S i="1e61" f="1" s="1" t="19" n="auto motor og sport TV"/>
+			<S i="1e61" f="4" s="1" t="19" n="auto motor og sport TV"/>
 			<S i="4298" f="4" s="1" t="16" n="TV4 Fakta - Text"/>
 			<S i="4299" f="4" s="1" t="16" n="TV4 Film - Text"/>
 		</TS>
@@ -188,7 +188,7 @@
 			<S i="4662" f="4" s="1" t="16" n="TLC Danmark syn"/>
 		</TS>
 		<TS id="0003" on="0046" frq="11278000" inv="2" sr="25000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="1c01" f="1" s="1" t="19" n="VGTV HD"/>
+			<S i="1c01" f="4" s="1" t="19" n="VGTV HD"/>
 			<S i="1c58" f="4" s="1" t="16" n="Disney Channel (D)"/>
 			<S i="1c59" f="4" s="1" t="19" n="Eurosport Norge HD"/>
 			<S i="1c5a" f="4" s="1" t="16" n="Disney Channel (N)"/>
@@ -204,7 +204,7 @@
 			<S i="115e" f="4" s="1" t="19" n="TV3 HD (S)"/>
 			<S i="1ed7" f="4" s="1" t="16" n="TST1"/>
 			<S i="1ed8" f="4" s="1" t="16" n="TST2"/>
-			<S i="42bc" f="1" s="1" t="19" n="Kuukauden kanava"/>
+			<S i="42bc" f="3" s="1" t="19" n="Kuukauden kanava"/>
 			<S i="4699" f="4" s="1" t="19" n="TV3 HD (S) - Text"/>
 		</TS>
 		<TS id="0019" on="0046" frq="11325000" inv="2" sr="25000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -213,8 +213,10 @@
 			<S i="1c11" f="4" s="1" t="16" n="Disney Junior"/>
 			<S i="1c1d" f="4" s="1" t="16" n="Disney Channel (S/F)"/>
 			<S i="1c2f" f="2" s="1" t="16" n="Discovery World"/>
-			<S i="1c30" f="4" s="1" t="16" n="Discovery Science (old)"/>
+			<S i="1c30" f="2" s="1" t="16" n="Discovery Science (old)"/>
+			<S i="1c7e" f="4" s="1" t="19" n="TV 2 Humor HD"/>
 			<S i="1d08" f="4" s="1" t="19" n="Viasat 4 HD"/>
+			<S i="1dfd" f="4" s="1" t="19" n="TV 2 Livsstil HD"/>
 			<S i="4295" f="4" s="1" t="19" n="Sjuan HD - Text"/>
 		</TS>
 		<TS id="002b" on="0046" frq="11341000" inv="2" sr="25000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -232,7 +234,7 @@
 			<S i="1c38" f="4" s="1" t="16" n="VH1"/>
 			<S i="1c39" f="4" s="1" t="16" n="VH1 Classic"/>
 			<S i="1c48" f="4" s="1" t="16" n="Matkanalen"/>
-			<S i="1c7f" f="1" s="1" t="16" n="Discovery Science"/>
+			<S i="1c7f" f="4" s="1" t="16" n="Discovery Science"/>
 			<S i="4368" f="4" s="1" t="16" n="Paramount Network (D)"/>
 		</TS>
 		<TS id="0020" on="0046" frq="11357000" inv="2" sr="24500000" fec="7" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
@@ -263,7 +265,7 @@
 			<S i="1b64" f="4" s="1" t="16" n="BBC World News"/>
 			<S i="1b8a" f="4" s="1" t="19" n="TV3+ HD"/>
 			<S i="1bac" f="4" s="1" t="16" n="Boomerang"/>
-			<S i="1c7c" f="1" s="1" t="16" n="TV6 (N)"/>
+			<S i="1c7c" f="4" s="1" t="16" n="TV6 (N)"/>
 			<S i="4282" f="4" s="1" t="16" n="Boomerang"/>
 		</TS>
 		<TS id="002c" on="0046" frq="11421000" inv="2" sr="25000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -598,7 +600,7 @@
 			<S i="32ca" f="4" s="1" t="19" n="Test_13002"/>
 			<S i="32cb" f="4" s="1" t="19" n="Test_13003"/>
 			<S i="32cc" f="4" s="1" t="19" n="Test_13004"/>
-			<S i="42bc" f="2" s="1" t="19" n="Kuukauden kanava"/>
+			<S i="42bc" f="4" s="1" t="19" n="Kuukauden kanava"/>
 			<S i="4316" f="4" s="1" t="19" n="BBC Earth HD (ST)"/>
 		</TS>
 		<TS id="02c1" on="0600" frq="12034000" inv="2" sr="30000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -748,7 +750,7 @@
 			<S i="0bda" f="4" s="1" t="1" n="Duck TV"/>
 			<S i="0bdb" f="4" s="1" t="1" n="Dusk TV"/>
 			<S i="0bdc" f="4" s="1" t="19" n="Tuki TV HD"/>
-			<S i="0bde" f="4" s="1" t="19" n="Digi Sport 4 HD"/>
+			<S i="0bde" f="4" s="1" t="19" n="PREMIER SPORT HD"/>
 			<S i="0be9" f="4" s="1" t="1" n="Fashion TV"/>
 			<S i="0c04" f="4" s="1" t="1" n="Tuki TV HD"/>
 		</TS>
@@ -904,42 +906,42 @@
 			<S i="1f4d" f="4" s="1" t="16" n="Spektrum SK"/>
 		</TS>
 		<TS id="000a" on="fe01" frq="12607000" inv="2" sr="30000000" fec="7" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="0001" f="1" s="0" t="1" n="Channel-01"/>
-			<S i="0002" f="1" s="0" t="1" n="Channel-02"/>
-			<S i="0003" f="1" s="0" t="1" n="Channel-03"/>
-			<S i="0004" f="1" s="0" t="1" n="Channel-04"/>
-			<S i="0005" f="1" s="0" t="1" n="Channel-05"/>
-			<S i="0006" f="1" s="0" t="1" n="Channel-06"/>
-			<S i="0007" f="1" s="0" t="1" n="Channel-07"/>
-			<S i="0008" f="1" s="0" t="1" n="Channel-08"/>
-			<S i="0009" f="1" s="0" t="1" n="Channel-09"/>
-			<S i="000a" f="1" s="0" t="1" n="Channel-10"/>
-			<S i="000b" f="1" s="0" t="1" n="Channel-11"/>
-			<S i="000c" f="1" s="0" t="1" n="Channel-12"/>
-			<S i="000d" f="1" s="0" t="1" n="Channel-13"/>
-			<S i="000e" f="1" s="0" t="1" n="Channel-14"/>
-			<S i="000f" f="1" s="0" t="1" n="Channel-15"/>
-			<S i="0010" f="1" s="0" t="1" n="Channel-16"/>
-			<S i="0011" f="1" s="0" t="1" n="Channel-17"/>
-			<S i="0012" f="1" s="0" t="1" n="Channel-18"/>
-			<S i="0013" f="1" s="0" t="1" n="Channel-19"/>
-			<S i="0014" f="1" s="0" t="1" n="Channel-20"/>
-			<S i="0015" f="1" s="0" t="1" n="Channel-21"/>
-			<S i="0016" f="1" s="0" t="1" n="Channel-22"/>
-			<S i="0017" f="1" s="0" t="1" n="Channel-23"/>
-			<S i="0018" f="1" s="0" t="1" n="Channel-24"/>
-			<S i="0029" f="1" s="0" t="2" n="Radio-01"/>
-			<S i="002a" f="1" s="0" t="2" n="Radio-02"/>
-			<S i="002b" f="1" s="0" t="2" n="Radio-03"/>
-			<S i="002c" f="1" s="0" t="2" n="Radio-04"/>
-			<S i="002d" f="1" s="0" t="2" n="Radio-05"/>
-			<S i="002e" f="1" s="0" t="2" n="Radio-06"/>
-			<S i="002f" f="1" s="0" t="2" n="Radio-07"/>
-			<S i="0030" f="1" s="0" t="2" n="Radio-08"/>
-			<S i="0031" f="1" s="0" t="2" n="Radio-09"/>
-			<S i="0032" f="1" s="0" t="2" n="Radio-10"/>
-			<S i="0033" f="1" s="0" t="2" n="Radio-11"/>
-			<S i="0034" f="1" s="0" t="2" n="Radio-12"/>
+			<S i="0001" f="4" s="0" t="1" n="Channel-01"/>
+			<S i="0002" f="4" s="0" t="1" n="Channel-02"/>
+			<S i="0003" f="4" s="0" t="1" n="Channel-03"/>
+			<S i="0004" f="4" s="0" t="1" n="Channel-04"/>
+			<S i="0005" f="4" s="0" t="1" n="Channel-05"/>
+			<S i="0006" f="4" s="0" t="1" n="Channel-06"/>
+			<S i="0007" f="4" s="0" t="1" n="Channel-07"/>
+			<S i="0008" f="4" s="0" t="1" n="Channel-08"/>
+			<S i="0009" f="4" s="0" t="1" n="Channel-09"/>
+			<S i="000a" f="4" s="0" t="1" n="Channel-10"/>
+			<S i="000b" f="4" s="0" t="1" n="Channel-11"/>
+			<S i="000c" f="4" s="0" t="1" n="Channel-12"/>
+			<S i="000d" f="4" s="0" t="1" n="Channel-13"/>
+			<S i="000e" f="4" s="0" t="1" n="Channel-14"/>
+			<S i="000f" f="4" s="0" t="1" n="Channel-15"/>
+			<S i="0010" f="4" s="0" t="1" n="Channel-16"/>
+			<S i="0011" f="4" s="0" t="1" n="Channel-17"/>
+			<S i="0012" f="4" s="0" t="1" n="Channel-18"/>
+			<S i="0013" f="4" s="0" t="1" n="Channel-19"/>
+			<S i="0014" f="4" s="0" t="1" n="Channel-20"/>
+			<S i="0015" f="4" s="0" t="1" n="Channel-21"/>
+			<S i="0016" f="4" s="0" t="1" n="Channel-22"/>
+			<S i="0017" f="4" s="0" t="1" n="Channel-23"/>
+			<S i="0018" f="4" s="0" t="1" n="Channel-24"/>
+			<S i="0029" f="4" s="0" t="2" n="Radio-01"/>
+			<S i="002a" f="4" s="0" t="2" n="Radio-02"/>
+			<S i="002b" f="4" s="0" t="2" n="Radio-03"/>
+			<S i="002c" f="4" s="0" t="2" n="Radio-04"/>
+			<S i="002d" f="4" s="0" t="2" n="Radio-05"/>
+			<S i="002e" f="4" s="0" t="2" n="Radio-06"/>
+			<S i="002f" f="4" s="0" t="2" n="Radio-07"/>
+			<S i="0030" f="4" s="0" t="2" n="Radio-08"/>
+			<S i="0031" f="4" s="0" t="2" n="Radio-09"/>
+			<S i="0032" f="4" s="0" t="2" n="Radio-10"/>
+			<S i="0033" f="4" s="0" t="2" n="Radio-11"/>
+			<S i="0034" f="4" s="0" t="2" n="Radio-12"/>
 		</TS>
 		<TS id="0af8" on="00bb" frq="12607000" inv="2" sr="30000000" fec="7" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="1f4b" f="4" s="1" t="16" n="Film+ SK"/>

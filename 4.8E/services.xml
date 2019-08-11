@@ -32,7 +32,7 @@
 			<S i="0a41" f="4" s="1" t="16" n="MTV Nordic"/>
 			<S i="0a46" f="4" s="1" t="19" n="Viasat 4 HD"/>
 			<S i="0a50" f="4" s="1" t="19" n="Viasat Nature HD"/>
-			<S i="0a55" f="1" s="0" t="19" n="Xee"/>
+			<S i="0a55" f="4" s="1" t="19" n="Xee"/>
 			<S i="0a5a" f="4" s="1" t="19" n="TV3 HD Danmark"/>
 			<S i="0a64" f="4" s="1" t="16" n="MTV Hits"/>
 			<S i="0a69" f="4" s="1" t="16" n="Nick DK"/>
@@ -430,7 +430,7 @@
 			<S i="0191" f="4" s="1" t="1" n="ALT VC 400"/>
 		</TS>
 		<TS id="0018" on="0044" frq="12207000" inv="2" sr="30000000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="0960" f="4" s="0" t="82" n="EPG DU"/>
+			<S i="0960" f="2" s="0" t="82" n="EPG DU"/>
 			<S i="09c4" f="4" s="1" t="1" n="Sony Sci-Fi"/>
 			<S i="09ce" f="4" s="1" t="1" n="Animal Planet"/>
 			<S i="09d8" f="4" s="1" t="1" n="TLC"/>
@@ -462,6 +462,21 @@
 			<S i="0b6a" f="4" s="1" t="19" n="2+2 XD"/>
 			<S i="0b87" f="4" s="0" t="19" n="SONCE (UA) XD"/>
 		</TS>
+		<TS id="0035" on="0055" frq="12245000" inv="2" sr="30000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="0b5e" f="4" s="1" t="19" n="Ukraine XD"/>
+			<S i="0b5f" f="4" s="1" t="19" n="NLO XD"/>
+			<S i="0b60" f="4" s="1" t="19" n="Indigo XD"/>
+			<S i="0b62" f="4" s="1" t="19" n="FOOTBALL 1 HD"/>
+			<S i="0b63" f="4" s="1" t="16" n="FOOTBALL 1 SD"/>
+			<S i="0b64" f="4" s="1" t="19" n="FOOTBALL 2 HD"/>
+			<S i="0b65" f="4" s="1" t="16" n="FOOTBALL 2 SD"/>
+			<S i="0b66" f="4" s="0" t="16" n="Donbass"/>
+			<S i="0b67" f="4" s="1" t="16" n="34"/>
+			<S i="0b68" f="4" s="1" t="19" n="1+1 XD"/>
+			<S i="0b69" f="4" s="1" t="19" n="TET XD"/>
+			<S i="0b6a" f="4" s="1" t="19" n="2+2 XD"/>
+			<S i="0b87" f="4" s="0" t="19" n="SONCE (UA) XD"/>
+		</TS>
 		<TS id="002c" on="0055" frq="12265000" inv="2" sr="30000000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="1e15" f="4" s="1" t="1" n="TEST1"/>
 			<S i="1e16" f="4" s="1" t="1" n="TEST2"/>
@@ -476,7 +491,7 @@
 			<S i="1e25" f="4" s="1" t="1" n="FILMUADRAMA"/>
 			<S i="1e27" f="4" s="0" t="1" n="36.6"/>
 			<S i="1e29" f="4" s="0" t="1" n="Kyiv TV"/>
-			<S i="1e2a" f="4" s="1" t="19" n="Test"/>
+			<S i="1e2a" f="2" s="1" t="19" n="Test"/>
 			<S i="1e69" f="4" s="1" t="1" n="UKRAINA-SD"/>
 		</TS>
 		<TS id="0011" on="0055" frq="12284000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
@@ -487,8 +502,8 @@
 			<S i="1b12" f="4" s="0" t="1" n="Channel 5 (Ukraine)"/>
 			<S i="1b1c" f="4" s="0" t="1" n="KRT"/>
 			<S i="1b21" f="4" s="0" t="1" n="VINTAGE TV Test"/>
-			<S i="1b26" f="4" s="0" t="1" n="Priamyi-Test"/>
-			<S i="1b3a" f="4" s="0" t="1" n="112-Test"/>
+			<S i="1b26" f="4" s="0" t="1" n="Priamyi"/>
+			<S i="1b3a" f="4" s="0" t="1" n="112"/>
 			<S i="1b44" f="4" s="0" t="1" n="MAXXI TV"/>
 		</TS>
 		<TS id="0000" on="0001" frq="12303000" inv="2" sr="25546000" fec="7" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
@@ -504,9 +519,9 @@
 			<S i="026c" f="4" s="1" t="1" n="Diva Balkans"/>
 			<S i="026d" f="4" s="1" t="1" n="Universal HUNGARY"/>
 			<S i="026f" f="4" s="1" t="1" n="Universal HUNGARY"/>
-			<S i="02bc" f="1" s="0" t="2" n="BBC AM Dist1"/>
-			<S i="02c6" f="1" s="0" t="2" n="BBC AM Dist2"/>
-			<S i="02e4" f="1" s="0" t="2" n="BBC AM Dist5"/>
+			<S i="02bc" f="4" s="0" t="2" n="BBC AM Dist1"/>
+			<S i="02c6" f="4" s="0" t="2" n="BBC AM Dist2"/>
+			<S i="02e4" f="4" s="0" t="2" n="BBC AM Dist5"/>
 			<S i="03ee" f="4" s="0" t="2" n="Absolute Radio"/>
 			<S i="0503" f="4" s="0" t="2" n="IRN"/>
 			<S i="050b" f="4" s="0" t="1" n="Belsat TV"/>
@@ -568,7 +583,7 @@
 		</TS>
 		<TS id="0013" on="0055" frq="12399000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="1c8e" f="4" s="0" t="1" n="Inter"/>
-			<S i="1c93" f="4" s="0" t="1" n="Black Sea TV"/>
+			<S i="1c93" f="2" s="0" t="1" n="Black Sea TV"/>
 			<S i="1c98" f="4" s="0" t="1" n="NTN"/>
 			<S i="1ca2" f="4" s="0" t="1" n="Svarogichi"/>
 			<S i="1cac" f="4" s="0" t="1" n="MEGA"/>
