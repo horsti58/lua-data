@@ -319,7 +319,9 @@
 		<S i="404" t="6" on="aa" s="90" frq="12399" n="COSMOTESport3HD"/>
 		<S i="40f" t="2" on="aa" s="90" frq="12054" n="COSMOTESport4HD"/>
 		<S i="455" t="7" on="aa" s="90" frq="12475" n="COSMOTESport5HD"/>
+		<S i="455" t="8" on="aa" s="90" frq="12169" n="COSMOTESport5HD"/>
 		<S i="3eb" t="7" on="aa" s="90" frq="12475" n="COSMOTESport6HD"/>
+		<S i="3eb" t="2" on="aa" s="90" frq="12054" n="COSMOTESport6HD"/>
 		<S i="443" t="2" on="aa" s="90" frq="12054" n="COSMOTESport7HD"/>
 		<S i="44d" t="6" on="aa" s="90" frq="12399" n="COSMOTESport8HD"/>
 		<S i="466" t="8" on="aa" s="90" frq="12169" n="COSMOTESport9HD"/>
@@ -336,8 +338,11 @@
 		<S i="417" t="6" on="aa" s="90" frq="12399" n="Extra Channel"/>
 		<S i="426" t="2" on="aa" s="90" frq="12054" n="Fashion TV"/>
 		<S i="470" t="8" on="aa" s="90" frq="12169" n="Fine Living HD"/>
+		<S i="470" t="7" on="aa" s="90" frq="12475" n="Fine Living HD"/>
 		<S i="46a" t="8" on="aa" s="90" frq="12169" n="Food Network HD"/>
+		<S i="46a" t="7" on="aa" s="90" frq="12475" n="Food Network HD"/>
 		<S i="40e" t="8" on="aa" s="90" frq="12169" n="FOX HD"/>
+		<S i="461" t="9" on="aa" s="90" frq="11938" n="FOX Life HD"/>
 		<S i="461" t="4" on="aa" s="90" frq="12207" n="FOX Life HD"/>
 		<S i="469" t="8" on="aa" s="90" frq="12169" n="FOX Sports HD"/>
 		<S i="43a" t="6" on="aa" s="90" frq="12399" n="France 24 En"/>
@@ -355,6 +360,7 @@
 		<S i="45a" t="1" on="aa" s="90" frq="11843" n="MTV Live HD"/>
 		<S i="458" t="9" on="aa" s="90" frq="11938" n="Nat Geo HD"/>
 		<S i="41a" t="2" on="aa" s="90" frq="12054" n="Nat Geo Wild HD"/>
+		<S i="471" t="7" on="aa" s="90" frq="12475" n="Nautical Channel HD"/>
 		<S i="471" t="8" on="aa" s="90" frq="12169" n="Nautical Channel HD"/>
 		<S i="445" t="6" on="aa" s="90" frq="12399" n="Nickelodeon HD"/>
 		<S i="415" t="2" on="aa" s="90" frq="12054" n="ONE Channel HD"/>

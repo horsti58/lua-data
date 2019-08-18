@@ -569,6 +569,7 @@
 			<S i="44e0" f="4" s="0" t="1" n="RT Arab"/>
 			<S i="44e1" f="4" s="0" t="1" n="Kentron TV International"/>
 			<S i="44e2" f="4" s="0" t="1" n="Kalemeh TV"/>
+			<S i="44e3" f="1" s="0" t="1" n="Payam E Afghan"/>
 		</TS>
 		<TS id="02bc" on="013e" frq="11334000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0004" f="4" s="0" t="1" n="ARMPUB TV"/>
@@ -719,6 +720,8 @@
 			<S i="000b" f="4" s="0" t="1" n="El Sharq"/>
 			<S i="000d" f="4" s="0" t="1" n="Telefeshinka Caalmiga /Universal"/>
 			<S i="000e" f="4" s="0" t="1" n="Azadi"/>
+			<S i="000f" f="1" s="0" t="1" n="Kalsan TV"/>
+			<S i="0010" f="1" s="0" t="1" n="Hctv"/>
 			<S i="0020" f="4" s="0" t="1" n="SNTV_HB"/>
 		</TS>
 		<TS id="05dc" on="013e" frq="11488000" inv="2" sr="27500000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -907,7 +910,7 @@
 			<S i="421a" f="4" s="0" t="1" n="TRM h24"/>
 			<S i="421d" f="4" s="0" t="1" n="Canale Italia"/>
 			<S i="421e" f="4" s="0" t="1" n="Telepiu Channel"/>
-			<S i="4220" f="4" s="1" t="1" n="Luci Rosse TV"/>
+			<S i="4220" f="2" s="1" t="1" n="Luci Rosse TV"/>
 			<S i="4222" f="4" s="1" t="1" n="Private TV HD"/>
 			<S i="4224" f="4" s="1" t="1" n="Redlight HD"/>
 			<S i="4229" f="4" s="0" t="1" n="La8"/>
@@ -979,6 +982,7 @@
 			<S i="0146" f="4" s="1" t="1" n="LCI"/>
 		</TS>
 		<TS id="1388" on="013e" frq="11727000" inv="2" sr="29900000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="07d1" f="2" s="0" t="1" n="Rai 4K"/>
 			<S i="332d" f="4" s="0" t="1" n="DW English HD"/>
 			<S i="3341" f="4" s="0" t="2" n="DW08"/>
 			<S i="3342" f="4" s="0" t="2" n="DW09"/>
@@ -1015,7 +1019,7 @@
 			<S i="0dec" f="4" s="1" t="19" n="Sky Cinema Due HD"/>
 			<S i="1018" f="4" s="1" t="19" n="cielo HD"/>
 			<S i="104a" f="4" s="1" t="19" n="Classica HD"/>
-			<S i="106c" f="4" s="1" t="19" n="Anni 80 Collection HD"/>
+			<S i="106c" f="4" s="1" t="19" n="Anni 90 Collection HD"/>
 			<S i="106e" f="4" s="1" t="19" n="Sky Cinema Action HD"/>
 			<S i="379d" f="4" s="1" t="19" n="Fox HD"/>
 			<S i="379e" f="4" s="1" t="19" n="Fox Crime HD"/>
@@ -1322,7 +1326,7 @@
 			<S i="2dc7" f="4" s="1" t="1" n="Sky Uno"/>
 			<S i="2dc8" f="2" s="1" t="1" n="VENETO LINK"/>
 			<S i="2dca" f="4" s="1" t="19" n="Food Network HD"/>
-			<S i="2dcc" f="4" s="1" t="1" n="Anni 80 Collection"/>
+			<S i="2dcc" f="4" s="1" t="1" n="Anni 90 Collection"/>
 			<S i="2dcd" f="4" s="1" t="1" n="Sky Cinema Comedy"/>
 			<S i="2dcf" f="4" s="1" t="1" n="Sky Cinema Drama"/>
 			<S i="2dd0" f="4" s="1" t="1" n="Sky Cinema"/>
@@ -1593,8 +1597,8 @@
 		</TS>
 		<TS id="1e14" on="fbff" frq="12245000" inv="2" sr="29900000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0fbd" f="4" s="1" t="1" n="Fox +1"/>
-			<S i="0fc1" f="4" s="1" t="1" n="Fox Crime+1"/>
-			<S i="0fc2" f="4" s="1" t="1" n="FoxLife Rizzoli"/>
+			<S i="0fc1" f="4" s="1" t="1" n="FoxCrime NCIS"/>
+			<S i="0fc2" f="4" s="1" t="1" n="FoxLife +1"/>
 			<S i="0fc5" f="4" s="1" t="1" n="Loveworld"/>
 			<S i="0fc6" f="4" s="1" t="1" n="Nick Jr +1"/>
 			<S i="0fc9" f="2" s="1" t="1" n="UNK (0x1E14_0x0FC9)"/>
