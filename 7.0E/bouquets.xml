@@ -1,5 +1,5 @@
 	<Bouquet name="[E007.0] ABS">
-		<S i="1649" t="9efc" on="7e" s="70" frq="11221" n="Iran International SD PAL - Eutelsat via Exponential-e"/>
+		<S i="1649" t="9efc" on="7e" s="70" frq="11221" n="Iran International SD PAL - Eutelsat via Cogent"/>
 		<S i="1af4" t="9efc" on="7e" s="70" frq="11221" n="IRANEFARDA"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] BBC World Service">
@@ -86,8 +86,8 @@
 		<S i="10a" t="526c" on="7e" s="70" frq="10887" n="beIN SPORTS HD 3"/>
 		<S i="27f" t="c47c" on="7e" s="70" frq="11637" n="beIN SPORTS HD 4"/>
 		<S i="26a" t="c47c" on="7e" s="70" frq="11637" n="beIN SPORTS HD 4"/>
-		<S i="6eb" t="c4e0" on="7e" s="70" frq="11534" n="beIN SPORTS MAX HD 1"/>
 		<S i="6e3" t="c4e0" on="7e" s="70" frq="11534" n="beIN SPORTS MAX HD 1"/>
+		<S i="6eb" t="c4e0" on="7e" s="70" frq="11534" n="beIN SPORTS MAX HD 1"/>
 		<S i="2077" t="52d0" on="7e" s="70" frq="10928" n="beIN SPORTS MAX HD 2"/>
 		<S i="2076" t="52d0" on="7e" s="70" frq="10928" n="beIN SPORTS MAX HD 2"/>
 		<S i="1fb6" t="50dc" on="7e" s="70" frq="10845" n="beIN İZ HD"/>
@@ -266,6 +266,7 @@
 	</Bouquet>
 	<Bouquet name="[E007.0] Eutelsat">
 		<S i="1630" t="9efc" on="7e" s="70" frq="11221" n="Andisheh TV"/>
+		<S i="1af4" t="9efc" on="7e" s="70" frq="11221" n="IRANEFARDA"/>
 		<S i="1626" t="9efc" on="7e" s="70" frq="11221" n="Kanal Yek TV"/>
 		<S i="1608" t="9efc" on="7e" s="70" frq="11221" n="PTN"/>
 		<S i="1647" t="9efc" on="7e" s="70" frq="11221" n="TFM Senegal"/>

@@ -64,6 +64,7 @@
 			<S i="1388" f="4" s="1" t="1" n="5000 - Testowy 1"/>
 			<S i="1392" f="4" s="1" t="1" n="5010 - Testowy 2"/>
 			<S i="1f4a" f="4" s="1" t="1" n="8010 - Radio Rodzina"/>
+			<S i="1f54" f="4" s="1" t="1" n="8020 - Radio Wielkopolska"/>
 		</TS>
 		<TS id="0c81" on="0003" frq="11719000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="4e4d" f="2" s="0" t="1" n="Pink Movies"/>
@@ -585,7 +586,7 @@
 			<S i="4e9a" f="4" s="0" t="1" n="Animal Planet"/>
 			<S i="4e9b" f="4" s="0" t="1" n="National Geographic"/>
 			<S i="4e9c" f="4" s="0" t="19" n="National Geographic Wild"/>
-			<S i="4e9d" f="4" s="0" t="19" n="H2"/>
+			<S i="4e9d" f="4" s="0" t="19" n="History 2"/>
 			<S i="4e9e" f="4" s="0" t="19" n="Viasat History"/>
 			<S i="4e9f" f="4" s="0" t="19" n="Viasat Explore"/>
 			<S i="4ea0" f="4" s="0" t="19" n="Viasat Nature"/>
@@ -601,7 +602,7 @@
 			<S i="4ead" f="4" s="0" t="1" n="Fashion TV"/>
 			<S i="4eaf" f="4" s="0" t="1" n="LoL"/>
 			<S i="4eb0" f="4" s="0" t="1" n="RTL Croatia"/>
-			<S i="4eb1" f="4" s="1" t="1" n="TV Hayat"/>
+			<S i="4eb1" f="4" s="0" t="1" n="TV Hayat"/>
 			<S i="4eb2" f="4" s="0" t="1" n="TV Hayat Plus"/>
 			<S i="4eb3" f="4" s="0" t="1" n="TV Hayatovci"/>
 			<S i="4eb4" f="4" s="0" t="1" n="TV Hayat Folk"/>
@@ -618,11 +619,12 @@
 			<S i="4ebf" f="4" s="0" t="1" n="Bravo Music"/>
 			<S i="4ec0" f="4" s="0" t="1" n="Pink Music 2"/>
 			<S i="4ec1" f="4" s="0" t="1" n="JEKA"/>
+			<S i="4ec2" f="4" s="0" t="1" n="Duga +"/>
 			<S i="4ec3" f="4" s="0" t="1" n="RTR Planeta"/>
 			<S i="4ec5" f="4" s="0" t="1" n="CNN"/>
 			<S i="4ec6" f="4" s="0" t="1" n="Euronews"/>
 			<S i="4ec7" f="4" s="0" t="1" n="DW English"/>
-			<S i="4ec8" f="4" s="0" t="1" n="RT"/>
+			<S i="4ec8" f="4" s="1" t="1" n="RT"/>
 			<S i="4ec9" f="2" s="0" t="1" n="France 24"/>
 			<S i="4eca" f="2" s="0" t="1" n="Fight Network"/>
 			<S i="4ecb" f="2" s="0" t="1" n="Trace Sport Stars"/>

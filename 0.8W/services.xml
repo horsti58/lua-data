@@ -424,7 +424,7 @@
 			<S i="177a" f="4" s="1" t="1" n="DIGI Animal World"/>
 		</TS>
 		<TS id="000c" on="0001" frq="11900000" inv="2" sr="28000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="0401" f="4" s="1" t="1" n="Music Channel"/>
+			<S i="0401" f="4" s="0" t="1" n="Music Channel"/>
 			<S i="040c" f="4" s="1" t="1" n="DIGI Sport 3"/>
 			<S i="09ce" f="4" s="0" t="2" n="Digi FM"/>
 			<S i="09e2" f="4" s="0" t="2" n="Pro FM"/>
@@ -592,8 +592,8 @@
 			<S i="106f" f="4" s="1" t="19" n="HISTORY HD (ST)"/>
 			<S i="114d" f="4" s="1" t="19" n="Viasat Motor HD"/>
 			<S i="1c06" f="4" s="1" t="19" n="BBC Earth HD"/>
-			<S i="1c16" f="4" s="1" t="19" n="H2 HD"/>
-			<S i="1c1f" f="4" s="1" t="19" n="H2 HD"/>
+			<S i="1c16" f="4" s="1" t="19" n="HISTORY 2 HD"/>
+			<S i="1c1f" f="4" s="1" t="19" n="HISTORY 2 HD"/>
 			<S i="1c2a" f="4" s="1" t="19" n="BBC Earth HD"/>
 			<S i="1c46" f="4" s="1" t="19" n="Nat Geo Wild HD"/>
 			<S i="1ce1" f="4" s="1" t="19" n="HISTORY HD (S)"/>
@@ -602,6 +602,7 @@
 			<S i="32cc" f="4" s="1" t="19" n="Test_13004"/>
 			<S i="42bc" f="4" s="1" t="19" n="Kuukauden kanava"/>
 			<S i="4316" f="4" s="1" t="19" n="BBC Earth HD (ST)"/>
+			<S i="4356" f="4" s="1" t="19" n="Nat Geo Wild HD (ST)"/>
 		</TS>
 		<TS id="02c1" on="0600" frq="12034000" inv="2" sr="30000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="7725" f="4" s="1" t="19" n="Nat Geo Wild HD"/>

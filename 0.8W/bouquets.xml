@@ -1,12 +1,12 @@
-	<Bouquet name="[W000.8] Digi">
-		<S i="e1b" t="4" on="1" s="-8" frq="12188" n="Kiss FM"/>
-	</Bouquet>
 	<Bouquet name="[W000.8] DIGI">
 		<S i="e74" t="5" on="1" s="-8" frq="11785" n="Bartok Radio"/>
 		<S i="faa" t="5" on="1" s="-8" frq="11785" n="JAZZY"/>
 		<S i="e6a" t="5" on="1" s="-8" frq="11785" n="Kossuth Radio"/>
 		<S i="e60" t="5" on="1" s="-8" frq="11785" n="Petofi Radio"/>
 		<S i="fa1" t="5" on="1" s="-8" frq="11785" n="Slager FM"/>
+	</Bouquet>
+	<Bouquet name="[W000.8] Digi">
+		<S i="e1b" t="4" on="1" s="-8" frq="12188" n="Kiss FM"/>
 	</Bouquet>
 	<Bouquet name="[W000.8] DigiTV">
 		<S i="d48" t="c" on="1" s="-8" frq="11900" n="Agro TV"/>
@@ -361,11 +361,11 @@
 		<S i="1c00" t="30" on="46" s="-8" frq="10903" n="FOX (S)"/>
 		<S i="446" t="18" on="46" s="-8" frq="11293" n="FOX HD (N)"/>
 		<S i="81" t="20" on="46" s="-8" frq="11357" n="Gospel Channel Europe"/>
-		<S i="1c16" t="29" on="46" s="-8" frq="12015" n="H2 HD"/>
-		<S i="1c1f" t="29" on="46" s="-8" frq="12015" n="H2 HD"/>
 		<S i="1cac" t="4c" on="46" s="-8" frq="12149" n="History"/>
-		<S i="106a" t="29" on="46" s="-8" frq="12015" n="HISTORY HD"/>
+		<S i="1c16" t="29" on="46" s="-8" frq="12015" n="HISTORY 2 HD"/>
+		<S i="1c1f" t="29" on="46" s="-8" frq="12015" n="HISTORY 2 HD"/>
 		<S i="106e" t="29" on="46" s="-8" frq="12015" n="HISTORY HD"/>
+		<S i="106a" t="29" on="46" s="-8" frq="12015" n="HISTORY HD"/>
 		<S i="1ce1" t="29" on="46" s="-8" frq="12015" n="HISTORY HD (S)"/>
 		<S i="106f" t="29" on="46" s="-8" frq="12015" n="HISTORY HD (ST)"/>
 		<S i="1c1a" t="1" on="46" s="-8" frq="11247" n="Horse &amp; Country TV"/>
@@ -404,6 +404,7 @@
 		<S i="447" t="18" on="46" s="-8" frq="11293" n="Nat Geo HD (N)"/>
 		<S i="449" t="18" on="46" s="-8" frq="11293" n="Nat Geo HD (S/F)"/>
 		<S i="1c46" t="29" on="46" s="-8" frq="12015" n="Nat Geo Wild HD"/>
+		<S i="4356" t="29" on="46" s="-8" frq="12015" n="Nat Geo Wild HD (ST)"/>
 		<S i="130" t="48" on="46" s="-8" frq="10872" n="Nelonen"/>
 		<S i="1c36" t="2b" on="46" s="-8" frq="11341" n="Nick Jr."/>
 		<S i="1c2c" t="2b" on="46" s="-8" frq="11341" n="Nickelodeon (D)"/>

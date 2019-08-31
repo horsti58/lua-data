@@ -30,6 +30,7 @@
 		<S i="cd" t="14b4" on="9c" s="90" frq="11785" n="Eurosport 1 HD"/>
 		<S i="e4" t="14b4" on="9c" s="90" frq="11785" n="HSE 24 Extra"/>
 		<S i="e6" t="1644" on="9c" s="90" frq="11861" n="Kabel eins HD"/>
+		<S i="204" t="2134" on="9c" s="90" frq="11977" n="LN HD Test"/>
 		<S i="ca" t="14b4" on="9c" s="90" frq="11785" n="MTV HD"/>
 		<S i="133" t="1edc" on="9c" s="90" frq="12245" n="n-tv HD"/>
 		<S i="d5" t="14b4" on="9c" s="90" frq="11785" n="NICK/MTV+"/>
@@ -51,9 +52,6 @@
 		<S i="1a0" t="1964" on="9c" s="90" frq="12015" n="sixx HD"/>
 		<S i="196" t="1964" on="9c" s="90" frq="12015" n="SUPER RTL HD"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] Encoder">
-		<S i="dc3" t="16a8" on="9c" s="90" frq="11881" n="OPAP HR"/>
-	</Bouquet>
 	<Bouquet name="[E009.0] encoder">
 		<S i="6f" t="170c" on="9e" s="90" frq="11900" n="Better-1"/>
 		<S i="70" t="170c" on="9e" s="90" frq="11900" n="Better-2"/>
@@ -68,6 +66,9 @@
 		<S i="dc2" t="16a8" on="9c" s="90" frq="11881" n="OPAP MG"/>
 		<S i="dc1" t="16a8" on="9c" s="90" frq="11881" n="OPAP VG1"/>
 		<S i="dbb" t="16a8" on="9c" s="90" frq="11881" n="ORTB TV"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] Encoder">
+		<S i="dc3" t="16a8" on="9c" s="90" frq="11881" n="OPAP HR"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Eutelsat">
 		<S i="672" t="170c" on="9e" s="90" frq="11900" n="myZen.tv HD"/>
@@ -250,7 +251,7 @@
 		<S i="faa" t="1bbc" on="9c" s="90" frq="12130" n="SONY CHANNEL HD"/>
 		<S i="268" t="206c" on="9c" s="90" frq="12360" n="Spiegel TV Wissen HD"/>
 		<S i="26f" t="206c" on="9c" s="90" frq="12360" n="SPORT1+ HD"/>
-		<S i="4eef" t="21fc" on="9c" s="90" frq="12437" n="sportdigital HD"/>
+		<S i="4eef" t="21fc" on="9c" s="90" frq="12437" n="SPORTDIGITAL FUSSBALL"/>
 		<S i="fffd" t="1bbc" on="9c" s="90" frq="12130" n="SWDL 65533"/>
 		<S i="26d" t="206c" on="9c" s="90" frq="12360" n="SyFy HD"/>
 		<S i="200" t="2134" on="9c" s="90" frq="11977" n="TeleBom/TeleDom"/>

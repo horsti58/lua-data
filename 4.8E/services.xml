@@ -238,11 +238,12 @@
 		<TS id="0018" on="0056" frq="11919000" inv="2" sr="28000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="1130" f="4" s="1" t="19" n="TV10 HD"/>
 			<S i="1133" f="4" s="1" t="19" n="TV3 Puls HD"/>
-			<S i="1136" f="4" s="1" t="16" n="Barn/SVT 24 talande text"/>
+			<S i="1136" f="4" s="1" t="16" n="SVTB talande text"/>
+			<S i="1139" f="1" s="1" t="16" n="SVT 24 talande text"/>
 			<S i="113c" f="4" s="1" t="16" n="Kunskapskanalen"/>
 			<S i="113f" f="4" s="1" t="16" n="SVTB"/>
 			<S i="1142" f="4" s="1" t="16" n="SVT24"/>
-			<S i="1143" f="4" s="0" t="16" n="Kunskapskanalen talande text"/>
+			<S i="1143" f="4" s="1" t="16" n="Kunskapskanalen talande text"/>
 			<S i="1145" f="4" s="1" t="19" n="TV8 HD"/>
 			<S i="1148" f="4" s="1" t="19" n="Cmore Golf HD"/>
 			<S i="114b" f="4" s="1" t="16" n="SVT1 Norrbotten"/>
@@ -474,15 +475,15 @@
 			<S i="0b67" f="4" s="1" t="16" n="34"/>
 			<S i="0b68" f="4" s="1" t="19" n="1+1 XD"/>
 			<S i="0b69" f="4" s="1" t="19" n="TET XD"/>
-			<S i="0b6a" f="4" s="1" t="19" n="2+2 XD"/>
+			<S i="0b6a" f="2" s="1" t="19" n="2+2 XD"/>
 			<S i="0b87" f="4" s="0" t="19" n="SONCE (UA) XD"/>
 		</TS>
 		<TS id="002c" on="0055" frq="12265000" inv="2" sr="30000000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="1e15" f="4" s="1" t="1" n="TEST1"/>
-			<S i="1e16" f="4" s="1" t="1" n="TEST2"/>
-			<S i="1e17" f="4" s="1" t="1" n="TEST3"/>
+			<S i="1e15" f="4" s="1" t="1" n="1+1."/>
+			<S i="1e16" f="4" s="1" t="1" n="TET."/>
+			<S i="1e17" f="4" s="1" t="1" n="2+2."/>
 			<S i="1e18" f="4" s="1" t="16" n="Verimatrix TEST"/>
-			<S i="1e19" f="1" s="1" t="1" n="ParamountChannel"/>
+			<S i="1e19" f="4" s="1" t="1" n="ParamountChannel"/>
 			<S i="1e1f" f="4" s="0" t="1" n="Trofey"/>
 			<S i="1e20" f="4" s="1" t="1" n="DACHA"/>
 			<S i="1e21" f="4" s="1" t="1" n="EPOQUE"/>
@@ -594,6 +595,7 @@
 			<S i="1cc5" f="4" s="0" t="1" n="PIXEL"/>
 			<S i="1cca" f="4" s="0" t="1" n="Enter Film"/>
 			<S i="1cde" f="4" s="1" t="16" n="INTER +"/>
+			<S i="1ce3" f="4" s="1" t="1" n="Test"/>
 		</TS>
 		<TS id="0065" on="0001" frq="12418000" inv="2" sr="27500000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="000b" f="4" s="1" t="1" n="SIS VISION AUDIO &amp; VBI - CISCO 1"/>

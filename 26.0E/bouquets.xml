@@ -218,8 +218,8 @@
 		<S i="18" t="208" on="2be" s="260" frq="12092" n="TRT Arabi"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] Unknown Provider">
-		<S i="4" t="24e" on="2be" s="260" frq="12563" n="ASHOROOQ"/>
 		<S i="4" t="24e" on="2be" s="260" frq="12523" n="ASHOROOQ"/>
+		<S i="4" t="24e" on="2be" s="260" frq="12563" n="ASHOROOQ"/>
 		<S i="44c" t="1137" on="2be" s="260" frq="12643" n="HD1"/>
 		<S i="4b0" t="1137" on="2be" s="260" frq="12643" n="HD2"/>
 		<S i="a" t="24e" on="2be" s="260" frq="12563" n="IXIR"/>
@@ -249,8 +249,8 @@
 		<S i="65" t="24e" on="2be" s="260" frq="12563" n="Sudan Sport HD"/>
 		<S i="32" t="24e" on="2be" s="260" frq="12563" n="Sudani24HD"/>
 		<S i="32" t="24e" on="2be" s="260" frq="12523" n="Sudani24HD"/>
-		<S i="7" t="24e" on="2be" s="260" frq="12523" n="Tayba TV"/>
 		<S i="7" t="24e" on="2be" s="260" frq="12563" n="Tayba TV"/>
+		<S i="7" t="24e" on="2be" s="260" frq="12523" n="Tayba TV"/>
 		<S i="b" t="24e" on="2be" s="260" frq="12523" n="TEST"/>
 		<S i="71" t="24e" on="2be" s="260" frq="12563" n="TEST"/>
 		<S i="b" t="24e" on="2be" s="260" frq="12563" n="TEST"/>
@@ -261,12 +261,12 @@
 		<S i="e" t="24e" on="2be" s="260" frq="12523" n="Test2"/>
 		<S i="b" t="1137" on="2be" s="260" frq="12643" n="Tunisia Nat 1"/>
 		<S i="c" t="1137" on="2be" s="260" frq="12643" n="Tunisia Nat 2"/>
-		<S i="1f" t="24e" on="2be" s="260" frq="12523" n="ALBASERA TEST"/>
 		<S i="1f" t="24e" on="2be" s="260" frq="12563" n="ALBASERA TEST"/>
-		<S i="29" t="24e" on="2be" s="260" frq="12563" n="Albasira FM"/>
+		<S i="1f" t="24e" on="2be" s="260" frq="12523" n="ALBASERA TEST"/>
 		<S i="29" t="24e" on="2be" s="260" frq="12523" n="Albasira FM"/>
-		<S i="1d" t="24e" on="2be" s="260" frq="12523" n="ALBASIRA TEST"/>
+		<S i="29" t="24e" on="2be" s="260" frq="12563" n="Albasira FM"/>
 		<S i="1d" t="24e" on="2be" s="260" frq="12563" n="ALBASIRA TEST"/>
+		<S i="1d" t="24e" on="2be" s="260" frq="12523" n="ALBASIRA TEST"/>
 		<S i="1b" t="24e" on="2be" s="260" frq="12563" n="Alqwat Almosalaha"/>
 		<S i="1b" t="24e" on="2be" s="260" frq="12523" n="Alqwat Almosalaha"/>
 		<S i="1c" t="24e" on="2be" s="260" frq="12563" n="Alraba94"/>
@@ -281,8 +281,8 @@
 		<S i="18" t="24e" on="2be" s="260" frq="12563" n="Darfur FM"/>
 		<S i="16" t="24e" on="2be" s="260" frq="12523" n="FM-100"/>
 		<S i="16" t="24e" on="2be" s="260" frq="12563" n="FM-100"/>
-		<S i="17" t="24e" on="2be" s="260" frq="12563" n="Omdurman Radio"/>
 		<S i="17" t="24e" on="2be" s="260" frq="12523" n="Omdurman Radio"/>
+		<S i="17" t="24e" on="2be" s="260" frq="12563" n="Omdurman Radio"/>
 		<S i="2e" t="24e" on="2be" s="260" frq="12563" n="OUS-Sudan"/>
 		<S i="2e" t="24e" on="2be" s="260" frq="12523" n="OUS-Sudan"/>
 		<S i="15" t="24e" on="2be" s="260" frq="12563" n="Quran Omdurman"/>
@@ -331,13 +331,13 @@
 		<S i="22" t="24e" on="2be" s="260" frq="12563" n="Sports FM104"/>
 		<S i="22" t="24e" on="2be" s="260" frq="12523" n="Sports FM104"/>
 		<S i="9" t="24e" on="2be" s="260" frq="12523" n="test"/>
-		<S i="2c" t="24e" on="2be" s="260" frq="12523" n="test"/>
-		<S i="9" t="24e" on="2be" s="260" frq="12563" n="test"/>
-		<S i="2a" t="24e" on="2be" s="260" frq="12523" n="test"/>
-		<S i="19" t="24e" on="2be" s="260" frq="12563" n="test"/>
-		<S i="2a" t="24e" on="2be" s="260" frq="12563" n="test"/>
-		<S i="2c" t="24e" on="2be" s="260" frq="12563" n="test"/>
 		<S i="19" t="24e" on="2be" s="260" frq="12523" n="test"/>
+		<S i="2c" t="24e" on="2be" s="260" frq="12563" n="test"/>
+		<S i="2a" t="24e" on="2be" s="260" frq="12563" n="test"/>
+		<S i="19" t="24e" on="2be" s="260" frq="12563" n="test"/>
+		<S i="2a" t="24e" on="2be" s="260" frq="12523" n="test"/>
+		<S i="9" t="24e" on="2be" s="260" frq="12563" n="test"/>
+		<S i="2c" t="24e" on="2be" s="260" frq="12523" n="test"/>
 		<S i="2b" t="24e" on="2be" s="260" frq="12563" n="unknown (0x024E_0x002B)"/>
 		<S i="2b" t="24e" on="2be" s="260" frq="12523" n="unknown (0x024E_0x002B)"/>
 	</Bouquet>
