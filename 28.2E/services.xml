@@ -271,18 +271,19 @@
 			<S i="5302" f="4" s="0" t="1" n="4seven"/>
 		</TS>
 		<TS id="0815" on="0002" frq="11141000" inv="2" sr="22000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
+			<S i="1c22" f="1" s="1" t="1" n="51085"/>
 			<S i="c789" f="4" s="0" t="1" n="BET:BlackEntTv"/>
 			<S i="c78a" f="4" s="1" t="1" n="Nicktoons"/>
 			<S i="c78b" f="4" s="1" t="1" n="ComedyCent+1"/>
 			<S i="c78c" f="4" s="1" t="1" n="ComedyCentral"/>
-			<S i="c78d" f="4" s="1" t="1" n="51085"/>
+			<S i="c78d" f="4" s="1" t="1" n="Nickelodeon+1"/>
 			<S i="c78e" f="4" s="1" t="1" n="ComedyXtra"/>
 			<S i="c78f" f="4" s="1" t="1" n="ComedyXtra+1"/>
 			<S i="c790" f="4" s="1" t="1" n="Nick Jr."/>
-			<S i="c791" f="4" s="1" t="1" n="Nick Jr.Too"/>
+			<S i="c791" f="4" s="1" t="1" n="NickJrPAWPatrol"/>
 			<S i="c792" f="4" s="1" t="1" n="Nick Jr+1"/>
 			<S i="c793" f="4" s="1" t="1" n="Nickelodeon"/>
-			<S i="c794" f="4" s="1" t="1" n="Nick Jr.Too"/>
+			<S i="c794" f="4" s="1" t="1" n="NickJrPAWPatrol"/>
 			<S i="c795" f="4" s="1" t="1" n="ComedyCentral"/>
 		</TS>
 		<TS id="0817" on="0002" frq="11171000" inv="2" sr="22000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
@@ -343,14 +344,21 @@
 			<S i="1c2c" f="4" s="0" t="1" n="Kerrang!"/>
 		</TS>
 		<TS id="083d" on="0002" frq="11306000" inv="2" sr="27500000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
+			<S i="cbed" f="1" s="1" t="85" n="52205"/>
+			<S i="cbf7" f="1" s="1" t="85" n="52215"/>
 			<S i="cbfc" f="2" s="1" t="1" n="Universal+1"/>
 			<S i="cc01" f="2" s="1" t="1" n="E!"/>
+			<S i="cc02" f="1" s="1" t="85" n="52226"/>
 			<S i="cc06" f="2" s="1" t="1" n="E!"/>
+			<S i="cc0b" f="1" s="1" t="85" n="52235"/>
+			<S i="cc15" f="1" s="1" t="85" n="55245"/>
 			<S i="cc1a" f="2" s="1" t="1" n="SYFY"/>
 			<S i="cc1f" f="2" s="1" t="1" n="Universal"/>
 			<S i="cc24" f="2" s="1" t="1" n="Universal"/>
+			<S i="cc25" f="1" s="1" t="85" n="52261"/>
 			<S i="cc29" f="2" s="1" t="1" n="Movies 24"/>
 			<S i="cc2e" f="2" s="1" t="1" n="Movies 24+"/>
+			<S i="cc2f" f="1" s="1" t="85" n="52271"/>
 			<S i="cc38" f="2" s="1" t="1" n="SYFY+1"/>
 			<S i="cc3d" f="2" s="0" t="1" n="Chart Show Hits"/>
 			<S i="cc42" f="2" s="0" t="1" n="Chart Show TV"/>
@@ -805,7 +813,7 @@
 			<S i="10ce" f="4" s="1" t="1" n="Sky Action"/>
 			<S i="10cf" f="4" s="1" t="1" n="Sky Comedy"/>
 			<S i="10d0" f="4" s="1" t="1" n="Sky ScFi/Horror"/>
-			<S i="10d2" f="4" s="1" t="1" n="Sky DC Heroes"/>
+			<S i="10d2" f="4" s="1" t="1" n="Sky Star Wars"/>
 			<S i="10d4" f="4" s="1" t="1" n="Sky Disney"/>
 			<S i="1133" f="4" s="1" t="1" n="Sky Family"/>
 			<S i="1134" f="4" s="1" t="1" n="Sky Premiere"/>
@@ -832,7 +840,7 @@
 			<S i="0eed" f="4" s="1" t="19" n="SkyPremiereHD"/>
 			<S i="0f16" f="4" s="1" t="19" n="Sky Thriller HD"/>
 			<S i="0f1f" f="2" s="1" t="19" n="4009"/>
-			<S i="0f3d" f="4" s="1" t="19" n="SkyDCHeroesHD"/>
+			<S i="0f3d" f="4" s="1" t="19" n="SkyStarWarsHD"/>
 			<S i="0f3e" f="4" s="0" t="19" n="CNBC HD"/>
 			<S i="0fa9" f="4" s="1" t="19" n="Cartoon Net HD"/>
 			<S i="0faa" f="4" s="1" t="19" n="Disney Chnl HD"/>
@@ -1037,6 +1045,7 @@
 			<S i="2166" f="4" s="0" t="82" n="Update Email Address"/>
 		</TS>
 		<TS id="07eb" on="0002" frq="12226000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="04bd" f="1" s="0" t="19" n="1213"/>
 			<S i="0e2c" f="4" s="1" t="19" n="Virgin One HD"/>
 			<S i="0f1b" f="4" s="1" t="19" n="Good Food HD"/>
 			<S i="0f23" f="2" s="1" t="19" n="Disney Chnl HD"/>
@@ -1046,10 +1055,10 @@
 			<S i="151e" f="4" s="1" t="19" n="Premier 1 HD"/>
 			<S i="151f" f="4" s="1" t="19" n="Premier 2 HD"/>
 			<S i="1520" f="4" s="1" t="19" n="Premier 2 HD"/>
-			<S i="1521" f="1" s="1" t="19" n="5409"/>
-			<S i="1522" f="1" s="1" t="19" n="5410"/>
-			<S i="1524" f="1" s="1" t="19" n="5412"/>
-			<S i="1526" f="1" s="1" t="19" n="5414"/>
+			<S i="1521" f="4" s="1" t="19" n="5409"/>
+			<S i="1522" f="4" s="1" t="19" n="5410"/>
+			<S i="1524" f="4" s="1" t="19" n="5412"/>
+			<S i="1526" f="4" s="1" t="19" n="5414"/>
 		</TS>
 		<TS id="07ec" on="0002" frq="12246000" inv="2" sr="27500000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0e28" f="4" s="1" t="19" n="RTÉ2 HD"/>

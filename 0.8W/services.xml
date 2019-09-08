@@ -322,6 +322,7 @@
 			<S i="03fe" f="4" s="0" t="2" n="Radio Chisinau"/>
 			<S i="0407" f="4" s="1" t="1" n="Mooz Dance"/>
 			<S i="040a" f="4" s="1" t="19" n="Nat Geo HD (HUN)"/>
+			<S i="040b" f="4" s="1" t="19" n="Nat Geo HD (ROU)"/>
 		</TS>
 		<TS id="02be" on="0600" frq="11766000" inv="2" sr="28000000" fec="7" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="75f9" f="4" s="1" t="1" n="Filmbox Family"/>
@@ -705,7 +706,7 @@
 			<S i="04a6" f="4" s="1" t="1" n="Hir TV"/>
 			<S i="0564" f="4" s="1" t="1" n="TV2"/>
 			<S i="05e6" f="4" s="1" t="1" n="RTL Klub"/>
-			<S i="05f0" f="4" s="1" t="1" n="STORY4"/>
+			<S i="05f0" f="4" s="1" t="1" n="Dikh TV"/>
 			<S i="05fa" f="4" s="1" t="1" n="Cool TV"/>
 			<S i="0622" f="4" s="1" t="1" n="Viasat Nature"/>
 			<S i="0a96" f="4" s="0" t="1" n="Galaxy4"/>
@@ -873,8 +874,13 @@
 			<S i="2331" f="4" s="1" t="19" n="TS Sports 10"/>
 		</TS>
 		<TS id="004d" on="0046" frq="12399000" inv="2" sr="30000000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="1d35" f="4" s="1" t="19" n="TV 2 Livsstil HD"/>
-			<S i="1d46" f="4" s="1" t="19" n="TV 2 Humor HD"/>
+			<S i="1d35" f="2" s="1" t="19" n="TV 2 Livsstil HD"/>
+			<S i="1d46" f="2" s="1" t="19" n="TV 2 Humor HD"/>
+			<S i="2328" f="1" s="1" t="19" n="TS Sports 1"/>
+			<S i="2329" f="1" s="1" t="19" n="TS Sports 2"/>
+			<S i="232a" f="1" s="1" t="19" n="TS Sports 3"/>
+			<S i="232b" f="1" s="1" t="19" n="TS Sports 4"/>
+			<S i="232c" f="1" s="1" t="19" n="TS Sports 5"/>
 		</TS>
 		<TS id="0014" on="0046" frq="12418000" inv="2" sr="28000000" fec="7" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0207" f="4" s="0" t="1" n="CGTN"/>
@@ -904,7 +910,7 @@
 		<TS id="0af8" on="00bb" frq="12527000" inv="2" sr="28800000" fec="10" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="1f4b" f="4" s="1" t="16" n="Film+ SK"/>
 			<S i="1f4c" f="4" s="1" t="16" n="Minimax SK"/>
-			<S i="1f4d" f="4" s="1" t="16" n="Spektrum SK"/>
+			<S i="1f4d" f="4" s="1" t="16" n="Spektrum SK HD"/>
 		</TS>
 		<TS id="000a" on="fe01" frq="12607000" inv="2" sr="30000000" fec="7" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0001" f="4" s="0" t="1" n="Channel-01"/>

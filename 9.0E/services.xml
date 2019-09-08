@@ -398,7 +398,7 @@
 			<S i="040b" f="4" s="1" t="1" n="MEGA"/>
 			<S i="040c" f="4" s="1" t="1" n="Smile TV"/>
 			<S i="0413" f="4" s="1" t="1" n="ALPHA HD"/>
-			<S i="0416" f="4" s="1" t="1" n="COSMOTECinema4HD"/>
+			<S i="0416" f="4" s="1" t="1" n="COSMOTE Series HD"/>
 			<S i="041b" f="4" s="1" t="1" n="VH1"/>
 			<S i="042e" f="4" s="1" t="1" n="Disney Channel"/>
 			<S i="042f" f="4" s="1" t="1" n="COSMOTESportHighlightsHD"/>
@@ -408,7 +408,7 @@
 			<S i="044b" f="4" s="1" t="1" n="STAR HD"/>
 			<S i="0453" f="4" s="1" t="1" n="National Geographic"/>
 			<S i="045b" f="4" s="1" t="1" n="Viasat History"/>
-			<S i="0461" f="4" s="1" t="1" n="FOX Life HD"/>
+			<S i="0461" f="2" s="1" t="1" n="FOX Life HD"/>
 		</TS>
 		<TS id="1edc" on="009c" frq="12245000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="012d" f="4" s="1" t="19" n="RTL HD"/>

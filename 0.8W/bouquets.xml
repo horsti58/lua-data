@@ -30,6 +30,7 @@
 		<S i="3f1" t="1" on="1" s="-8" frq="12687" n="DIGI Sport 4"/>
 		<S i="3fd" t="4" on="1" s="-8" frq="12188" n="DIGI World"/>
 		<S i="424" t="3" on="1" s="-8" frq="12130" n="DIGI World HU"/>
+		<S i="5f0" t="3" on="1" s="-8" frq="12130" n="Dikh TV"/>
 		<S i="404" t="2" on="1" s="-8" frq="12723" n="Discovery RO"/>
 		<S i="3f9" t="1" on="1" s="-8" frq="12687" n="Disney Channel"/>
 		<S i="d7a" t="c" on="1" s="-8" frq="11900" n="Disney JR"/>
@@ -67,8 +68,8 @@
 		<S i="5e8" t="4" on="1" s="-8" frq="12188" n="Magyar ATV"/>
 		<S i="100e" t="3" on="1" s="-8" frq="12130" n="Magyar Slager TV"/>
 		<S i="3f0" t="1" on="1" s="-8" frq="12687" n="Mezzo"/>
-		<S i="3fa" t="1" on="1" s="-8" frq="12687" n="Minimax"/>
 		<S i="56e" t="5" on="1" s="-8" frq="11785" n="Minimax"/>
+		<S i="3fa" t="1" on="1" s="-8" frq="12687" n="Minimax"/>
 		<S i="406" t="2" on="1" s="-8" frq="12723" n="Mozi+"/>
 		<S i="401" t="c" on="1" s="-8" frq="11900" n="Music Channel"/>
 		<S i="a14" t="5" on="1" s="-8" frq="11785" n="Music Channel HU"/>
@@ -97,7 +98,6 @@
 		<S i="a0a" t="5" on="1" s="-8" frq="11785" n="Spiler 2"/>
 		<S i="a32" t="5" on="1" s="-8" frq="11785" n="SPORT 1"/>
 		<S i="a3c" t="5" on="1" s="-8" frq="11785" n="SPORT 2"/>
-		<S i="5f0" t="3" on="1" s="-8" frq="12130" n="STORY4"/>
 		<S i="555" t="4" on="1" s="-8" frq="12188" n="Super TV2"/>
 		<S i="409" t="2" on="1" s="-8" frq="12723" n="SuperOne"/>
 		<S i="d34" t="c" on="1" s="-8" frq="11900" n="Taraf"/>
@@ -190,6 +190,7 @@
 		<S i="407" t="5" on="1111" s="-8" frq="11747" n="Mooz Dance"/>
 		<S i="2b14" t="b" on="1111" s="-8" frq="12092" n="Mooz Dance HD"/>
 		<S i="40a" t="5" on="1111" s="-8" frq="11747" n="Nat Geo HD (HUN)"/>
+		<S i="40b" t="5" on="1111" s="-8" frq="11747" n="Nat Geo HD (ROU)"/>
 		<S i="2b0f" t="b" on="1111" s="-8" frq="12092" n="VOJVODINA2"/>
 	</Bouquet>
 	<Bouquet name="[W000.8] Slovak Telecom">
@@ -256,7 +257,7 @@
 		<S i="1b64" t="af7" on="bb" s="-8" frq="12687" n="Seznam.cz TV"/>
 		<S i="3ff" t="af1" on="bb" s="-8" frq="12054" n="Slagr TV"/>
 		<S i="bc4" t="af3" on="bb" s="-8" frq="12169" n="Spektrum HD"/>
-		<S i="1f4d" t="af8" on="bb" s="-8" frq="12527" n="Spektrum SK"/>
+		<S i="1f4d" t="af8" on="bb" s="-8" frq="12527" n="Spektrum SK HD"/>
 		<S i="3fe" t="af1" on="bb" s="-8" frq="12054" n="Super TV2"/>
 		<S i="bd8" t="af3" on="bb" s="-8" frq="12169" n="TA3 HD"/>
 		<S i="fc1" t="af4" on="bb" s="-8" frq="12245" n="TLC"/>
@@ -429,8 +430,8 @@
 		<S i="1eb8" t="46" on="46" s="-8" frq="10747" n="NRK1 Østnytt"/>
 		<S i="410" t="46" on="46" s="-8" frq="10747" n="NRK2 HD"/>
 		<S i="465d" t="46" on="46" s="-8" frq="10747" n="NRK2 lydtekst"/>
-		<S i="4368" t="2b" on="46" s="-8" frq="11341" n="Paramount Network (D)"/>
 		<S i="1c2d" t="2b" on="46" s="-8" frq="11341" n="Paramount Network (D)"/>
+		<S i="4368" t="2b" on="46" s="-8" frq="11341" n="Paramount Network (D)"/>
 		<S i="1c34" t="2b" on="46" s="-8" frq="11341" n="Paramount Network (S)"/>
 		<S i="5e7" t="47" on="46" s="-8" frq="10716" n="Rikstoto Direkte HD"/>
 		<S i="afc" t="22" on="46" s="-8" frq="11389" n="RUV"/>
@@ -503,12 +504,17 @@
 		<S i="2343" t="52" on="46" s="-8" frq="12207" n="TS Showcase 3"/>
 		<S i="2344" t="52" on="46" s="-8" frq="12207" n="TS Showcase 4"/>
 		<S i="2345" t="52" on="46" s="-8" frq="12207" n="TS Showcase 5"/>
+		<S i="2328" t="4d" on="46" s="-8" frq="12399" n="TS Sports 1"/>
 		<S i="2331" t="54" on="46" s="-8" frq="12360" n="TS Sports 10"/>
 		<S i="2332" t="55" on="46" s="-8" frq="12322" n="TS Sports 11"/>
 		<S i="2333" t="55" on="46" s="-8" frq="12322" n="TS Sports 12"/>
 		<S i="2334" t="55" on="46" s="-8" frq="12322" n="TS Sports 13"/>
 		<S i="2335" t="55" on="46" s="-8" frq="12322" n="TS Sports 14"/>
 		<S i="2336" t="55" on="46" s="-8" frq="12322" n="TS Sports 15"/>
+		<S i="2329" t="4d" on="46" s="-8" frq="12399" n="TS Sports 2"/>
+		<S i="232a" t="4d" on="46" s="-8" frq="12399" n="TS Sports 3"/>
+		<S i="232b" t="4d" on="46" s="-8" frq="12399" n="TS Sports 4"/>
+		<S i="232c" t="4d" on="46" s="-8" frq="12399" n="TS Sports 5"/>
 		<S i="232d" t="54" on="46" s="-8" frq="12360" n="TS Sports 6"/>
 		<S i="232f" t="54" on="46" s="-8" frq="12360" n="TS Sports 8"/>
 		<S i="2330" t="54" on="46" s="-8" frq="12360" n="TS Sports 9"/>

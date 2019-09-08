@@ -325,7 +325,7 @@
 			<S i="4ef7" f="4" s="0" t="1" n="Magyar ATV"/>
 			<S i="4ef8" f="4" s="0" t="1" n="RTL 2"/>
 			<S i="4ef9" f="4" s="0" t="1" n="Duna"/>
-			<S i="4efa" f="4" s="0" t="1" n="Duna world"/>
+			<S i="4efa" f="4" s="1" t="1" n="Duna world"/>
 			<S i="4efb" f="2" s="0" t="1" n="Minimax"/>
 			<S i="5154" f="4" s="0" t="2" n="Radio Beograd 1"/>
 			<S i="5155" f="4" s="0" t="2" n="Radio Beograd 2"/>
@@ -532,7 +532,7 @@
 			<S i="1f79" f="4" s="0" t="2" n="CRo D-DUR"/>
 			<S i="1f7a" f="4" s="0" t="2" n="CRo JAZZ"/>
 			<S i="1f7b" f="4" s="0" t="2" n="CRo REGINA DAB"/>
-			<S i="1f7d" f="4" s="0" t="2" n="CRo RADIO PRAHA"/>
+			<S i="1f7d" f="4" s="0" t="2" n="CRo RADIO PRAGUE Int"/>
 			<S i="1f7e" f="4" s="0" t="2" n="CRo TEST DD"/>
 		</TS>
 		<TS id="0ca2" on="0003" frq="12363000" inv="2" sr="29500000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -619,7 +619,7 @@
 			<S i="4ebf" f="4" s="0" t="1" n="Bravo Music"/>
 			<S i="4ec0" f="4" s="0" t="1" n="Pink Music 2"/>
 			<S i="4ec1" f="4" s="0" t="1" n="JEKA"/>
-			<S i="4ec2" f="4" s="0" t="1" n="Duga +"/>
+			<S i="4ec2" f="4" s="0" t="1" n="Duga plus"/>
 			<S i="4ec3" f="4" s="0" t="1" n="RTR Planeta"/>
 			<S i="4ec5" f="4" s="0" t="1" n="CNN"/>
 			<S i="4ec6" f="4" s="0" t="1" n="Euronews"/>

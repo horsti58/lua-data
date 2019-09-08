@@ -4,14 +4,14 @@
 	<Bouquet name="[E009.0] ARC/DCM2 TSOIP">
 		<S i="166" t="19c8" on="9e" s="90" frq="12034" n="Disney Channel ME"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] ARQIVA">
-		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
-	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva">
 		<S i="451" t="1af4" on="9e" s="90" frq="12092" n="DISJ1_CEMA"/>
 		<S i="479" t="1af4" on="9e" s="90" frq="12092" n="E! Entertainment Europe"/>
 		<S i="456" t="1af4" on="9e" s="90" frq="12092" n="Luxe TV"/>
 		<S i="46a" t="1af4" on="9e" s="90" frq="12092" n="Vivolta"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] ARQIVA">
+		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva LTD">
 		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="TV5MONDE France Belgique Suisse"/>
@@ -486,7 +486,7 @@
 		<S i="42d" t="2" on="aa" s="90" frq="12054" n="ANT1 EUROPE"/>
 		<S i="3f2" t="5" on="aa" s="90" frq="12284" n="Attica TV"/>
 		<S i="418" t="6" on="aa" s="90" frq="12399" n="Body in Balance"/>
-		<S i="416" t="4" on="aa" s="90" frq="12207" n="COSMOTECinema4HD"/>
+		<S i="416" t="4" on="aa" s="90" frq="12207" n="COSMOTE Series HD"/>
 		<S i="3f7" t="6" on="aa" s="90" frq="12399" n="COSMOTESport2HD"/>
 		<S i="452" t="1" on="aa" s="90" frq="11843" n="E! HD"/>
 		<S i="444" t="7" on="aa" s="90" frq="12475" n="EDGEsport HD"/>

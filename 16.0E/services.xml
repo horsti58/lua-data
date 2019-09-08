@@ -14,7 +14,7 @@
 			<S i="03ae" f="4" s="0" t="2" n="Radio Montenegro"/>
 			<S i="05dd" f="4" s="0" t="1" n="SLO-TV1"/>
 			<S i="05de" f="4" s="0" t="1" n="SLO-TV2"/>
-			<S i="05df" f="4" s="0" t="1" n="SLO-TV3"/>
+			<S i="05df" f="4" s="1" t="1" n="SLO-TV3"/>
 			<S i="05e7" f="4" s="0" t="2" n="SLO-RA1-INF"/>
 			<S i="05e8" f="4" s="0" t="2" n="SLO-RA2"/>
 			<S i="05e9" f="4" s="0" t="2" n="SLO-RA3"/>
@@ -30,7 +30,7 @@
 			<S i="049c" f="4" s="0" t="1" n="Channel One"/>
 			<S i="04d8" f="4" s="0" t="1" n="News 24"/>
 			<S i="04ec" f="4" s="0" t="1" n="X1"/>
-			<S i="0500" f="1" s="0" t="1" n="ALBUK"/>
+			<S i="0500" f="4" s="0" t="1" n="ALBUK"/>
 			<S i="0514" f="4" s="0" t="1" n="BCTV Europe"/>
 			<S i="0528" f="2" s="0" t="1" n="SS Service 1"/>
 			<S i="053c" f="2" s="0" t="1" n="SS Service 2"/>
@@ -42,7 +42,8 @@
 			<S i="05b4" f="4" s="0" t="19" n="MTV Live HD"/>
 			<S i="05c8" f="4" s="0" t="19" n="Film Hits HD"/>
 			<S i="05dc" f="4" s="0" t="19" n="Film Aksion HD"/>
-			<S i="05f0" f="1" s="0" t="19" n="Seriale Turke"/>
+			<S i="05f0" f="4" s="0" t="19" n="Seriale Turke"/>
+			<S i="0604" f="4" s="0" t="19" n="Top Channel HD"/>
 			<S i="06a4" f="4" s="0" t="1" n="Service IPKO A03"/>
 			<S i="0708" f="4" s="0" t="2" n="Top Albania Radio"/>
 			<S i="071c" f="4" s="0" t="2" n="Top Gold Radio"/>
@@ -67,11 +68,11 @@
 			<S i="08ac" f="4" s="0" t="1" n="ABC News"/>
 			<S i="08b6" f="4" s="0" t="1" n="Klan Plus"/>
 			<S i="08c0" f="4" s="0" t="1" n="Melody.TV"/>
-			<S i="0960" f="4" s="0" t="2" n="Radio Klan"/>
-			<S i="096a" f="4" s="0" t="2" n="Radio Travel"/>
+			<S i="0960" f="2" s="0" t="2" n="Radio Klan"/>
+			<S i="096a" f="2" s="0" t="2" n="Radio Travel"/>
 			<S i="096b" f="4" s="0" t="2" n="NRG Radio"/>
-			<S i="0c80" f="4" s="0" t="19" n="SS_Service 1 HD"/>
-			<S i="0ce4" f="4" s="0" t="19" n="A2 CNN"/>
+			<S i="0c80" f="2" s="0" t="19" n="SS_Service 1 HD"/>
+			<S i="0ce4" f="4" s="1" t="19" n="A2 CNN"/>
 		</TS>
 		<TS id="50dc" on="016e" frq="10845000" inv="2" sr="30000000" fec="8" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="03e9" f="4" s="0" t="19" n="Film Nje HD"/>
@@ -125,7 +126,7 @@
 			<S i="044e" f="4" s="0" t="16" n="Wness TV"/>
 			<S i="044f" f="4" s="0" t="16" n="Folx"/>
 			<S i="0450" f="4" s="1" t="16" n="Fix&amp;Foxi"/>
-			<S i="0451" f="1" s="1" t="19" n="Test"/>
+			<S i="0451" f="4" s="1" t="19" n="RiC"/>
 			<S i="0453" f="4" s="1" t="16" n="Kerrang!"/>
 			<S i="0454" f="4" s="1" t="16" n="Kiss"/>
 			<S i="0455" f="4" s="1" t="16" n="Magic UK"/>
@@ -511,7 +512,7 @@
 			<S i="0001" f="4" s="0" t="1" n="VIZION PLUS HD"/>
 			<S i="0002" f="4" s="1" t="1" n="Tring Super HD"/>
 			<S i="0003" f="4" s="0" t="1" n="Tring Sport News"/>
-			<S i="0005" f="4" s="1" t="1" n="Summertime"/>
+			<S i="0005" f="4" s="1" t="1" n="Tring Comedy"/>
 			<S i="0007" f="4" s="1" t="1" n="RTV 21"/>
 			<S i="0008" f="4" s="1" t="1" n="TIP TV"/>
 			<S i="0009" f="4" s="1" t="1" n="Tring Tring"/>
@@ -537,7 +538,7 @@
 			<S i="022b" f="4" s="1" t="1" n="Desire"/>
 			<S i="0321" f="2" s="1" t="1" n="Kids"/>
 			<S i="03e7" f="4" s="0" t="1" n="Kanali 7"/>
-			<S i="08d4" f="4" s="1" t="1" n="TRING FANTASY"/>
+			<S i="08d4" f="4" s="1" t="1" n="Tring Fantasy"/>
 			<S i="0c1c" f="4" s="1" t="1" n="Klan HD"/>
 			<S i="0c80" f="4" s="1" t="1" n="Klan Plus"/>
 			<S i="1b58" f="4" s="0" t="2" n="Radio Klan"/>
@@ -590,6 +591,7 @@
 			<S i="0285" f="4" s="1" t="16" n="Fine Living"/>
 			<S i="0286" f="4" s="1" t="16" n="Nickelodeon"/>
 			<S i="0287" f="4" s="1" t="16" n="Nickelodeon"/>
+			<S i="0288" f="4" s="1" t="16" n="FOX Movies"/>
 			<S i="0289" f="4" s="1" t="16" n="National Geographic Wild"/>
 			<S i="028a" f="4" s="1" t="16" n="Boomerang"/>
 			<S i="028b" f="4" s="1" t="16" n="Boomerang"/>
