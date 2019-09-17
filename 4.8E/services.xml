@@ -76,8 +76,8 @@
 			<S i="06e0" f="4" s="1" t="16" n="FEM"/>
 			<S i="06ea" f="4" s="1" t="19" n="Cmore Hockey HD"/>
 			<S i="06ee" f="4" s="1" t="2" n="P4 Lyden av Norge"/>
-			<S i="06f0" f="4" s="1" t="2" n="DR P2 Klassisk"/>
-			<S i="06f2" f="4" s="1" t="2" n="DR P3"/>
+			<S i="06f0" f="4" s="0" t="2" n="DR P2 Klassisk"/>
+			<S i="06f2" f="4" s="0" t="2" n="DR P3"/>
 			<S i="06f4" f="4" s="1" t="2" n="Bandit Classic 2"/>
 			<S i="06f6" f="4" s="1" t="2" n="Svenska favoriter 2"/>
 			<S i="06f8" f="4" s="1" t="2" n="Classic 2"/>
@@ -87,7 +87,7 @@
 			<S i="0700" f="4" s="1" t="2" n="Bandit"/>
 			<S i="0702" f="4" s="1" t="2" n="Rix"/>
 			<S i="0704" f="4" s="1" t="2" n="Lugna favoriter"/>
-			<S i="0706" f="4" s="1" t="2" n="DR1"/>
+			<S i="0706" f="4" s="0" t="2" n="DR1"/>
 			<S i="1f54" f="4" s="1" t="16" n="Viasat Xtra 1"/>
 			<S i="1f5e" f="4" s="1" t="16" n="Viasat Xtra 2"/>
 			<S i="1f68" f="4" s="1" t="16" n="Viasat Xtra 3"/>
@@ -595,6 +595,7 @@
 			<S i="1cc0" f="4" s="0" t="1" n="ZOOM"/>
 			<S i="1cc5" f="4" s="0" t="1" n="PIXEL"/>
 			<S i="1cca" f="4" s="0" t="1" n="Enter Film"/>
+			<S i="1cd9" f="1" s="1" t="16" n="TEST"/>
 			<S i="1cde" f="4" s="1" t="16" n="INTER +"/>
 			<S i="1ce3" f="4" s="1" t="1" n="Test"/>
 		</TS>

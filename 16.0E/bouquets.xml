@@ -370,24 +370,6 @@
 		<S i="67" t="9f60" on="16e" s="160" frq="11366" n="TV Lux HD"/>
 		<S i="65" t="9f60" on="16e" s="160" frq="11366" n="WAU HD"/>
 	</Bouquet>
-	<Bouquet name="[E016.0] pink">
-		<S i="41" t="cb2c" on="16e" s="160" frq="11151" n="Pink Comedy"/>
-		<S i="35" t="cb2c" on="16e" s="160" frq="11151" n="Pink Crime&amp;Mystery"/>
-		<S i="40" t="cb2c" on="16e" s="160" frq="11151" n="Pink Folk"/>
-		<S i="44" t="cb2c" on="16e" s="160" frq="11151" n="Pink Folk 2"/>
-		<S i="3e" t="cb2c" on="16e" s="160" frq="11151" n="Pink Hits 2"/>
-		<S i="43" t="cb2c" on="16e" s="160" frq="11151" n="Pink Horror"/>
-		<S i="3f" t="cb2c" on="16e" s="160" frq="11151" n="Pink Koncert"/>
-		<S i="3d" t="cb2c" on="16e" s="160" frq="11151" n="Pink Pedia"/>
-		<S i="39" t="cb2c" on="16e" s="160" frq="11151" n="Pink Premium"/>
-		<S i="38" t="cb2c" on="16e" s="160" frq="11151" n="Pink Reality"/>
-		<S i="36" t="cb2c" on="16e" s="160" frq="11151" n="Pink Romance"/>
-		<S i="37" t="cb2c" on="16e" s="160" frq="11151" n="Pink Sci-Fi&amp;Fantasy"/>
-		<S i="3a" t="cb2c" on="16e" s="160" frq="11151" n="Pink Soap"/>
-		<S i="34" t="cb2c" on="16e" s="160" frq="11151" n="Pink Thriller"/>
-		<S i="3b" t="cb2c" on="16e" s="160" frq="11151" n="Pink World"/>
-		<S i="3c" t="cb2c" on="16e" s="160" frq="11151" n="Pink Zabava"/>
-	</Bouquet>
 	<Bouquet name="[E016.0] Pink">
 		<S i="5d" t="cb2b" on="16e" s="160" frq="11178" n="Bravo Music"/>
 		<S i="55" t="cb2b" on="16e" s="160" frq="11178" n="City Play"/>
@@ -415,6 +397,24 @@
 		<S i="5a" t="cb2b" on="16e" s="160" frq="11178" n="Pink Western"/>
 		<S i="63" t="cb2b" on="16e" s="160" frq="11178" n="Pink World Cinema"/>
 		<S i="3" t="cb2b" on="16e" s="160" frq="11178" n="Radio Pink"/>
+	</Bouquet>
+	<Bouquet name="[E016.0] pink">
+		<S i="41" t="cb2c" on="16e" s="160" frq="11151" n="Pink Comedy"/>
+		<S i="35" t="cb2c" on="16e" s="160" frq="11151" n="Pink Crime&amp;Mystery"/>
+		<S i="40" t="cb2c" on="16e" s="160" frq="11151" n="Pink Folk"/>
+		<S i="44" t="cb2c" on="16e" s="160" frq="11151" n="Pink Folk 2"/>
+		<S i="3e" t="cb2c" on="16e" s="160" frq="11151" n="Pink Hits 2"/>
+		<S i="43" t="cb2c" on="16e" s="160" frq="11151" n="Pink Horror"/>
+		<S i="3f" t="cb2c" on="16e" s="160" frq="11151" n="Pink Koncert"/>
+		<S i="3d" t="cb2c" on="16e" s="160" frq="11151" n="Pink Pedia"/>
+		<S i="39" t="cb2c" on="16e" s="160" frq="11151" n="Pink Premium"/>
+		<S i="38" t="cb2c" on="16e" s="160" frq="11151" n="Pink Reality"/>
+		<S i="36" t="cb2c" on="16e" s="160" frq="11151" n="Pink Romance"/>
+		<S i="37" t="cb2c" on="16e" s="160" frq="11151" n="Pink Sci-Fi&amp;Fantasy"/>
+		<S i="3a" t="cb2c" on="16e" s="160" frq="11151" n="Pink Soap"/>
+		<S i="34" t="cb2c" on="16e" s="160" frq="11151" n="Pink Thriller"/>
+		<S i="3b" t="cb2c" on="16e" s="160" frq="11151" n="Pink World"/>
+		<S i="3c" t="cb2c" on="16e" s="160" frq="11151" n="Pink Zabava"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] Pro Tv">
 		<S i="5" t="1f4" on="5" s="160" frq="12643" n="Pro TV"/>
@@ -517,6 +517,7 @@
 		<S i="c6" t="3" on="40" s="160" frq="11678" n="HRT3."/>
 		<S i="96" t="1" on="40" s="160" frq="11512" n="Jugoton TV."/>
 		<S i="d8" t="3" on="40" s="160" frq="11678" n="Klasik TV."/>
+		<S i="d7" t="3" on="40" s="160" frq="11678" n="LaudatoTV."/>
 		<S i="29" t="2" on="40" s="160" frq="11595" n="M1 Gold."/>
 		<S i="128" t="3" on="40" s="160" frq="11678" n="M1."/>
 		<S i="12d" t="3" on="40" s="160" frq="11678" n="Mini TV."/>
@@ -880,18 +881,8 @@
 		<S i="28e" t="c418" on="16e" s="160" frq="11470" n="ID Xtra HD"/>
 		<S i="27b" t="c418" on="16e" s="160" frq="11470" n="TLC"/>
 	</Bouquet>
-	<Bouquet name="[E016.0] Tring Tv">
-		<S i="7b" t="16a" on="16e" s="160" frq="11400" n="TVSH"/>
-	</Bouquet>
-	<Bouquet name="[E016.0] tring tv">
-		<S i="7a" t="16a" on="16e" s="160" frq="11400" n="Click TV"/>
-		<S i="d9" t="16a" on="16e" s="160" frq="11400" n="CLUB TV"/>
-		<S i="22b" t="168" on="16e" s="160" frq="11427" n="Desire"/>
-		<S i="4c9" t="16a" on="16e" s="160" frq="11400" n="ELRODI"/>
-		<S i="38b" t="16a" on="16e" s="160" frq="11400" n="Fox CRIME"/>
-		<S i="38a" t="16a" on="16e" s="160" frq="11400" n="Fox Life"/>
-		<S i="321" t="16a" on="16e" s="160" frq="11400" n="Kids"/>
-		<S i="761" t="16a" on="16e" s="160" frq="11400" n="Club FM"/>
+	<Bouquet name="[E016.0] TRING TV">
+		<S i="97" t="16a" on="16e" s="160" frq="11400" n="TRING International"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] Tring TV">
 		<S i="38" t="168" on="16e" s="160" frq="11427" n="3 Plus"/>
@@ -931,8 +922,18 @@
 		<S i="1" t="168" on="16e" s="160" frq="11427" n="VIZION PLUS HD"/>
 		<S i="1b58" t="168" on="16e" s="160" frq="11427" n="Radio Klan"/>
 	</Bouquet>
-	<Bouquet name="[E016.0] TRING TV">
-		<S i="97" t="16a" on="16e" s="160" frq="11400" n="TRING International"/>
+	<Bouquet name="[E016.0] Tring Tv">
+		<S i="7b" t="16a" on="16e" s="160" frq="11400" n="TVSH"/>
+	</Bouquet>
+	<Bouquet name="[E016.0] tring tv">
+		<S i="7a" t="16a" on="16e" s="160" frq="11400" n="Click TV"/>
+		<S i="d9" t="16a" on="16e" s="160" frq="11400" n="CLUB TV"/>
+		<S i="22b" t="168" on="16e" s="160" frq="11427" n="Desire"/>
+		<S i="4c9" t="16a" on="16e" s="160" frq="11400" n="ELRODI"/>
+		<S i="38b" t="16a" on="16e" s="160" frq="11400" n="Fox CRIME"/>
+		<S i="38a" t="16a" on="16e" s="160" frq="11400" n="Fox Life"/>
+		<S i="321" t="16a" on="16e" s="160" frq="11400" n="Kids"/>
+		<S i="761" t="16a" on="16e" s="160" frq="11400" n="Club FM"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] TringTV">
 		<S i="3f7" t="16a" on="16e" s="160" frq="11400" n="FOX"/>

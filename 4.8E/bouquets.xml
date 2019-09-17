@@ -107,16 +107,16 @@
 		<S i="27ce" t="c9" on="55" s="48" frq="11785" n="Viasat History HD"/>
 		<S i="2936" t="cb" on="55" s="48" frq="11938" n="Viasat Nature"/>
 	</Bouquet>
-	<Bouquet name="[E004.8] ARQIVA">
-		<S i="46" t="0" on="1" s="48" frq="12303" n="BBC - CCI DAB"/>
-		<S i="50b" t="0" on="1" s="48" frq="12303" n="Belsat TV"/>
-		<S i="503" t="0" on="1" s="48" frq="12303" n="IRN"/>
-	</Bouquet>
 	<Bouquet name="[E004.8] Arqiva">
 		<S i="3ee" t="0" on="1" s="48" frq="12303" n="Absolute Radio"/>
 		<S i="2bc" t="0" on="1" s="48" frq="12303" n="BBC AM Dist1"/>
 		<S i="2c6" t="0" on="1" s="48" frq="12303" n="BBC AM Dist2"/>
 		<S i="2e4" t="0" on="1" s="48" frq="12303" n="BBC AM Dist5"/>
+	</Bouquet>
+	<Bouquet name="[E004.8] ARQIVA">
+		<S i="46" t="0" on="1" s="48" frq="12303" n="BBC - CCI DAB"/>
+		<S i="50b" t="0" on="1" s="48" frq="12303" n="Belsat TV"/>
+		<S i="503" t="0" on="1" s="48" frq="12303" n="IRN"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] AVERS">
 		<S i="1815" t="c" on="55" s="48" frq="11766" n="AVERS"/>
@@ -401,6 +401,7 @@
 		<S i="113f" t="18" on="56" s="48" frq="11919" n="SVTB"/>
 		<S i="1136" t="18" on="56" s="48" frq="11919" n="SVTB talande text"/>
 		<S i="1888" t="d" on="55" s="48" frq="11843" n="Tallinna TV"/>
+		<S i="1cd9" t="13" on="55" s="48" frq="12399" n="TEST"/>
 		<S i="73" t="65" on="1" s="48" frq="12418" n="TEST CHANNEL - CISCO 1"/>
 		<S i="1e16" t="2c" on="55" s="48" frq="12265" n="TET."/>
 		<S i="1e1f" t="2c" on="55" s="48" frq="12265" n="Trofey"/>
@@ -450,9 +451,9 @@
 		<S i="1145" t="18" on="56" s="48" frq="11919" n="TV8 HD"/>
 		<S i="bb8" t="25" on="56" s="48" frq="11385" n="U test 27"/>
 		<S i="bea" t="25" on="56" s="48" frq="11385" n="U test 27 2"/>
-		<S i="26d" t="0" on="1" s="48" frq="12303" n="Universal HUNGARY"/>
 		<S i="26f" t="0" on="1" s="48" frq="12303" n="Universal HUNGARY"/>
 		<S i="1f6" t="0" on="1" s="48" frq="12303" n="Universal HUNGARY"/>
+		<S i="26d" t="0" on="1" s="48" frq="12303" n="Universal HUNGARY"/>
 		<S i="cb" t="c9" on="1" s="48" frq="12149" n="VBI Test"/>
 		<S i="1e18" t="2c" on="55" s="48" frq="12265" n="Verimatrix TEST"/>
 		<S i="578" t="20" on="56" s="48" frq="11305" n="VFActionHD"/>

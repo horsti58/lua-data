@@ -25,6 +25,10 @@
 		<S i="1f7e" t="ca1" on="3" s="235" frq="12344" n="CRo TEST DD"/>
 		<S i="1f75" t="ca1" on="3" s="235" frq="12344" n="CRo VLTAVA"/>
 	</Bouquet>
+	<Bouquet name="[E023.5] M7 group">
+		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
+		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
+	</Bouquet>
 	<Bouquet name="[E023.5] M7 Group">
 		<S i="177f" t="c82" on="3" s="235" frq="11739" n="192TV"/>
 		<S i="523f" t="c99" on="3" s="235" frq="12188" n="24Kitchen"/>
@@ -237,10 +241,6 @@
 		<S i="52eb" t="c96" on="3" s="235" frq="12129" n="Sky Radio"/>
 		<S i="5262" t="c99" on="3" s="235" frq="12188" n="SLAM!"/>
 		<S i="52db" t="c96" on="3" s="235" frq="12129" n="Studio Brussel"/>
-	</Bouquet>
-	<Bouquet name="[E023.5] M7 group">
-		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
-		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] MB Satellite">
 		<S i="36d9" t="c8c" on="3" s="235" frq="11934" n="GERMAN TOTE TV"/>
@@ -587,6 +587,7 @@
 		<S i="9b0" t="0" on="1" s="235" frq="11644" n="2480 - ESKA Wroclaw JG"/>
 		<S i="9c4" t="0" on="1" s="235" frq="11644" n="2500 - ESKA Ostrzeszow"/>
 		<S i="be0" t="0" on="1" s="235" frq="11644" n="3040 - VOX Gorzow"/>
+		<S i="c44" t="0" on="1" s="235" frq="11644" n="3140 - VOX Poznan"/>
 		<S i="c8a" t="0" on="1" s="235" frq="11644" n="3210 - VOX Radom"/>
 		<S i="f96" t="0" on="1" s="235" frq="11644" n="3990 - VOX"/>
 		<S i="fa0" t="0" on="1" s="235" frq="11644" n="4000 - PLUS SES"/>

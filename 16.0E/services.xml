@@ -862,7 +862,7 @@
 			<S i="0d55" f="4" s="0" t="2" n="HRT-HR3"/>
 			<S i="0d56" f="4" s="0" t="2" n="VOICE OF CRO"/>
 		</TS>
-		<TS id="0003" on="0040" frq="11678000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+		<TS id="0003" on="0040" frq="11678000" inv="2" sr="30000000" fec="10" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0022" f="4" s="1" t="16" n="Vivid TV."/>
 			<S i="002a" f="4" s="1" t="16" n="Test T."/>
 			<S i="002b" f="4" s="1" t="16" n="Woman."/>
@@ -880,6 +880,7 @@
 			<S i="00be" f="4" s="1" t="19" n="Arena 5 HD."/>
 			<S i="00bf" f="4" s="1" t="16" n="BlueHustler."/>
 			<S i="00c6" f="4" s="1" t="16" n="HRT3."/>
+			<S i="00d7" f="1" s="0" t="16" n="LaudatoTV."/>
 			<S i="00d8" f="4" s="1" t="16" n="Klasik TV."/>
 			<S i="0123" f="4" s="1" t="16" n="RTL."/>
 			<S i="0124" f="4" s="1" t="16" n="Nova TV."/>
