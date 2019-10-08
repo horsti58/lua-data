@@ -42,8 +42,11 @@
 		<S i="12f" t="1edc" on="9c" s="90" frq="12245" n="SAT.1 HD"/>
 		<S i="f5" t="14b4" on="9c" s="90" frq="11785" n="Servus TV"/>
 		<S i="ea" t="1644" on="9c" s="90" frq="11861" n="SPORT 1 HD"/>
+		<S i="ea60" t="14b4" on="9c" s="90" frq="11785" n="TC ATV 1"/>
+		<S i="ee48" t="1964" on="9c" s="90" frq="12015" n="TC ATV 2"/>
 		<S i="e8" t="1644" on="9c" s="90" frq="11861" n="TELE 5 HD"/>
 		<S i="eb" t="1644" on="9c" s="90" frq="11861" n="TLC HD"/>
+		<S i="ffff" t="1edc" on="9c" s="90" frq="12245" n="unknown (0x1EDC_0xFFFF)"/>
 		<S i="12e" t="1edc" on="9c" s="90" frq="12245" n="VOX HD"/>
 		<S i="cb" t="14b4" on="9c" s="90" frq="11785" n="WELT HD"/>
 	</Bouquet>
@@ -83,16 +86,6 @@
 		<S i="64a" t="1" on="64" s="90" frq="11823" n="Ros * Ros"/>
 		<S i="654" t="1" on="64" s="90" frq="11823" n="Ros * Ros Selex"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] GlobeCast">
-		<S i="165" t="19c8" on="9e" s="90" frq="12034" n="BBC_Entertainment_Europe"/>
-		<S i="26b" t="1900" on="9c" s="90" frq="11996" n="CCTV-4"/>
-		<S i="26f" t="1900" on="9c" s="90" frq="11996" n="CGTN Documentary"/>
-		<S i="26e" t="1900" on="9c" s="90" frq="11996" n="CGTN-A"/>
-		<S i="26c" t="1900" on="9c" s="90" frq="11996" n="CGTN-E"/>
-		<S i="26d" t="1900" on="9c" s="90" frq="11996" n="CGTN-R"/>
-		<S i="272" t="1900" on="9c" s="90" frq="11996" n="PTV Global"/>
-		<S i="277" t="1900" on="9c" s="90" frq="11996" n="Babcock FM Feed 1"/>
-	</Bouquet>
 	<Bouquet name="[E009.0] GLOBECAST">
 		<S i="cc" t="19c8" on="9e" s="90" frq="12034" n="6 TER Suisse HD"/>
 		<S i="168" t="19c8" on="9e" s="90" frq="12034" n="Karusel Int"/>
@@ -105,11 +98,24 @@
 		<S i="cd" t="19c8" on="9e" s="90" frq="12034" n="W9 Suisse HD"/>
 		<S i="164" t="19c8" on="9e" s="90" frq="12034" n="La Voix Du Sahel"/>
 	</Bouquet>
+	<Bouquet name="[E009.0] GlobeCast">
+		<S i="165" t="19c8" on="9e" s="90" frq="12034" n="BBC_Entertainment_Europe"/>
+		<S i="26b" t="1900" on="9c" s="90" frq="11996" n="CCTV-4"/>
+		<S i="26f" t="1900" on="9c" s="90" frq="11996" n="CGTN Documentary"/>
+		<S i="26e" t="1900" on="9c" s="90" frq="11996" n="CGTN-A"/>
+		<S i="26c" t="1900" on="9c" s="90" frq="11996" n="CGTN-E"/>
+		<S i="26d" t="1900" on="9c" s="90" frq="11996" n="CGTN-R"/>
+		<S i="272" t="1900" on="9c" s="90" frq="11996" n="PTV Global"/>
+		<S i="277" t="1900" on="9c" s="90" frq="11996" n="Babcock FM Feed 1"/>
+	</Bouquet>
 	<Bouquet name="[E009.0] iKO Media Group">
 		<S i="dbe" t="16a8" on="9c" s="90" frq="11881" n="Love Nature HD"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] iKOMG">
 		<S i="dc4" t="16a8" on="9c" s="90" frq="11881" n="TRT Tamil Oli"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] Inview Ltd">
+		<S i="c03" t="65" on="12" s="90" frq="11804" n="INV1-afnatl"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Jonye">
 		<S i="1a2" t="c40e" on="9e" s="90" frq="12074" n="History HD"/>
@@ -359,10 +365,10 @@
 		<S i="449" t="1" on="aa" s="90" frq="11843" n="MEZZO"/>
 		<S i="401" t="4" on="aa" s="90" frq="12207" n="Motorvision Channel HD"/>
 		<S i="45a" t="1" on="aa" s="90" frq="11843" n="MTV Live HD"/>
-		<S i="458" t="9" on="aa" s="90" frq="11938" n="Nat Geo HD"/>
-		<S i="41a" t="2" on="aa" s="90" frq="12054" n="Nat Geo Wild HD"/>
+		<S i="41a" t="2" on="aa" s="90" frq="12054" n="National Geographic WILD HD"/>
 		<S i="471" t="7" on="aa" s="90" frq="12475" n="Nautical Channel HD"/>
 		<S i="471" t="8" on="aa" s="90" frq="12169" n="Nautical Channel HD"/>
+		<S i="458" t="9" on="aa" s="90" frq="11938" n="NG TEST"/>
 		<S i="445" t="6" on="aa" s="90" frq="12399" n="Nickelodeon HD"/>
 		<S i="415" t="2" on="aa" s="90" frq="12054" n="ONE Channel HD"/>
 		<S i="405" t="5" on="aa" s="90" frq="12284" n="OPEN BEYOND HD"/>
@@ -492,6 +498,7 @@
 		<S i="444" t="7" on="aa" s="90" frq="12475" n="EDGEsport HD"/>
 		<S i="45c" t="7" on="aa" s="90" frq="12475" n="MTV Europe"/>
 		<S i="453" t="4" on="aa" s="90" frq="12207" n="National Geographic"/>
+		<S i="453" t="9" on="aa" s="90" frq="11938" n="National Geographic HD"/>
 		<S i="419" t="6" on="aa" s="90" frq="12399" n="National Geographic+"/>
 		<S i="42c" t="5" on="aa" s="90" frq="12284" n="Opap"/>
 		<S i="434" t="5" on="aa" s="90" frq="12284" n="TEST 1"/>
