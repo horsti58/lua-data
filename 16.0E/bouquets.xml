@@ -37,19 +37,18 @@
 		<S i="3a0" t="c670" on="16e" s="160" frq="11595" n="CityTV"/>
 		<S i="79b" t="c6d4" on="16e" s="160" frq="11637" n="CNN"/>
 		<S i="38c" t="c670" on="16e" s="160" frq="11595" n="Diema"/>
-		<S i="259" t="c418" on="16e" s="160" frq="11470" n="Diema Family"/>
 		<S i="389" t="c670" on="16e" s="160" frq="11595" n="Diema Sport 2 HD"/>
 		<S i="3bc" t="c670" on="16e" s="160" frq="11595" n="Diema Sport HD"/>
 		<S i="267" t="c418" on="16e" s="160" frq="11470" n="Discovery Channel"/>
 		<S i="390" t="c670" on="16e" s="160" frq="11595" n="DSTV"/>
 		<S i="3a2" t="c670" on="16e" s="160" frq="11595" n="e-kids"/>
 		<S i="3a4" t="c670" on="16e" s="160" frq="11595" n="Edge Sport HD"/>
-		<S i="77b" t="c6d4" on="16e" s="160" frq="11637" n="Eurobet 5OT11"/>
 		<S i="25a" t="c418" on="16e" s="160" frq="11470" n="Eurosport 1"/>
 		<S i="278" t="c418" on="16e" s="160" frq="11470" n="Eurosport 1 HD"/>
 		<S i="264" t="c418" on="16e" s="160" frq="11470" n="Eurosport 2"/>
 		<S i="279" t="c418" on="16e" s="160" frq="11470" n="Eurosport 2 HD"/>
 		<S i="3a3" t="c670" on="16e" s="160" frq="11595" n="Evrokom"/>
+		<S i="259" t="c418" on="16e" s="160" frq="11470" n="Extasy 4K"/>
 		<S i="269" t="c418" on="16e" s="160" frq="11470" n="Fen TV"/>
 		<S i="26a" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
 		<S i="270" t="c418" on="16e" s="160" frq="11470" n="Food Network"/>
@@ -62,7 +61,6 @@
 		<S i="770" t="c6d4" on="16e" s="160" frq="11637" n="History"/>
 		<S i="25c" t="c418" on="16e" s="160" frq="11470" n="ID Xtra"/>
 		<S i="25b" t="c418" on="16e" s="160" frq="11470" n="ID Xtra HD"/>
-		<S i="783" t="c6d4" on="16e" s="160" frq="11637" n="In LIFE TV"/>
 		<S i="3aa" t="c670" on="16e" s="160" frq="11595" n="Kanal 3"/>
 		<S i="38e" t="c670" on="16e" s="160" frq="11595" n="KinoNova"/>
 		<S i="3bb" t="c670" on="16e" s="160" frq="11595" n="Magic TV"/>
@@ -73,7 +71,6 @@
 		<S i="39c" t="c670" on="16e" s="160" frq="11595" n="MovieSTAR"/>
 		<S i="394" t="c670" on="16e" s="160" frq="11595" n="Nat Geo Wild"/>
 		<S i="25d" t="c418" on="16e" s="160" frq="11470" n="National Geographic"/>
-		<S i="76f" t="c6d4" on="16e" s="160" frq="11637" n="Nick Jr. Bulgarian"/>
 		<S i="287" t="c418" on="16e" s="160" frq="11470" n="Nickelodeon"/>
 		<S i="38b" t="c670" on="16e" s="160" frq="11595" n="Nova TV"/>
 		<S i="388" t="c670" on="16e" s="160" frq="11595" n="NovaSport"/>
@@ -83,12 +80,15 @@
 		<S i="3a7" t="c670" on="16e" s="160" frq="11595" n="Planeta TV"/>
 		<S i="38d" t="c670" on="16e" s="160" frq="11595" n="RING.BG"/>
 		<S i="3ab" t="c670" on="16e" s="160" frq="11595" n="Rodina TV"/>
-		<S i="77e" t="c6d4" on="16e" s="160" frq="11637" n="SportShans"/>
 		<S i="3ba" t="c670" on="16e" s="160" frq="11595" n="The Voice"/>
 		<S i="3a8" t="c670" on="16e" s="160" frq="11595" n="Tiankov"/>
 		<S i="272" t="c418" on="16e" s="160" frq="11470" n="TLC"/>
-		<S i="798" t="c6d4" on="16e" s="160" frq="11637" n="Travel Channel"/>
 		<S i="261" t="c418" on="16e" s="160" frq="11470" n="TV Evropa"/>
+		<S i="76f" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x076F)"/>
+		<S i="77b" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x077B)"/>
+		<S i="77e" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x077E)"/>
+		<S i="783" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0783)"/>
+		<S i="798" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0798)"/>
 		<S i="70b" t="c5a8" on="16e" s="160" frq="11554" n="Viasat Explore"/>
 		<S i="70c" t="c5a8" on="16e" s="160" frq="11554" n="Viasat History"/>
 		<S i="70d" t="c5a8" on="16e" s="160" frq="11554" n="Viasat TV 1000"/>
@@ -99,15 +99,15 @@
 		<S i="73b" t="c5a8" on="16e" s="160" frq="11554" n="AXN"/>
 		<S i="70e" t="c5a8" on="16e" s="160" frq="11554" n="Balkanika TV"/>
 		<S i="28a" t="c418" on="16e" s="160" frq="11470" n="Boomerang"/>
-		<S i="73e" t="c5a8" on="16e" s="160" frq="11554" n="CBS Reality"/>
 		<S i="715" t="c5a8" on="16e" s="160" frq="11554" n="CBS Reality"/>
+		<S i="73e" t="c5a8" on="16e" s="160" frq="11554" n="CBS Reality"/>
 		<S i="787" t="c6d4" on="16e" s="160" frq="11637" n="Cinemax 2 HD"/>
 		<S i="786" t="c6d4" on="16e" s="160" frq="11637" n="Cinemax HD"/>
 		<S i="71b" t="c5a8" on="16e" s="160" frq="11554" n="CineStar Action and Thriller"/>
 		<S i="736" t="c5a8" on="16e" s="160" frq="11554" n="CineStar Premiere 2"/>
 		<S i="737" t="c5a8" on="16e" s="160" frq="11554" n="CineStar Premiere HD"/>
 		<S i="71e" t="c5a8" on="16e" s="160" frq="11554" n="CineStar TV"/>
-		<S i="77f" t="c6d4" on="16e" s="160" frq="11637" n="Da Vinci LEARNING"/>
+		<S i="77f" t="c6d4" on="16e" s="160" frq="11637" n="Da Vinci LEARNINt"/>
 		<S i="717" t="c5a8" on="16e" s="160" frq="11554" n="DIVA"/>
 		<S i="70f" t="c5a8" on="16e" s="160" frq="11554" n="Doku TV"/>
 		<S i="26f" t="c418" on="16e" s="160" frq="11470" n="Duck TV"/>
@@ -138,18 +138,36 @@
 		<S i="71c" t="c5a8" on="16e" s="160" frq="11554" n="PlanetSport 1 HD"/>
 		<S i="71f" t="c5a8" on="16e" s="160" frq="11554" n="PlanetSport 2 HD"/>
 		<S i="722" t="c5a8" on="16e" s="160" frq="11554" n="PlanetSport 3 HD"/>
-		<S i="771" t="c6d4" on="16e" s="160" frq="11637" n="PlanetSport 4 HD"/>
-		<S i="782" t="c6d4" on="16e" s="160" frq="11637" n="PlanetSport 5 HD"/>
 		<S i="739" t="c5a8" on="16e" s="160" frq="11554" n="SciFi"/>
 		<S i="713" t="c5a8" on="16e" s="160" frq="11554" n="SK 1"/>
 		<S i="710" t="c5a8" on="16e" s="160" frq="11554" n="SK 2"/>
 		<S i="71a" t="c5a8" on="16e" s="160" frq="11554" n="SK 3"/>
 		<S i="a8f" t="9dd0" on="16e" s="160" frq="11283" n="Timeless Drama Channel HD"/>
 		<S i="4d5" t="76c1" on="16e" s="160" frq="11094" n="Timeless Drama Channel HD"/>
-		<S i="780" t="c6d4" on="16e" s="160" frq="11637" n="Travel Channel"/>
 		<S i="718" t="c5a8" on="16e" s="160" frq="11554" n="TV1000"/>
+		<S i="76d" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x076D)"/>
+		<S i="76e" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x076E)"/>
+		<S i="76f" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x076F)"/>
+		<S i="771" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0771)"/>
+		<S i="772" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0772)"/>
+		<S i="773" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0773)"/>
+		<S i="774" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0774)"/>
+		<S i="776" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0776)"/>
+		<S i="778" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0778)"/>
+		<S i="77a" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x077A)"/>
+		<S i="77b" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x077B)"/>
+		<S i="77d" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x077D)"/>
+		<S i="77e" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x077E)"/>
+		<S i="780" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0780)"/>
+		<S i="781" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0781)"/>
+		<S i="782" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0782)"/>
+		<S i="783" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0783)"/>
+		<S i="78d" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x078D)"/>
+		<S i="792" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0792)"/>
+		<S i="798" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0798)"/>
+		<S i="79a" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x079A)"/>
+		<S i="79c" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x079C)"/>
 		<S i="729" t="c5a8" on="16e" s="160" frq="11554" n="VH1"/>
-		<S i="76d" t="c6d4" on="16e" s="160" frq="11637" n="VH1 Classic"/>
 		<S i="720" t="c5a8" on="16e" s="160" frq="11554" n="Viasat Explore"/>
 		<S i="726" t="c5a8" on="16e" s="160" frq="11554" n="Viasat History"/>
 		<S i="73d" t="c5a8" on="16e" s="160" frq="11554" n="Woman"/>
@@ -167,6 +185,20 @@
 		<S i="5" t="0" on="16e" s="160" frq="11131" n="ZU TV"/>
 		<S i="38" t="0" on="16e" s="160" frq="11131" n="Radio Romantic"/>
 		<S i="37" t="0" on="16e" s="160" frq="11131" n="Radio Zu"/>
+	</Bouquet>
+	<Bouquet name="[E016.0] Antik">
+		<S i="259" t="c418" on="16e" s="160" frq="11470" n="Extasy 4K"/>
+	</Bouquet>
+	<Bouquet name="[E016.0] Digitalb">
+		<S i="a9c" t="9dd0" on="16e" s="160" frq="11283" n="360 TuneBox HD"/>
+		<S i="27f" t="c418" on="16e" s="160" frq="11470" n="Baby TV"/>
+		<S i="a92" t="9dd0" on="16e" s="160" frq="11283" n="FightBox HD"/>
+		<S i="27a" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
+		<S i="a91" t="9dd0" on="16e" s="160" frq="11283" n="Gametoon HD"/>
+		<S i="27d" t="c418" on="16e" s="160" frq="11470" n="ID Xtra HD"/>
+		<S i="269" t="76c0" on="16e" s="160" frq="11055" n="ODS-2+3000H"/>
+		<S i="a90" t="9dd0" on="16e" s="160" frq="11283" n="Timeless Drama Channel HD"/>
+		<S i="27e" t="c418" on="16e" s="160" frq="11470" n="TLC"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] DigitALB">
 		<S i="3fd" t="51a4" on="16e" s="160" frq="10887" n="24 Kitchen"/>
@@ -235,7 +267,7 @@
 		<S i="3e8" t="4f4c" on="16e" s="160" frq="10762" n="RTK-1"/>
 		<S i="5a0" t="4f4c" on="16e" s="160" frq="10762" n="RTV Ora"/>
 		<S i="3ff" t="50dc" on="16e" s="160" frq="10845" n="Scan TV"/>
-		<S i="5f0" t="4f4c" on="16e" s="160" frq="10762" n="Seriale Turke"/>
+		<S i="5f0" t="4f4c" on="16e" s="160" frq="10762" n="Seriale Turke HD"/>
 		<S i="6a4" t="4f4c" on="16e" s="160" frq="10762" n="Service IPKO A03"/>
 		<S i="47e" t="5014" on="16e" s="160" frq="10804" n="Service IPKO A05"/>
 		<S i="528" t="4f4c" on="16e" s="160" frq="10762" n="SS Service 1"/>
@@ -249,6 +281,8 @@
 		<S i="7ee" t="5014" on="16e" s="160" frq="10804" n="SS-6 HD"/>
 		<S i="58c" t="4f4c" on="16e" s="160" frq="10762" n="SS-7 HD"/>
 		<S i="c80" t="5014" on="16e" s="160" frq="10804" n="SS_Service 1 HD"/>
+		<S i="884" t="5014" on="16e" s="160" frq="10804" n="SS_Service1"/>
+		<S i="8a2" t="5014" on="16e" s="160" frq="10804" n="SS_Service2"/>
 		<S i="1040" t="50dc" on="16e" s="160" frq="10845" n="STAR PLUS TV"/>
 		<S i="3f0" t="51a4" on="16e" s="160" frq="10887" n="Stars XXX"/>
 		<S i="488" t="4f4c" on="16e" s="160" frq="10762" n="Stinet"/>
@@ -273,17 +307,6 @@
 		<S i="708" t="4f4c" on="16e" s="160" frq="10762" n="Top Albania Radio"/>
 		<S i="71c" t="4f4c" on="16e" s="160" frq="10762" n="Top Gold Radio"/>
 	</Bouquet>
-	<Bouquet name="[E016.0] Digitalb">
-		<S i="a9c" t="9dd0" on="16e" s="160" frq="11283" n="360 TuneBox HD"/>
-		<S i="27f" t="c418" on="16e" s="160" frq="11470" n="Baby TV"/>
-		<S i="a92" t="9dd0" on="16e" s="160" frq="11283" n="FightBox HD"/>
-		<S i="27a" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
-		<S i="a91" t="9dd0" on="16e" s="160" frq="11283" n="Gametoon HD"/>
-		<S i="27d" t="c418" on="16e" s="160" frq="11470" n="ID Xtra HD"/>
-		<S i="269" t="76c0" on="16e" s="160" frq="11055" n="ODS-2+3000H"/>
-		<S i="a90" t="9dd0" on="16e" s="160" frq="11283" n="Timeless Drama Channel HD"/>
-		<S i="27e" t="c418" on="16e" s="160" frq="11470" n="TLC"/>
-	</Bouquet>
 	<Bouquet name="[E016.0] DM-SAT">
 		<S i="1" t="a78" on="1" s="160" frq="12593" n="DM-SAT"/>
 	</Bouquet>
@@ -303,6 +326,9 @@
 		<S i="9" t="1" on="1" s="160" frq="12541" n="Zico TV"/>
 		<S i="b" t="1" on="1" s="160" frq="12541" n="Radio 21 Kosovo"/>
 		<S i="c" t="1" on="1" s="160" frq="12541" n="Radio Dukagjini"/>
+	</Bouquet>
+	<Bouquet name="[E016.0] INC">
+		<S i="817" t="168" on="16e" s="160" frq="11427" n="OTA"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] OIV">
 		<S i="385" t="4e84" on="16e" s="160" frq="10721" n="HRT-TV1 HD"/>
@@ -592,26 +618,23 @@
 		<S i="da" t="2" on="40" s="160" frq="11595" n="R. Mediaservis"/>
 		<S i="d3" t="2" on="40" s="160" frq="11595" n="R.Marija."/>
 	</Bouquet>
+	<Bouquet name="[E016.0] TAG BRoadcasting">
+		<S i="a8d" t="9dd0" on="16e" s="160" frq="11283" n="Filmbox Premium HD"/>
+	</Bouquet>
 	<Bouquet name="[E016.0] Tag Broadcasting">
 		<S i="483" t="76c0" on="16e" s="160" frq="11055" n="Prima Krimi"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] TAG Broadcasting">
 		<S i="aa0" t="9dd0" on="16e" s="160" frq="11283" n="360TuneBox"/>
 		<S i="4b2" t="76c1" on="16e" s="160" frq="11094" n="AMC"/>
-		<S i="513" t="76c1" on="16e" s="160" frq="11094" n="Antik OTA Upgrade"/>
 		<S i="4af" t="76c0" on="16e" s="160" frq="11055" n="Antik OTA Upgrade"/>
+		<S i="513" t="76c1" on="16e" s="160" frq="11094" n="Antik OTA Upgrade"/>
 		<S i="262" t="c418" on="16e" s="160" frq="11470" n="AutoMotorSport HD"/>
 		<S i="4ea" t="76c1" on="16e" s="160" frq="11094" n="AXN"/>
-		<S i="77a" t="c6d4" on="16e" s="160" frq="11637" n="AXN Spin"/>
 		<S i="26d" t="c418" on="16e" s="160" frq="11470" n="Baby TV"/>
-		<S i="77d" t="c6d4" on="16e" s="160" frq="11637" n="Barely Legal"/>
 		<S i="468" t="526c" on="16e" s="160" frq="10928" n="Body In Balance"/>
 		<S i="457" t="526c" on="16e" s="160" frq="10928" n="BoxAfrica"/>
 		<S i="456" t="526c" on="16e" s="160" frq="10928" n="BoxHits"/>
-		<S i="773" t="c6d4" on="16e" s="160" frq="11637" n="Cartoon Network"/>
-		<S i="792" t="c6d4" on="16e" s="160" frq="11637" n="Cinemax 2 HD"/>
-		<S i="79c" t="c6d4" on="16e" s="160" frq="11637" n="Cinemax 2 HD"/>
-		<S i="79a" t="c6d4" on="16e" s="160" frq="11637" n="Cinemax HD"/>
 		<S i="79d" t="c6d4" on="16e" s="160" frq="11637" n="Cinemax HD"/>
 		<S i="4b4" t="76c1" on="16e" s="160" frq="11094" n="CS Film/CS Mini/Horor Film"/>
 		<S i="481" t="76c0" on="16e" s="160" frq="11055" n="CT 1 HD"/>
@@ -621,26 +644,22 @@
 		<S i="482" t="76c0" on="16e" s="160" frq="11055" n="CT 24 HD"/>
 		<S i="487" t="76c0" on="16e" s="160" frq="11055" n="CT D/ art"/>
 		<S i="488" t="76c0" on="16e" s="160" frq="11055" n="CT Sport HD"/>
-		<S i="78d" t="c6d4" on="16e" s="160" frq="11637" n="Da Vinci LEARNING"/>
 		<S i="4c0" t="76c1" on="16e" s="160" frq="11094" n="Disney Channel"/>
-		<S i="776" t="c6d4" on="16e" s="160" frq="11637" n="Disney Channel Bulgaria"/>
-		<S i="774" t="c6d4" on="16e" s="160" frq="11637" n="Disney Channel Romania"/>
 		<S i="a97" t="9dd0" on="16e" s="160" frq="11283" n="DocuBox HD"/>
 		<S i="4b5" t="76c1" on="16e" s="160" frq="11094" n="Doma"/>
-		<S i="280" t="c418" on="16e" s="160" frq="11470" n="Duck TV"/>
 		<S i="2bb" t="c418" on="16e" s="160" frq="11470" n="Duck TV"/>
+		<S i="280" t="c418" on="16e" s="160" frq="11470" n="Duck TV"/>
 		<S i="79e" t="c6d4" on="16e" s="160" frq="11637" n="EFB 1"/>
 		<S i="79f" t="c6d4" on="16e" s="160" frq="11637" n="EFB 2"/>
 		<S i="7a0" t="c6d4" on="16e" s="160" frq="11637" n="EFB 3"/>
 		<S i="458" t="526c" on="16e" s="160" frq="10928" n="Epic Drama"/>
 		<S i="a9b" t="9dd0" on="16e" s="160" frq="11283" n="EroX"/>
 		<S i="a9a" t="9dd0" on="16e" s="160" frq="11283" n="EroXXX HD"/>
-		<S i="77b" t="c6d4" on="16e" s="160" frq="11637" n="Eurobet 5OT11"/>
 		<S i="25e" t="c418" on="16e" s="160" frq="11470" n="Eurosport 1 HD"/>
 		<S i="282" t="c418" on="16e" s="160" frq="11470" n="Eurosport 1 HD"/>
+		<S i="283" t="c418" on="16e" s="160" frq="11470" n="Eurosport 2 HD"/>
 		<S i="25f" t="c418" on="16e" s="160" frq="11470" n="Eurosport 2 HD"/>
 		<S i="4b1" t="76c1" on="16e" s="160" frq="11094" n="Eurosport 2 HD"/>
-		<S i="283" t="c418" on="16e" s="160" frq="11470" n="Eurosport 2 HD"/>
 		<S i="459" t="526c" on="16e" s="160" frq="10928" n="Evil Angel HD"/>
 		<S i="3b8" t="c670" on="16e" s="160" frq="11595" n="Fashion Television HD"/>
 		<S i="aa1" t="9dd0" on="16e" s="160" frq="11283" n="FashionBox"/>
@@ -661,22 +680,18 @@
 		<S i="aa7" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Plus"/>
 		<S i="a9f" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Premium"/>
 		<S i="aa4" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Premium"/>
-		<S i="2ba" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
 		<S i="26a" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
+		<S i="2ba" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
 		<S i="281" t="c418" on="16e" s="160" frq="11470" n="Fine Living Network"/>
 		<S i="450" t="526c" on="16e" s="160" frq="10928" n="Fix&amp;Foxi"/>
 		<S i="44f" t="526c" on="16e" s="160" frq="10928" n="Folx"/>
 		<S i="270" t="c418" on="16e" s="160" frq="11470" n="Food Network"/>
 		<S i="aa9" t="9dd0" on="16e" s="160" frq="11283" n="Gametoon HD"/>
 		<S i="44d" t="526c" on="16e" s="160" frq="10928" n="Ginx"/>
-		<S i="778" t="c6d4" on="16e" s="160" frq="11637" n="havoc"/>
 		<S i="4c2" t="76c1" on="16e" s="160" frq="11094" n="HBO 2"/>
 		<S i="4c3" t="76c1" on="16e" s="160" frq="11094" n="HBO 3"/>
 		<S i="4c4" t="76c1" on="16e" s="160" frq="11094" n="HBO HD"/>
-		<S i="76e" t="c6d4" on="16e" s="160" frq="11637" n="History"/>
-		<S i="781" t="c6d4" on="16e" s="160" frq="11637" n="History Channel"/>
 		<S i="25b" t="c418" on="16e" s="160" frq="11470" n="ID Xtra HD"/>
-		<S i="783" t="c6d4" on="16e" s="160" frq="11637" n="In LIFE TV"/>
 		<S i="26e" t="c418" on="16e" s="160" frq="11470" n="Investigation Discovery HD"/>
 		<S i="4cf" t="76c1" on="16e" s="160" frq="11094" n="Jim Jam"/>
 		<S i="4c5" t="76c1" on="16e" s="160" frq="11094" n="JOJ Cinema HD"/>
@@ -688,7 +703,6 @@
 		<S i="455" t="526c" on="16e" s="160" frq="10928" n="Magic UK"/>
 		<S i="4c6" t="76c1" on="16e" s="160" frq="11094" n="National Geographic Channel"/>
 		<S i="289" t="c418" on="16e" s="160" frq="11470" n="National Geographic Wild"/>
-		<S i="76f" t="c6d4" on="16e" s="160" frq="11637" n="Nick Jr. Bulgarian"/>
 		<S i="4c7" t="76c1" on="16e" s="160" frq="11094" n="Nickelodeon"/>
 		<S i="4c8" t="76c1" on="16e" s="160" frq="11094" n="Noe"/>
 		<S i="4ba" t="76c1" on="16e" s="160" frq="11094" n="Nova 2"/>
@@ -710,18 +724,33 @@
 		<S i="4cb" t="76c1" on="16e" s="160" frq="11094" n="Spektrum Home"/>
 		<S i="4ce" t="76c1" on="16e" s="160" frq="11094" n="Sport 1"/>
 		<S i="4cc" t="76c1" on="16e" s="160" frq="11094" n="Sport 2 HD"/>
-		<S i="77e" t="c6d4" on="16e" s="160" frq="11637" n="SportShans"/>
 		<S i="779" t="c6d4" on="16e" s="160" frq="11637" n="Stingray Classica HD"/>
 		<S i="4d0" t="76c1" on="16e" s="160" frq="11094" n="TA 3"/>
 		<S i="4b9" t="76c1" on="16e" s="160" frq="11094" n="Timeless Drama Channel HD"/>
 		<S i="4d4" t="76c1" on="16e" s="160" frq="11094" n="Timeless Drama Channel HD"/>
 		<S i="a8e" t="9dd0" on="16e" s="160" frq="11283" n="Timeless Drama Channel HD"/>
 		<S i="272" t="c418" on="16e" s="160" frq="11470" n="TLC"/>
-		<S i="798" t="c6d4" on="16e" s="160" frq="11637" n="Travel Channel"/>
-		<S i="772" t="c6d4" on="16e" s="160" frq="11637" n="Travelxp HD"/>
 		<S i="4d1" t="76c1" on="16e" s="160" frq="11094" n="TV Barrandov"/>
 		<S i="480" t="76c0" on="16e" s="160" frq="11055" n="TV Barrandov HD"/>
 		<S i="4cd" t="76c1" on="16e" s="160" frq="11094" n="TV Paprika"/>
+		<S i="76e" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x076E)"/>
+		<S i="76f" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x076F)"/>
+		<S i="772" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0772)"/>
+		<S i="773" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0773)"/>
+		<S i="774" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0774)"/>
+		<S i="776" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0776)"/>
+		<S i="778" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0778)"/>
+		<S i="77a" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x077A)"/>
+		<S i="77b" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x077B)"/>
+		<S i="77d" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x077D)"/>
+		<S i="77e" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x077E)"/>
+		<S i="781" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0781)"/>
+		<S i="783" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0783)"/>
+		<S i="78d" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x078D)"/>
+		<S i="792" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0792)"/>
+		<S i="798" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x0798)"/>
+		<S i="79a" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x079A)"/>
+		<S i="79c" t="c6d4" on="16e" s="160" frq="11637" n="UNK (0xC6D4_0x079C)"/>
 		<S i="73f" t="c5a8" on="16e" s="160" frq="11554" n="Viasat Explore"/>
 		<S i="45b" t="526c" on="16e" s="160" frq="10928" n="Viasat Explore CEE HD"/>
 		<S i="740" t="c5a8" on="16e" s="160" frq="11554" n="Viasat History"/>
@@ -729,9 +758,6 @@
 		<S i="45a" t="526c" on="16e" s="160" frq="10928" n="Viasat Nature CEE HD"/>
 		<S i="4d2" t="76c1" on="16e" s="160" frq="11094" n="WAU"/>
 		<S i="44e" t="526c" on="16e" s="160" frq="10928" n="Wness TV"/>
-	</Bouquet>
-	<Bouquet name="[E016.0] TAG BRoadcasting">
-		<S i="a8d" t="9dd0" on="16e" s="160" frq="11283" n="Filmbox Premium HD"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] TAG Brodcasting">
 		<S i="48c" t="76c0" on="16e" s="160" frq="11055" n="Prima MAX HD"/>
@@ -928,21 +954,8 @@
 		<S i="28e" t="c418" on="16e" s="160" frq="11470" n="ID Xtra HD"/>
 		<S i="27b" t="c418" on="16e" s="160" frq="11470" n="TLC"/>
 	</Bouquet>
-	<Bouquet name="[E016.0] tring tv">
-		<S i="7a" t="16a" on="16e" s="160" frq="11400" n="Click TV"/>
-		<S i="d9" t="16a" on="16e" s="160" frq="11400" n="CLUB TV"/>
-		<S i="22b" t="168" on="16e" s="160" frq="11427" n="Desire XXX"/>
-		<S i="4c9" t="16a" on="16e" s="160" frq="11400" n="ELRODI"/>
-		<S i="38b" t="16a" on="16e" s="160" frq="11400" n="Fox CRIME"/>
-		<S i="38a" t="16a" on="16e" s="160" frq="11400" n="Fox Life"/>
-		<S i="321" t="16a" on="16e" s="160" frq="11400" n="Kids"/>
-		<S i="761" t="16a" on="16e" s="160" frq="11400" n="Club FM"/>
-	</Bouquet>
 	<Bouquet name="[E016.0] Tring Tv">
 		<S i="7b" t="16a" on="16e" s="160" frq="11400" n="TVSH"/>
-	</Bouquet>
-	<Bouquet name="[E016.0] TRING TV">
-		<S i="97" t="16a" on="16e" s="160" frq="11400" n="Tring International"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] Tring TV">
 		<S i="38" t="168" on="16e" s="160" frq="11427" n="3 Plus"/>
@@ -993,6 +1006,19 @@
 		<S i="7b" t="16a" on="16e" s="160" frq="11400" n="TVSH"/>
 		<S i="1" t="168" on="16e" s="160" frq="11427" n="Vizion Plus HD"/>
 		<S i="1b58" t="168" on="16e" s="160" frq="11427" n="Radio Klan"/>
+	</Bouquet>
+	<Bouquet name="[E016.0] TRING TV">
+		<S i="97" t="16a" on="16e" s="160" frq="11400" n="Tring International"/>
+	</Bouquet>
+	<Bouquet name="[E016.0] tring tv">
+		<S i="7a" t="16a" on="16e" s="160" frq="11400" n="Click TV"/>
+		<S i="d9" t="16a" on="16e" s="160" frq="11400" n="CLUB TV"/>
+		<S i="22b" t="168" on="16e" s="160" frq="11427" n="Desire XXX"/>
+		<S i="4c9" t="16a" on="16e" s="160" frq="11400" n="ELRODI"/>
+		<S i="38b" t="16a" on="16e" s="160" frq="11400" n="Fox CRIME"/>
+		<S i="38a" t="16a" on="16e" s="160" frq="11400" n="Fox Life"/>
+		<S i="321" t="16a" on="16e" s="160" frq="11400" n="Kids"/>
+		<S i="761" t="16a" on="16e" s="160" frq="11400" n="Club FM"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] TringTV">
 		<S i="3f7" t="16a" on="16e" s="160" frq="11400" n="FOX"/>

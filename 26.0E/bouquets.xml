@@ -58,7 +58,7 @@
 	<Bouquet name="[E026.0] DU">
 		<S i="12" t="1ff" on="2be" s="260" frq="12111" n="ALAAN TV HD"/>
 		<S i="7d2" t="1ff" on="2be" s="260" frq="12111" n="DW Arabia"/>
-		<S i="7da" t="1ff" on="2be" s="260" frq="12111" n="DW Arabia Radio"/>
+		<S i="7da" t="1ff" on="2be" s="260" frq="12111" n="DW A2"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] Dubai">
 		<S i="11" t="1ff" on="2be" s="260" frq="12111" n="CITRUSS TV HD"/>
@@ -81,27 +81,24 @@
 		<S i="36" t="1fd" on="2be" s="260" frq="11996" n="RTI 1"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] France 24">
-		<S i="1f" t="1fd" on="2be" s="260" frq="11996" n="France 24 (En Français)"/>
+		<S i="1f" t="1fd" on="2be" s="260" frq="11996" n="France 24 (en Français)"/>
 		<S i="16" t="1fd" on="2be" s="260" frq="11996" n="France 24 (in Arabic)"/>
 		<S i="20" t="1fd" on="2be" s="260" frq="11996" n="France 24 (in English)"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] France Médias Monde">
-		<S i="1f" t="1fd" on="2be" s="260" frq="11996" n="France 24 (En Français)"/>
+		<S i="1f" t="1fd" on="2be" s="260" frq="11996" n="France 24 (en Français)"/>
 		<S i="16" t="1fd" on="2be" s="260" frq="11996" n="France 24 (in Arabic)"/>
 		<S i="20" t="1fd" on="2be" s="260" frq="11996" n="France 24 (in English)"/>
+	</Bouquet>
+	<Bouquet name="[E026.0] GlobeCast">
+		<S i="2a" t="1fd" on="2be" s="260" frq="11996" n="WRN (Sawt Al Alam) R1"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] GLOBECAST">
 		<S i="14" t="1fd" on="2be" s="260" frq="11996" n="RFI Francais"/>
 		<S i="33" t="1fd" on="2be" s="260" frq="11996" n="RMC Doualia"/>
 	</Bouquet>
-	<Bouquet name="[E026.0] GlobeCast">
-		<S i="2a" t="1fd" on="2be" s="260" frq="11996" n="WRN (Sawt Al Alam) R1"/>
-	</Bouquet>
 	<Bouquet name="[E026.0] Harmonic">
 		<S i="bb8" t="1a" on="1a" s="260" frq="11958" n="MUSAWA HD"/>
-	</Bouquet>
-	<Bouquet name="[E026.0] jmc">
-		<S i="718" t="1fa" on="2be" s="260" frq="12054" n="Jordan Radio Foreign"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] JMC">
 		<S i="19e" t="1015" on="2be" s="260" frq="12034" n="Al Gezira TV"/>
@@ -135,6 +132,9 @@
 		<S i="72f" t="1fa" on="2be" s="260" frq="12054" n="DJIBOUTI R3"/>
 		<S i="726" t="1fa" on="2be" s="260" frq="12054" n="Radio Orient"/>
 		<S i="732" t="1fa" on="2be" s="260" frq="12054" n="SSBC RADIO"/>
+	</Bouquet>
+	<Bouquet name="[E026.0] jmc">
+		<S i="718" t="1fa" on="2be" s="260" frq="12054" n="Jordan Radio Foreign"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] Kuwait Radio">
 		<S i="11" t="1a" on="1b" s="260" frq="12523" n="Kuwait Classical"/>
