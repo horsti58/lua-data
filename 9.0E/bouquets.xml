@@ -1,14 +1,13 @@
-	<Bouquet name="[E009.0] aCAN Group">
+	<Bouquet name="[E009.0] aCANGroup">
 		<S i="65" t="170c" on="9e" s="90" frq="11900" n="RTS2"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] ARC/DCM2 TSOIP">
+	<Bouquet name="[E009.0] ARC/DCM1 TSOIP">
 		<S i="166" t="19c8" on="9e" s="90" frq="12034" n="Disney Channel ME"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva">
 		<S i="451" t="1af4" on="9e" s="90" frq="12092" n="DISJ1_CEMA"/>
 		<S i="479" t="1af4" on="9e" s="90" frq="12092" n="E! Entertainment Europe"/>
 		<S i="456" t="1af4" on="9e" s="90" frq="12092" n="Luxe TV"/>
-		<S i="46a" t="1af4" on="9e" s="90" frq="12092" n="Vivolta"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] ARQIVA">
 		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
@@ -42,11 +41,8 @@
 		<S i="12f" t="1edc" on="9c" s="90" frq="12245" n="SAT.1 HD"/>
 		<S i="f5" t="14b4" on="9c" s="90" frq="11785" n="Servus TV"/>
 		<S i="ea" t="1644" on="9c" s="90" frq="11861" n="SPORT 1 HD"/>
-		<S i="ea60" t="14b4" on="9c" s="90" frq="11785" n="TC ATV 1"/>
-		<S i="ee48" t="1964" on="9c" s="90" frq="12015" n="TC ATV 2"/>
 		<S i="e8" t="1644" on="9c" s="90" frq="11861" n="TELE 5 HD"/>
 		<S i="eb" t="1644" on="9c" s="90" frq="11861" n="TLC HD"/>
-		<S i="ffff" t="1edc" on="9c" s="90" frq="12245" n="unknown (0x1EDC_0xFFFF)"/>
 		<S i="12e" t="1edc" on="9c" s="90" frq="12245" n="VOX HD"/>
 		<S i="cb" t="14b4" on="9c" s="90" frq="11785" n="WELT HD"/>
 	</Bouquet>
@@ -113,9 +109,6 @@
 	</Bouquet>
 	<Bouquet name="[E009.0] iKOMG">
 		<S i="dc4" t="16a8" on="9c" s="90" frq="11881" n="TRT Tamil Oli"/>
-	</Bouquet>
-	<Bouquet name="[E009.0] Inview Ltd">
-		<S i="c03" t="65" on="12" s="90" frq="11804" n="INV1-afnatl"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Jonye">
 		<S i="1a2" t="c40e" on="9e" s="90" frq="12074" n="History HD"/>
@@ -213,7 +206,6 @@
 		<S i="672" t="1fa4" on="9c" s="90" frq="12322" n="Animal Planet HD"/>
 		<S i="546" t="1fa4" on="9c" s="90" frq="12322" n="ATV Avrupa"/>
 		<S i="1f8" t="2134" on="9c" s="90" frq="11977" n="auto motor und sport channel"/>
-		<S i="4eeb" t="21fc" on="9c" s="90" frq="12437" n="AXN HD"/>
 		<S i="bb8" t="1bbc" on="9c" s="90" frq="12130" n="BonGusto"/>
 		<S i="b22" t="1bbc" on="9c" s="90" frq="12130" n="Channel One Russia"/>
 		<S i="44c" t="1fa4" on="9c" s="90" frq="12322" n="CNN TURK"/>
@@ -254,6 +246,7 @@
 		<S i="9f6" t="1bbc" on="9c" s="90" frq="12130" n="RTR Planeta"/>
 		<S i="41a" t="1fa4" on="9c" s="90" frq="12322" n="Show Turk"/>
 		<S i="fa0" t="1bbc" on="9c" s="90" frq="12130" n="Silverline"/>
+		<S i="4eeb" t="21fc" on="9c" s="90" frq="12437" n="SONY AXN HD"/>
 		<S i="faa" t="1bbc" on="9c" s="90" frq="12130" n="SONY CHANNEL HD"/>
 		<S i="268" t="206c" on="9c" s="90" frq="12360" n="Spiegel TV Wissen HD"/>
 		<S i="26f" t="206c" on="9c" s="90" frq="12360" n="SPORT1+ HD"/>
@@ -315,6 +308,7 @@
 		<S i="43d" t="1" on="aa" s="90" frq="11843" n="CNBC"/>
 		<S i="410" t="9" on="aa" s="90" frq="11938" n="CNN"/>
 		<S i="44f" t="6" on="aa" s="90" frq="12399" n="Corfu Channel"/>
+		<S i="41c" t="8" on="aa" s="90" frq="12169" n="Cosmote Cinema Marvel Studios"/>
 		<S i="3fe" t="5" on="aa" s="90" frq="12284" n="COSMOTE CinemaOnDemand 1 HD"/>
 		<S i="3ff" t="5" on="aa" s="90" frq="12284" n="COSMOTE CinemaOnDemand 2"/>
 		<S i="45d" t="5" on="aa" s="90" frq="12284" n="COSMOTE History"/>
@@ -325,9 +319,7 @@
 		<S i="447" t="5" on="aa" s="90" frq="12284" n="COSMOTESport1HD"/>
 		<S i="404" t="6" on="aa" s="90" frq="12399" n="COSMOTESport3HD"/>
 		<S i="40f" t="2" on="aa" s="90" frq="12054" n="COSMOTESport4HD"/>
-		<S i="455" t="7" on="aa" s="90" frq="12475" n="COSMOTESport5HD"/>
 		<S i="455" t="8" on="aa" s="90" frq="12169" n="COSMOTESport5HD"/>
-		<S i="3eb" t="7" on="aa" s="90" frq="12475" n="COSMOTESport6HD"/>
 		<S i="3eb" t="2" on="aa" s="90" frq="12054" n="COSMOTESport6HD"/>
 		<S i="443" t="2" on="aa" s="90" frq="12054" n="COSMOTESport7HD"/>
 		<S i="44d" t="6" on="aa" s="90" frq="12399" n="COSMOTESport8HD"/>
@@ -344,13 +336,10 @@
 		<S i="438" t="2" on="aa" s="90" frq="12054" n="Euronews Greek"/>
 		<S i="417" t="6" on="aa" s="90" frq="12399" n="Extra Channel"/>
 		<S i="426" t="2" on="aa" s="90" frq="12054" n="Fashion TV"/>
-		<S i="470" t="8" on="aa" s="90" frq="12169" n="Fine Living HD"/>
 		<S i="470" t="7" on="aa" s="90" frq="12475" n="Fine Living HD"/>
-		<S i="46a" t="8" on="aa" s="90" frq="12169" n="Food Network HD"/>
 		<S i="46a" t="7" on="aa" s="90" frq="12475" n="Food Network HD"/>
 		<S i="40e" t="8" on="aa" s="90" frq="12169" n="FOX HD"/>
 		<S i="461" t="9" on="aa" s="90" frq="11938" n="FOX Life HD"/>
-		<S i="461" t="4" on="aa" s="90" frq="12207" n="FOX Life HD"/>
 		<S i="469" t="8" on="aa" s="90" frq="12169" n="FOX Sports HD"/>
 		<S i="43a" t="6" on="aa" s="90" frq="12399" n="France 24 En"/>
 		<S i="43b" t="1" on="aa" s="90" frq="11843" n="France 24 Fr"/>
@@ -367,14 +356,12 @@
 		<S i="45a" t="1" on="aa" s="90" frq="11843" n="MTV Live HD"/>
 		<S i="41a" t="2" on="aa" s="90" frq="12054" n="National Geographic WILD HD"/>
 		<S i="471" t="7" on="aa" s="90" frq="12475" n="Nautical Channel HD"/>
-		<S i="471" t="8" on="aa" s="90" frq="12169" n="Nautical Channel HD"/>
 		<S i="458" t="9" on="aa" s="90" frq="11938" n="NG TEST"/>
 		<S i="445" t="6" on="aa" s="90" frq="12399" n="Nickelodeon HD"/>
 		<S i="415" t="2" on="aa" s="90" frq="12054" n="ONE Channel HD"/>
 		<S i="405" t="5" on="aa" s="90" frq="12284" n="OPEN BEYOND HD"/>
 		<S i="46f" t="7" on="aa" s="90" frq="12475" n="Outdoor Channel HD"/>
 		<S i="425" t="5" on="aa" s="90" frq="12284" n="Penthouse Gold"/>
-		<S i="41c" t="8" on="aa" s="90" frq="12169" n="POP UP TEST HD"/>
 		<S i="435" t="7" on="aa" s="90" frq="12475" n="PPV TST1"/>
 		<S i="3f3" t="5" on="aa" s="90" frq="12284" n="PPV TST2"/>
 		<S i="456" t="5" on="aa" s="90" frq="12284" n="Private TV"/>
@@ -426,7 +413,6 @@
 		<S i="10" t="1770" on="64" s="90" frq="11919" n="Holy God TV"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] RRSat">
-		<S i="1" t="1770" on="64" s="90" frq="11919" n="Fashion Television"/>
 		<S i="3a" t="1770" on="64" s="90" frq="11919" n="Italy Service 3"/>
 		<S i="3c" t="1770" on="64" s="90" frq="11919" n="Italy Service 5"/>
 		<S i="11" t="1770" on="64" s="90" frq="11919" n="NLM TV"/>
@@ -438,6 +424,12 @@
 	<Bouquet name="[E009.0] Scopus Network Technologies">
 		<S i="dbf" t="16a8" on="9c" s="90" frq="11881" n="RTS 1"/>
 		<S i="dc0" t="16a8" on="9c" s="90" frq="11881" n="RSI"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] TAG Broadcasting">
+		<S i="365" t="c35a" on="9e" s="90" frq="11727" n="ESport24 TV"/>
+		<S i="364" t="c35a" on="9e" s="90" frq="11727" n="La Chaîne du Père Noël"/>
+		<S i="366" t="c35a" on="9e" s="90" frq="11727" n="NLM TV MP4"/>
+		<S i="362" t="c35a" on="9e" s="90" frq="11727" n="TRT tamil"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] TRACE">
 		<S i="f" t="170c" on="9e" s="90" frq="11900" n="TRACE URBAN INTER HD"/>
@@ -497,7 +489,6 @@
 		<S i="452" t="1" on="aa" s="90" frq="11843" n="E! HD"/>
 		<S i="444" t="7" on="aa" s="90" frq="12475" n="EDGEsport HD"/>
 		<S i="45c" t="7" on="aa" s="90" frq="12475" n="MTV Europe"/>
-		<S i="453" t="4" on="aa" s="90" frq="12207" n="National Geographic"/>
 		<S i="453" t="9" on="aa" s="90" frq="11938" n="National Geographic HD"/>
 		<S i="419" t="6" on="aa" s="90" frq="12399" n="National Geographic+"/>
 		<S i="42c" t="5" on="aa" s="90" frq="12284" n="Opap"/>
