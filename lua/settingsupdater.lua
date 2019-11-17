@@ -102,8 +102,8 @@ if (exists(settingupdater_cfg) ~= true) then
 end
 
 function last_updated()
-	if exists(neutrino_conf_base .. "/satellites.xml") then
-		for line in io.lines(neutrino_conf_base .. "/satellites.xml") do
+	if exists(neutrino_conf_base .. "/services.xml") then
+		for line in io.lines(neutrino_conf_base .. "/services.xml") do
 			if line:match(",") and line:match(":") then
 				local _,mark_begin = string.find(line, ",")
 				local _,mark_end = string.find(line, ":")
