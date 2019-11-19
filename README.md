@@ -1,6 +1,8 @@
 # lua-data
 
-diverse Neutrino Sat Settings 28.2E, 26.0E, 23.5E, 19.2E, 13.0E, 16.0E, 9.0E, 7.0E, 4.8E, 0.8W 
+diverse Neutrino Sat-Settings 28.2E, 26.0E, 23.5E, 19.2E, 13.0E, 16.0E, 9.0E, 7.0E, 4.8E, 0.8W 
+
+diverse Neutrino Kabel-Settings UnityMedia und KabelDeutschland/Vodafone 
 
 gescant im Westen von NRW....
 
@@ -13,12 +15,14 @@ gescant im Westen von NRW....
 
  Settingsupdater Plugin findet man dann in der Box unter Menü, Service
 
-*  Taste rot: Satpositionen auswählen, die man nutzen möchte
+*  Taste rot: Sat/Kabelpositionen auswählen, die man nutzen möchte
 
 *  Taste grün: Settings werden online in die Box geladen
 
 
- Settings bestehen aus satellites.xml, bouquets.xml und service.xml
+ Sat-Settings bestehen aus satellites.xml, bouquets.xml und service.xml
+
+ Kabel-Settings bestehen aus cables.xml, bouquets.xml und service.xml
 
  keine ubouquets.xml enthalten, denn da gibt es zuviele Geschmäcker :) 
 
