@@ -53,14 +53,14 @@
 			<S i="071c" f="4" s="0" t="2" n="Top Gold Radio"/>
 			<S i="14b4" f="2" s="0" t="ba" n="V-Data"/>
 		</TS>
-		<TS id="5014" on="016e" frq="10804000" inv="2" sr="30000000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+		<TS id="5014" on="016e" frq="10804000" inv="2" sr="29950000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0264" f="2" s="0" t="9" n="DGA-Z100S"/>
 			<S i="0269" f="2" s="0" t="9" n="ODS-2+3000H"/>
 			<S i="026a" f="2" s="0" t="9" n="ODS-4000H"/>
 			<S i="026b" f="2" s="0" t="9" n="DGA-i100S"/>
 			<S i="0399" f="4" s="0" t="2" n="My Music Radio"/>
 			<S i="047e" f="2" s="0" t="1" n="Service IPKO A05"/>
-			<S i="07d0" f="2" s="0" t="19" n="Top Channel HD"/>
+			<S i="07d0" f="4" s="0" t="19" n="Euronews Albania"/>
 			<S i="07da" f="2" s="0" t="19" n="Klan TV HD"/>
 			<S i="07e4" f="4" s="0" t="19" n="SS-5 HD"/>
 			<S i="07ee" f="4" s="0" t="19" n="SS-6 HD"/>
@@ -83,7 +83,7 @@
 			<S i="096a" f="2" s="0" t="2" n="Radio Travel"/>
 			<S i="096b" f="4" s="0" t="2" n="NRG Radio"/>
 			<S i="0c80" f="2" s="0" t="19" n="SS_Service 1 HD"/>
-			<S i="0ce4" f="4" s="0" t="19" n="A2 CNN"/>
+			<S i="0ce4" f="4" s="1" t="19" n="A2 CNN"/>
 		</TS>
 		<TS id="50dc" on="016e" frq="10845000" inv="2" sr="30000000" fec="10" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="03e9" f="4" s="0" t="19" n="Film Nje HD"/>
@@ -501,7 +501,7 @@
 		</TS>
 		<TS id="016a" on="016e" frq="11400000" inv="2" sr="13846000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="000e" f="4" s="1" t="1" n="Klan Kosova"/>
-			<S i="000f" f="4" s="1" t="1" n="Syri Vision"/>
+			<S i="000f" f="4" s="1" t="1" n="Syri TV"/>
 			<S i="0022" f="2" s="1" t="1" n="Luxe"/>
 			<S i="0046" f="4" s="1" t="1" n="Tring History"/>
 			<S i="004c" f="2" s="1" t="1" n="Shenja TV"/>
@@ -693,7 +693,7 @@
 			<S i="0019" f="2" s="0" t="a" n="Radio Romania International 1"/>
 			<S i="001a" f="2" s="0" t="a" n="Radio Romania International 2"/>
 			<S i="001b" f="2" s="0" t="a" n="Radio Romania International 3"/>
-			<S i="00c8" f="4" s="0" t="1" n="SRTV Feed"/>
+			<S i="00c8" f="4" s="1" t="1" n="SRTV Feed"/>
 		</TS>
 		<TS id="c544" on="016e" frq="11554000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="06d7" f="4" s="1" t="1" n="RTS 1 HD"/>
@@ -891,6 +891,13 @@
 			<S i="0d55" f="4" s="0" t="2" n="HRT-HR3"/>
 			<S i="0d56" f="4" s="0" t="2" n="VOICE OF CRO"/>
 			<S i="0d58" f="4" s="0" t="2" n="HKR"/>
+			<S i="0d67" f="1" s="0" t="19" n="SLO1 HD"/>
+			<S i="0d68" f="1" s="0" t="19" n="SLO2 HD"/>
+			<S i="0d69" f="1" s="0" t="19" n="SLO3 HD"/>
+			<S i="0d6a" f="1" s="0" t="2" n="SLO RA1"/>
+			<S i="0d6b" f="1" s="0" t="2" n="SLO RA2"/>
+			<S i="0d6c" f="1" s="0" t="2" n="SLO RA3"/>
+			<S i="0d6d" f="1" s="0" t="2" n="RADIO SI"/>
 		</TS>
 		<TS id="0003" on="0040" frq="11678000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0022" f="4" s="1" t="16" n="Vivid TV."/>
@@ -934,9 +941,6 @@
 			<S i="000a" f="4" s="0" t="1" n="RTV21M"/>
 			<S i="000b" f="4" s="0" t="2" n="Radio 21 Kosovo"/>
 			<S i="000c" f="4" s="0" t="2" n="Radio Dukagjini"/>
-		</TS>
-		<TS id="0001" on="0001" frq="12564000" inv="2" sr="3617000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="0001" f="4" s="0" t="1" n="Kanal D"/>
 		</TS>
 		<TS id="0001" on="ffff" frq="12570000" inv="2" sr="3703000" fec="7" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0001" f="4" s="1" t="1" n="SIC INTERNACIONAL"/>

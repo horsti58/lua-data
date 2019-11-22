@@ -241,7 +241,7 @@
 			<S i="14b6" f="4" s="1" t="11" n="beIN MOVIES ACTION 2 HD"/>
 			<S i="14b7" f="4" s="1" t="11" n="beIN SPORTS MAX HD 1"/>
 			<S i="14b8" f="4" s="1" t="11" n="GS TV HD"/>
-			<S i="14b9" f="4" s="0" t="11" n="TELE 1 HD"/>
+			<S i="14b9" f="4" s="1" t="11" n="TELE 1 HD"/>
 			<S i="14ba" f="4" s="1" t="11" n="BBC HD"/>
 			<S i="14bb" f="4" s="0" t="82" n="ŞÖMİNE KEYFİ"/>
 			<S i="14bc" f="4" s="1" t="82" n="HOTTEST HITS"/>
@@ -301,23 +301,23 @@
 			<S i="14f4" f="4" s="1" t="1" n="DISNEY CHANNEL"/>
 		</TS>
 		<TS id="c4e0" on="007e" frq="11534000" inv="2" sr="30000000" fec="5" pol="1" mod="0" pli="0" plc="1" plm="0" sys="1">
-			<S i="06ce" f="4" s="1" t="1" n="BABY TV"/>
-			<S i="06cf" f="4" s="1" t="1" n="DISNEY JUNIOR"/>
-			<S i="06d1" f="4" s="1" t="1" n="TRT1"/>
+			<S i="06ce" f="2" s="1" t="1" n="BABY TV"/>
+			<S i="06cf" f="2" s="1" t="1" n="DISNEY JUNIOR"/>
+			<S i="06d1" f="4" s="0" t="1" n="TRT1"/>
 			<S i="06d2" f="4" s="1" t="1" n="STAR"/>
-			<S i="06d3" f="4" s="0" t="11" n="TELE 1 HD"/>
-			<S i="06da" f="4" s="1" t="1" n="İDMAN AZERBAYCAN"/>
+			<S i="06d3" f="2" s="0" t="11" n="TELE 1 HD"/>
+			<S i="06da" f="2" s="1" t="1" n="İDMAN AZERBAYCAN"/>
 			<S i="06de" f="4" s="1" t="1" n="NICK JR."/>
-			<S i="06df" f="4" s="1" t="11" n="DA VINCI HD"/>
-			<S i="06e3" f="4" s="1" t="11" n="beIN SPORTS MAX HD 1"/>
+			<S i="06df" f="2" s="1" t="11" n="DA VINCI HD"/>
+			<S i="06e3" f="2" s="1" t="11" n="beIN SPORTS MAX HD 1"/>
 			<S i="06e4" f="4" s="1" t="1" n="test_i1"/>
 			<S i="06e5" f="4" s="1" t="1" n="test_i2"/>
-			<S i="06e6" f="4" s="1" t="1" n="CARTOON NETWORK"/>
+			<S i="06e6" f="2" s="1" t="1" n="CARTOON NETWORK"/>
 			<S i="06e7" f="4" s="0" t="11" n="HBB_662"/>
 			<S i="06e8" f="4" s="1" t="11" n="HBB_663"/>
-			<S i="06e9" f="4" s="1" t="11" n="BBC WORLD NEWS HD"/>
+			<S i="06e9" f="2" s="1" t="11" n="BBC WORLD NEWS HD"/>
 			<S i="06ea" f="4" s="1" t="1" n="EKOTÜRK"/>
-			<S i="06eb" f="4" s="1" t="11" n="beIN SPORTS MAX HD 1"/>
+			<S i="06eb" f="2" s="1" t="11" n="beIN SPORTS MAX HD 1"/>
 		</TS>
 		<TS id="c544" on="007e" frq="11554000" inv="2" sr="29750000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="1dc8" f="2" s="0" t="81" n="DVBSSU3"/>
@@ -337,7 +337,7 @@
 			<S i="1de2" f="4" s="1" t="1" n="ATV"/>
 			<S i="1de3" f="4" s="1" t="1" n="A HABER"/>
 			<S i="1de4" f="4" s="1" t="1" n="TV8"/>
-			<S i="1de5" f="4" s="0" t="1" n="360"/>
+			<S i="1de5" f="4" s="1" t="1" n="360"/>
 			<S i="1de6" f="4" s="1" t="1" n="KANAL 7"/>
 			<S i="1de7" f="4" s="1" t="1" n="A2"/>
 			<S i="1de8" f="4" s="1" t="1" n="BEYAZ TV"/>
@@ -357,9 +357,9 @@
 			<S i="090d" f="4" s="1" t="1" n="FB TV"/>
 			<S i="090e" f="4" s="1" t="1" n="TEVE2"/>
 			<S i="090f" f="4" s="1" t="1" n="DISNEY XD"/>
-			<S i="091a" f="4" s="0" t="1" n="HALK TV"/>
-			<S i="092e" f="4" s="1" t="1" n="BLOOMBERG"/>
-			<S i="092f" f="4" s="0" t="1" n="TELE 1"/>
+			<S i="091a" f="2" s="0" t="1" n="HALK TV"/>
+			<S i="092e" f="2" s="1" t="1" n="BLOOMBERG"/>
+			<S i="092f" f="4" s="1" t="1" n="TELE 1"/>
 			<S i="0957" f="2" s="1" t="81" n="IRDETO-T2"/>
 		</TS>
 		<TS id="c60c" on="007e" frq="11596000" inv="2" sr="30000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
@@ -397,7 +397,7 @@
 			<S i="0258" f="4" s="1" t="11" n="HABERTÜRK HD"/>
 			<S i="026a" f="4" s="1" t="11" n="beIN SPORTS HD 4"/>
 			<S i="026b" f="4" s="1" t="11" n="SHOW TV HD"/>
-			<S i="026c" f="4" s="1" t="11" n="TRT1 HD"/>
+			<S i="026c" f="4" s="0" t="11" n="TRT1 HD"/>
 			<S i="026d" f="4" s="1" t="11" n="A SPOR HD"/>
 			<S i="026e" f="4" s="1" t="11" n="beIN SPORTS HD 2"/>
 			<S i="0271" f="4" s="1" t="11" n="HABER GLOBAL HD"/>
@@ -407,7 +407,7 @@
 			<S i="027e" f="4" s="1" t="11" n="TİCARİ beIN SPORTS HD 4"/>
 			<S i="027f" f="4" s="1" t="11" n="beIN SPORTS HD 4"/>
 			<S i="0282" f="4" s="1" t="11" n="TARAFTAR 2 HD"/>
-			<S i="02b2" f="4" s="1" t="11" n="TRT1 HD"/>
+			<S i="02b2" f="4" s="0" t="11" n="TRT1 HD"/>
 		</TS>
 		<TS id="c670" on="007e" frq="11679000" inv="2" sr="30000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="10fe" f="4" s="1" t="11" n="BBC CBeebies HD"/>

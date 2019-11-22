@@ -101,14 +101,15 @@
 		<S i="412" t="51a4" on="16e" s="160" frq="10887" n="Discovery Channel"/>
 		<S i="3ea" t="51a4" on="16e" s="160" frq="10887" n="Discovery HD"/>
 		<S i="1270" t="51a4" on="16e" s="160" frq="10887" n="Discovery Science HD"/>
-		<S i="e24" t="51a4" on="16e" s="160" frq="10887" n="Discovery Science HD"/>
 		<S i="3ed" t="51a4" on="16e" s="160" frq="10887" n="Discovery Science HD"/>
+		<S i="e24" t="51a4" on="16e" s="160" frq="10887" n="Discovery Science HD"/>
 		<S i="e38" t="51a4" on="16e" s="160" frq="10887" n="Discovery Showcase HD"/>
 		<S i="1284" t="51a4" on="16e" s="160" frq="10887" n="Discovery Showcase HD"/>
 		<S i="3ff" t="51a4" on="16e" s="160" frq="10887" n="Discovery Turbo Xtra"/>
 		<S i="3ef" t="51a4" on="16e" s="160" frq="10887" n="Dorcel HD"/>
 		<S i="1298" t="51a4" on="16e" s="160" frq="10887" n="DTX"/>
 		<S i="870" t="5014" on="16e" s="160" frq="10804" n="EuroFilm"/>
+		<S i="7d0" t="5014" on="16e" s="160" frq="10804" n="Euronews Albania"/>
 		<S i="85c" t="5014" on="16e" s="160" frq="10804" n="EXP histori"/>
 		<S i="852" t="5014" on="16e" s="160" frq="10804" n="EXP natyra"/>
 		<S i="424" t="4f4c" on="16e" s="160" frq="10762" n="EXP shkence"/>
@@ -176,7 +177,6 @@
 		<S i="1" t="a78" on="1" s="160" frq="12593" n="DM-SAT"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] DoganMedia">
-		<S i="1" t="1" on="1" s="160" frq="12564" n="Kanal D"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] GMDS">
 		<S i="7" t="1" on="1" s="160" frq="12541" n="Arta TV"/>
@@ -350,6 +350,15 @@
 		<S i="be" t="1" on="16e" s="160" frq="12640" n="Radio Tirana Internacional"/>
 		<S i="c8" t="1" on="16e" s="160" frq="12640" n="Radio Tirana Klasik"/>
 	</Bouquet>
+	<Bouquet name="[E016.0] RTV SLOVENIJA">
+		<S i="d67" t="c738" on="16e" s="160" frq="11637" n="SLO1 HD"/>
+		<S i="d68" t="c738" on="16e" s="160" frq="11637" n="SLO2 HD"/>
+		<S i="d69" t="c738" on="16e" s="160" frq="11637" n="SLO3 HD"/>
+		<S i="d6d" t="c738" on="16e" s="160" frq="11637" n="RADIO SI"/>
+		<S i="d6a" t="c738" on="16e" s="160" frq="11637" n="SLO RA1"/>
+		<S i="d6b" t="c738" on="16e" s="160" frq="11637" n="SLO RA2"/>
+		<S i="d6c" t="c738" on="16e" s="160" frq="11637" n="SLO RA3"/>
+	</Bouquet>
 	<Bouquet name="[E016.0] SBB">
 		<S i="677" t="9fc4" on="16e" s="160" frq="11387" n="BRIO"/>
 		<S i="683" t="9fc4" on="16e" s="160" frq="11387" n="Kanal A HD"/>
@@ -391,16 +400,16 @@
 	<Bouquet name="[E016.0] STN L">
 		<S i="bba" t="5e24" on="16e" s="160" frq="11345" n="Ognjisce Radio Slovenija"/>
 	</Bouquet>
-	<Bouquet name="[E016.0] STN ltd">
-		<S i="3ef" t="5e24" on="16e" s="160" frq="11345" n="KCN"/>
-		<S i="bbc" t="5e24" on="16e" s="160" frq="11345" n="OTV Radio Valentino"/>
-	</Bouquet>
 	<Bouquet name="[E016.0] STN Ltd">
 		<S i="3eb" t="5e24" on="16e" s="160" frq="11345" n="Duga TV"/>
 		<S i="3f9" t="5e24" on="16e" s="160" frq="11345" n="Kopernikus"/>
 		<S i="3e9" t="5e24" on="16e" s="160" frq="11345" n="OTV Valentino"/>
 		<S i="3ec" t="5e24" on="16e" s="160" frq="11345" n="Svet Plus"/>
 		<S i="bb9" t="5e24" on="16e" s="160" frq="11345" n="Radio 1"/>
+	</Bouquet>
+	<Bouquet name="[E016.0] STN ltd">
+		<S i="3ef" t="5e24" on="16e" s="160" frq="11345" n="KCN"/>
+		<S i="bbc" t="5e24" on="16e" s="160" frq="11345" n="OTV Radio Valentino"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] T-HT">
 		<S i="66" t="3" on="40" s="160" frq="11678" n="24 Kitchen."/>
@@ -477,12 +486,6 @@
 		<S i="c9" t="2" on="40" s="160" frq="11595" n="Otvoreni."/>
 		<S i="da" t="2" on="40" s="160" frq="11595" n="R. Mediaservis"/>
 		<S i="d3" t="2" on="40" s="160" frq="11595" n="R.Marija."/>
-	</Bouquet>
-	<Bouquet name="[E016.0] TAG BRoadcasting">
-		<S i="a8d" t="9dd0" on="16e" s="160" frq="11283" n="Filmbox Premium HD"/>
-	</Bouquet>
-	<Bouquet name="[E016.0] Tag Broadcasting">
-		<S i="483" t="76c0" on="16e" s="160" frq="11055" n="Prima Krimi"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] TAG Broadcasting">
 		<S i="aa0" t="9dd0" on="16e" s="160" frq="11283" n="360TuneBox"/>
@@ -613,6 +616,12 @@
 		<S i="45a" t="526c" on="16e" s="160" frq="10928" n="Viasat Nature CEE HD"/>
 		<S i="4d2" t="76c1" on="16e" s="160" frq="11094" n="WAU"/>
 		<S i="44e" t="526c" on="16e" s="160" frq="10928" n="Wness TV"/>
+	</Bouquet>
+	<Bouquet name="[E016.0] Tag Broadcasting">
+		<S i="483" t="76c0" on="16e" s="160" frq="11055" n="Prima Krimi"/>
+	</Bouquet>
+	<Bouquet name="[E016.0] TAG BRoadcasting">
+		<S i="a8d" t="9dd0" on="16e" s="160" frq="11283" n="Filmbox Premium HD"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] TAG Brodcasting">
 		<S i="48c" t="76c0" on="16e" s="160" frq="11055" n="Prima MAX HD"/>
@@ -829,7 +838,7 @@
 		<S i="1c" t="168" on="16e" s="160" frq="11427" n="SPORT 2 HD"/>
 		<S i="1d" t="168" on="16e" s="160" frq="11427" n="SPORT 3 HD"/>
 		<S i="1a" t="168" on="16e" s="160" frq="11427" n="SPORT 4 HD"/>
-		<S i="f" t="16a" on="16e" s="160" frq="11400" n="Syri Vision"/>
+		<S i="f" t="16a" on="16e" s="160" frq="11400" n="Syri TV"/>
 		<S i="8" t="168" on="16e" s="160" frq="11427" n="TIP TV"/>
 		<S i="15" t="168" on="16e" s="160" frq="11427" n="Tring Action HD"/>
 		<S i="5" t="168" on="16e" s="160" frq="11427" n="Tring Comedy"/>

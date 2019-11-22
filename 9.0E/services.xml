@@ -265,6 +265,9 @@
 			<S i="026e" f="4" s="0" t="1" n="CGTN-A"/>
 			<S i="026f" f="4" s="0" t="1" n="CGTN Documentary"/>
 			<S i="0272" f="4" s="0" t="1" n="PTV Global"/>
+			<S i="0273" f="4" s="0" t="1" n="CBS Reality EMEA"/>
+			<S i="0274" f="4" s="0" t="1" n="JimJam PE"/>
+			<S i="0275" f="4" s="0" t="1" n="JimJam ME"/>
 			<S i="0277" f="4" s="0" t="2" n="Babcock FM Feed 1"/>
 		</TS>
 		<TS id="1964" on="009c" frq="12015000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -289,6 +292,7 @@
 			<S i="0166" f="4" s="1" t="1" n="Disney Channel ME"/>
 			<S i="0168" f="4" s="0" t="1" n="Karusel Int"/>
 			<S i="0169" f="4" s="1" t="1" n="MST"/>
+			<S i="016a" f="4" s="0" t="1" n="Outdoor HD"/>
 		</TS>
 		<TS id="0002" on="00aa" frq="12054000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="03e9" f="4" s="1" t="1" n="ΕΡΤ1"/>
