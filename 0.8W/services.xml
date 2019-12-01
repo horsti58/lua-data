@@ -297,6 +297,8 @@
 			<S i="0081" f="4" s="0" t="1" n="Gospel Channel Europe"/>
 			<S i="0711" f="4" s="0" t="19" n="Visjon Norge HD"/>
 			<S i="17d5" f="4" s="0" t="16" n="Kanal 10 Norge"/>
+			<S i="1bb0" f="1" s="1" t="19" n="Test 7088"/>
+			<S i="1c47" f="2" s="0" t="1" n="Trace Urban HD"/>
 			<S i="1c70" f="4" s="0" t="16" n="Vision Sverige"/>
 		</TS>
 		<TS id="0023" on="0046" frq="11372000" inv="2" sr="25000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -531,7 +533,7 @@
 		</TS>
 		<TS id="000c" on="0001" frq="11900000" inv="2" sr="28000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="029e" f="2" s="0" t="6" n="SWDL 3169"/>
-			<S i="0401" f="4" s="1" t="1" n="Music Channel"/>
+			<S i="0401" f="4" s="0" t="1" n="Music Channel"/>
 			<S i="040c" f="4" s="1" t="1" n="DIGI Sport 3"/>
 			<S i="09ce" f="4" s="0" t="2" n="Digi FM"/>
 			<S i="09e2" f="4" s="0" t="2" n="Pro FM"/>
@@ -1039,7 +1041,7 @@
 		</TS>
 		<TS id="0001" on="0001" frq="12607000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0001" f="1" s="1" t="1" n="Channel-01"/>
-			<S i="0002" f="1" s="0" t="1" n="Channel-02"/>
+			<S i="0002" f="1" s="1" t="1" n="Channel-02"/>
 			<S i="0003" f="1" s="0" t="1" n="Channel-03"/>
 			<S i="0004" f="1" s="0" t="1" n="Channel-04"/>
 			<S i="0005" f="1" s="0" t="1" n="Channel-05"/>

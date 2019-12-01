@@ -485,6 +485,7 @@
 		<S i="1f1e" t="4f" on="46" s="-8" frq="12437" n="Telia Liiga 6"/>
 		<S i="1f1f" t="4f" on="46" s="-8" frq="12437" n="Telia Liiga 7"/>
 		<S i="1f20" t="4f" on="46" s="-8" frq="12437" n="Telia Liiga Studio"/>
+		<S i="1bb0" t="20" on="46" s="-8" frq="11357" n="Test 7088"/>
 		<S i="232e" t="54" on="46" s="-8" frq="12360" n="Test 9006"/>
 		<S i="32ca" t="29" on="46" s="-8" frq="12015" n="Test_13002"/>
 		<S i="32cb" t="29" on="46" s="-8" frq="12015" n="Test_13003"/>
@@ -670,10 +671,10 @@
 		<S i="27" t="1" on="1" s="-8" frq="12643" n="Channel-39"/>
 		<S i="28" t="1" on="ff02" s="-8" frq="12643" n="Channel-40"/>
 		<S i="28" t="1" on="1" s="-8" frq="12643" n="Channel-40"/>
-		<S i="29" t="a" on="fe01" s="-8" frq="12607" n="Radio-01"/>
 		<S i="29" t="1" on="1" s="-8" frq="12607" n="Radio-01"/>
-		<S i="2a" t="1" on="1" s="-8" frq="12607" n="Radio-02"/>
+		<S i="29" t="a" on="fe01" s="-8" frq="12607" n="Radio-01"/>
 		<S i="2a" t="a" on="fe01" s="-8" frq="12607" n="Radio-02"/>
+		<S i="2a" t="1" on="1" s="-8" frq="12607" n="Radio-02"/>
 		<S i="2b" t="a" on="fe01" s="-8" frq="12607" n="Radio-03"/>
 		<S i="2b" t="1" on="1" s="-8" frq="12607" n="Radio-03"/>
 		<S i="2c" t="a" on="fe01" s="-8" frq="12607" n="Radio-04"/>
@@ -692,8 +693,8 @@
 		<S i="32" t="1" on="1" s="-8" frq="12607" n="Radio-10"/>
 		<S i="33" t="a" on="fe01" s="-8" frq="12607" n="Radio-11"/>
 		<S i="33" t="1" on="1" s="-8" frq="12607" n="Radio-11"/>
-		<S i="34" t="a" on="fe01" s="-8" frq="12607" n="Radio-12"/>
 		<S i="34" t="1" on="1" s="-8" frq="12607" n="Radio-12"/>
+		<S i="34" t="a" on="fe01" s="-8" frq="12607" n="Radio-12"/>
 		<S i="35" t="1" on="ff02" s="-8" frq="12643" n="Radio-13"/>
 		<S i="35" t="1" on="1" s="-8" frq="12643" n="Radio-13"/>
 		<S i="36" t="1" on="1" s="-8" frq="12643" n="Radio-14"/>

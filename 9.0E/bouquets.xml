@@ -51,6 +51,9 @@
 		<S i="1a0" t="1964" on="9c" s="90" frq="12015" n="sixx HD"/>
 		<S i="196" t="1964" on="9c" s="90" frq="12015" n="SUPER RTL HD"/>
 	</Bouquet>
+	<Bouquet name="[E009.0] Encoder">
+		<S i="dc3" t="16a8" on="9c" s="90" frq="11881" n="OPAP HR"/>
+	</Bouquet>
 	<Bouquet name="[E009.0] encoder">
 		<S i="6f" t="170c" on="9e" s="90" frq="11900" n="Better-1"/>
 		<S i="70" t="170c" on="9e" s="90" frq="11900" n="Better-2"/>
@@ -65,9 +68,6 @@
 		<S i="dc2" t="16a8" on="9c" s="90" frq="11881" n="OPAP MG"/>
 		<S i="dc1" t="16a8" on="9c" s="90" frq="11881" n="OPAP VG1"/>
 		<S i="dbb" t="16a8" on="9c" s="90" frq="11881" n="ORTB TV"/>
-	</Bouquet>
-	<Bouquet name="[E009.0] Encoder">
-		<S i="dc3" t="16a8" on="9c" s="90" frq="11881" n="OPAP HR"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Eutelsat">
 		<S i="672" t="170c" on="9e" s="90" frq="11900" n="myZen.tv HD"/>
@@ -312,7 +312,7 @@
 		<S i="43d" t="1" on="aa" s="90" frq="11843" n="CNBC"/>
 		<S i="410" t="9" on="aa" s="90" frq="11938" n="CNN"/>
 		<S i="44f" t="6" on="aa" s="90" frq="12399" n="Corfu Channel"/>
-		<S i="41c" t="8" on="aa" s="90" frq="12169" n="Cosmote Cinema Marvel Studios"/>
+		<S i="41c" t="8" on="aa" s="90" frq="12169" n="Cosmote Cinema Christmas"/>
 		<S i="3fe" t="5" on="aa" s="90" frq="12284" n="COSMOTE CinemaOnDemand 1 HD"/>
 		<S i="3ff" t="5" on="aa" s="90" frq="12284" n="COSMOTE CinemaOnDemand 2"/>
 		<S i="45d" t="5" on="aa" s="90" frq="12284" n="COSMOTE History"/>
@@ -432,6 +432,7 @@
 	<Bouquet name="[E009.0] TAG Broadcasting">
 		<S i="365" t="c35a" on="9e" s="90" frq="11727" n="ESport24 TV"/>
 		<S i="364" t="c35a" on="9e" s="90" frq="11727" n="La Chaîne du Père Noël"/>
+		<S i="363" t="c35a" on="9e" s="90" frq="11727" n="MUSEUM"/>
 		<S i="366" t="c35a" on="9e" s="90" frq="11727" n="NLM TV MP4"/>
 		<S i="362" t="c35a" on="9e" s="90" frq="11727" n="TRT tamil"/>
 	</Bouquet>

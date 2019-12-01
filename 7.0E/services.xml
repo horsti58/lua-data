@@ -90,7 +90,7 @@
 			<S i="1f4d" f="4" s="1" t="1" n="DISNEY XD"/>
 			<S i="1f4e" f="4" s="1" t="1" n="DISNEY XD"/>
 			<S i="1f4f" f="4" s="1" t="11" n="BBC WORLD NEWS HD"/>
-			<S i="1f50" f="4" s="0" t="1" n="HALK TV"/>
+			<S i="1f50" f="4" s="1" t="1" n="HALK TV"/>
 			<S i="1f51" f="4" s="1" t="1" n="BLOOMBERG"/>
 		</TS>
 		<TS id="51a4" on="007e" frq="10887000" inv="2" sr="30000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
@@ -220,7 +220,7 @@
 			<S i="1d6d" f="4" s="1" t="11" n="YABAN TV HD"/>
 			<S i="1d6e" f="4" s="1" t="11" n="CNN TÜRK HD"/>
 			<S i="1d6f" f="4" s="1" t="11" n="NTV HD"/>
-			<S i="1d70" f="4" s="0" t="11" n="360 HD"/>
+			<S i="1d70" f="4" s="1" t="11" n="360 HD"/>
 		</TS>
 		<TS id="c418" on="007e" frq="11492000" inv="2" sr="30000000" fec="5" pol="1" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="0607" f="4" s="1" t="1" n="EURO STAR"/>
@@ -233,7 +233,7 @@
 			<S i="0612" f="2" s="1" t="11" n="CNN TÜRK HD"/>
 			<S i="0613" f="2" s="1" t="11" n="NTV HD"/>
 			<S i="0614" f="2" s="0" t="11" n="360 HD"/>
-			<S i="0615" f="2" s="1" t="84" n="PROMO"/>
+			<S i="0615" f="4" s="1" t="84" n="PROMO"/>
 			<S i="0616" f="4" s="1" t="1f" n="DIGITURK 4K"/>
 		</TS>
 		<TS id="c6d4" on="007e" frq="11513000" inv="2" sr="29900000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
@@ -320,17 +320,19 @@
 			<S i="06eb" f="2" s="1" t="11" n="beIN SPORTS MAX HD 1"/>
 		</TS>
 		<TS id="c544" on="007e" frq="11554000" inv="2" sr="29750000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="1dc8" f="2" s="0" t="81" n="DVBSSU3"/>
-			<S i="1dc9" f="2" s="0" t="81" n="DVBSSU4"/>
-			<S i="1dca" f="2" s="0" t="81" n="Irdeto Test4"/>
-			<S i="1dcb" f="2" s="0" t="81" n="Irdeto Test3"/>
-			<S i="1dcc" f="2" s="0" t="81" n="HM9504-R"/>
-			<S i="1dcd" f="2" s="0" t="81" n="SMIT SSU"/>
-			<S i="1dce" f="2" s="0" t="81" n="SMIT"/>
-			<S i="1dcf" f="2" s="0" t="81" n="DT-5103"/>
-			<S i="1dd0" f="2" s="0" t="81" n="DT9505R"/>
-			<S i="1dd1" f="2" s="0" t="81" n="SSUTEST"/>
-			<S i="1dd4" f="2" s="0" t="81" n="DT9103-R"/>
+			<S i="1dc8" f="4" s="0" t="81" n="DVBSSU3"/>
+			<S i="1dc9" f="4" s="0" t="81" n="DVBSSU4"/>
+			<S i="1dca" f="4" s="0" t="81" n="Irdeto Test4"/>
+			<S i="1dcb" f="4" s="0" t="81" n="Irdeto Test3"/>
+			<S i="1dcc" f="4" s="0" t="81" n="HM9504-R"/>
+			<S i="1dcd" f="4" s="0" t="81" n="SMIT SSU"/>
+			<S i="1dce" f="4" s="0" t="81" n="SMIT"/>
+			<S i="1dcf" f="4" s="0" t="81" n="DT-5103"/>
+			<S i="1dd0" f="4" s="0" t="81" n="DT9505R"/>
+			<S i="1dd1" f="4" s="0" t="81" n="SSUTEST"/>
+			<S i="1dd4" f="4" s="0" t="81" n="DT9103-R"/>
+			<S i="1dd5" f="1" s="0" t="81" n="UEC PVR REPLACEMENT"/>
+			<S i="1dd6" f="1" s="0" t="81" n="DT61420UHD REPLACEMENT"/>
 			<S i="1ddf" f="2" s="1" t="11" n="GS TV HD"/>
 			<S i="1de0" f="4" s="1" t="1" n="CNN TÜRK"/>
 			<S i="1de1" f="4" s="1" t="1" n="NTV"/>
@@ -360,7 +362,7 @@
 			<S i="091a" f="2" s="0" t="1" n="HALK TV"/>
 			<S i="092e" f="2" s="1" t="1" n="BLOOMBERG"/>
 			<S i="092f" f="4" s="1" t="1" n="TELE 1"/>
-			<S i="0957" f="2" s="1" t="81" n="IRDETO-T2"/>
+			<S i="0957" f="4" s="1" t="81" n="IRDETO-T2"/>
 		</TS>
 		<TS id="c60c" on="007e" frq="11596000" inv="2" sr="30000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="1929" f="4" s="1" t="1" n="RAI 1"/>
@@ -376,8 +378,8 @@
 			<S i="193e" f="4" s="1" t="1" n="NICKELODEON"/>
 			<S i="1940" f="4" s="1" t="1" n="A PARA"/>
 			<S i="1941" f="4" s="1" t="1" n="HABER GLOBAL"/>
-			<S i="1942" f="2" s="0" t="81" n="IRDETO_T5"/>
-			<S i="1943" f="2" s="0" t="81" n="SSUTEST2"/>
+			<S i="1942" f="4" s="0" t="81" n="IRDETO_T5"/>
+			<S i="1943" f="4" s="0" t="81" n="SSUTEST2"/>
 			<S i="1944" f="4" s="1" t="1" n="KRT TV"/>
 			<S i="1945" f="4" s="1" t="11" n="TV 100 HD"/>
 		</TS>

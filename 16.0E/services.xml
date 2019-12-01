@@ -186,7 +186,7 @@
 			<S i="05b3" f="4" s="1" t="1" n="TV Vijesti"/>
 		</TS>
 		<TS id="76c0" on="016e" frq="11055000" inv="2" sr="27500000" fec="4" pol="1" mod="0" pli="0" plc="1" plm="0" sys="1">
-			<S i="0269" f="3" s="0" t="9" n="ODS-2+3000H"/>
+			<S i="0269" f="2" s="0" t="9" n="ODS-2+3000H"/>
 			<S i="0480" f="4" s="1" t="19" n="TV Barrandov HD"/>
 			<S i="0481" f="4" s="1" t="19" n="CT 1 HD"/>
 			<S i="0482" f="4" s="0" t="19" n="CT 24 HD"/>
@@ -198,7 +198,7 @@
 			<S i="048a" f="4" s="1" t="16" n="Prima Love"/>
 			<S i="048c" f="4" s="1" t="19" n="Prima MAX HD"/>
 			<S i="0493" f="4" s="1" t="19" n="Prima Zoom HD"/>
-			<S i="04af" f="3" s="0" t="c" n="Antik OTA Upgrade"/>
+			<S i="04af" f="2" s="0" t="c" n="Antik OTA Upgrade"/>
 		</TS>
 		<TS id="76c1" on="016e" frq="11094000" inv="2" sr="27500000" fec="4" pol="1" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="04b1" f="4" s="1" t="1f" n="Eurosport 2 HD"/>
@@ -454,10 +454,12 @@
 			<S i="03ec" f="4" s="0" t="1" n="Svet Plus"/>
 			<S i="03ef" f="4" s="0" t="1" n="KCN"/>
 			<S i="03f9" f="4" s="0" t="1" n="Kopernikus"/>
+			<S i="0401" f="1" s="0" t="1" n="TVCG Sat"/>
 			<S i="0bb9" f="4" s="0" t="2" n="Radio 1"/>
 			<S i="0bba" f="4" s="0" t="2" n="Ognjisce Radio Slovenija"/>
 			<S i="0bbb" f="2" s="0" t="2" n="Radio Mira Bosanka"/>
 			<S i="0bbc" f="4" s="0" t="2" n="OTV Radio Valentino"/>
+			<S i="0bbd" f="1" s="0" t="2" n="Radio CG"/>
 		</TS>
 		<TS id="9f60" on="016e" frq="11366000" inv="2" sr="30000000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0065" f="4" s="1" t="19" n="WAU HD"/>
@@ -486,6 +488,7 @@
 			<S i="0677" f="4" s="1" t="1" n="BRIO"/>
 			<S i="0678" f="4" s="1" t="1" n="Kino"/>
 			<S i="0679" f="4" s="1" t="1" n="TV 3 Medias"/>
+			<S i="067a" f="1" s="1" t="1" n="MRT 1"/>
 			<S i="067b" f="4" s="1" t="1" n="RTL"/>
 			<S i="067c" f="4" s="1" t="1" n="RTL 2"/>
 			<S i="067d" f="4" s="1" t="1" n="Pink"/>
@@ -555,7 +558,7 @@
 			<S i="022b" f="4" s="1" t="1" n="Desire"/>
 			<S i="0321" f="2" s="1" t="1" n="Kids"/>
 			<S i="03e7" f="4" s="0" t="1" n="Kanali 7"/>
-			<S i="0817" f="3" s="0" t="c" n="OTA"/>
+			<S i="0817" f="2" s="0" t="c" n="OTA"/>
 			<S i="08d4" f="4" s="1" t="1" n="Tring Fantasy"/>
 			<S i="0c1c" f="4" s="1" t="1" n="Klan HD"/>
 			<S i="0c80" f="4" s="1" t="1" n="Klan Plus"/>
@@ -680,12 +683,13 @@
 			<S i="0003" f="4" s="0" t="1" n="TVR 3"/>
 			<S i="0004" f="4" s="0" t="1" n="TVR"/>
 			<S i="0006" f="4" s="0" t="1" n="TVR International"/>
-			<S i="0007" f="4" s="0" t="1" n="TVR Cluj"/>
-			<S i="0008" f="4" s="0" t="1" n="TVR Craiova"/>
-			<S i="0009" f="4" s="0" t="1" n="TVR Iasi"/>
-			<S i="000a" f="4" s="0" t="1" n="TVR Timisoara"/>
-			<S i="000b" f="4" s="0" t="1" n="TVR Tg Mures"/>
+			<S i="0007" f="2" s="0" t="1" n="TVR Cluj"/>
+			<S i="0008" f="2" s="0" t="1" n="TVR Craiova"/>
+			<S i="0009" f="2" s="0" t="1" n="TVR Iasi"/>
+			<S i="000a" f="2" s="0" t="1" n="TVR Timisoara"/>
+			<S i="000b" f="2" s="0" t="1" n="TVR Tg Mures"/>
 			<S i="000f" f="4" s="0" t="1" n="TVR 1 HD"/>
+			<S i="0011" f="1" s="1" t="1" n="TVR 2 HD"/>
 			<S i="0015" f="2" s="0" t="a" n="Radio Romania Actualitati"/>
 			<S i="0016" f="2" s="0" t="a" n="Radio Romania Cultural"/>
 			<S i="0017" f="2" s="0" t="a" n="Radio Romania Muzical"/>
@@ -693,7 +697,7 @@
 			<S i="0019" f="2" s="0" t="a" n="Radio Romania International 1"/>
 			<S i="001a" f="2" s="0" t="a" n="Radio Romania International 2"/>
 			<S i="001b" f="2" s="0" t="a" n="Radio Romania International 3"/>
-			<S i="00c8" f="4" s="1" t="1" n="SRTV Feed"/>
+			<S i="00c8" f="2" s="1" t="1" n="SRTV Feed"/>
 		</TS>
 		<TS id="c544" on="016e" frq="11554000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="06d7" f="4" s="1" t="1" n="RTS 1 HD"/>
@@ -779,6 +783,8 @@
 			<S i="0081" f="4" s="1" t="16" n="Da Vinci Learning."/>
 			<S i="008c" f="4" s="1" t="16" n="CNN."/>
 			<S i="0098" f="4" s="1" t="16" n="FOX Movies."/>
+			<S i="009b" f="1" s="0" t="16" n="TVCG Sat."/>
+			<S i="009c" f="1" s="0" t="2" n="Radio CG."/>
 			<S i="00a6" f="4" s="1" t="16" n="RTL Passion."/>
 			<S i="00c0" f="4" s="1" t="16" n="RTL Crime."/>
 			<S i="00c3" f="4" s="1" t="16" n="PrivateTV."/>
@@ -891,13 +897,13 @@
 			<S i="0d55" f="4" s="0" t="2" n="HRT-HR3"/>
 			<S i="0d56" f="4" s="0" t="2" n="VOICE OF CRO"/>
 			<S i="0d58" f="4" s="0" t="2" n="HKR"/>
-			<S i="0d67" f="1" s="0" t="19" n="SLO1 HD"/>
-			<S i="0d68" f="1" s="0" t="19" n="SLO2 HD"/>
-			<S i="0d69" f="1" s="0" t="19" n="SLO3 HD"/>
-			<S i="0d6a" f="1" s="0" t="2" n="SLO RA1"/>
-			<S i="0d6b" f="1" s="0" t="2" n="SLO RA2"/>
-			<S i="0d6c" f="1" s="0" t="2" n="SLO RA3"/>
-			<S i="0d6d" f="1" s="0" t="2" n="RADIO SI"/>
+			<S i="0d67" f="4" s="0" t="19" n="SLO1 HD"/>
+			<S i="0d68" f="4" s="0" t="19" n="SLO2 HD"/>
+			<S i="0d69" f="4" s="1" t="19" n="SLO3 HD"/>
+			<S i="0d6a" f="4" s="0" t="2" n="SLO RA1"/>
+			<S i="0d6b" f="4" s="0" t="2" n="SLO RA2"/>
+			<S i="0d6c" f="4" s="0" t="2" n="SLO RA3"/>
+			<S i="0d6d" f="4" s="0" t="2" n="RADIO SI"/>
 		</TS>
 		<TS id="0003" on="0040" frq="11678000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0022" f="4" s="1" t="16" n="Vivid TV."/>
@@ -990,10 +996,10 @@
 			<S i="0002" f="4" s="0" t="1" n="Kanal D"/>
 			<S i="0003" f="4" s="0" t="1" n="National TV"/>
 			<S i="0004" f="4" s="0" t="1" n="Boomerang"/>
-			<S i="0005" f="4" s="1" t="16" n="Pro TV"/>
-			<S i="0006" f="4" s="1" t="16" n="Sport Ro"/>
-			<S i="0007" f="4" s="1" t="16" n="Acasatv"/>
-			<S i="0008" f="4" s="1" t="16" n="Pro Cinema"/>
+			<S i="0005" f="4" s="1" t="16" n="PRO TV"/>
+			<S i="0006" f="4" s="1" t="16" n="PRO X"/>
+			<S i="0007" f="4" s="1" t="16" n="PRO 2"/>
+			<S i="0008" f="4" s="1" t="16" n="PRO CINEMA"/>
 			<S i="0009" f="4" s="0" t="1" n="TNT"/>
 			<S i="000a" f="4" s="0" t="1" n="RomaniaTV"/>
 			<S i="000b" f="4" s="0" t="1" n="DIGI 24"/>
@@ -1005,7 +1011,7 @@
 			<S i="0019" f="4" s="0" t="1" n="TVR Tg Mures"/>
 			<S i="0065" f="4" s="0" t="1" n="Radio Trinitas"/>
 			<S i="0066" f="4" s="0" t="1" n="Radio Reintregirea"/>
-			<S i="00c8" f="4" s="0" t="1" n="TVR 2 HD"/>
+			<S i="00c8" f="4" s="1" t="1" n="SRTV Feed HD"/>
 		</TS>
 		<TS id="0065" on="ffff" frq="12654000" inv="2" sr="11111000" fec="2" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0001" f="4" s="1" t="1" n="UNIRE 1 - GRIGIO"/>
