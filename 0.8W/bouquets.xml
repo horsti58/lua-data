@@ -363,8 +363,8 @@
 		<S i="446" t="18" on="46" s="-8" frq="11293" n="FOX HD (N)"/>
 		<S i="81" t="20" on="46" s="-8" frq="11357" n="Gospel Channel Europe"/>
 		<S i="1cac" t="4c" on="46" s="-8" frq="12149" n="History"/>
-		<S i="1c1f" t="29" on="46" s="-8" frq="12015" n="HISTORY 2 HD"/>
 		<S i="1c16" t="29" on="46" s="-8" frq="12015" n="HISTORY 2 HD"/>
+		<S i="1c1f" t="29" on="46" s="-8" frq="12015" n="HISTORY 2 HD"/>
 		<S i="106e" t="29" on="46" s="-8" frq="12015" n="HISTORY HD"/>
 		<S i="106a" t="29" on="46" s="-8" frq="12015" n="HISTORY HD"/>
 		<S i="1ce1" t="29" on="46" s="-8" frq="12015" n="HISTORY HD (S)"/>
@@ -393,6 +393,7 @@
 		<S i="449f" t="1b" on="46" s="-8" frq="11216" n="Kunskapskanalen HD - Talande Text"/>
 		<S i="1d8f" t="1b" on="46" s="-8" frq="11216" n="Kunskapskanalen HD - Text"/>
 		<S i="42bc" t="1c" on="46" s="-8" frq="11403" n="Kuukauden kanava"/>
+		<S i="42bc" t="29" on="46" s="-8" frq="12015" n="Kuukauden kanava"/>
 		<S i="1195" t="48" on="46" s="-8" frq="10872" n="liv"/>
 		<S i="1c48" t="2b" on="46" s="-8" frq="11341" n="Matkanalen"/>
 		<S i="425" t="43" on="46" s="-8" frq="10778" n="MAX HD"/>
@@ -429,8 +430,8 @@
 		<S i="1eb8" t="46" on="46" s="-8" frq="10747" n="NRK1 Østnytt"/>
 		<S i="410" t="46" on="46" s="-8" frq="10747" n="NRK2 HD"/>
 		<S i="465d" t="46" on="46" s="-8" frq="10747" n="NRK2 lydtekst"/>
-		<S i="1c2d" t="2b" on="46" s="-8" frq="11341" n="Paramount Network (D)"/>
 		<S i="4368" t="2b" on="46" s="-8" frq="11341" n="Paramount Network (D)"/>
+		<S i="1c2d" t="2b" on="46" s="-8" frq="11341" n="Paramount Network (D)"/>
 		<S i="1c34" t="2b" on="46" s="-8" frq="11341" n="Paramount Network (S)"/>
 		<S i="5e7" t="47" on="46" s="-8" frq="10716" n="Rikstoto Direkte HD"/>
 		<S i="afc" t="22" on="46" s="-8" frq="11389" n="RUV"/>
@@ -485,7 +486,6 @@
 		<S i="1f1e" t="4f" on="46" s="-8" frq="12437" n="Telia Liiga 6"/>
 		<S i="1f1f" t="4f" on="46" s="-8" frq="12437" n="Telia Liiga 7"/>
 		<S i="1f20" t="4f" on="46" s="-8" frq="12437" n="Telia Liiga Studio"/>
-		<S i="1bb0" t="20" on="46" s="-8" frq="11357" n="Test 7088"/>
 		<S i="232e" t="54" on="46" s="-8" frq="12360" n="Test 9006"/>
 		<S i="32ca" t="29" on="46" s="-8" frq="12015" n="Test_13002"/>
 		<S i="32cb" t="29" on="46" s="-8" frq="12015" n="Test_13003"/>
@@ -542,6 +542,7 @@
 		<S i="fc2" t="4" on="46" s="-8" frq="11229" n="TV3 HD (N)"/>
 		<S i="115e" t="18" on="46" s="-8" frq="11293" n="TV3 HD (S)"/>
 		<S i="4699" t="18" on="46" s="-8" frq="11293" n="TV3 HD (S) - Text"/>
+		<S i="1b7d" t="3e" on="46" s="-8" frq="10809" n="TV3 MAX HD"/>
 		<S i="1c95" t="a" on="46" s="-8" frq="10934" n="TV3 Puls"/>
 		<S i="1cfb" t="3e" on="46" s="-8" frq="10809" n="TV3 Sport HD"/>
 		<S i="1b92" t="41" on="46" s="-8" frq="10809" n="TV3 Sport HD (D)"/>
@@ -571,6 +572,7 @@
 		<S i="1161" t="1c" on="46" s="-8" frq="11403" n="Viasat Series HD"/>
 		<S i="eec" t="3e" on="46" s="-8" frq="10809" n="Viasat Sport HD"/>
 		<S i="1cd8" t="3e" on="46" s="-8" frq="10809" n="Viasat Sport Premium HD"/>
+		<S i="1bb0" t="20" on="46" s="-8" frq="11357" n="Viasat Ultra HD"/>
 		<S i="1d77" t="3" on="46" s="-8" frq="11278" n="Viasat Urheilu HD"/>
 		<S i="1d74" t="3e" on="46" s="-8" frq="10809" n="Viasport 1"/>
 		<S i="1b73" t="4e" on="46" s="-8" frq="12111" n="Viasport 2"/>
@@ -592,6 +594,16 @@
 		<S i="395" t="14" on="46" s="-8" frq="12418" n="Scandinavian Satellite Radio"/>
 	</Bouquet>
 	<Bouquet name="[W000.8] Unknown Provider">
+		<S i="e2" t="2bd" on="600" s="-8" frq="11727" n="26"/>
+		<S i="e3" t="2bd" on="600" s="-8" frq="11727" n="27"/>
+		<S i="e4" t="2bd" on="600" s="-8" frq="11727" n="28"/>
+		<S i="e5" t="2bd" on="600" s="-8" frq="11727" n="29"/>
+		<S i="e6" t="2bd" on="600" s="-8" frq="11727" n="30"/>
+		<S i="f0" t="2bd" on="600" s="-8" frq="11727" n="40"/>
+		<S i="f2" t="2bd" on="600" s="-8" frq="11727" n="42"/>
+		<S i="f6" t="2bd" on="600" s="-8" frq="11727" n="46"/>
+		<S i="f7" t="2bd" on="600" s="-8" frq="11727" n="47"/>
+		<S i="f8" t="2bd" on="600" s="-8" frq="11727" n="48"/>
 		<S i="1" t="a" on="fe01" s="-8" frq="12607" n="Channel-01"/>
 		<S i="2" t="a" on="fe01" s="-8" frq="12607" n="Channel-02"/>
 		<S i="2" t="1" on="1" s="-8" frq="12607" n="Channel-02"/>
@@ -603,8 +615,8 @@
 		<S i="5" t="1" on="1" s="-8" frq="12607" n="Channel-05"/>
 		<S i="6" t="a" on="fe01" s="-8" frq="12607" n="Channel-06"/>
 		<S i="6" t="1" on="1" s="-8" frq="12607" n="Channel-06"/>
-		<S i="7" t="1" on="1" s="-8" frq="12607" n="Channel-07"/>
 		<S i="7" t="a" on="fe01" s="-8" frq="12607" n="Channel-07"/>
+		<S i="7" t="1" on="1" s="-8" frq="12607" n="Channel-07"/>
 		<S i="8" t="a" on="fe01" s="-8" frq="12607" n="Channel-08"/>
 		<S i="8" t="1" on="1" s="-8" frq="12607" n="Channel-08"/>
 		<S i="9" t="a" on="fe01" s="-8" frq="12607" n="Channel-09"/>
@@ -615,8 +627,8 @@
 		<S i="b" t="1" on="1" s="-8" frq="12607" n="Channel-11"/>
 		<S i="c" t="a" on="fe01" s="-8" frq="12607" n="Channel-12"/>
 		<S i="c" t="1" on="1" s="-8" frq="12607" n="Channel-12"/>
-		<S i="d" t="a" on="fe01" s="-8" frq="12607" n="Channel-13"/>
 		<S i="d" t="1" on="1" s="-8" frq="12607" n="Channel-13"/>
+		<S i="d" t="a" on="fe01" s="-8" frq="12607" n="Channel-13"/>
 		<S i="e" t="a" on="fe01" s="-8" frq="12607" n="Channel-14"/>
 		<S i="e" t="1" on="1" s="-8" frq="12607" n="Channel-14"/>
 		<S i="f" t="a" on="fe01" s="-8" frq="12607" n="Channel-15"/>
@@ -627,8 +639,8 @@
 		<S i="11" t="1" on="1" s="-8" frq="12607" n="Channel-17"/>
 		<S i="12" t="1" on="1" s="-8" frq="12607" n="Channel-18"/>
 		<S i="12" t="a" on="fe01" s="-8" frq="12607" n="Channel-18"/>
-		<S i="13" t="1" on="1" s="-8" frq="12607" n="Channel-19"/>
 		<S i="13" t="a" on="fe01" s="-8" frq="12607" n="Channel-19"/>
+		<S i="13" t="1" on="1" s="-8" frq="12607" n="Channel-19"/>
 		<S i="14" t="1" on="1" s="-8" frq="12607" n="Channel-20"/>
 		<S i="14" t="a" on="fe01" s="-8" frq="12607" n="Channel-20"/>
 		<S i="15" t="1" on="1" s="-8" frq="12607" n="Channel-21"/>
@@ -639,8 +651,8 @@
 		<S i="17" t="a" on="fe01" s="-8" frq="12607" n="Channel-23"/>
 		<S i="18" t="1" on="1" s="-8" frq="12607" n="Channel-24"/>
 		<S i="18" t="a" on="fe01" s="-8" frq="12607" n="Channel-24"/>
-		<S i="19" t="1" on="ff02" s="-8" frq="12643" n="Channel-25"/>
 		<S i="19" t="1" on="1" s="-8" frq="12643" n="Channel-25"/>
+		<S i="19" t="1" on="ff02" s="-8" frq="12643" n="Channel-25"/>
 		<S i="1a" t="1" on="ff02" s="-8" frq="12643" n="Channel-26"/>
 		<S i="1a" t="1" on="1" s="-8" frq="12643" n="Channel-26"/>
 		<S i="1b" t="1" on="1" s="-8" frq="12643" n="Channel-27"/>
@@ -651,8 +663,8 @@
 		<S i="1d" t="1" on="1" s="-8" frq="12643" n="Channel-29"/>
 		<S i="1e" t="1" on="ff02" s="-8" frq="12643" n="Channel-30"/>
 		<S i="1e" t="1" on="1" s="-8" frq="12643" n="Channel-30"/>
-		<S i="1f" t="1" on="ff02" s="-8" frq="12643" n="Channel-31"/>
 		<S i="1f" t="1" on="1" s="-8" frq="12643" n="Channel-31"/>
+		<S i="1f" t="1" on="ff02" s="-8" frq="12643" n="Channel-31"/>
 		<S i="20" t="1" on="ff02" s="-8" frq="12643" n="Channel-32"/>
 		<S i="20" t="1" on="1" s="-8" frq="12643" n="Channel-32"/>
 		<S i="21" t="1" on="ff02" s="-8" frq="12643" n="Channel-33"/>
@@ -661,16 +673,16 @@
 		<S i="22" t="1" on="ff02" s="-8" frq="12643" n="Channel-34"/>
 		<S i="23" t="1" on="1" s="-8" frq="12643" n="Channel-35"/>
 		<S i="23" t="1" on="ff02" s="-8" frq="12643" n="Channel-35"/>
-		<S i="24" t="1" on="1" s="-8" frq="12643" n="Channel-36"/>
 		<S i="24" t="1" on="ff02" s="-8" frq="12643" n="Channel-36"/>
-		<S i="25" t="1" on="1" s="-8" frq="12643" n="Channel-37"/>
+		<S i="24" t="1" on="1" s="-8" frq="12643" n="Channel-36"/>
 		<S i="25" t="1" on="ff02" s="-8" frq="12643" n="Channel-37"/>
-		<S i="26" t="1" on="ff02" s="-8" frq="12643" n="Channel-38"/>
+		<S i="25" t="1" on="1" s="-8" frq="12643" n="Channel-37"/>
 		<S i="26" t="1" on="1" s="-8" frq="12643" n="Channel-38"/>
-		<S i="27" t="1" on="ff02" s="-8" frq="12643" n="Channel-39"/>
+		<S i="26" t="1" on="ff02" s="-8" frq="12643" n="Channel-38"/>
 		<S i="27" t="1" on="1" s="-8" frq="12643" n="Channel-39"/>
-		<S i="28" t="1" on="ff02" s="-8" frq="12643" n="Channel-40"/>
+		<S i="27" t="1" on="ff02" s="-8" frq="12643" n="Channel-39"/>
 		<S i="28" t="1" on="1" s="-8" frq="12643" n="Channel-40"/>
+		<S i="28" t="1" on="ff02" s="-8" frq="12643" n="Channel-40"/>
 		<S i="29" t="1" on="1" s="-8" frq="12607" n="Radio-01"/>
 		<S i="29" t="a" on="fe01" s="-8" frq="12607" n="Radio-01"/>
 		<S i="2a" t="a" on="fe01" s="-8" frq="12607" n="Radio-02"/>
@@ -732,6 +744,7 @@
 		<S i="7595" t="2bd" on="600" s="-8" frq="11727" n="HBO"/>
 		<S i="7673" t="2bf" on="600" s="-8" frq="11804" n="HBO HD RO"/>
 		<S i="7596" t="2bd" on="600" s="-8" frq="11727" n="HirTV"/>
+		<S i="7597" t="2bd" on="600" s="-8" frq="11727" n="JimJam HU"/>
 		<S i="75aa" t="2bd" on="600" s="-8" frq="11727" n="Jocky TV"/>
 		<S i="75b2" t="2bd" on="600" s="-8" frq="11727" n="Jocky TV."/>
 		<S i="765e" t="2bf" on="600" s="-8" frq="11804" n="LALA TV"/>

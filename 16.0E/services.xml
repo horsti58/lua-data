@@ -204,7 +204,7 @@
 			<S i="04b1" f="4" s="1" t="1f" n="Eurosport 2 HD"/>
 			<S i="04b2" f="4" s="1" t="1f" n="Prima Plus HD"/>
 			<S i="04b3" f="4" s="0" t="1f" n="Nova International HD"/>
-			<S i="04b4" f="4" s="1" t="1f" n="CS Film/CS Mini/Horor Film"/>
+			<S i="04b4" f="4" s="1" t="1f" n="CS Film / CS Horror"/>
 			<S i="04b5" f="4" s="1" t="1f" n="Fishing and Hunting"/>
 			<S i="04b6" f="4" s="1" t="19" n="Mnam TV"/>
 			<S i="04b7" f="4" s="1" t="1f" n="Film Europe"/>
@@ -312,6 +312,7 @@
 			<S i="1165" f="4" s="1" t="1" n="Brainz"/>
 			<S i="1166" f="4" s="1" t="1" n="Nova BH HD"/>
 			<S i="1167" f="4" s="1" t="1" n="Oto"/>
+			<S i="1168" f="1" s="1" t="1" n="Nova Sport HD"/>
 			<S i="1169" f="4" s="1" t="1" n="SK HD"/>
 			<S i="116a" f="4" s="1" t="1" n="SK 3 HD"/>
 			<S i="116b" f="4" s="1" t="1" n="N1 Srb HD"/>
@@ -323,7 +324,7 @@
 			<S i="1172" f="4" s="1" t="2" n="Radio Kanal 77"/>
 		</TS>
 		<TS id="9d08" on="016e" frq="11231000" inv="2" sr="42000000" fec="4" pol="1" mod="0" pli="0" plc="1" plm="0" sys="1">
-			<S i="02ef" f="4" s="1" t="1" n="TV1"/>
+			<S i="02ef" f="4" s="1" t="1" n="O Kanal"/>
 			<S i="02f0" f="4" s="1" t="1" n="Nickelodeon"/>
 			<S i="02f1" f="4" s="1" t="1" n="SK 3 Slo"/>
 			<S i="02f2" f="4" s="1" t="1" n="Viasat Explore"/>
@@ -450,16 +451,16 @@
 		</TS>
 		<TS id="5e24" on="016e" frq="11345000" inv="2" sr="30000000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="03e9" f="4" s="0" t="1" n="OTV Valentino"/>
-			<S i="03eb" f="4" s="0" t="1" n="Duga TV"/>
+			<S i="03eb" f="2" s="0" t="1" n="Duga TV"/>
 			<S i="03ec" f="4" s="0" t="1" n="Svet Plus"/>
 			<S i="03ef" f="4" s="0" t="1" n="KCN"/>
 			<S i="03f9" f="4" s="0" t="1" n="Kopernikus"/>
-			<S i="0401" f="1" s="0" t="1" n="TVCG Sat"/>
+			<S i="0401" f="4" s="0" t="1" n="TVCG Sat"/>
 			<S i="0bb9" f="4" s="0" t="2" n="Radio 1"/>
 			<S i="0bba" f="4" s="0" t="2" n="Ognjisce Radio Slovenija"/>
 			<S i="0bbb" f="2" s="0" t="2" n="Radio Mira Bosanka"/>
 			<S i="0bbc" f="4" s="0" t="2" n="OTV Radio Valentino"/>
-			<S i="0bbd" f="1" s="0" t="2" n="Radio CG"/>
+			<S i="0bbd" f="4" s="0" t="2" n="Radio CG"/>
 		</TS>
 		<TS id="9f60" on="016e" frq="11366000" inv="2" sr="30000000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0065" f="4" s="1" t="19" n="WAU HD"/>
@@ -532,7 +533,7 @@
 			<S i="0001" f="4" s="0" t="1" n="Vizion Plus HD"/>
 			<S i="0002" f="4" s="1" t="1" n="Tring Super HD"/>
 			<S i="0003" f="4" s="1" t="1" n="Tring Sport News"/>
-			<S i="0005" f="4" s="1" t="1" n="Tring Comedy"/>
+			<S i="0005" f="4" s="1" t="1" n="Tring Festa"/>
 			<S i="0007" f="4" s="1" t="1" n="RTV 21"/>
 			<S i="0008" f="4" s="1" t="1" n="TIP TV"/>
 			<S i="0009" f="4" s="1" t="1" n="Tring Tring"/>
@@ -631,11 +632,11 @@
 			<S i="0357" f="4" s="1" t="1" n="BHT 1"/>
 			<S i="0358" f="4" s="1" t="1" n="Federalna TV"/>
 			<S i="035a" f="4" s="1" t="1" n="POP TV HD"/>
-			<S i="035b" f="4" s="1" t="1" n="RTCG 1"/>
+			<S i="035b" f="4" s="1" t="1" n="RTCG 1 HD"/>
 			<S i="035c" f="4" s="1" t="1" n="RTCG 2 HD"/>
 			<S i="035d" f="4" s="1" t="1" n="HRT 1"/>
 			<S i="035e" f="4" s="1" t="1" n="HRT 2"/>
-			<S i="035f" f="4" s="1" t="1" n="MRT 1"/>
+			<S i="035f" f="2" s="1" t="1" n="MRT 1"/>
 			<S i="0360" f="4" s="1" t="1" n="SK 1 SLO"/>
 			<S i="0361" f="4" s="1" t="1" n="Hema TV"/>
 			<S i="0362" f="4" s="1" t="1" n="SK 1 HR"/>
@@ -900,10 +901,10 @@
 			<S i="0d67" f="4" s="0" t="19" n="SLO1 HD"/>
 			<S i="0d68" f="4" s="0" t="19" n="SLO2 HD"/>
 			<S i="0d69" f="4" s="1" t="19" n="SLO3 HD"/>
-			<S i="0d6a" f="4" s="0" t="2" n="SLO RA1"/>
-			<S i="0d6b" f="4" s="0" t="2" n="SLO RA2"/>
-			<S i="0d6c" f="4" s="0" t="2" n="SLO RA3"/>
-			<S i="0d6d" f="4" s="0" t="2" n="RADIO SI"/>
+			<S i="0d6a" f="4" s="0" t="2" n="RASLO PRVI"/>
+			<S i="0d6b" f="4" s="0" t="2" n="RASLO VAL 202"/>
+			<S i="0d6c" f="4" s="0" t="2" n="RASLO ARS"/>
+			<S i="0d6d" f="4" s="0" t="2" n="RASLO RADIO SI"/>
 		</TS>
 		<TS id="0003" on="0040" frq="11678000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0022" f="4" s="1" t="16" n="Vivid TV."/>
@@ -1022,11 +1023,14 @@
 			<S i="0001" f="4" s="0" t="1" n="SNAI LIVE"/>
 			<S i="0002" f="4" s="0" t="1" n="V.E.4"/>
 		</TS>
+		<TS id="0001" on="ffff" frq="12676000" inv="2" sr="2666000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
+			<S i="0001" f="1" s="1" t="1" n="TEST 1"/>
+		</TS>
 		<TS id="0065" on="0001" frq="12699000" inv="2" sr="9880000" fec="1" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0005" f="4" s="0" t="1" n="CH 5 - Virtuali 2"/>
 			<S i="0007" f="4" s="1" t="1" n="SNAI TV Virtuali 1"/>
 			<S i="0037" f="4" s="0" t="1" n="CH 55 - Virtuali 3"/>
-			<S i="0038" f="4" s="0" t="1" n="CH 56 - Virtuali 4 test"/>
+			<S i="0038" f="4" s="0" t="1" n="CH 56 - Provider"/>
 			<S i="0039" f="4" s="0" t="1" n="CH 57 - Virtuali 1"/>
 			<S i="004d" f="4" s="1" t="1" n="SNAI TV Audio Unico"/>
 		</TS>

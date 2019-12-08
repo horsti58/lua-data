@@ -321,6 +321,7 @@
 	</Bouquet>
 	<Bouquet name="[E007.0] Eutelsat">
 		<S i="1630" t="9efc" on="7e" s="70" frq="11221" n="Andisheh TV"/>
+		<S i="1964" t="9efc" on="7e" s="70" frq="11221" n="Banda_Riservata-W3a-F5"/>
 		<S i="1fe" t="765c" on="7e" s="70" frq="11304" n="Cine Film HD"/>
 		<S i="1ff" t="765c" on="7e" s="70" frq="11304" n="Cine Series HD"/>
 		<S i="1af4" t="9efc" on="7e" s="70" frq="11221" n="IRANEFARDA"/>
@@ -378,6 +379,9 @@
 	<Bouquet name="[E007.0] none">
 		<S i="70" t="765c" on="7e" s="70" frq="11262" n="Hadi 4"/>
 		<S i="6e" t="765c" on="7e" s="70" frq="11262" n="Hadi 7"/>
+		<S i="1" t="0" on="0" s="70" frq="12526" n="TV HD"/>
+		<S i="2" t="0" on="0" s="70" frq="12526" n="TV1"/>
+		<S i="3" t="0" on="0" s="70" frq="12526" n="TV3"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] Unknown Provider">
 		<S i="6d" t="765c" on="7e" s="70" frq="11262" n="hidayah turky"/>

@@ -12,8 +12,8 @@
 			<S i="032c" f="4" s="1" t="16" n="VTM Kids"/>
 			<S i="032d" f="4" s="1" t="16" n="VTM Kids jr"/>
 			<S i="032e" f="4" s="1" t="19" n="ZiggoSport Voetbal HD"/>
-			<S i="032f" f="4" s="1" t="19" n="Ziggo Sport Racing HD"/>
-			<S i="0330" f="4" s="1" t="19" n="Ziggo Sport Golf HD"/>
+			<S i="032f" f="4" s="1" t="19" n="Ziggo Sport Racing"/>
+			<S i="0330" f="4" s="1" t="19" n="Ziggo Sport Golf"/>
 			<S i="0331" f="4" s="1" t="2" n="VRT Radio 1"/>
 			<S i="0332" f="4" s="1" t="2" n="VRT Radio 2"/>
 			<S i="0333" f="4" s="1" t="2" n="VRT NMS"/>
@@ -29,7 +29,7 @@
 			<S i="033d" f="4" s="0" t="2" n="Radio Continu"/>
 			<S i="033e" f="4" s="0" t="2" n="Groot nieuws Radio"/>
 			<S i="0362" f="4" s="0" t="2" n="TRT tamil"/>
-			<S i="0363" f="1" s="0" t="19" n="MUSEUM"/>
+			<S i="0363" f="4" s="0" t="19" n="MUSEUM"/>
 			<S i="0364" f="4" s="1" t="19" n="La Chaîne du Père Noël"/>
 			<S i="0365" f="4" s="0" t="19" n="ESport24 TV"/>
 			<S i="0366" f="4" s="0" t="16" n="NLM TV MP4"/>
@@ -54,8 +54,8 @@
 			<S i="0207" f="4" s="1" t="16" n="Secret Circle"/>
 			<S i="0208" f="4" s="1" t="16" n="Meiden van Holland"/>
 			<S i="0209" f="4" s="1" t="16" n="Colmax"/>
-			<S i="020b" f="4" s="1" t="19" n="Penthouse HD 1"/>
-			<S i="020c" f="4" s="1" t="19" n="Penthouse HD 2"/>
+			<S i="020b" f="4" s="1" t="19" n="Penthouse Gold"/>
+			<S i="020c" f="4" s="1" t="19" n="Penthouse Quickies"/>
 			<S i="020d" f="4" s="1" t="16" n="24 Kitchen"/>
 		</TS>
 		<TS id="14b4" on="009c" frq="11785000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -268,7 +268,7 @@
 			<S i="0272" f="4" s="0" t="1" n="PTV Global"/>
 			<S i="0273" f="4" s="0" t="1" n="CBS Reality EMEA"/>
 			<S i="0274" f="4" s="0" t="1" n="JimJam PE"/>
-			<S i="0275" f="4" s="0" t="1" n="JimJam ME"/>
+			<S i="0275" f="4" s="1" t="1" n="JimJam ME"/>
 			<S i="0277" f="4" s="0" t="2" n="Babcock FM Feed 1"/>
 		</TS>
 		<TS id="1964" on="009c" frq="12015000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -293,7 +293,7 @@
 			<S i="0166" f="4" s="1" t="1" n="Disney Channel ME"/>
 			<S i="0168" f="4" s="0" t="1" n="Karusel Int"/>
 			<S i="0169" f="4" s="1" t="1" n="MST"/>
-			<S i="016a" f="4" s="0" t="1" n="Outdoor HD"/>
+			<S i="016a" f="4" s="1" t="1" n="Outdoor HD"/>
 		</TS>
 		<TS id="0002" on="00aa" frq="12054000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="03e9" f="4" s="1" t="1" n="ΕΡΤ1"/>
@@ -430,7 +430,7 @@
 			<S i="0130" f="4" s="1" t="19" n="PRO 7 HD"/>
 			<S i="0132" f="4" s="1" t="19" n="NITRO HD"/>
 			<S i="0133" f="4" s="1" t="19" n="n-tv HD"/>
-			<S i="ffff" f="2" s="1" t="c" n="unknown (0x1EDC_0xFFFF)"/>
+			<S i="ffff" f="4" s="1" t="c" n="unknown (0x1EDC_0xFFFF)"/>
 		</TS>
 		<TS id="0005" on="00aa" frq="12284000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="03ec" f="4" s="1" t="1" n="Sirina TV HD"/>

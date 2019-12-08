@@ -43,6 +43,7 @@
 		<S i="ea" t="1644" on="9c" s="90" frq="11861" n="SPORT 1 HD"/>
 		<S i="e8" t="1644" on="9c" s="90" frq="11861" n="TELE 5 HD"/>
 		<S i="eb" t="1644" on="9c" s="90" frq="11861" n="TLC HD"/>
+		<S i="ffff" t="1edc" on="9c" s="90" frq="12245" n="unknown (0x1EDC_0xFFFF)"/>
 		<S i="12e" t="1edc" on="9c" s="90" frq="12245" n="VOX HD"/>
 		<S i="cb" t="14b4" on="9c" s="90" frq="11785" n="WELT HD"/>
 	</Bouquet>
@@ -150,8 +151,8 @@
 		<S i="1f5" t="c364" on="9e" s="90" frq="11747" n="NPO 1 HD"/>
 		<S i="1f6" t="c364" on="9e" s="90" frq="11747" n="NPO 2 HD"/>
 		<S i="1f7" t="c364" on="9e" s="90" frq="11747" n="NPO 3 HD"/>
-		<S i="20b" t="c364" on="9e" s="90" frq="11747" n="Penthouse HD 1"/>
-		<S i="20c" t="c364" on="9e" s="90" frq="11747" n="Penthouse HD 2"/>
+		<S i="20b" t="c364" on="9e" s="90" frq="11747" n="Penthouse Gold"/>
+		<S i="20c" t="c364" on="9e" s="90" frq="11747" n="Penthouse Quickies"/>
 		<S i="32a" t="c35a" on="9e" s="90" frq="11727" n="Q2"/>
 		<S i="1f8" t="c364" on="9e" s="90" frq="11747" n="RTL 4 HD"/>
 		<S i="1f9" t="c364" on="9e" s="90" frq="11747" n="RTL 5 HD"/>
@@ -176,8 +177,8 @@
 		<S i="32d" t="c35a" on="9e" s="90" frq="11727" n="VTM Kids jr"/>
 		<S i="197" t="c40e" on="9e" s="90" frq="12074" n="Xite"/>
 		<S i="327" t="c35a" on="9e" s="90" frq="11727" n="ZES HD"/>
-		<S i="330" t="c35a" on="9e" s="90" frq="11727" n="Ziggo Sport Golf HD"/>
-		<S i="32f" t="c35a" on="9e" s="90" frq="11727" n="Ziggo Sport Racing HD"/>
+		<S i="330" t="c35a" on="9e" s="90" frq="11727" n="Ziggo Sport Golf"/>
+		<S i="32f" t="c35a" on="9e" s="90" frq="11727" n="Ziggo Sport Racing"/>
 		<S i="322" t="c35a" on="9e" s="90" frq="11727" n="Ziggo Sport Select HD"/>
 		<S i="32e" t="c35a" on="9e" s="90" frq="11727" n="ZiggoSport Voetbal HD"/>
 		<S i="1b7" t="c40e" on="9e" s="90" frq="12074" n="100% NL"/>

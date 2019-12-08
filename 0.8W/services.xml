@@ -90,9 +90,10 @@
 		</TS>
 		<TS id="003e" on="0046" frq="10809000" inv="2" sr="25000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0eec" f="4" s="1" t="19" n="Viasat Sport HD"/>
+			<S i="1b7d" f="1" s="1" t="19" n="TV3 MAX HD"/>
 			<S i="1cd8" f="4" s="1" t="19" n="Viasat Sport Premium HD"/>
 			<S i="1cfb" f="4" s="1" t="19" n="TV3 Sport HD"/>
-			<S i="1cfc" f="4" s="1" t="19" n="ESportsTV HD"/>
+			<S i="1cfc" f="2" s="1" t="19" n="ESportsTV HD"/>
 			<S i="1d74" f="4" s="1" t="19" n="Viasport 1"/>
 			<S i="1e06" f="4" s="1" t="19" n="Viasat Hockey HD (S)"/>
 		</TS>
@@ -297,7 +298,7 @@
 			<S i="0081" f="4" s="0" t="1" n="Gospel Channel Europe"/>
 			<S i="0711" f="4" s="0" t="19" n="Visjon Norge HD"/>
 			<S i="17d5" f="4" s="0" t="16" n="Kanal 10 Norge"/>
-			<S i="1bb0" f="1" s="1" t="19" n="Test 7088"/>
+			<S i="1bb0" f="4" s="1" t="19" n="Viasat Ultra HD"/>
 			<S i="1c47" f="2" s="0" t="1" n="Trace Urban HD"/>
 			<S i="1c70" f="4" s="0" t="16" n="Vision Sverige"/>
 		</TS>
@@ -371,6 +372,7 @@
 			<S i="5014" f="4" s="0" t="1" n="Guide"/>
 			<S i="7595" f="4" s="1" t="1" n="HBO"/>
 			<S i="7596" f="4" s="1" t="1" n="HirTV"/>
+			<S i="7597" f="1" s="1" t="1" n="JimJam HU"/>
 			<S i="7598" f="4" s="1" t="1" n="Sport1"/>
 			<S i="759b" f="4" s="1" t="16" n="TV Markiza"/>
 			<S i="759f" f="4" s="1" t="1" n="Spektrum"/>
@@ -711,7 +713,7 @@
 			<S i="32ca" f="4" s="1" t="19" n="Test_13002"/>
 			<S i="32cb" f="4" s="1" t="19" n="Test_13003"/>
 			<S i="32cc" f="4" s="1" t="19" n="Test_13004"/>
-			<S i="42bc" f="2" s="1" t="19" n="Kuukauden kanava"/>
+			<S i="42bc" f="4" s="1" t="19" n="Kuukauden kanava"/>
 			<S i="4316" f="4" s="1" t="19" n="BBC Earth HD (ST)"/>
 			<S i="4356" f="4" s="1" t="19" n="Nat Geo Wild HD (ST)"/>
 		</TS>

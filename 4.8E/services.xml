@@ -124,7 +124,8 @@
 			<S i="0bb8" f="4" s="1" t="1f" n="U test 27"/>
 			<S i="0bc7" f="2" s="1" t="19" n="Astra UHD Test"/>
 			<S i="0bcc" f="2" s="1" t="19" n="Cmore Sport HD"/>
-			<S i="0bea" f="4" s="0" t="19" n="U test 27 2"/>
+			<S i="0bea" f="4" s="1" t="19" n="U test 27 2"/>
+			<S i="0bf4" f="1" s="1" t="19" n="Viasat Sport Extra"/>
 		</TS>
 		<TS id="00ca" on="0055" frq="11727000" inv="2" sr="27500000" fec="5" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="283c" f="4" s="1" t="1" n="TV6 (LT)"/>
@@ -144,15 +145,15 @@
 			<S i="2882" f="4" s="1" t="1" n="CNN"/>
 			<S i="2887" f="4" s="1" t="1" n="Nickelodeon"/>
 			<S i="288c" f="4" s="1" t="1" n="Nick JR"/>
-			<S i="2891" f="4" s="0" t="1" n="Nicktoons"/>
+			<S i="2891" f="4" s="1" t="1" n="Nicktoons"/>
 			<S i="2896" f="4" s="1" t="1" n="E! Entertainment"/>
 			<S i="289b" f="4" s="1" t="1" n="BBC World News"/>
 			<S i="28a0" f="4" s="1" t="1" n="Brazzers TV"/>
-			<S i="28a5" f="4" s="1" t="19" n="TVPlay Sports+ HD"/>
+			<S i="28a5" f="4" s="1" t="19" n="TV3 Sport 2 HD"/>
 			<S i="28aa" f="4" s="1" t="1" n="VH1"/>
 			<S i="28af" f="4" s="1" t="1" n="Playboy TV"/>
 			<S i="28b4" f="4" s="1" t="1" n="NHK World Japan"/>
-			<S i="28b9" f="4" s="1" t="1" n="UNK (0x00CA_0x28B9)"/>
+			<S i="28b9" f="2" s="1" t="1" n="UNK (0x00CA_0x28B9)"/>
 			<S i="28c8" f="4" s="1" t="19" n="NBA TV"/>
 		</TS>
 		<TS id="002b" on="0055" frq="11747000" inv="2" sr="30000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -194,7 +195,7 @@
 			<S i="182e" f="4" s="0" t="1" n="O-TV"/>
 			<S i="1831" f="4" s="1" t="1" n="Unian TV"/>
 			<S i="1832" f="4" s="0" t="1" n="Кус-Кус"/>
-			<S i="1834" f="4" s="1" t="16" n="VMX TEST"/>
+			<S i="1834" f="2" s="1" t="16" n="VMX TEST"/>
 		</TS>
 		<TS id="00c9" on="0055" frq="11785000" inv="2" sr="27500000" fec="5" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="2774" f="4" s="1" t="1" n="LTV1"/>
@@ -209,8 +210,8 @@
 			<S i="27a1" f="4" s="1" t="1" n="BTV"/>
 			<S i="27a6" f="4" s="1" t="1" n="TV1 (LT)"/>
 			<S i="27ab" f="4" s="1" t="1" n="CTC Baltic"/>
-			<S i="27b0" f="4" s="1" t="1" n="TV1000 Premium"/>
-			<S i="27b5" f="4" s="1" t="1" n="TVPlay Sports"/>
+			<S i="27b0" f="4" s="1" t="1" n="TV3 Film"/>
+			<S i="27b5" f="4" s="1" t="1" n="TV3 Sport"/>
 			<S i="27ba" f="4" s="1" t="1" n="TV1000"/>
 			<S i="27bf" f="4" s="1" t="1" n="TV1000 Russkoe Kino"/>
 			<S i="27c4" f="4" s="1" t="19" n="National Geographic HD"/>
@@ -220,6 +221,7 @@
 			<S i="27dd" f="4" s="1" t="1" n="Kidzone TV"/>
 			<S i="27e2" f="4" s="1" t="1" n="Kanal 12"/>
 			<S i="27e7" f="4" s="1" t="1" n="FOX"/>
+			<S i="27ec" f="4" s="1" t="1" n="Sony Channel"/>
 		</TS>
 		<TS id="001b" on="0056" frq="11823000" inv="2" sr="27500000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0640" f="4" s="1" t="19" n="Viasat Film Premiere HD"/>
@@ -307,14 +309,15 @@
 			<S i="2931" f="4" s="1" t="1" n="Viasat History"/>
 			<S i="2936" f="4" s="1" t="1" n="Viasat Nature"/>
 			<S i="293b" f="4" s="1" t="1" n="Nat Geo Wild"/>
-			<S i="2940" f="4" s="1" t="19" n="TV1000 Premium HD"/>
-			<S i="2945" f="4" s="1" t="19" n="TVPlay Sports HD"/>
+			<S i="2940" f="4" s="1" t="19" n="TV3 Film HD"/>
+			<S i="2945" f="4" s="1" t="19" n="TV3 Sport HD"/>
 			<S i="294a" f="4" s="1" t="19" n="Epic Drama HD"/>
 			<S i="294f" f="4" s="1" t="19" n="TV3 Estonia HD"/>
 			<S i="2954" f="4" s="1" t="19" n="TV3 Latvia HD"/>
 			<S i="2959" f="4" s="1" t="19" n="TV3 Lithuania HD"/>
-			<S i="2963" f="4" s="1" t="1" n="TVPlay SportsX"/>
+			<S i="2963" f="4" s="1" t="1" n="TV3 Sport 3"/>
 			<S i="2968" f="4" s="1" t="1" n="ETV+"/>
+			<S i="296d" f="4" s="1" t="1" n="Sony Turbo"/>
 		</TS>
 		<TS id="00ca" on="0055" frq="11958000" inv="2" sr="27500000" fec="5" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="283c" f="4" s="1" t="1" n="TV6 (LT)"/>
@@ -334,15 +337,15 @@
 			<S i="2882" f="4" s="1" t="1" n="CNN"/>
 			<S i="2887" f="4" s="1" t="1" n="Nickelodeon"/>
 			<S i="288c" f="4" s="1" t="1" n="Nick JR"/>
-			<S i="2891" f="4" s="0" t="1" n="Nicktoons"/>
+			<S i="2891" f="4" s="1" t="1" n="Nicktoons"/>
 			<S i="2896" f="4" s="1" t="1" n="E! Entertainment"/>
 			<S i="289b" f="4" s="1" t="1" n="BBC World News"/>
 			<S i="28a0" f="4" s="1" t="1" n="Brazzers TV"/>
-			<S i="28a5" f="4" s="1" t="19" n="TVPlay Sports+ HD"/>
+			<S i="28a5" f="4" s="1" t="19" n="TV3 Sport 2 HD"/>
 			<S i="28aa" f="4" s="1" t="1" n="VH1"/>
 			<S i="28af" f="4" s="1" t="1" n="Playboy TV"/>
 			<S i="28b4" f="4" s="1" t="1" n="NHK World Japan"/>
-			<S i="28b9" f="4" s="1" t="1" n="UNK (0x00CA_0x28B9)"/>
+			<S i="28b9" f="2" s="1" t="1" n="UNK (0x00CA_0x28B9)"/>
 			<S i="28c8" f="4" s="1" t="19" n="NBA TV"/>
 		</TS>
 		<TS id="0006" on="0056" frq="11996000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
