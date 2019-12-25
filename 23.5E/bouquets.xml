@@ -3,7 +3,6 @@
 	</Bouquet>
 	<Bouquet name="[E023.5] Astra2Connect">
 		<S i="1d2e" t="c97" on="3" s="235" frq="12149" n="Astra2Connect"/>
-		<S i="1d38" t="c9f" on="3" s="235" frq="12305" n="RMT_BL6"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] BetaDigital">
 		<S i="17d7" t="c91" on="3" s="235" frq="12032" n="AutoMotorSport HD"/>
@@ -156,7 +155,7 @@
 		<S i="339b" t="c89" on="3" s="235" frq="11876" n="Nova International"/>
 		<S i="3393" t="c89" on="3" s="235" frq="11876" n="Nova Sport 1 HD"/>
 		<S i="371e" t="c8e" on="3" s="235" frq="11973" n="Nova Sport 2 HD"/>
-		<S i="177a" t="c82" on="3" s="235" frq="11739" n="NPO Politiek"/>
+		<S i="177a" t="c82" on="3" s="235" frq="11739" n="NPO 1 Extra"/>
 		<S i="5225" t="c99" on="3" s="235" frq="12188" n="NPO1 HD"/>
 		<S i="17c0" t="c82" on="3" s="235" frq="11739" n="NPO2 HD"/>
 		<S i="5230" t="c99" on="3" s="235" frq="12188" n="NPO3 HD"/>
@@ -406,8 +405,8 @@
 		<S i="4ef3" t="c8b" on="3" s="235" frq="11914" n="M2"/>
 		<S i="4ef7" t="c8b" on="3" s="235" frq="11914" n="Magyar ATV"/>
 		<S i="4efc" t="c81" on="3" s="235" frq="11719" n="Magyar Slager TV"/>
-		<S i="4efb" t="c81" on="3" s="235" frq="11719" n="Minimax"/>
 		<S i="4e3f" t="c85" on="3" s="235" frq="11798" n="Minimax"/>
+		<S i="4efb" t="c81" on="3" s="235" frq="11719" n="Minimax"/>
 		<S i="4ecd" t="c81" on="3" s="235" frq="11719" n="Motorvision"/>
 		<S i="4efd" t="c81" on="3" s="235" frq="11719" n="Mozy +"/>
 		<S i="4e20" t="c8b" on="3" s="235" frq="11914" n="mSAT Info"/>
@@ -523,7 +522,6 @@
 		<S i="4ed0" t="c81" on="3" s="235" frq="11719" n="Zadruga 2"/>
 		<S i="4ed1" t="c81" on="3" s="235" frq="11719" n="Zadruga 3"/>
 		<S i="4ed2" t="c81" on="3" s="235" frq="11719" n="Zadruga 4"/>
-		<S i="4e33" t="c8b" on="3" s="235" frq="11914" n="Ženska TV HD"/>
 		<S i="5172" t="c8b" on="3" s="235" frq="11914" n="AS FM"/>
 		<S i="5173" t="c8b" on="3" s="235" frq="11914" n="Play radio"/>
 		<S i="5154" t="c8b" on="3" s="235" frq="11914" n="Radio Beograd 1"/>
@@ -532,14 +530,16 @@
 	</Bouquet>
 	<Bouquet name="[E023.5] Towercom">
 		<S i="132d" t="ca2" on="3" s="235" frq="12363" n="Barrandov Krimi HD"/>
+		<S i="132a" t="ca2" on="3" s="235" frq="12363" n="Dvojka"/>
+		<S i="1329" t="ca2" on="3" s="235" frq="12363" n="Jednotka"/>
 		<S i="132c" t="ca2" on="3" s="235" frq="12363" n="Kino Barrandov HD"/>
 		<S i="1335" t="ca2" on="3" s="235" frq="12363" n="OCKO STAR"/>
+		<S i="1336" t="ca2" on="3" s="235" frq="12363" n="Otta - interaktivna sluzba"/>
 		<S i="1330" t="ca2" on="3" s="235" frq="12363" n="POWER TV"/>
 		<S i="1338" t="ca2" on="3" s="235" frq="12363" n="RDS SAT"/>
 		<S i="1331" t="ca2" on="3" s="235" frq="12363" n="Slagr TV"/>
-		<S i="1329" t="ca2" on="3" s="235" frq="12363" n="STV1 HD"/>
-		<S i="132a" t="ca2" on="3" s="235" frq="12363" n="STV2 HD"/>
 		<S i="1328" t="ca2" on="3" s="235" frq="12363" n="TA3 HD"/>
+		<S i="132f" t="ca2" on="3" s="235" frq="12363" n="Trojka"/>
 		<S i="132b" t="ca2" on="3" s="235" frq="12363" n="TV Barrandov HD"/>
 		<S i="132e" t="ca2" on="3" s="235" frq="12363" n="TV Noe HD"/>
 		<S i="1332" t="ca2" on="3" s="235" frq="12363" n="TV8 HD"/>
@@ -574,6 +574,9 @@
 		<S i="1429" t="ca2" on="3" s="235" frq="12363" n="VLNA VS"/>
 		<S i="1427" t="ca2" on="3" s="235" frq="12363" n="VLNA ZS"/>
 		<S i="134b" t="ca2" on="3" s="235" frq="12363" n="ZET"/>
+	</Bouquet>
+	<Bouquet name="[E023.5] TVP S.A.">
+		<S i="e83" t="bbf" on="3" s="235" frq="11581" n="TVP Polonia"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] Unknown Provider">
 		<S i="41a" t="0" on="1" s="235" frq="11644" n="1050 - WAWA Kielce"/>
@@ -643,28 +646,12 @@
 		<S i="1392" t="0" on="1" s="235" frq="11644" n="5010 - Testowy 2"/>
 		<S i="1f4a" t="0" on="1" s="235" frq="11644" n="8010 - Radio Rodzina"/>
 		<S i="1f54" t="0" on="1" s="235" frq="11644" n="8020 - Radio Wielkopolska"/>
-		<S i="5208" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x5208)"/>
-		<S i="55f0" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x55F0)"/>
-		<S i="59d8" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x59D8)"/>
-		<S i="5dc0" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x5DC0)"/>
-		<S i="61a8" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x61A8)"/>
-		<S i="6590" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x6590)"/>
-		<S i="6978" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x6978)"/>
-		<S i="6d60" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x6D60)"/>
-		<S i="7918" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x7918)"/>
-		<S i="7d00" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x7D00)"/>
-		<S i="80e8" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x80E8)"/>
-		<S i="84d0" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x84D0)"/>
-		<S i="88b8" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x88B8)"/>
-		<S i="8ca0" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x8CA0)"/>
-		<S i="9088" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x9088)"/>
-		<S i="9470" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x9470)"/>
-		<S i="c738" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0xC738)"/>
-		<S i="cb20" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0xCB20)"/>
-		<S i="cf08" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0xCF08)"/>
-		<S i="d2f0" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0xD2F0)"/>
-		<S i="d6d8" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0xD6D8)"/>
-		<S i="dac0" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0xDAC0)"/>
-		<S i="dea8" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0xDEA8)"/>
-		<S i="e290" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0xE290)"/>
+		<S i="2af8" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x2AF8)"/>
+		<S i="2ee0" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x2EE0)"/>
+		<S i="32c8" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x32C8)"/>
+		<S i="36b0" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x36B0)"/>
+		<S i="3a98" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x3A98)"/>
+		<S i="3e80" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x3E80)"/>
+		<S i="4268" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x4268)"/>
+		<S i="4650" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x4650)"/>
 	</Bouquet>

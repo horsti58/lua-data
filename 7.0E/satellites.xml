@@ -33,10 +33,8 @@
 		<transponder frequency="11617000" symbol_rate="30000000" polarization="1" fec_inner="4" system="1" modulation="1"/>
 		<transponder frequency="11637000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="1"/>
 		<transponder frequency="11679000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="1"/>
-		<transponder frequency="12526000" symbol_rate="6590000" polarization="1" fec_inner="2" system="1" modulation="2"/>
-		<transponder frequency="12530000" symbol_rate="1480000" polarization="0" fec_inner="3" system="0" modulation="1"/>
-		<transponder frequency="12539000" symbol_rate="2114000" polarization="1" fec_inner="4" system="1" modulation="2"/>
 		<transponder frequency="12547000" symbol_rate="2766000" polarization="1" fec_inner="4" system="1" modulation="2"/>
+		<transponder frequency="12530000" symbol_rate="1480000" polarization="0" fec_inner="3" system="0" modulation="1"/>
 		<transponder frequency="12549000" symbol_rate="2222000" polarization="1" fec_inner="4" system="1" modulation="1"/>
 		<transponder frequency="12556000" symbol_rate="4035000" polarization="1" fec_inner="4" system="1" modulation="2"/>
 		<transponder frequency="12604000" symbol_rate="30000000" polarization="0" fec_inner="2" system="1" modulation="2"/>
