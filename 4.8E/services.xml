@@ -171,7 +171,7 @@
 			<S i="1831" f="4" s="1" t="1" n="Unian TV"/>
 			<S i="1832" f="4" s="0" t="1" n="Кус-Кус"/>
 		</TS>
-		<TS id="00c9" on="0055" frq="11785000" inv="2" sr="27500000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
+		<TS id="00c9" on="0055" frq="11785000" inv="2" sr="27500000" fec="5" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="2774" f="4" s="1" t="1" n="LTV1"/>
 			<S i="2779" f="4" s="1" t="1" n="LTV7"/>
 			<S i="277e" f="4" s="1" t="1" n="TV3 (LV)"/>
@@ -192,7 +192,7 @@
 			<S i="27c9" f="4" s="1" t="19" n="Viasat Explore HD"/>
 			<S i="27ce" f="4" s="1" t="19" n="Viasat History HD"/>
 			<S i="27d8" f="4" s="1" t="1" n="MTV Hits"/>
-			<S i="27dd" f="4" s="1" t="1" n="Kidzone TV"/>
+			<S i="27dd" f="4" s="1" t="1" n="Kidzone+"/>
 			<S i="27e2" f="4" s="1" t="1" n="Kanal 12"/>
 			<S i="27e7" f="4" s="1" t="1" n="FOX"/>
 			<S i="27ec" f="4" s="1" t="1" n="Sony Channel"/>
@@ -481,13 +481,13 @@
 			<S i="0b69" f="4" s="1" t="19" n="TET XD"/>
 			<S i="0b6a" f="4" s="1" t="19" n="2+2 XD"/>
 			<S i="0b72" f="4" s="1" t="16" n="Rybalka"/>
-			<S i="19c8" f="4" s="0" t="c" n="SW7600 FTA"/>
-			<S i="19c9" f="4" s="0" t="c" n="SW7600 XTRA"/>
-			<S i="19ca" f="4" s="0" t="c" n="SW7601 XTRA"/>
-			<S i="19cb" f="4" s="0" t="c" n="SW Sk 1CAS XTRA"/>
-			<S i="19ce" f="4" s="0" t="c" n="SW NeotionCI+"/>
-			<S i="19cf" f="4" s="0" t="c" n="SW_Neotion_PRO2"/>
-			<S i="19d0" f="4" s="0" t="c" n="SW_Neotion_PRO8"/>
+			<S i="19c8" f="2" s="0" t="c" n="SW7600 FTA"/>
+			<S i="19c9" f="2" s="0" t="c" n="SW7600 XTRA"/>
+			<S i="19ca" f="2" s="0" t="c" n="SW7601 XTRA"/>
+			<S i="19cb" f="2" s="0" t="c" n="SW Sk 1CAS XTRA"/>
+			<S i="19ce" f="2" s="0" t="c" n="SW NeotionCI+"/>
+			<S i="19cf" f="2" s="0" t="c" n="SW_Neotion_PRO2"/>
+			<S i="19d0" f="2" s="0" t="c" n="SW_Neotion_PRO8"/>
 		</TS>
 		<TS id="002c" on="0055" frq="12265000" inv="2" sr="30000000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="1e15" f="4" s="1" t="1" n="1+1."/>

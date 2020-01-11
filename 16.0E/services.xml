@@ -468,29 +468,36 @@
 		</TS>
 		<TS id="016a" on="016e" frq="11400000" inv="2" sr="13846000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="000e" f="4" s="1" t="1" n="Klan Kosova"/>
-			<S i="000f" f="4" s="1" t="1" n="Syri TV"/>
+			<S i="000f" f="4" s="1" t="1" n="ABC NEWS"/>
 			<S i="0046" f="4" s="1" t="1" n="Tring History"/>
-			<S i="007a" f="4" s="1" t="1" n="Click TV"/>
-			<S i="007b" f="4" s="0" t="1" n="RTSH"/>
+			<S i="007a" f="2" s="1" t="1" n="Click TV"/>
+			<S i="007b" f="2" s="0" t="1" n="RTSH"/>
 			<S i="0087" f="4" s="0" t="1" n="RTK"/>
 			<S i="0321" f="4" s="1" t="1" n="Kids"/>
-			<S i="038a" f="4" s="1" t="1" n="Fox Life"/>
-			<S i="038b" f="4" s="1" t="1" n="Fox CRIME"/>
-			<S i="03f7" f="4" s="1" t="1" n="FOX"/>
+			<S i="038a" f="2" s="1" t="1" n="Fox Life"/>
+			<S i="038b" f="2" s="1" t="1" n="Fox CRIME"/>
+			<S i="03f7" f="2" s="1" t="1" n="FOX"/>
 			<S i="04c9" f="4" s="1" t="1" n="ELRODI"/>
-			<S i="0ac2" f="4" s="1" t="1" n="RTV 21 M"/>
+			<S i="0ac2" f="2" s="1" t="1" n="RTV 21 M"/>
 			<S i="0b0e" f="4" s="1" t="1" n="Bunga Bunga"/>
+			<S i="0e86" f="1" s="1" t="1" n="Prime"/>
 			<S i="126e" f="4" s="1" t="1" n="PRINCE KIDS"/>
+			<S i="1271" f="1" s="1" t="1" n="T 7"/>
 			<S i="132f" f="4" s="1" t="1" n="ARTKINO 1"/>
+			<S i="1330" f="1" s="1" t="1" n="ARTKINO 2"/>
+			<S i="1331" f="1" s="1" t="1" n="ARTKINO 3"/>
+			<S i="1332" f="1" s="1" t="1" n="ARTDOKU 1"/>
+			<S i="1333" f="1" s="1" t="1" n="ARTDOKU 2"/>
 			<S i="1335" f="4" s="1" t="1" n="EPISODE"/>
 			<S i="177b" f="4" s="1" t="1" n="DUKAGJINI"/>
 			<S i="1790" f="4" s="1" t="1" n="ALSAT M"/>
+			<S i="f2df" f="1" s="0" t="1" n="GURMANIA"/>
 		</TS>
 		<TS id="0168" on="016e" frq="11427000" inv="2" sr="27500000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="0001" f="4" s="0" t="1" n="Vizion Plus HD"/>
+			<S i="0001" f="4" s="1" t="1" n="Vizion Plus HD"/>
 			<S i="0002" f="4" s="1" t="1" n="Tring Super HD"/>
 			<S i="0003" f="4" s="1" t="1" n="Tring Sport News"/>
-			<S i="0005" f="4" s="1" t="1" n="Tring Festa"/>
+			<S i="0005" f="4" s="1" t="1" n="Tring Comedy"/>
 			<S i="0007" f="4" s="1" t="1" n="RTV 21"/>
 			<S i="0008" f="4" s="1" t="1" n="TIP TV"/>
 			<S i="0009" f="4" s="1" t="1" n="Tring Tring"/>
@@ -512,7 +519,7 @@
 			<S i="0080" f="4" s="0" t="1" n="FAX NEWS"/>
 			<S i="022b" f="4" s="1" t="1" n="Desire"/>
 			<S i="03e7" f="4" s="0" t="1" n="Kanali 7"/>
-			<S i="0817" f="4" s="0" t="c" n="OTA"/>
+			<S i="0817" f="2" s="0" t="c" n="OTA"/>
 			<S i="08d4" f="4" s="1" t="1" n="Tring Fantasy"/>
 			<S i="0c1c" f="4" s="1" t="1" n="Klan HD"/>
 			<S i="0c80" f="4" s="1" t="1" n="Klan Plus"/>

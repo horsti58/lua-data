@@ -35,7 +35,7 @@
 		<S i="27e2" t="c9" on="55" s="48" frq="11785" n="Kanal 12"/>
 		<S i="2850" t="ca" on="55" s="48" frq="11958" n="Kanal 2"/>
 		<S i="278d" t="c9" on="55" s="48" frq="11785" n="Kanāls 2"/>
-		<S i="27dd" t="c9" on="55" s="48" frq="11785" n="Kidzone TV"/>
+		<S i="27dd" t="c9" on="55" s="48" frq="11785" n="Kidzone+"/>
 		<S i="279c" t="c9" on="55" s="48" frq="11785" n="LNK"/>
 		<S i="2783" t="c9" on="55" s="48" frq="11785" n="LNT"/>
 		<S i="2774" t="c9" on="55" s="48" frq="11785" n="LTV1"/>
@@ -199,6 +199,7 @@
 		<S i="1a18" t="10" on="55" s="48" frq="12130" n="NLO TV"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] TV3 Group">
+		<S i="27dd" t="c9" on="55" s="48" frq="11785" n="Kidzone+"/>
 		<S i="27b0" t="c9" on="55" s="48" frq="11785" n="TV3 Film"/>
 		<S i="27b5" t="c9" on="55" s="48" frq="11785" n="TV3 Sport"/>
 		<S i="28a5" t="ca" on="55" s="48" frq="11958" n="TV3 Sport 2 HD"/>

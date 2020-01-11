@@ -109,7 +109,7 @@
 			<S i="010a" f="4" s="1" t="11" n="beIN SPORTS HD 3"/>
 			<S i="011e" f="4" s="0" t="11" n="TRT WORLD HD"/>
 		</TS>
-		<TS id="5208" on="007e" frq="10928000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+		<TS id="5208" on="007e" frq="10928000" inv="2" sr="30000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="1e79" f="4" s="1" t="11" n="DISCOVERY SCIENCE HD"/>
 			<S i="1e7c" f="4" s="1" t="11" n="NAT GEO PEOPLE HD"/>
 			<S i="1e7e" f="4" s="1" t="11" n="TEVE2 HD"/>
@@ -119,6 +119,7 @@
 			<S i="1e83" f="4" s="1" t="1" n="DİYANET TV"/>
 			<S i="1e84" f="4" s="1" t="11" n="Al Sunnah Al Nabawiyah TV HD"/>
 			<S i="1e85" f="4" s="1" t="11" n="Al Quran Al Kareem TV HD"/>
+			<S i="1e86" f="1" s="1" t="1" n="EURO STAR"/>
 		</TS>
 		<TS id="52d0" on="007e" frq="10928000" inv="2" sr="30000000" fec="5" pol="1" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="206d" f="4" s="1" t="11" n="beIN H&amp;E HD"/>
@@ -317,7 +318,7 @@
 		<TS id="c60c" on="007e" frq="11596000" inv="2" sr="30000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="1929" f="4" s="1" t="1" n="RAI 1"/>
 			<S i="192b" f="4" s="1" t="1" n="RTR PLANETA"/>
-			<S i="192c" f="4" s="1" t="1" n="EURONEWS"/>
+			<S i="192c" f="4" s="1" t="11" n="EURONEWS HD"/>
 			<S i="192e" f="4" s="1" t="1" n="TV5 MONDE EUROPE"/>
 			<S i="1931" f="4" s="1" t="11" n="CNN INT HD"/>
 			<S i="1934" f="4" s="1" t="11" n="MEZZO HD"/>
@@ -332,6 +333,7 @@
 			<S i="1943" f="4" s="0" t="81" n="SSUTEST2"/>
 			<S i="1944" f="4" s="1" t="1" n="KRT TV"/>
 			<S i="1945" f="4" s="1" t="11" n="TV 100 HD"/>
+			<S i="1946" f="1" s="1" t="1" n="NICK JR."/>
 		</TS>
 		<TS id="c47c" on="007e" frq="11637000" inv="2" sr="30000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="0258" f="4" s="1" t="11" n="HABERTÜRK HD"/>
