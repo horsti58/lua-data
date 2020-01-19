@@ -326,7 +326,7 @@
 		<TS id="0001" on="016e" frq="11262000" inv="2" sr="30000000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0004" f="4" s="0" t="1" n="BN SAT HD"/>
 			<S i="0005" f="4" s="0" t="1" n="BN Music HD"/>
-			<S i="0007" f="4" s="0" t="1" n="RTRS"/>
+			<S i="0007" f="4" s="1" t="1" n="RTRS"/>
 			<S i="0008" f="4" s="0" t="2" n="Radio Stari Grad"/>
 			<S i="0009" f="4" s="0" t="2" n="Radio Kalman"/>
 			<S i="000a" f="4" s="0" t="2" n="VIP Radio"/>
@@ -460,6 +460,7 @@
 			<S i="067f" f="4" s="1" t="1" n="Sitel"/>
 			<S i="0680" f="4" s="1" t="1" n="Kanal 5"/>
 			<S i="0681" f="4" s="1" t="1" n="Pikaboo"/>
+			<S i="0682" f="1" s="1" t="1" n="Cinemania HD"/>
 			<S i="0683" f="4" s="1" t="1" n="Kanal A HD"/>
 			<S i="0684" f="4" s="1" t="1" n="SK 2 SLO"/>
 			<S i="0685" f="4" s="1" t="1" n="CineStar Comedy"/>

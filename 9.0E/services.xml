@@ -244,6 +244,7 @@
 			<S i="01f9" f="4" s="1" t="19" n="FUEL TV HD"/>
 			<S i="01fa" f="4" s="1" t="1" n="Fix &amp; Foxi"/>
 			<S i="01fb" f="4" s="1" t="19" n="Penthouse Passion"/>
+			<S i="01fc" f="2" s="0" t="1" n="Blue Hustler"/>
 			<S i="01fd" f="4" s="1" t="19" n="Mezzo Live HD"/>
 			<S i="01fe" f="4" s="1" t="1" n="OstWest"/>
 			<S i="01ff" f="4" s="1" t="1" n="Kinomir"/>
@@ -407,6 +408,32 @@
 			<S i="0132" f="4" s="1" t="19" n="NITRO HD"/>
 			<S i="0133" f="4" s="1" t="19" n="n-tv HD"/>
 			<S i="ffff" f="4" s="1" t="c" n="unknown (0x1EDC_0xFFFF)"/>
+		</TS>
+		<TS id="791a" on="217c" frq="12257000" inv="2" sr="14302000" fec="10" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="0007" f="4" s="0" t="1" n="ILIKE.TV"/>
+			<S i="0008" f="4" s="0" t="1" n="CANALE 162"/>
+			<S i="000f" f="4" s="0" t="1" n="Juwelo"/>
+			<S i="0017" f="4" s="0" t="1" n="CHANNEL 24"/>
+			<S i="001e" f="4" s="0" t="1" n="HSE24 DONNA"/>
+			<S i="001f" f="4" s="0" t="1" n="RETE ITALIA"/>
+			<S i="0020" f="4" s="0" t="1" n="LA 4 ITALIA"/>
+			<S i="0021" f="4" s="0" t="1" n="GOLD TV ITALIA"/>
+			<S i="0022" f="4" s="0" t="1" n="LINEAGEM"/>
+			<S i="0023" f="4" s="0" t="1" n="LINEA ITALIA"/>
+			<S i="0024" f="4" s="0" t="1" n="ORLER TV"/>
+			<S i="0025" f="4" s="0" t="1" n="AIR ITALIA"/>
+			<S i="0026" f="4" s="0" t="1" n="HSE24 BEAUTY"/>
+			<S i="0027" f="4" s="0" t="1" n="DONNA SPORT TV"/>
+			<S i="002d" f="4" s="0" t="1" n="CANALE 165"/>
+			<S i="002e" f="4" s="0" t="1" n="RAINBOW"/>
+			<S i="005f" f="4" s="0" t="1" n="FIRE TV"/>
+			<S i="0060" f="4" s="0" t="1" n="LIFE 120 CHANNEL"/>
+			<S i="0061" f="4" s="0" t="1" n="MONDO CALCIO"/>
+			<S i="0062" f="4" s="0" t="1" n="CANALE 232"/>
+			<S i="0063" f="4" s="0" t="1" n="CANALE 259"/>
+			<S i="006e" f="4" s="0" t="1" n="Mediatext.it"/>
+			<S i="006f" f="4" s="0" t="1" n="Italia Channel"/>
+			<S i="0070" f="4" s="0" t="1" n="Pianeta Tv"/>
 		</TS>
 		<TS id="0005" on="00aa" frq="12284000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="03ec" f="4" s="1" t="1" n="Sirina TV HD"/>

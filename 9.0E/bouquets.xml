@@ -4,13 +4,13 @@
 	<Bouquet name="[E009.0] ARC/DCM1 TSOIP">
 		<S i="166" t="19c8" on="9e" s="90" frq="12034" n="Disney Channel ME"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] ARQIVA">
-		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
-	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva">
 		<S i="451" t="1af4" on="9e" s="90" frq="12092" n="DISJ1_CEMA"/>
 		<S i="479" t="1af4" on="9e" s="90" frq="12092" n="E! Entertainment Europe"/>
 		<S i="456" t="1af4" on="9e" s="90" frq="12092" n="Luxe TV"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] ARQIVA">
+		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva LTD">
 		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="TV5MONDE France Belgique Suisse"/>
@@ -86,19 +86,6 @@
 		<S i="64a" t="1" on="64" s="90" frq="11823" n="Ros * Ros"/>
 		<S i="654" t="1" on="64" s="90" frq="11823" n="Ros * Ros Selex"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] GlobeCast">
-		<S i="165" t="19c8" on="9e" s="90" frq="12034" n="BBC_Entertainment_Europe"/>
-		<S i="273" t="1900" on="9c" s="90" frq="11996" n="CBS Reality EMEA"/>
-		<S i="26b" t="1900" on="9c" s="90" frq="11996" n="CCTV-4"/>
-		<S i="26f" t="1900" on="9c" s="90" frq="11996" n="CGTN Documentary"/>
-		<S i="26e" t="1900" on="9c" s="90" frq="11996" n="CGTN-A"/>
-		<S i="26c" t="1900" on="9c" s="90" frq="11996" n="CGTN-E"/>
-		<S i="26d" t="1900" on="9c" s="90" frq="11996" n="CGTN-R"/>
-		<S i="275" t="1900" on="9c" s="90" frq="11996" n="JimJam ME"/>
-		<S i="274" t="1900" on="9c" s="90" frq="11996" n="JimJam PE"/>
-		<S i="272" t="1900" on="9c" s="90" frq="11996" n="PTV Global"/>
-		<S i="277" t="1900" on="9c" s="90" frq="11996" n="EDM FM"/>
-	</Bouquet>
 	<Bouquet name="[E009.0] GLOBECAST">
 		<S i="cc" t="19c8" on="9e" s="90" frq="12034" n="6 TER Suisse HD"/>
 		<S i="168" t="19c8" on="9e" s="90" frq="12034" n="Karusel Int"/>
@@ -111,6 +98,19 @@
 		<S i="163" t="19c8" on="9e" s="90" frq="12034" n="Télé Sahel"/>
 		<S i="cd" t="19c8" on="9e" s="90" frq="12034" n="W9 Suisse HD"/>
 		<S i="164" t="19c8" on="9e" s="90" frq="12034" n="La Voix Du Sahel"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] GlobeCast">
+		<S i="165" t="19c8" on="9e" s="90" frq="12034" n="BBC_Entertainment_Europe"/>
+		<S i="273" t="1900" on="9c" s="90" frq="11996" n="CBS Reality EMEA"/>
+		<S i="26b" t="1900" on="9c" s="90" frq="11996" n="CCTV-4"/>
+		<S i="26f" t="1900" on="9c" s="90" frq="11996" n="CGTN Documentary"/>
+		<S i="26e" t="1900" on="9c" s="90" frq="11996" n="CGTN-A"/>
+		<S i="26c" t="1900" on="9c" s="90" frq="11996" n="CGTN-E"/>
+		<S i="26d" t="1900" on="9c" s="90" frq="11996" n="CGTN-R"/>
+		<S i="275" t="1900" on="9c" s="90" frq="11996" n="JimJam ME"/>
+		<S i="274" t="1900" on="9c" s="90" frq="11996" n="JimJam PE"/>
+		<S i="272" t="1900" on="9c" s="90" frq="11996" n="PTV Global"/>
+		<S i="277" t="1900" on="9c" s="90" frq="11996" n="EDM FM"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Harmonic">
 		<S i="276" t="1900" on="9c" s="90" frq="11996" n="Extreme Sports"/>
@@ -411,6 +411,32 @@
 	</Bouquet>
 	<Bouquet name="[E009.0] PBS">
 		<S i="dc5" t="16a8" on="9c" s="90" frq="11881" n="MCM TOP"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] Persidera">
+		<S i="25" t="791a" on="217c" s="90" frq="12257" n="AIR ITALIA"/>
+		<S i="8" t="791a" on="217c" s="90" frq="12257" n="CANALE 162"/>
+		<S i="2d" t="791a" on="217c" s="90" frq="12257" n="CANALE 165"/>
+		<S i="62" t="791a" on="217c" s="90" frq="12257" n="CANALE 232"/>
+		<S i="63" t="791a" on="217c" s="90" frq="12257" n="CANALE 259"/>
+		<S i="17" t="791a" on="217c" s="90" frq="12257" n="CHANNEL 24"/>
+		<S i="27" t="791a" on="217c" s="90" frq="12257" n="DONNA SPORT TV"/>
+		<S i="5f" t="791a" on="217c" s="90" frq="12257" n="FIRE TV"/>
+		<S i="21" t="791a" on="217c" s="90" frq="12257" n="GOLD TV ITALIA"/>
+		<S i="26" t="791a" on="217c" s="90" frq="12257" n="HSE24 BEAUTY"/>
+		<S i="1e" t="791a" on="217c" s="90" frq="12257" n="HSE24 DONNA"/>
+		<S i="7" t="791a" on="217c" s="90" frq="12257" n="ILIKE.TV"/>
+		<S i="6f" t="791a" on="217c" s="90" frq="12257" n="Italia Channel"/>
+		<S i="f" t="791a" on="217c" s="90" frq="12257" n="Juwelo"/>
+		<S i="20" t="791a" on="217c" s="90" frq="12257" n="LA 4 ITALIA"/>
+		<S i="60" t="791a" on="217c" s="90" frq="12257" n="LIFE 120 CHANNEL"/>
+		<S i="23" t="791a" on="217c" s="90" frq="12257" n="LINEA ITALIA"/>
+		<S i="22" t="791a" on="217c" s="90" frq="12257" n="LINEAGEM"/>
+		<S i="6e" t="791a" on="217c" s="90" frq="12257" n="Mediatext.it"/>
+		<S i="61" t="791a" on="217c" s="90" frq="12257" n="MONDO CALCIO"/>
+		<S i="24" t="791a" on="217c" s="90" frq="12257" n="ORLER TV"/>
+		<S i="70" t="791a" on="217c" s="90" frq="12257" n="Pianeta Tv"/>
+		<S i="2e" t="791a" on="217c" s="90" frq="12257" n="RAINBOW"/>
+		<S i="1f" t="791a" on="217c" s="90" frq="12257" n="RETE ITALIA"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] RAI">
 		<S i="daf" t="16a8" on="9c" s="90" frq="11881" n="Rai Africa"/>

@@ -280,7 +280,7 @@
 			<S i="1cbe" f="4" s="1" t="19" n="Viasat Sport Extra"/>
 		</TS>
 		<TS id="001c" on="0046" frq="11403000" inv="2" sr="25000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="0279" f="4" s="1" t="16" n="Norway Live"/>
+			<S i="0279" f="2" s="1" t="16" n="Norway Live"/>
 			<S i="1161" f="4" s="1" t="19" n="Viasat Series HD"/>
 			<S i="1b5e" f="4" s="1" t="16" n="Cartoon Network"/>
 			<S i="1b5f" f="4" s="1" t="16" n="CNN International"/>
@@ -597,6 +597,7 @@
 			<S i="76da" f="4" s="1" t="1" n="Discovery Channel"/>
 			<S i="76db" f="4" s="1" t="1" n="Auto Motor Sport"/>
 			<S i="76dc" f="4" s="1" t="1" n="Auto Motor Sport( SVT)"/>
+			<S i="76dd" f="1" s="1" t="1" n="AMC RO."/>
 		</TS>
 		<TS id="0029" on="0046" frq="12015000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="106a" f="4" s="1" t="19" n="HISTORY HD"/>
@@ -815,7 +816,7 @@
 			<S i="0fb1" f="4" s="1" t="16" n="TV Folklorika"/>
 			<S i="0fb2" f="4" s="1" t="16" n="FEM3"/>
 			<S i="0fb3" f="4" s="1" t="1" n="Fine Living"/>
-			<S i="0fb4" f="4" s="1" t="19" n="Digi Sport 5 HD"/>
+			<S i="0fb4" f="4" s="1" t="19" n="PREMIER SPORT CZ HD"/>
 			<S i="0fb5" f="4" s="1" t="1" n="HBO 3 HD"/>
 			<S i="0fb6" f="4" s="1" t="1" n="Viasat Explore HD"/>
 			<S i="0fb7" f="4" s="1" t="16" n="UP Network"/>
@@ -879,6 +880,7 @@
 			<S i="2331" f="4" s="1" t="19" n="TS Sports 10"/>
 		</TS>
 		<TS id="004d" on="0046" frq="12399000" inv="2" sr="30000000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="1b90" f="1" s="0" t="16" n="Test 7056"/>
 			<S i="2328" f="4" s="1" t="19" n="TS Sports 1"/>
 			<S i="2329" f="4" s="1" t="19" n="TS Sports 2"/>
 			<S i="232a" f="4" s="1" t="19" n="TS Sports 3"/>

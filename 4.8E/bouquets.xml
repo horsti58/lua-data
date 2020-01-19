@@ -1,3 +1,6 @@
+	<Bouquet name="[E004.8] ">
+		<S i="1e1c" t="2c" on="55" s="48" frq="12265" n="Bigudi."/>
+	</Bouquet>
 	<Bouquet name="[E004.8] 1+1 Media">
 		<S i="1831" t="c" on="55" s="48" frq="11766" n="Unian TV"/>
 	</Bouquet>
@@ -89,11 +92,6 @@
 		<S i="27c9" t="c9" on="55" s="48" frq="11785" n="Viasat Explore HD"/>
 		<S i="27ce" t="c9" on="55" s="48" frq="11785" n="Viasat History HD"/>
 	</Bouquet>
-	<Bouquet name="[E004.8] ARQIVA">
-		<S i="46" t="0" on="1" s="48" frq="12303" n="BBC - CCI DAB"/>
-		<S i="50b" t="0" on="1" s="48" frq="12303" n="Belsat TV"/>
-		<S i="503" t="0" on="1" s="48" frq="12303" n="IRN"/>
-	</Bouquet>
 	<Bouquet name="[E004.8] Arqiva">
 		<S i="2d0" t="0" on="1" s="48" frq="12303" n="BBC AM Dist3"/>
 		<S i="2da" t="0" on="1" s="48" frq="12303" n="BBC AM Dist4"/>
@@ -101,6 +99,11 @@
 		<S i="3ee" t="0" on="1" s="48" frq="12303" n="Absolute Radio"/>
 		<S i="2bc" t="0" on="1" s="48" frq="12303" n="BBC AM Dist1"/>
 		<S i="2c6" t="0" on="1" s="48" frq="12303" n="BBC AM Dist2"/>
+	</Bouquet>
+	<Bouquet name="[E004.8] ARQIVA">
+		<S i="46" t="0" on="1" s="48" frq="12303" n="BBC - CCI DAB"/>
+		<S i="50b" t="0" on="1" s="48" frq="12303" n="Belsat TV"/>
+		<S i="503" t="0" on="1" s="48" frq="12303" n="IRN"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] AVERS">
 		<S i="1815" t="c" on="55" s="48" frq="11766" n="AVERS"/>
@@ -118,6 +121,10 @@
 	<Bouquet name="[E004.8] Glas">
 		<S i="1982" t="f" on="55" s="48" frq="12073" n="GLAS"/>
 		<S i="1991" t="f" on="55" s="48" frq="12073" n="KARAVAN"/>
+	</Bouquet>
+	<Bouquet name="[E004.8] Harmonic">
+		<S i="1e1f" t="2c" on="55" s="48" frq="12265" n="Trofey"/>
+		<S i="1e1d" t="2c" on="55" s="48" frq="12265" n="Unian TV."/>
 	</Bouquet>
 	<Bouquet name="[E004.8] Hromadske TV">
 		<S i="1996" t="f" on="55" s="48" frq="12073" n="hromadske"/>
@@ -163,6 +170,8 @@
 		<S i="1e29" t="2c" on="55" s="48" frq="12265" n="Kyiv TV"/>
 		<S i="1e23" t="2c" on="55" s="48" frq="12265" n="Nauka"/>
 		<S i="1e22" t="2c" on="55" s="48" frq="12265" n="Terra"/>
+		<S i="1e2b" t="2c" on="55" s="48" frq="12265" n="TEST-P"/>
+		<S i="1e2c" t="2c" on="55" s="48" frq="12265" n="TEST-U"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] SOLAR MEDIA">
 		<S i="1b08" t="11" on="55" s="48" frq="12284" n="SONCE (UA)"/>
@@ -324,11 +333,10 @@
 		<S i="1ece" t="1c" on="56" s="48" frq="12015" n="NRK mP3"/>
 		<S i="1ec7" t="1c" on="56" s="48" frq="12015" n="NRK P1 Buskerud"/>
 		<S i="1ebd" t="1c" on="56" s="48" frq="12015" n="NRK P1 Finnmark"/>
-		<S i="1ec8" t="1c" on="56" s="48" frq="12015" n="NRK P1 Hedmark-Oppland"/>
 		<S i="1ec2" t="1c" on="56" s="48" frq="12015" n="NRK P1 Hordaland"/>
+		<S i="1ec8" t="1c" on="56" s="48" frq="12015" n="NRK P1 Innlandet"/>
 		<S i="1ec0" t="1c" on="56" s="48" frq="12015" n="NRK P1 Møre og Romsdal"/>
 		<S i="1ebe" t="1c" on="56" s="48" frq="12015" n="NRK P1 Nordland"/>
-		<S i="1ebb" t="1c" on="56" s="48" frq="12015" n="NRK P1 Oslo"/>
 		<S i="1ec3" t="1c" on="56" s="48" frq="12015" n="NRK P1 Rogaland"/>
 		<S i="1ec1" t="1c" on="56" s="48" frq="12015" n="NRK P1 Sogn og Fjordane"/>
 		<S i="1ec4" t="1c" on="56" s="48" frq="12015" n="NRK P1 Sørlandet"/>
@@ -337,6 +345,7 @@
 		<S i="1ebf" t="1c" on="56" s="48" frq="12015" n="NRK P1 Trøndelag"/>
 		<S i="1ec6" t="1c" on="56" s="48" frq="12015" n="NRK P1 Vestfold"/>
 		<S i="1ec9" t="1c" on="56" s="48" frq="12015" n="NRK P1 Østfold"/>
+		<S i="1ebb" t="1c" on="56" s="48" frq="12015" n="NRK P1 Østlandssendingen"/>
 		<S i="1ed3" t="1c" on="56" s="48" frq="12015" n="NRK P1+"/>
 		<S i="1ed0" t="1c" on="56" s="48" frq="12015" n="NRK P13"/>
 		<S i="1eca" t="1c" on="56" s="48" frq="12015" n="NRK P2"/>
@@ -348,6 +357,7 @@
 		<S i="1eba" t="1c" on="56" s="48" frq="12015" n="NRK Tegnspråk"/>
 		<S i="1ed1" t="1c" on="56" s="48" frq="12015" n="NRK Været til sjøs"/>
 		<S i="40f" t="1c" on="56" s="48" frq="12015" n="NRK1"/>
+		<S i="1eb8" t="1c" on="56" s="48" frq="12015" n="NRK1 Innlandet"/>
 		<S i="465c" t="1c" on="56" s="48" frq="12015" n="NRK1 lydtekst"/>
 		<S i="1eb2" t="1c" on="56" s="48" frq="12015" n="NRK1 Midtnytt"/>
 		<S i="1eb3" t="1c" on="56" s="48" frq="12015" n="NRK1 Møre og Romsdal"/>
@@ -355,10 +365,9 @@
 		<S i="1eb0" t="1c" on="56" s="48" frq="12015" n="NRK1 Nordnytt"/>
 		<S i="1eb5" t="1c" on="56" s="48" frq="12015" n="NRK1 Rogaland"/>
 		<S i="1eb6" t="1c" on="56" s="48" frq="12015" n="NRK1 Sørlandet"/>
+		<S i="1eb7" t="1c" on="56" s="48" frq="12015" n="NRK1 Vestfold og Telemark"/>
 		<S i="1eb4" t="1c" on="56" s="48" frq="12015" n="NRK1 Vestlandsrevyen"/>
-		<S i="1eb7" t="1c" on="56" s="48" frq="12015" n="NRK1 Østafjells"/>
 		<S i="1eb9" t="1c" on="56" s="48" frq="12015" n="NRK1 Østfold"/>
-		<S i="1eb8" t="1c" on="56" s="48" frq="12015" n="NRK1 Østnytt"/>
 		<S i="410" t="1c" on="56" s="48" frq="12015" n="NRK2"/>
 		<S i="465d" t="1c" on="56" s="48" frq="12015" n="NRK2 lydtekst"/>
 		<S i="465e" t="1c" on="56" s="48" frq="12015" n="NRKSuper/NRK3lydtekst"/>
@@ -370,6 +379,7 @@
 		<S i="a2d" t="22" on="56" s="48" frq="11265" n="Paramount Network SE"/>
 		<S i="1e19" t="2c" on="55" s="48" frq="12265" n="ParamountChannel"/>
 		<S i="1cc5" t="13" on="55" s="48" frq="12399" n="PIXEL"/>
+		<S i="1e1b" t="2c" on="55" s="48" frq="12265" n="Plus Plus."/>
 		<S i="6f" t="65" on="1" s="48" frq="12418" n="PPTV1"/>
 		<S i="71" t="c9" on="1" s="48" frq="12149" n="PPTV1-IE"/>
 		<S i="72" t="c9" on="1" s="48" frq="12149" n="PPTV1-UK"/>

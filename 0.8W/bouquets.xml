@@ -226,7 +226,6 @@
 		<S i="7dc" t="af2" on="bb" s="-8" frq="11977" n="Digi Sport 1 HD"/>
 		<S i="fba" t="af4" on="bb" s="-8" frq="12245" n="Digi Sport 2 HD"/>
 		<S i="7de" t="af2" on="bb" s="-8" frq="11977" n="Digi Sport 3 HD"/>
-		<S i="fb4" t="af4" on="bb" s="-8" frq="12245" n="Digi Sport 5 HD"/>
 		<S i="bcb" t="af3" on="bb" s="-8" frq="12169" n="Discovery Science"/>
 		<S i="fab" t="af4" on="bb" s="-8" frq="12245" n="Discovery Turbo Xtra"/>
 		<S i="bd0" t="af3" on="bb" s="-8" frq="12169" n="Disney Junior"/>
@@ -264,6 +263,7 @@
 		<S i="bcf" t="af3" on="bb" s="-8" frq="12169" n="Nova Gold HD"/>
 		<S i="400" t="af1" on="bb" s="-8" frq="12054" n="Nova HD"/>
 		<S i="3f8" t="af1" on="bb" s="-8" frq="12054" n="Plus HD"/>
+		<S i="fb4" t="af4" on="bb" s="-8" frq="12245" n="PREMIER SPORT CZ HD"/>
 		<S i="bde" t="af3" on="bb" s="-8" frq="12169" n="PREMIER SPORT HD"/>
 		<S i="1b66" t="af7" on="bb" s="-8" frq="12687" n="Prima COOL HD"/>
 		<S i="3fa" t="af1" on="bb" s="-8" frq="12054" n="Prima HD"/>
@@ -483,8 +483,8 @@
 		<S i="465d" t="46" on="46" s="-8" frq="10747" n="NRK2 lydtekst"/>
 		<S i="2f44" t="a" on="46" s="-8" frq="10934" n="OnePlace Bootload"/>
 		<S i="1b58" t="22" on="46" s="-8" frq="11389" n="P4 Digital"/>
-		<S i="4368" t="2b" on="46" s="-8" frq="11341" n="Paramount Network (D)"/>
 		<S i="1c2d" t="2b" on="46" s="-8" frq="11341" n="Paramount Network (D)"/>
+		<S i="4368" t="2b" on="46" s="-8" frq="11341" n="Paramount Network (D)"/>
 		<S i="1c34" t="2b" on="46" s="-8" frq="11341" n="Paramount Network (S)"/>
 		<S i="5f7" t="22" on="46" s="-8" frq="11389" n="Radio Norge"/>
 		<S i="1786" t="22" on="46" s="-8" frq="11389" n="Radio Rock"/>
@@ -543,6 +543,7 @@
 		<S i="1f1e" t="4f" on="46" s="-8" frq="12437" n="Telia Liiga 6"/>
 		<S i="1f1f" t="4f" on="46" s="-8" frq="12437" n="Telia Liiga 7"/>
 		<S i="1f20" t="4f" on="46" s="-8" frq="12437" n="Telia Liiga Studio"/>
+		<S i="1b90" t="4d" on="46" s="-8" frq="12399" n="Test 7056"/>
 		<S i="1d42" t="47" on="46" s="-8" frq="10716" n="Test 7490"/>
 		<S i="232e" t="54" on="46" s="-8" frq="12360" n="Test 9006"/>
 		<S i="32ca" t="29" on="46" s="-8" frq="12015" n="Test_13002"/>
@@ -800,9 +801,9 @@
 		<S i="78c7" t="2c5" on="600" s="-8" frq="12265" n="Fem3 HU."/>
 		<S i="7600" t="2be" on="600" s="-8" frq="11766" n="Film + CZE"/>
 		<S i="7615" t="2be" on="600" s="-8" frq="11766" n="Film + CZE ( SVT)"/>
-		<S i="75fe" t="2be" on="600" s="-8" frq="11766" n="Film Cafe"/>
 		<S i="7616" t="2be" on="600" s="-8" frq="11766" n="Film Cafe"/>
 		<S i="76cb" t="2c0" on="600" s="-8" frq="11996" n="Film Cafe"/>
+		<S i="75fe" t="2be" on="600" s="-8" frq="11766" n="Film Cafe"/>
 		<S i="76cf" t="2c0" on="600" s="-8" frq="11996" n="Film Mania"/>
 		<S i="75fb" t="2be" on="600" s="-8" frq="11766" n="Film+"/>
 		<S i="760d" t="2be" on="600" s="-8" frq="11766" n="Film+ (SVT)"/>
