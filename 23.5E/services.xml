@@ -214,7 +214,7 @@
 			<S i="4e51" f="4" s="0" t="1" n="Pink Comedy"/>
 			<S i="4e53" f="4" s="0" t="1" n="Pink Western"/>
 			<S i="4e54" f="4" s="0" t="1" n="Pink Romance"/>
-			<S i="4e55" f="4" s="1" t="1" n="Pink Sci-Fi &amp; Fantasy"/>
+			<S i="4e55" f="4" s="0" t="1" n="Pink Sci-Fi &amp; Fantasy"/>
 		</TS>
 		<TS id="0c86" on="0003" frq="11817000" inv="2" sr="30000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="4e57" f="4" s="0" t="1" n="PINK World Cinema"/>
@@ -363,7 +363,7 @@
 			<S i="36fc" f="4" s="1" t="16" n="Disney CZ"/>
 			<S i="36fd" f="4" s="1" t="16" n="duck TV"/>
 			<S i="36fe" f="4" s="1" t="16" n="TV Paprika"/>
-			<S i="36ff" f="1" s="1" t="16" n="Test"/>
+			<S i="36ff" f="4" s="1" t="16" n="Test"/>
 		</TS>
 		<TS id="0c8e" on="0003" frq="11973000" inv="2" sr="29900000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="371e" f="4" s="1" t="19" n="Nova Sport 2 HD"/>
@@ -408,16 +408,16 @@
 			<S i="335a" f="4" s="1" t="16" n="CS History"/>
 			<S i="335b" f="4" s="1" t="19" n="Seznam.cz HD"/>
 			<S i="335c" f="4" s="1" t="16" n="Nickelodeon CZ"/>
-			<S i="3372" f="2" s="1" t="c" n="OTA SMIT new"/>
-			<S i="337f" f="2" s="0" t="c" n="Mascom MC280"/>
-			<S i="3381" f="2" s="0" t="c" n="OTA SMIT"/>
-			<S i="3383" f="2" s="0" t="c" n="M7 Zenterio"/>
-			<S i="338b" f="2" s="0" t="c" n="M7 DL DSR7141"/>
-			<S i="338c" f="2" s="0" t="c" n="Nagra DL DSR7141"/>
-			<S i="338d" f="2" s="0" t="c" n="M7 DL DSR 8141"/>
-			<S i="338e" f="2" s="0" t="c" n="Nagra DL DSR8141"/>
-			<S i="338f" f="2" s="0" t="d4" n="EPG Nagra"/>
-			<S i="364c" f="2" s="0" t="c" n="Hyundai SAT801"/>
+			<S i="3372" f="4" s="1" t="c" n="OTA SMIT new"/>
+			<S i="337f" f="4" s="0" t="c" n="Mascom MC280"/>
+			<S i="3381" f="4" s="0" t="c" n="OTA SMIT"/>
+			<S i="3383" f="4" s="0" t="c" n="M7 Zenterio"/>
+			<S i="338b" f="4" s="0" t="c" n="M7 DL DSR7141"/>
+			<S i="338c" f="4" s="0" t="c" n="Nagra DL DSR7141"/>
+			<S i="338d" f="4" s="0" t="c" n="M7 DL DSR 8141"/>
+			<S i="338e" f="4" s="0" t="c" n="Nagra DL DSR8141"/>
+			<S i="338f" f="4" s="0" t="d4" n="EPG Nagra"/>
+			<S i="364c" f="4" s="0" t="c" n="Hyundai SAT801"/>
 		</TS>
 		<TS id="0c94" on="0003" frq="12090000" inv="2" sr="29900000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0302" f="4" s="1" t="19" n="Nat Geo HD"/>
@@ -562,13 +562,13 @@
 			<S i="132d" f="4" s="1" t="19" n="Barrandov Krimi HD"/>
 			<S i="132e" f="4" s="0" t="19" n="TV Noe HD"/>
 			<S i="132f" f="4" s="1" t="16" n="Trojka"/>
-			<S i="1330" f="4" s="0" t="16" n="POWER TV"/>
-			<S i="1331" f="4" s="0" t="1" n="Slagr TV"/>
+			<S i="1330" f="2" s="0" t="16" n="POWER TV"/>
+			<S i="1331" f="2" s="0" t="1" n="Slagr TV"/>
 			<S i="1332" f="4" s="0" t="19" n="TV8 HD"/>
-			<S i="1335" f="4" s="0" t="16" n="OCKO STAR"/>
+			<S i="1335" f="2" s="0" t="16" n="OCKO STAR"/>
 			<S i="1336" f="4" s="0" t="1" n="Otta - interaktivna sluzba"/>
 			<S i="1337" f="4" s="0" t="2" n="Radio Jazz"/>
-			<S i="1338" f="2" s="0" t="c" n="RDS SAT"/>
+			<S i="1338" f="4" s="0" t="c" n="RDS SAT"/>
 			<S i="1339" f="4" s="0" t="2" n="Slovensko"/>
 			<S i="133a" f="4" s="0" t="2" n="ReginaBA"/>
 			<S i="133b" f="4" s="0" t="2" n="ReginaBB"/>
@@ -586,7 +586,7 @@
 			<S i="1347" f="4" s="0" t="2" n="Jemne V"/>
 			<S i="1348" f="4" s="0" t="2" n="Radio Lumen"/>
 			<S i="1349" f="4" s="0" t="2" n="Antena Rock"/>
-			<S i="134a" f="4" s="0" t="2" n="Radio-7"/>
+			<S i="134a" f="2" s="0" t="2" n="Radio-7"/>
 			<S i="134b" f="4" s="0" t="2" n="ZET"/>
 			<S i="134c" f="4" s="0" t="2" n="BEAT"/>
 			<S i="134d" f="4" s="0" t="2" n="BEAT JM"/>

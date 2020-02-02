@@ -30,7 +30,7 @@
 			<S i="033e" f="4" s="0" t="2" n="Groot nieuws Radio"/>
 			<S i="0362" f="4" s="0" t="2" n="TRT tamil"/>
 			<S i="0363" f="4" s="0" t="19" n="MUSEUM"/>
-			<S i="0364" f="4" s="1" t="19" n="La Chaîne du Père Noël"/>
+			<S i="0364" f="2" s="1" t="19" n="La Chaîne du Père Noël"/>
 			<S i="0365" f="4" s="0" t="19" n="ESport24 TV"/>
 			<S i="0366" f="4" s="0" t="16" n="NLM TV MP4"/>
 		</TS>
@@ -53,7 +53,7 @@
 			<S i="0206" f="4" s="1" t="16" n="National Geo"/>
 			<S i="0207" f="4" s="1" t="16" n="Secret Circle"/>
 			<S i="0208" f="4" s="1" t="16" n="Meiden van Holland"/>
-			<S i="0209" f="4" s="1" t="16" n="BBC First"/>
+			<S i="0209" f="4" s="1" t="19" n="BBC First Holland HD"/>
 			<S i="020b" f="4" s="1" t="19" n="Penthouse Gold"/>
 			<S i="020c" f="4" s="1" t="19" n="Penthouse Quickies"/>
 			<S i="020d" f="4" s="1" t="16" n="24 Kitchen"/>
@@ -109,11 +109,11 @@
 			<S i="0090" f="4" s="1" t="2" n="Stuttgart Eagle"/>
 			<S i="0091" f="4" s="1" t="2" n="Vicenza Eagle"/>
 			<S i="0092" f="4" s="1" t="2" n="Weisbaden Eagle"/>
-			<S i="0093" f="1" s="1" t="2" n="Bahrain"/>
+			<S i="0093" f="4" s="1" t="2" n="Bahrain"/>
 			<S i="0094" f="4" s="1" t="2" n="Sembach Afternoon Radio"/>
 			<S i="0191" f="4" s="1" t="19" n="Reaper (EPG Video)"/>
 			<S i="0192" f="4" s="0" t="19" n="Bars &amp; Tone"/>
-			<S i="0c03" f="2" s="0" t="c" n="INV1-afnatl"/>
+			<S i="0c03" f="4" s="0" t="c" n="INV1-afnatl"/>
 		</TS>
 		<TS id="0001" on="0064" frq="11823000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="064a" f="4" s="0" t="2" n="Ros * Ros"/>
@@ -126,7 +126,7 @@
 			<S i="0726" f="4" s="1" t="1" n="SISAL 3"/>
 			<S i="0730" f="4" s="1" t="1" n="SISAL 4"/>
 			<S i="073a" f="4" s="1" t="1" n="SISAL 5"/>
-			<S i="0758" f="1" s="0" t="2" n="Radio WE 2020"/>
+			<S i="0758" f="4" s="0" t="2" n="Radio WE 2020"/>
 		</TS>
 		<TS id="0001" on="00aa" frq="11843000" inv="2" sr="27500000" fec="10" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="03f5" f="4" s="1" t="1" n="Stingray iConcerts"/>
@@ -212,7 +212,7 @@
 			<S i="0065" f="4" s="0" t="19" n="M1 HD"/>
 			<S i="0066" f="4" s="0" t="19" n="M2 HD"/>
 			<S i="0067" f="4" s="0" t="19" n="Duna HD"/>
-			<S i="0068" f="4" s="1" t="19" n="M4 Sport HD"/>
+			<S i="0068" f="4" s="0" t="19" n="M4 Sport HD"/>
 			<S i="0069" f="4" s="0" t="16" n="Duna World SD"/>
 			<S i="006a" f="4" s="0" t="19" n="M5 HD"/>
 			<S i="006e" f="4" s="1" t="1" n="M3"/>
@@ -287,7 +287,7 @@
 			<S i="0165" f="4" s="1" t="1" n="BBC_Entertainment_Europe"/>
 			<S i="0166" f="4" s="1" t="1" n="Disney Channel ME"/>
 			<S i="0168" f="4" s="0" t="1" n="Karusel Int"/>
-			<S i="0169" f="4" s="0" t="1" n="MST"/>
+			<S i="0169" f="4" s="1" t="1" n="MST"/>
 			<S i="016a" f="4" s="1" t="1" n="Outdoor HD"/>
 		</TS>
 		<TS id="0002" on="00aa" frq="12054000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -330,8 +330,8 @@
 			<S i="01a6" f="4" s="1" t="16" n="Family7"/>
 			<S i="01a7" f="4" s="1" t="16" n="Fox"/>
 			<S i="01a8" f="4" s="1" t="19" n="Fox Sports 1 HD"/>
-			<S i="01a9" f="4" s="1" t="16" n="Fox Sports 2"/>
-			<S i="01aa" f="4" s="1" t="16" n="Fox Sports 3"/>
+			<S i="01a9" f="4" s="1" t="19" n="Fox Sports 2 HD"/>
+			<S i="01aa" f="4" s="1" t="19" n="Fox Sports 3 HD"/>
 			<S i="01af" f="4" s="1" t="19" n="Travel XP HD"/>
 			<S i="01b0" f="4" s="0" t="19" n="Enjoy TV HD"/>
 			<S i="01b1" f="4" s="0" t="2" n="NPO Radio 1"/>
@@ -358,7 +358,7 @@
 			<S i="09f6" f="4" s="1" t="1" n="RTR Planeta"/>
 			<S i="0aa0" f="4" s="1" t="1" n="EuroNews French"/>
 			<S i="0abe" f="4" s="1" t="1" n="Marco Polo TV"/>
-			<S i="0b22" f="4" s="1" t="1" n="Channel One Russia"/>
+			<S i="0b22" f="4" s="1" t="16" n="THT Russia"/>
 			<S i="0b54" f="4" s="1" t="19" n="Pro7 FUN HD"/>
 			<S i="0b86" f="4" s="1" t="1" n="Kinowelt TV"/>
 			<S i="0bb8" f="4" s="1" t="1" n="BonGusto"/>
@@ -371,7 +371,7 @@
 			<S i="03fb" f="4" s="1" t="1" n="Promo HD"/>
 			<S i="03fc" f="4" s="1" t="1" n="IONIAN TV"/>
 			<S i="040e" f="4" s="1" t="1" n="FOX HD"/>
-			<S i="041c" f="4" s="1" t="1" n="Cosmote Cinema Christmas"/>
+			<S i="041c" f="4" s="1" t="1" n="Cosmote Cinema Oscars HD"/>
 			<S i="0455" f="4" s="1" t="1" n="COSMOTESport5HD"/>
 			<S i="0462" f="4" s="1" t="1" n="TEST 5"/>
 			<S i="0463" f="4" s="1" t="1" n="Κρήτη Νέα Τηλεόραση"/>

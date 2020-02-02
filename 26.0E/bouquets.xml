@@ -86,6 +86,9 @@
 	<Bouquet name="[E026.0] Harmonic">
 		<S i="bb8" t="1a" on="1a" s="260" frq="11958" n="MUSAWA HD"/>
 	</Bouquet>
+	<Bouquet name="[E026.0] jmc">
+		<S i="718" t="1fa" on="2be" s="260" frq="12054" n="Jordan Radio Foreign"/>
+	</Bouquet>
 	<Bouquet name="[E026.0] JMC">
 		<S i="19e" t="1015" on="2be" s="260" frq="12034" n="Al Gezira TV"/>
 		<S i="709" t="1fa" on="2be" s="260" frq="12054" n="Al Hiwar TV"/>
@@ -117,9 +120,6 @@
 		<S i="72f" t="1fa" on="2be" s="260" frq="12054" n="DJIBOUTI R3"/>
 		<S i="726" t="1fa" on="2be" s="260" frq="12054" n="Radio Orient"/>
 		<S i="732" t="1fa" on="2be" s="260" frq="12054" n="SSBC RADIO"/>
-	</Bouquet>
-	<Bouquet name="[E026.0] jmc">
-		<S i="718" t="1fa" on="2be" s="260" frq="12054" n="Jordan Radio Foreign"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] Kuwait Radio">
 		<S i="11" t="1a" on="1b" s="260" frq="12523" n="Kuwait Classical"/>
