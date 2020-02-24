@@ -335,6 +335,8 @@
 			<S i="7596" f="4" s="1" t="1" n="HirTV"/>
 			<S i="7597" f="4" s="1" t="1" n="JimJam HU"/>
 			<S i="7598" f="4" s="1" t="1" n="Sport1"/>
+			<S i="7599" f="1" s="1" t="1" n="m1"/>
+			<S i="759a" f="1" s="1" t="1" n="m2 / Petofi"/>
 			<S i="759b" f="4" s="1" t="16" n="TV Markiza"/>
 			<S i="759f" f="4" s="1" t="1" n="Spektrum"/>
 			<S i="75a0" f="4" s="1" t="1" n="TV Paprika"/>
@@ -345,8 +347,8 @@
 			<S i="75b1" f="4" s="1" t="1" n="Moziverzum"/>
 			<S i="75b2" f="4" s="1" t="1" n="Jocky TV."/>
 			<S i="75b3" f="4" s="1" t="1" n="Moziverzum."/>
-			<S i="75b4" f="4" s="1" t="1" n="Test 01"/>
-			<S i="75b5" f="1" s="1" t="1" n="JimJam HU."/>
+			<S i="75b4" f="2" s="1" t="1" n="Test 01"/>
+			<S i="75b5" f="4" s="1" t="1" n="JimJam HU."/>
 		</TS>
 		<TS id="0005" on="1111" frq="11747000" inv="2" sr="28000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="03ec" f="4" s="1" t="1" n="TVPaprika"/>
@@ -514,6 +516,7 @@
 			<S i="77f0" f="4" s="1" t="1" n="Animal Planet"/>
 			<S i="77f1" f="4" s="1" t="1" n="HBO2"/>
 			<S i="77f2" f="4" s="1" t="1" n="Discovery Science"/>
+			<S i="77f3" f="1" s="1" t="1" n="Life TV"/>
 			<S i="77f4" f="4" s="1" t="1" n="STORY 4"/>
 			<S i="77f5" f="4" s="1" t="1" n="Cinemax"/>
 			<S i="77f6" f="4" s="1" t="1" n="Boomerang"/>
@@ -531,12 +534,14 @@
 			<S i="7804" f="4" s="1" t="1" n="Boomerang."/>
 			<S i="7805" f="4" s="1" t="1" n="STORY 4 SVT"/>
 			<S i="7807" f="4" s="1" t="1" n="STORY 4."/>
-			<S i="7808" f="1" s="1" t="1" n="JimJam."/>
+			<S i="7808" f="4" s="1" t="1" n="JimJam."/>
 		</TS>
 		<TS id="02c8" on="0600" frq="11958000" inv="2" sr="28000000" fec="7" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="79e1" f="4" s="0" t="1" n="Focus Sat Info"/>
 			<S i="79e3" f="4" s="1" t="1" n="CNN"/>
 			<S i="79e4" f="4" s="1" t="1" n="Nat Geo Wild RO,"/>
+			<S i="79e5" f="1" s="1" t="1" n="JimJam RO"/>
+			<S i="79e6" f="1" s="1" t="1" n="JimJam RO."/>
 			<S i="79e8" f="4" s="1" t="1" n="TV5MONDE"/>
 			<S i="79e9" f="4" s="1" t="1" n="Minimax Cz"/>
 			<S i="79ea" f="4" s="1" t="1" n="TLC Romania"/>
@@ -878,6 +883,14 @@
 			<S i="2334" f="4" s="1" t="19" n="TS Sports 13"/>
 			<S i="2335" f="4" s="1" t="19" n="TS Sports 14"/>
 			<S i="2336" f="4" s="1" t="19" n="TS Sports 15"/>
+		</TS>
+		<TS id="0055" on="0056" frq="12322000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="1d23" f="1" s="0" t="16" n="Test 7459"/>
+			<S i="2332" f="1" s="1" t="19" n="TS Sports 11"/>
+			<S i="2333" f="1" s="1" t="19" n="TS Sports 12"/>
+			<S i="2334" f="1" s="1" t="19" n="TS Sports 13"/>
+			<S i="2335" f="1" s="1" t="19" n="TS Sports 14"/>
+			<S i="2336" f="1" s="1" t="19" n="TS Sports 15"/>
 		</TS>
 		<TS id="0054" on="0046" frq="12360000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="232d" f="4" s="1" t="19" n="TS Sports 6"/>

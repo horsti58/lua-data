@@ -247,8 +247,10 @@
 			<S i="1332" f="4" s="0" t="1" n="ARTDOKU 1"/>
 			<S i="1333" f="4" s="0" t="1" n="ARTDOKU 2"/>
 			<S i="1335" f="4" s="0" t="1" n="EPISODE"/>
+			<S i="1388" f="1" s="0" t="1" n="05 Top Channel"/>
+			<S i="1392" f="1" s="0" t="1" n="Top News"/>
 			<S i="177b" f="4" s="0" t="1" n="DUKAGJINI"/>
-			<S i="1790" f="4" s="0" t="1" n="ALSAT M"/>
+			<S i="1790" f="4" s="1" t="1" n="ALSAT M"/>
 			<S i="f2df" f="4" s="0" t="1" n="GURMANIA"/>
 		</TS>
 		<TS id="cb2c" on="016e" frq="11151000" inv="2" sr="14374000" fec="10" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -349,7 +351,7 @@
 		<TS id="0001" on="016e" frq="11262000" inv="2" sr="30000000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0004" f="4" s="0" t="1" n="BN SAT HD"/>
 			<S i="0005" f="4" s="0" t="1" n="BN Music HD"/>
-			<S i="0007" f="4" s="1" t="1" n="RTRS"/>
+			<S i="0007" f="4" s="0" t="1" n="RTRS"/>
 			<S i="0008" f="4" s="0" t="2" n="Radio Stari Grad"/>
 			<S i="0009" f="4" s="0" t="2" n="Radio Kalman"/>
 			<S i="000a" f="4" s="0" t="2" n="VIP Radio"/>
@@ -359,7 +361,7 @@
 			<S i="000e" f="4" s="0" t="2" n="Radio MIX"/>
 			<S i="000f" f="4" s="0" t="2" n="Fles Radio"/>
 			<S i="0010" f="4" s="0" t="2" n="Radio Curak"/>
-			<S i="0011" f="4" s="0" t="1" n="RTRS plus"/>
+			<S i="0011" f="4" s="1" t="1" n="RTRS plus"/>
 			<S i="0012" f="4" s="0" t="2" n="RTRS RRS"/>
 			<S i="0013" f="4" s="0" t="2" n="Radio Mir Medjugorje"/>
 			<S i="0014" f="4" s="0" t="2" n="Radio Posavina"/>
@@ -505,8 +507,8 @@
 			<S i="0ac2" f="2" s="1" t="1" n="RTV 21 M"/>
 			<S i="0b0e" f="4" s="1" t="1" n="Bunga Bunga"/>
 			<S i="0e86" f="4" s="1" t="1" n="Prime"/>
-			<S i="126e" f="4" s="1" t="1" n="PRINCE KIDS"/>
-			<S i="1271" f="4" s="1" t="1" n="T 7"/>
+			<S i="126e" f="4" s="0" t="1" n="PRINCE KIDS"/>
+			<S i="1271" f="4" s="1" t="1" n="T_7"/>
 			<S i="132f" f="4" s="1" t="1" n="ARTKINO 1"/>
 			<S i="1330" f="4" s="1" t="1" n="ARTKINO 2"/>
 			<S i="1331" f="4" s="1" t="1" n="ARTKINO 3"/>
@@ -899,7 +901,7 @@
 			<S i="0009" f="4" s="0" t="1" n="TNT"/>
 			<S i="000a" f="4" s="0" t="1" n="RomaniaTV"/>
 			<S i="000b" f="4" s="0" t="1" n="DIGI 24"/>
-			<S i="000c" f="4" s="0" t="1" n="Neptun TV"/>
+			<S i="000c" f="4" s="0" t="1" n="Etno TV"/>
 			<S i="0015" f="4" s="0" t="1" n="TVR Cluj"/>
 			<S i="0016" f="4" s="0" t="1" n="TVR Craiova"/>
 			<S i="0017" f="4" s="0" t="1" n="TVR Iasi"/>
@@ -907,7 +909,7 @@
 			<S i="0019" f="4" s="0" t="1" n="TVR Tg Mures"/>
 			<S i="0065" f="4" s="0" t="1" n="Radio Trinitas"/>
 			<S i="0066" f="4" s="0" t="1" n="Radio Reintregirea"/>
-			<S i="00c8" f="4" s="0" t="1" n="SRTV Feed HD"/>
+			<S i="00c8" f="4" s="1" t="1" n="SRTV Feed HD"/>
 		</TS>
 		<TS id="0065" on="ffff" frq="12654000" inv="2" sr="11111000" fec="2" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0001" f="4" s="1" t="1" n="UNIRE 1 - GRIGIO"/>

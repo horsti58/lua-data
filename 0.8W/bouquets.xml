@@ -547,6 +547,7 @@
 		<S i="1b90" t="4d" on="46" s="-8" frq="12399" n="Test 7056"/>
 		<S i="1b90" t="4b" on="56" s="-8" frq="12399" n="Test 7056"/>
 		<S i="1d21" t="4b" on="56" s="-8" frq="12399" n="Test 7457"/>
+		<S i="1d23" t="55" on="56" s="-8" frq="12322" n="Test 7459"/>
 		<S i="1d42" t="47" on="46" s="-8" frq="10716" n="Test 7490"/>
 		<S i="232e" t="54" on="46" s="-8" frq="12360" n="Test 9006"/>
 		<S i="32ca" t="29" on="46" s="-8" frq="12015" n="Test_13002"/>
@@ -571,16 +572,21 @@
 		<S i="2328" t="4b" on="56" s="-8" frq="12399" n="TS Sports 1"/>
 		<S i="2331" t="54" on="46" s="-8" frq="12360" n="TS Sports 10"/>
 		<S i="2332" t="55" on="46" s="-8" frq="12322" n="TS Sports 11"/>
+		<S i="2332" t="55" on="56" s="-8" frq="12322" n="TS Sports 11"/>
 		<S i="2333" t="55" on="46" s="-8" frq="12322" n="TS Sports 12"/>
+		<S i="2333" t="55" on="56" s="-8" frq="12322" n="TS Sports 12"/>
 		<S i="2334" t="55" on="46" s="-8" frq="12322" n="TS Sports 13"/>
+		<S i="2334" t="55" on="56" s="-8" frq="12322" n="TS Sports 13"/>
 		<S i="2335" t="55" on="46" s="-8" frq="12322" n="TS Sports 14"/>
+		<S i="2335" t="55" on="56" s="-8" frq="12322" n="TS Sports 14"/>
+		<S i="2336" t="55" on="56" s="-8" frq="12322" n="TS Sports 15"/>
 		<S i="2336" t="55" on="46" s="-8" frq="12322" n="TS Sports 15"/>
 		<S i="2329" t="4d" on="46" s="-8" frq="12399" n="TS Sports 2"/>
 		<S i="2329" t="4b" on="56" s="-8" frq="12399" n="TS Sports 2"/>
 		<S i="232a" t="4d" on="46" s="-8" frq="12399" n="TS Sports 3"/>
 		<S i="232a" t="4b" on="56" s="-8" frq="12399" n="TS Sports 3"/>
-		<S i="232b" t="4d" on="46" s="-8" frq="12399" n="TS Sports 4"/>
 		<S i="232b" t="4b" on="56" s="-8" frq="12399" n="TS Sports 4"/>
+		<S i="232b" t="4d" on="46" s="-8" frq="12399" n="TS Sports 4"/>
 		<S i="232c" t="4d" on="46" s="-8" frq="12399" n="TS Sports 5"/>
 		<S i="232c" t="4b" on="56" s="-8" frq="12399" n="TS Sports 5"/>
 		<S i="232d" t="54" on="46" s="-8" frq="12360" n="TS Sports 6"/>
@@ -755,11 +761,15 @@
 		<S i="7596" t="2bd" on="600" s="-8" frq="11727" n="HirTV"/>
 		<S i="7597" t="2bd" on="600" s="-8" frq="11727" n="JimJam HU"/>
 		<S i="75b5" t="2bd" on="600" s="-8" frq="11727" n="JimJam HU."/>
+		<S i="79e5" t="2c8" on="600" s="-8" frq="11958" n="JimJam RO"/>
+		<S i="79e6" t="2c8" on="600" s="-8" frq="11958" n="JimJam RO."/>
 		<S i="75aa" t="2bd" on="600" s="-8" frq="11727" n="Jocky TV"/>
 		<S i="75b2" t="2bd" on="600" s="-8" frq="11727" n="Jocky TV."/>
 		<S i="797f" t="2c7" on="600" s="-8" frq="11919" n="LiChi TV"/>
 		<S i="778d" t="2c2" on="600" s="-8" frq="12073" n="m1"/>
+		<S i="7599" t="2bd" on="600" s="-8" frq="11727" n="m1"/>
 		<S i="778f" t="2c2" on="600" s="-8" frq="12073" n="m2 / Petofi"/>
+		<S i="759a" t="2bd" on="600" s="-8" frq="11727" n="m2 / Petofi"/>
 		<S i="797d" t="2c7" on="600" s="-8" frq="11919" n="Megamax"/>
 		<S i="7a04" t="2c8" on="600" s="-8" frq="11958" n="Minimax Cz (SVT)"/>
 		<S i="75b1" t="2bd" on="600" s="-8" frq="11727" n="Moziverzum"/>
@@ -852,9 +862,9 @@
 		<S i="78c7" t="2c5" on="600" s="-8" frq="12265" n="Fem3 HU."/>
 		<S i="7600" t="2be" on="600" s="-8" frq="11766" n="Film + CZE"/>
 		<S i="7615" t="2be" on="600" s="-8" frq="11766" n="Film + CZE ( SVT)"/>
+		<S i="76cb" t="2c0" on="600" s="-8" frq="11996" n="Film Cafe"/>
 		<S i="75fe" t="2be" on="600" s="-8" frq="11766" n="Film Cafe"/>
 		<S i="7616" t="2be" on="600" s="-8" frq="11766" n="Film Cafe"/>
-		<S i="76cb" t="2c0" on="600" s="-8" frq="11996" n="Film Cafe"/>
 		<S i="76cf" t="2c0" on="600" s="-8" frq="11996" n="Film Mania"/>
 		<S i="75fb" t="2be" on="600" s="-8" frq="11766" n="Film+"/>
 		<S i="760d" t="2be" on="600" s="-8" frq="11766" n="Film+ (SVT)"/>
@@ -887,6 +897,7 @@
 		<S i="7999" t="2c7" on="600" s="-8" frq="11919" n="Kiwi TV."/>
 		<S i="79a0" t="2c7" on="600" s="-8" frq="11919" n="LiChi TV (SVT)"/>
 		<S i="799a" t="2c7" on="600" s="-8" frq="11919" n="LiChi TV."/>
+		<S i="77f3" t="2c3" on="600" s="-8" frq="11938" n="Life TV"/>
 		<S i="798c" t="2c7" on="600" s="-8" frq="11919" n="m5"/>
 		<S i="799d" t="2c7" on="600" s="-8" frq="11919" n="m5 (SVT)"/>
 		<S i="799e" t="2c7" on="600" s="-8" frq="11919" n="m5."/>

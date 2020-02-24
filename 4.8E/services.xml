@@ -169,28 +169,39 @@
 			<S i="1e0a" f="1" s="1" t="19" n="English Club HD"/>
 			<S i="1e0f" f="1" s="1" t="19" n="TEST-5"/>
 		</TS>
-		<TS id="000c" on="0055" frq="11766000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="17d4" f="4" s="0" t="1" n="1+1"/>
-			<S i="17de" f="4" s="0" t="1" n="TET"/>
-			<S i="17e8" f="4" s="0" t="1" n="2+2"/>
+		<TS id="000c" on="0055" frq="11766000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="17d4" f="4" s="1" t="16" n="1+1"/>
+			<S i="17d5" f="4" s="1" t="19" n="1+1 HD"/>
+			<S i="17dc" f="4" s="1" t="16" n="Kvartal TV"/>
+			<S i="17de" f="4" s="1" t="16" n="TET"/>
+			<S i="17e0" f="4" s="1" t="16" n="Plus Plus"/>
+			<S i="17e2" f="4" s="1" t="16" n="Bigudi"/>
+			<S i="17e6" f="4" s="1" t="1" n="Test1"/>
+			<S i="17e8" f="4" s="1" t="16" n="2+2"/>
 			<S i="17ed" f="4" s="1" t="16" n="1+1 International"/>
 			<S i="17f2" f="4" s="1" t="16" n="Paramount Comedy"/>
-			<S i="17fa" f="1" s="0" t="c" n="SK_SW_Viasat"/>
-			<S i="17fc" f="4" s="1" t="1" n="Plus Plus"/>
-			<S i="1801" f="4" s="1" t="1" n="Bigudi"/>
+			<S i="17f4" f="4" s="0" t="16" n="Dacha"/>
+			<S i="17fa" f="2" s="0" t="c" n="SK_SW_Viasat"/>
+			<S i="17fc" f="2" s="1" t="1" n="Plus Plus"/>
+			<S i="1801" f="2" s="1" t="1" n="Bigudi"/>
 			<S i="1806" f="4" s="1" t="16" n="Spike"/>
-			<S i="1810" f="4" s="0" t="1" n="Unian TV"/>
+			<S i="1808" f="4" s="1" t="16" n="FilmUADrama"/>
+			<S i="180a" f="4" s="0" t="16" n="36.6 TV"/>
+			<S i="180c" f="4" s="1" t="16" n="Paramount Channel"/>
+			<S i="180e" f="4" s="1" t="16" n="Nicktoons"/>
+			<S i="1810" f="4" s="0" t="16" n="Unian TV"/>
+			<S i="1812" f="4" s="0" t="16" n="Epoque"/>
 			<S i="1815" f="4" s="0" t="16" n="AVERS"/>
-			<S i="1819" f="4" s="0" t="c" n="ST_SW_FTA"/>
-			<S i="181b" f="4" s="0" t="c" n="ST_SW_Viasat"/>
-			<S i="181d" f="1" s="0" t="c" n="ST_SW_1CAS"/>
-			<S i="181f" f="4" s="0" t="1" n="Music Box"/>
-			<S i="1824" f="4" s="1" t="16" n="Kvartal TV"/>
-			<S i="182c" f="4" s="1" t="1" n="Plus Plus"/>
+			<S i="1819" f="2" s="0" t="c" n="ST_SW_FTA"/>
+			<S i="181b" f="2" s="0" t="c" n="ST_SW_Viasat"/>
+			<S i="181d" f="2" s="0" t="c" n="ST_SW_1CAS"/>
+			<S i="181f" f="4" s="0" t="16" n="Music Box"/>
+			<S i="1824" f="2" s="1" t="16" n="Kvartal TV"/>
+			<S i="182c" f="4" s="1" t="16" n="Plus Plus"/>
 			<S i="182d" f="4" s="1" t="16" n="Paramount Comedy"/>
-			<S i="182e" f="4" s="0" t="1" n="O-TV"/>
-			<S i="1831" f="4" s="1" t="1" n="Unian TV"/>
-			<S i="1832" f="4" s="0" t="1" n="Кус-Кус"/>
+			<S i="182e" f="4" s="0" t="16" n="O-TV"/>
+			<S i="1831" f="4" s="1" t="16" n="Unian TV"/>
+			<S i="1832" f="4" s="0" t="16" n="Kus-Kus"/>
 		</TS>
 		<TS id="00c9" on="0055" frq="11785000" inv="2" sr="27500000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="2774" f="4" s="1" t="1" n="LTV1"/>
@@ -545,10 +556,10 @@
 			<S i="1e17" f="4" s="1" t="1" n="2+2."/>
 			<S i="1e18" f="2" s="1" t="16" n="Verimatrix TEST"/>
 			<S i="1e19" f="4" s="1" t="1" n="ParamountChannel"/>
-			<S i="1e1a" f="4" s="0" t="1" n="NicktoonsChannel"/>
+			<S i="1e1a" f="4" s="1" t="1" n="NicktoonsChannel"/>
 			<S i="1e1b" f="4" s="1" t="1" n="Plus Plus."/>
 			<S i="1e1c" f="4" s="1" t="1" n="Bigudi."/>
-			<S i="1e1d" f="4" s="1" t="1" n="Unian TV."/>
+			<S i="1e1d" f="4" s="0" t="1" n="Unian TV."/>
 			<S i="1e1f" f="4" s="0" t="1" n="Trofey"/>
 			<S i="1e20" f="4" s="1" t="1" n="DACHA"/>
 			<S i="1e21" f="4" s="1" t="1" n="EPOQUE"/>
@@ -559,7 +570,7 @@
 			<S i="1e27" f="4" s="0" t="1" n="36.6"/>
 			<S i="1e29" f="4" s="0" t="1" n="Kyiv TV"/>
 			<S i="1e2b" f="4" s="1" t="1" n="TEST-P"/>
-			<S i="1e2c" f="4" s="1" t="1" n="TEST-U"/>
+			<S i="1e2c" f="4" s="0" t="1" n="TEST-U"/>
 			<S i="1e69" f="2" s="1" t="1" n="UKRAINA-SD"/>
 		</TS>
 		<TS id="0011" on="0055" frq="12284000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
