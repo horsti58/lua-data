@@ -31,10 +31,6 @@
 		<S i="1f7e" t="ca1" on="3" s="235" frq="12344" n="CRo TEST DD"/>
 		<S i="1f75" t="ca1" on="3" s="235" frq="12344" n="CRo VLTAVA"/>
 	</Bouquet>
-	<Bouquet name="[E023.5] M7 group">
-		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
-		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
-	</Bouquet>
 	<Bouquet name="[E023.5] M7 Group">
 		<S i="177f" t="c82" on="3" s="235" frq="11739" n="192TV"/>
 		<S i="523f" t="c99" on="3" s="235" frq="12188" n="24Kitchen"/>
@@ -262,6 +258,10 @@
 		<S i="5262" t="c99" on="3" s="235" frq="12188" n="SLAM!"/>
 		<S i="52db" t="c96" on="3" s="235" frq="12129" n="Studio Brussel"/>
 	</Bouquet>
+	<Bouquet name="[E023.5] M7 group">
+		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
+		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
+	</Bouquet>
 	<Bouquet name="[E023.5] MB Satellite">
 		<S i="36d9" t="c8c" on="3" s="235" frq="11934" n="GERMAN TOTE TV"/>
 		<S i="3e8" t="1" on="1" s="235" frq="12639" n="DLF USI1"/>
@@ -486,6 +486,7 @@
 		<S i="4ef6" t="c8b" on="3" s="235" frq="11914" n="Story 4"/>
 		<S i="4e28" t="c85" on="3" s="235" frq="11798" n="Studio B"/>
 		<S i="4e77" t="c86" on="3" s="235" frq="11817" n="Sundance"/>
+		<S i="4f0d" t="c81" on="3" s="235" frq="11719" n="Super TV2"/>
 		<S i="4e23" t="c8b" on="3" s="235" frq="11914" n="SUPERSTAR TV HD"/>
 		<S i="4f08" t="c81" on="3" s="235" frq="11719" n="Taraf TV"/>
 		<S i="4e2f" t="c85" on="3" s="235" frq="11798" n="TDC"/>
@@ -495,6 +496,7 @@
 		<S i="4e94" t="c86" on="3" s="235" frq="11817" n="Travel Channel"/>
 		<S i="4f05" t="c81" on="3" s="235" frq="11719" n="Trinitas"/>
 		<S i="4e59" t="c86" on="3" s="235" frq="11817" n="TV 1000"/>
+		<S i="4f0c" t="c81" on="3" s="235" frq="11719" n="TV 2"/>
 		<S i="4ee4" t="c81" on="3" s="235" frq="11719" n="TV 5"/>
 		<S i="4ede" t="c81" on="3" s="235" frq="11719" n="TV Belle Amie"/>
 		<S i="4f1b" t="c81" on="3" s="235" frq="11719" n="TV Budva"/>

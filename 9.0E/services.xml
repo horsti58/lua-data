@@ -155,7 +155,7 @@
 		<TS id="16a8" on="009c" frq="11881000" inv="2" sr="27500000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0daf" f="4" s="1" t="1" n="Rai Africa"/>
 			<S i="0db5" f="4" s="0" t="1" n="RTI"/>
-			<S i="0db7" f="4" s="0" t="1" n="EUROBET 11"/>
+			<S i="0db7" f="4" s="1" t="1" n="EUROBET 11"/>
 			<S i="0db8" f="4" s="1" t="1" n="EUROBET 12"/>
 			<S i="0db9" f="4" s="1" t="1" n="EUROBET 13"/>
 			<S i="0dba" f="4" s="1" t="1" n="EUROBET 14"/>
@@ -164,7 +164,7 @@
 			<S i="0dc0" f="4" s="0" t="2" n="RSI"/>
 			<S i="0dc1" f="4" s="1" t="1" n="OPAP VG1"/>
 			<S i="0dc2" f="4" s="1" t="1" n="OPAP MG"/>
-			<S i="0dc3" f="4" s="1" t="1" n="OPAP HR"/>
+			<S i="0dc3" f="4" s="0" t="1" n="OPAP HR"/>
 			<S i="0dc5" f="4" s="1" t="19" n="MCM TOP"/>
 		</TS>
 		<TS id="170c" on="009e" frq="11900000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -359,7 +359,7 @@
 			<S i="0aa0" f="4" s="1" t="1" n="EuroNews French"/>
 			<S i="0abe" f="4" s="1" t="1" n="Marco Polo TV"/>
 			<S i="0b22" f="4" s="1" t="16" n="THT Russia"/>
-			<S i="0b54" f="4" s="1" t="19" n="Pro7 FUN HD"/>
+			<S i="0b54" f="4" s="1" t="19" n="ProSieben FUN HD"/>
 			<S i="0b86" f="4" s="1" t="1" n="Kinowelt TV"/>
 			<S i="0bb8" f="4" s="1" t="1" n="BonGusto"/>
 			<S i="0bea" f="4" s="1" t="1" n="Heimatkanal"/>

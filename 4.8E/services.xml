@@ -70,6 +70,7 @@
 			<S i="06ae" f="4" s="1" t="16" n="Discovery Channel SE"/>
 			<S i="06b8" f="4" s="1" t="19" n="TV3 SPORT"/>
 			<S i="06c2" f="4" s="1" t="19" n="TV2 HD Lorry"/>
+			<S i="06c9" f="1" s="1" t="19" n="TV2 Sport X HD"/>
 			<S i="06cc" f="2" s="1" t="19" n="DR3"/>
 			<S i="06d6" f="4" s="1" t="19" n="TV3 MAX"/>
 			<S i="06e0" f="4" s="1" t="16" n="FEM"/>
@@ -459,22 +460,22 @@
 			<S i="1086" f="4" s="1" t="19" n="Viasat Sport HD"/>
 		</TS>
 		<TS id="0010" on="0055" frq="12130000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="19c8" f="4" s="0" t="c" n="SW7600_FTA"/>
-			<S i="19c9" f="4" s="0" t="c" n="SW7600_XTRA"/>
-			<S i="19ca" f="4" s="0" t="c" n="SW7601 XTRA"/>
-			<S i="19ce" f="4" s="0" t="c" n="SW NeotionCI+"/>
-			<S i="19d2" f="4" s="0" t="1" n="Ukraina SD"/>
+			<S i="19c8" f="2" s="0" t="c" n="SW7600_FTA"/>
+			<S i="19c9" f="2" s="0" t="c" n="SW7600_XTRA"/>
+			<S i="19ca" f="2" s="0" t="c" n="SW7601 XTRA"/>
+			<S i="19ce" f="2" s="0" t="c" n="SW NeotionCI+"/>
+			<S i="19d2" f="4" s="0" t="1" n="Unian TV"/>
 			<S i="19dc" f="4" s="1" t="19" n="FOOTBALL 1 HD"/>
 			<S i="19e6" f="2" s="1" t="1" n="FOOTBALL1"/>
 			<S i="19f0" f="4" s="1" t="19" n="FOOTBALL 2 HD"/>
-			<S i="19fa" f="4" s="0" t="16" n="Donbass"/>
+			<S i="19fa" f="4" s="0" t="1" n="test4"/>
 			<S i="1a04" f="2" s="1" t="1" n="FOOTBALL 2"/>
-			<S i="1a0e" f="4" s="1" t="16" n="34"/>
-			<S i="1a18" f="4" s="0" t="1" n="NLO TV"/>
-			<S i="1a22" f="4" s="0" t="1" n="Indigo"/>
-			<S i="1a28" f="1" s="1" t="1" n="test1"/>
-			<S i="1a29" f="1" s="1" t="1" n="test2"/>
-			<S i="1a2a" f="1" s="1" t="1" n="test3"/>
+			<S i="1a0e" f="2" s="1" t="16" n="34"/>
+			<S i="1a18" f="4" s="0" t="1" n="1+1 International"/>
+			<S i="1a22" f="4" s="0" t="1" n="Ukraina 24"/>
+			<S i="1a28" f="4" s="1" t="1" n="test1"/>
+			<S i="1a29" f="4" s="1" t="1" n="test2"/>
+			<S i="1a2a" f="4" s="1" t="1" n="test3"/>
 		</TS>
 		<TS id="00c9" on="0001" frq="12149000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0014" f="4" s="1" t="1" n="CORAL TV1 - PVU4"/>
@@ -537,7 +538,7 @@
 			<S i="0b65" f="4" s="1" t="16" n="FOOTBALL 2 SD"/>
 			<S i="0b66" f="4" s="0" t="16" n="Donbass"/>
 			<S i="0b67" f="4" s="1" t="16" n="34"/>
-			<S i="0b68" f="4" s="1" t="19" n="1+1 HD"/>
+			<S i="0b68" f="2" s="1" t="19" n="1+1 HD"/>
 			<S i="0b69" f="2" s="1" t="19" n="TET XD"/>
 			<S i="0b6a" f="2" s="1" t="19" n="2+2 XD"/>
 			<S i="0b72" f="4" s="1" t="16" n="Rybalka"/>
@@ -551,23 +552,23 @@
 			<S i="19d0" f="2" s="0" t="c" n="SW_Neotion_PRO8"/>
 		</TS>
 		<TS id="002c" on="0055" frq="12265000" inv="2" sr="30000000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="1e15" f="4" s="1" t="1" n="1+1."/>
-			<S i="1e16" f="4" s="1" t="1" n="TET."/>
-			<S i="1e17" f="4" s="1" t="1" n="2+2."/>
+			<S i="1e15" f="4" s="1" t="16" n="1+1."/>
+			<S i="1e16" f="4" s="1" t="16" n="TET."/>
+			<S i="1e17" f="4" s="1" t="16" n="2+2."/>
 			<S i="1e18" f="2" s="1" t="16" n="Verimatrix TEST"/>
 			<S i="1e19" f="4" s="1" t="1" n="ParamountChannel"/>
 			<S i="1e1a" f="4" s="1" t="1" n="NicktoonsChannel"/>
-			<S i="1e1b" f="4" s="1" t="1" n="Plus Plus."/>
-			<S i="1e1c" f="4" s="1" t="1" n="Bigudi."/>
-			<S i="1e1d" f="4" s="0" t="1" n="Unian TV."/>
+			<S i="1e1b" f="4" s="1" t="16" n="Plus Plus."/>
+			<S i="1e1c" f="4" s="1" t="16" n="Bigudi."/>
+			<S i="1e1d" f="4" s="0" t="16" n="Unian TV."/>
 			<S i="1e1f" f="4" s="0" t="1" n="Trofey"/>
-			<S i="1e20" f="4" s="1" t="1" n="DACHA"/>
-			<S i="1e21" f="4" s="1" t="1" n="EPOQUE"/>
+			<S i="1e20" f="4" s="0" t="1" n="test1"/>
+			<S i="1e21" f="4" s="0" t="1" n="test2"/>
 			<S i="1e22" f="4" s="0" t="16" n="Terra"/>
 			<S i="1e23" f="4" s="0" t="16" n="Nauka"/>
 			<S i="1e24" f="4" s="0" t="16" n="Fauna"/>
-			<S i="1e25" f="4" s="1" t="1" n="FILMUADRAMA"/>
-			<S i="1e27" f="4" s="0" t="1" n="36.6"/>
+			<S i="1e25" f="4" s="0" t="1" n="test3"/>
+			<S i="1e27" f="4" s="0" t="1" n="test4"/>
 			<S i="1e29" f="4" s="0" t="1" n="Kyiv TV"/>
 			<S i="1e2b" f="4" s="1" t="1" n="TEST-P"/>
 			<S i="1e2c" f="4" s="0" t="1" n="TEST-U"/>
@@ -720,15 +721,15 @@
 			<S i="01f4" f="4" s="0" t="2" n="Upgrade Test Channel"/>
 		</TS>
 		<TS id="002e" on="0055" frq="12437000" inv="2" sr="30000000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="1ee6" f="1" s="1" t="1" n="Inter"/>
-			<S i="1ee8" f="1" s="1" t="1" n="NTN"/>
-			<S i="1eea" f="1" s="1" t="1" n="MEGA"/>
-			<S i="1eec" f="1" s="1" t="1" n="K1"/>
-			<S i="1eee" f="1" s="1" t="1" n="K2"/>
-			<S i="1ef0" f="1" s="1" t="1" n="ZOOM"/>
-			<S i="1ef2" f="1" s="1" t="1" n="PIXEL"/>
-			<S i="1ef4" f="1" s="1" t="1" n="Enter Film"/>
-			<S i="1ef6" f="1" s="1" t="16" n="INTER +"/>
+			<S i="1ee6" f="4" s="1" t="1" n="Inter"/>
+			<S i="1ee8" f="4" s="1" t="1" n="NTN"/>
+			<S i="1eea" f="4" s="1" t="1" n="MEGA"/>
+			<S i="1eec" f="4" s="1" t="1" n="K1"/>
+			<S i="1eee" f="4" s="1" t="1" n="K2"/>
+			<S i="1ef0" f="4" s="1" t="1" n="ZOOM"/>
+			<S i="1ef2" f="4" s="1" t="1" n="PIXEL"/>
+			<S i="1ef4" f="4" s="1" t="1" n="Enter Film"/>
+			<S i="1ef6" f="4" s="1" t="16" n="INTER +"/>
 		</TS>
 		<TS id="001d" on="0056" frq="12608000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="076c" f="4" s="1" t="1" n="Viasat Feed"/>

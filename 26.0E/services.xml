@@ -36,7 +36,7 @@
 			<S i="0a2a" f="4" s="0" t="1" n="KSA SPORT 2"/>
 			<S i="0a2b" f="4" s="0" t="1" n="KSA SPORTS 1"/>
 			<S i="0a2c" f="4" s="0" t="1" n="Al EKhbaria"/>
-			<S i="0a2d" f="4" s="0" t="1" n="KSA SPORTS +2"/>
+			<S i="0a2d" f="4" s="0" t="1" n="KSA SPORTS 4"/>
 			<S i="0a3c" f="4" s="0" t="2" n="Holy Quran Radio"/>
 			<S i="0a3d" f="4" s="0" t="2" n="Saudi Radio 1"/>
 			<S i="0a3e" f="4" s="0" t="2" n="Saudi Radio 2"/>
@@ -46,18 +46,19 @@
 			<S i="15e1" f="4" s="0" t="1" n="Saudi Ch For Quran"/>
 			<S i="15e2" f="4" s="0" t="1" n="Saudi Ch For Sunnah"/>
 			<S i="15e3" f="4" s="0" t="1" n="SBC"/>
-			<S i="15e4" f="4" s="0" t="1" n="KAS Sports +1"/>
+			<S i="15e4" f="4" s="0" t="1" n="KAS Sports 3"/>
 		</TS>
 		<TS id="1015" on="02be" frq="12034000" inv="2" sr="27500000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="0001" f="4" s="0" t="1" n="TAseti Radio"/>
-			<S i="004c" f="4" s="0" t="1" n="Quran Kareem"/>
-			<S i="004d" f="4" s="0" t="1" n="Dongula Radio"/>
+			<S i="0001" f="2" s="0" t="1" n="TAseti Radio"/>
+			<S i="004c" f="2" s="0" t="1" n="Quran Kareem"/>
+			<S i="004d" f="2" s="0" t="1" n="Dongula Radio"/>
 			<S i="019c" f="4" s="0" t="1" n="Al Istijaba TV"/>
 			<S i="019d" f="4" s="0" t="1" n="Alalamia (University of Africa)"/>
-			<S i="019e" f="4" s="1" t="1" n="Al Gezira TV"/>
+			<S i="019e" f="4" s="1" t="1" n="TEST"/>
 			<S i="019f" f="4" s="0" t="1" n="Kassala TV"/>
 			<S i="01a1" f="4" s="0" t="1" n="Red Sea"/>
 			<S i="01a4" f="4" s="0" t="1" n="Sudan Knowledge"/>
+			<S i="01a5" f="1" s="0" t="1" n="Sudan Sport"/>
 			<S i="01a6" f="4" s="0" t="1" n="Sudania 24"/>
 			<S i="01a8" f="4" s="0" t="1" n="Omdurman TV"/>
 			<S i="01b0" f="4" s="0" t="1" n="Nile River"/>
@@ -82,6 +83,15 @@
 			<S i="0730" f="4" s="0" t="1" n="Iqra TV"/>
 			<S i="0731" f="4" s="0" t="1" n="test"/>
 			<S i="0732" f="4" s="0" t="2" n="SSBC RADIO"/>
+		</TS>
+		<TS id="0208" on="02be" frq="12092000" inv="2" sr="27500000" fec="5" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
+			<S i="0015" f="1" s="0" t="19" n="Expo2020 TV"/>
+			<S i="0016" f="1" s="0" t="19" n="LBC International"/>
+			<S i="0018" f="1" s="0" t="1" n="TRT Arabi"/>
+			<S i="0019" f="1" s="0" t="16" n="Test 4"/>
+			<S i="001a" f="1" s="0" t="16" n="Test 5"/>
+			<S i="001b" f="1" s="0" t="1" n="AA hadath"/>
+			<S i="001c" f="1" s="0" t="16" n="Test 6"/>
 		</TS>
 		<TS id="01ff" on="02be" frq="12111000" inv="2" sr="27500000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0002" f="4" s="0" t="1" n="ARIRANG"/>
@@ -156,11 +166,11 @@
 			<S i="006e" f="4" s="0" t="19" n="Kuwait Sports"/>
 		</TS>
 		<TS id="024e" on="02be" frq="12523000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="0002" f="4" s="0" t="1" n="test"/>
-			<S i="0004" f="4" s="0" t="1" n="ASHOROOQ"/>
+			<S i="0002" f="4" s="0" t="1" n="NOOR TV"/>
+			<S i="0004" f="4" s="0" t="1" n="test100"/>
 			<S i="0005" f="4" s="0" t="1" n="S24"/>
 			<S i="0006" f="4" s="0" t="1" n="Neelain Sport"/>
-			<S i="0007" f="4" s="0" t="1" n="Tayba TV"/>
+			<S i="0007" f="4" s="0" t="1" n="test"/>
 			<S i="0008" f="4" s="0" t="1" n="Sudan Drama"/>
 			<S i="0009" f="4" s="0" t="2" n="test"/>
 			<S i="000a" f="4" s="0" t="1" n="IXIR"/>
@@ -172,14 +182,14 @@
 			<S i="0016" f="4" s="0" t="2" n="FM-100"/>
 			<S i="0017" f="4" s="0" t="2" n="Omdurman Radio"/>
 			<S i="0018" f="4" s="0" t="2" n="Darfur FM"/>
-			<S i="0019" f="4" s="0" t="2" n="test"/>
+			<S i="0019" f="4" s="0" t="2" n="Albasira fm"/>
 			<S i="001a" f="4" s="0" t="2" n="Radio_010"/>
 			<S i="001b" f="4" s="0" t="2" n="Alqwat Almosalaha"/>
 			<S i="001c" f="4" s="0" t="2" n="Alraba94"/>
-			<S i="001d" f="4" s="0" t="2" n="ALBASIRA TEST"/>
+			<S i="001d" f="2" s="0" t="2" n="ALBASIRA TEST"/>
 			<S i="001e" f="4" s="0" t="2" n="Danga"/>
-			<S i="001f" f="4" s="0" t="2" n="ALBASERA TEST"/>
-			<S i="0020" f="4" s="0" t="2" n="Radio_012"/>
+			<S i="001f" f="2" s="0" t="2" n="ALBASERA TEST"/>
+			<S i="0020" f="4" s="0" t="2" n="NOOR RADIO"/>
 			<S i="0021" f="4" s="0" t="2" n="Radio_011"/>
 			<S i="0022" f="4" s="0" t="2" n="Sports FM104"/>
 			<S i="0023" f="4" s="0" t="2" n="BLADI SUDAN"/>
@@ -188,7 +198,7 @@
 			<S i="0026" f="4" s="0" t="2" n="Radio_018"/>
 			<S i="0027" f="4" s="0" t="2" n="Radio_019"/>
 			<S i="0028" f="4" s="0" t="2" n="Radio_020"/>
-			<S i="0029" f="4" s="0" t="2" n="Albasira FM"/>
+			<S i="0029" f="2" s="0" t="2" n="Albasira FM"/>
 			<S i="002a" f="4" s="0" t="2" n="test"/>
 			<S i="002b" f="4" s="0" t="2" n="unknown (0x024E_0x002B)"/>
 			<S i="002c" f="4" s="0" t="2" n="test"/>
@@ -280,7 +290,7 @@
 			<S i="000c" f="4" s="0" t="1" n="Laayoune TV"/>
 			<S i="001e" f="4" s="0" t="1" n="Arryadia"/>
 			<S i="001f" f="4" s="0" t="1" n="Arryadia HD"/>
-			<S i="0028" f="4" s="0" t="1" n="Arrabiaa"/>
+			<S i="0028" f="4" s="0" t="1" n="Athaqafia"/>
 			<S i="0032" f="4" s="0" t="1" n="Al Maghribia"/>
 			<S i="003c" f="4" s="0" t="1" n="Assadissa"/>
 			<S i="0050" f="4" s="0" t="1" n="Tamazight"/>

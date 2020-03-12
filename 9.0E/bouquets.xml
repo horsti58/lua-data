@@ -54,9 +54,6 @@
 		<S i="1a0" t="1964" on="9c" s="90" frq="12015" n="sixx HD"/>
 		<S i="196" t="1964" on="9c" s="90" frq="12015" n="SUPER RTL HD"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] Encoder">
-		<S i="dc3" t="16a8" on="9c" s="90" frq="11881" n="OPAP HR"/>
-	</Bouquet>
 	<Bouquet name="[E009.0] encoder">
 		<S i="6f" t="170c" on="9e" s="90" frq="11900" n="Better-1"/>
 		<S i="70" t="170c" on="9e" s="90" frq="11900" n="Better-2"/>
@@ -72,6 +69,9 @@
 		<S i="dc1" t="16a8" on="9c" s="90" frq="11881" n="OPAP VG1"/>
 		<S i="dbb" t="16a8" on="9c" s="90" frq="11881" n="ORTB TV"/>
 	</Bouquet>
+	<Bouquet name="[E009.0] Encoder">
+		<S i="dc3" t="16a8" on="9c" s="90" frq="11881" n="OPAP HR"/>
+	</Bouquet>
 	<Bouquet name="[E009.0] Eutelsat">
 		<S i="672" t="170c" on="9e" s="90" frq="11900" n="myZen.tv HD"/>
 		<S i="712" t="1" on="64" s="90" frq="11823" n="SISAL 1"/>
@@ -86,6 +86,19 @@
 		<S i="64a" t="1" on="64" s="90" frq="11823" n="Ros * Ros"/>
 		<S i="654" t="1" on="64" s="90" frq="11823" n="Ros * Ros Selex"/>
 	</Bouquet>
+	<Bouquet name="[E009.0] GLOBECAST">
+		<S i="cc" t="19c8" on="9e" s="90" frq="12034" n="6 TER Suisse HD"/>
+		<S i="168" t="19c8" on="9e" s="90" frq="12034" n="Karusel Int"/>
+		<S i="ca" t="19c8" on="9e" s="90" frq="12034" n="M6 Suisse HD"/>
+		<S i="169" t="19c8" on="9e" s="90" frq="12034" n="MST"/>
+		<S i="162" t="19c8" on="9e" s="90" frq="12034" n="ORTM"/>
+		<S i="16a" t="19c8" on="9e" s="90" frq="12034" n="Outdoor HD"/>
+		<S i="161" t="19c8" on="9e" s="90" frq="12034" n="Phoenix Info News"/>
+		<S i="160" t="19c8" on="9e" s="90" frq="12034" n="RTG int"/>
+		<S i="163" t="19c8" on="9e" s="90" frq="12034" n="Télé Sahel"/>
+		<S i="cd" t="19c8" on="9e" s="90" frq="12034" n="W9 Suisse HD"/>
+		<S i="164" t="19c8" on="9e" s="90" frq="12034" n="La Voix Du Sahel"/>
+	</Bouquet>
 	<Bouquet name="[E009.0] GlobeCast">
 		<S i="165" t="19c8" on="9e" s="90" frq="12034" n="BBC_Entertainment_Europe"/>
 		<S i="273" t="1900" on="9c" s="90" frq="11996" n="CBS Reality EMEA"/>
@@ -99,19 +112,6 @@
 		<S i="274" t="1900" on="9c" s="90" frq="11996" n="JimJam PE"/>
 		<S i="272" t="1900" on="9c" s="90" frq="11996" n="PTV Global"/>
 		<S i="277" t="1900" on="9c" s="90" frq="11996" n="EDM FM"/>
-	</Bouquet>
-	<Bouquet name="[E009.0] GLOBECAST">
-		<S i="cc" t="19c8" on="9e" s="90" frq="12034" n="6 TER Suisse HD"/>
-		<S i="168" t="19c8" on="9e" s="90" frq="12034" n="Karusel Int"/>
-		<S i="ca" t="19c8" on="9e" s="90" frq="12034" n="M6 Suisse HD"/>
-		<S i="169" t="19c8" on="9e" s="90" frq="12034" n="MST"/>
-		<S i="162" t="19c8" on="9e" s="90" frq="12034" n="ORTM"/>
-		<S i="16a" t="19c8" on="9e" s="90" frq="12034" n="Outdoor HD"/>
-		<S i="161" t="19c8" on="9e" s="90" frq="12034" n="Phoenix Info News"/>
-		<S i="160" t="19c8" on="9e" s="90" frq="12034" n="RTG int"/>
-		<S i="163" t="19c8" on="9e" s="90" frq="12034" n="Télé Sahel"/>
-		<S i="cd" t="19c8" on="9e" s="90" frq="12034" n="W9 Suisse HD"/>
-		<S i="164" t="19c8" on="9e" s="90" frq="12034" n="La Voix Du Sahel"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Harmonic">
 		<S i="276" t="1900" on="9c" s="90" frq="11996" n="Extreme Sports"/>
@@ -246,7 +246,7 @@
 		<S i="201" t="2134" on="9c" s="90" frq="11977" n="Penthouse Passion (20-06)"/>
 		<S i="1f6" t="2134" on="9c" s="90" frq="11977" n="Playboy TV"/>
 		<S i="203" t="2134" on="9c" s="90" frq="11977" n="Playboy TV SD (20-06)"/>
-		<S i="b54" t="1bbc" on="9c" s="90" frq="12130" n="Pro7 FUN HD"/>
+		<S i="b54" t="1bbc" on="9c" s="90" frq="12130" n="ProSieben FUN HD"/>
 		<S i="578" t="1fa4" on="9c" s="90" frq="12322" n="RAI Tre"/>
 		<S i="514" t="1fa4" on="9c" s="90" frq="12322" n="RAI Uno"/>
 		<S i="4eea" t="21fc" on="9c" s="90" frq="12437" n="Romance TV"/>

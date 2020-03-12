@@ -32,7 +32,7 @@
 			<S i="213c" f="2" s="1" t="1" n="UNK (0x4FB0_0x213C)"/>
 			<S i="213d" f="4" s="0" t="11" n="TRT SPOR2 HD"/>
 			<S i="213e" f="4" s="0" t="1" n="TRT MÜZİK"/>
-			<S i="213f" f="4" s="1" t="1" n="TRT ÇOCUK"/>
+			<S i="213f" f="4" s="0" t="1" n="TRT ÇOCUK"/>
 			<S i="2141" f="4" s="0" t="11" n="TRT HABER HD"/>
 			<S i="2142" f="4" s="0" t="11" n="TRT BELGESEL HD"/>
 			<S i="2143" f="4" s="0" t="11" n="TRT SPOR HD"/>
@@ -342,22 +342,22 @@
 			<S i="1dea" f="2" s="1" t="1" n="BLOOMBERG HT"/>
 		</TS>
 		<TS id="c5a8" on="007e" frq="11554000" inv="2" sr="29750000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="1dc8" f="4" s="0" t="81" n="DVBSSU3"/>
-			<S i="1dc9" f="4" s="0" t="81" n="DVBSSU4"/>
-			<S i="1dca" f="4" s="0" t="81" n="Irdeto Test4"/>
-			<S i="1dcb" f="4" s="0" t="81" n="Irdeto Test3"/>
-			<S i="1dcc" f="4" s="0" t="81" n="HM9504-R"/>
-			<S i="1dcd" f="4" s="0" t="81" n="SMIT SSU"/>
-			<S i="1dce" f="4" s="0" t="81" n="SMIT"/>
-			<S i="1dcf" f="4" s="0" t="81" n="DT-5103"/>
-			<S i="1dd0" f="4" s="0" t="81" n="DT9505R"/>
-			<S i="1dd1" f="4" s="0" t="81" n="SSUTEST"/>
-			<S i="1dd4" f="4" s="0" t="81" n="DT9103-R"/>
-			<S i="1dd5" f="4" s="0" t="81" n="UEC PVR REPLACEMENT"/>
-			<S i="1dd6" f="4" s="0" t="81" n="DT61420UHD REPLACEMENT"/>
-			<S i="1dd7" f="4" s="0" t="81" n="HM9506HD Replacement"/>
+			<S i="1dc8" f="2" s="0" t="81" n="DVBSSU3"/>
+			<S i="1dc9" f="2" s="0" t="81" n="DVBSSU4"/>
+			<S i="1dca" f="2" s="0" t="81" n="Irdeto Test4"/>
+			<S i="1dcb" f="2" s="0" t="81" n="Irdeto Test3"/>
+			<S i="1dcc" f="2" s="0" t="81" n="HM9504-R"/>
+			<S i="1dcd" f="2" s="0" t="81" n="SMIT SSU"/>
+			<S i="1dce" f="2" s="0" t="81" n="SMIT"/>
+			<S i="1dcf" f="2" s="0" t="81" n="DT-5103"/>
+			<S i="1dd0" f="2" s="0" t="81" n="DT9505R"/>
+			<S i="1dd1" f="2" s="0" t="81" n="SSUTEST"/>
+			<S i="1dd4" f="2" s="0" t="81" n="DT9103-R"/>
+			<S i="1dd5" f="2" s="0" t="81" n="UEC PVR REPLACEMENT"/>
+			<S i="1dd6" f="2" s="0" t="81" n="DT61420UHD REPLACEMENT"/>
+			<S i="1dd7" f="2" s="0" t="81" n="HM9506HD Replacement"/>
 			<S i="1dd8" f="4" s="0" t="11" n="TEST XML2"/>
-			<S i="1dff" f="4" s="0" t="81" n="ARC_O2"/>
+			<S i="1dff" f="2" s="0" t="81" n="ARC_O2"/>
 		</TS>
 		<TS id="c5a8" on="007e" frq="11575000" inv="2" sr="30000000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="08fd" f="4" s="1" t="1" n="SHOW TV"/>
@@ -378,7 +378,7 @@
 			<S i="1929" f="4" s="1" t="1" n="RAI 1"/>
 			<S i="192b" f="4" s="1" t="1" n="RTR PLANETA"/>
 			<S i="192c" f="4" s="1" t="11" n="EURONEWS HD"/>
-			<S i="192e" f="4" s="1" t="1" n="TV5 MONDE EUROPE"/>
+			<S i="192e" f="4" s="1" t="11" n="TV5 MONDE EUROPE HD"/>
 			<S i="1931" f="4" s="1" t="11" n="CNN INT HD"/>
 			<S i="1934" f="4" s="1" t="11" n="MEZZO HD"/>
 			<S i="1935" f="4" s="1" t="1" n="VH1"/>
@@ -398,15 +398,15 @@
 			<S i="0258" f="4" s="1" t="11" n="HABERTÜRK HD"/>
 			<S i="026a" f="4" s="1" t="11" n="beIN SPORTS HD 4"/>
 			<S i="026b" f="4" s="1" t="11" n="SHOW TV HD"/>
-			<S i="026c" f="4" s="0" t="11" n="TRT1 HD"/>
+			<S i="026c" f="4" s="1" t="11" n="TRT1 HD"/>
 			<S i="026d" f="4" s="1" t="11" n="A SPOR HD"/>
 			<S i="026e" f="4" s="1" t="11" n="beIN SPORTS HD 2"/>
 			<S i="0271" f="4" s="1" t="11" n="HABER GLOBAL HD"/>
 			<S i="0272" f="4" s="1" t="11" n="BOOMERANG HD"/>
 			<S i="0278" f="4" s="1" t="11" n="TİCARİ beIN SPORTS HD 2"/>
-			<S i="0279" f="4" s="1" t="11" n="beIN SPORTS HD 2"/>
+			<S i="0279" f="2" s="1" t="11" n="beIN SPORTS HD 2"/>
 			<S i="027e" f="4" s="1" t="11" n="TİCARİ beIN SPORTS HD 4"/>
-			<S i="027f" f="4" s="1" t="11" n="beIN SPORTS HD 4"/>
+			<S i="027f" f="2" s="1" t="11" n="beIN SPORTS HD 4"/>
 			<S i="0282" f="4" s="1" t="11" n="TARAFTAR 2 HD"/>
 			<S i="02b2" f="2" s="0" t="11" n="TRT1 HD"/>
 		</TS>

@@ -125,12 +125,14 @@
 			<S i="4f09" f="4" s="0" t="1" n="Muszicka TV"/>
 			<S i="4f0a" f="4" s="0" t="1" n="RTL Gold"/>
 			<S i="4f0b" f="4" s="0" t="1" n="Sorozat +"/>
+			<S i="4f0c" f="1" s="0" t="1" n="TV 2"/>
+			<S i="4f0d" f="1" s="0" t="1" n="Super TV2"/>
 			<S i="4f10" f="4" s="0" t="1" n="TV Mreza Most"/>
 			<S i="4f11" f="4" s="0" t="1" n="OBN"/>
 			<S i="4f12" f="4" s="0" t="1" n="HEMA TV"/>
 			<S i="4f13" f="4" s="0" t="1" n="Pink BiH"/>
 			<S i="4f14" f="4" s="0" t="1" n="Face TV"/>
-			<S i="4f15" f="4" s="0" t="1" n="Alfa"/>
+			<S i="4f15" f="4" s="1" t="1" n="Alfa"/>
 			<S i="4f16" f="4" s="0" t="1" n="K3"/>
 			<S i="4f1a" f="4" s="0" t="1" n="TV Niksic"/>
 			<S i="4f1b" f="4" s="0" t="1" n="TV Budva"/>
@@ -397,7 +399,7 @@
 			<S i="17d6" f="4" s="1" t="19" n="iConcert"/>
 			<S i="17d7" f="4" s="1" t="19" n="AutoMotorSport HD"/>
 			<S i="17de" f="4" s="0" t="19" n="SES Demo HD"/>
-			<S i="182e" f="4" s="0" t="c" n="A2C-RMT"/>
+			<S i="182e" f="2" s="0" t="c" n="A2C-RMT"/>
 		</TS>
 		<TS id="0c93" on="0003" frq="12070000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="334b" f="4" s="1" t="19" n="Sport 1 HD"/>
