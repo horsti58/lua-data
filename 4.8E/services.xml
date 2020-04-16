@@ -155,7 +155,7 @@
 			<S i="1db5" f="4" s="1" t="16" n="Tellytrack"/>
 			<S i="1dba" f="4" s="0" t="19" n="ZIK HD TEST"/>
 			<S i="1dbf" f="4" s="0" t="16" n="Mist TV"/>
-			<S i="1dc4" f="4" s="0" t="16" n="CHO MEDIA"/>
+			<S i="1dc4" f="4" s="0" t="16" n="Svoboda"/>
 			<S i="1dc9" f="4" s="0" t="16" n="Channel 5 (Ukraine) HD"/>
 			<S i="1dce" f="4" s="0" t="19" n="NEWS ONE HD"/>
 			<S i="1dd3" f="4" s="1" t="16" n="Test B"/>
@@ -164,7 +164,7 @@
 			<S i="1de2" f="4" s="1" t="16" n="ERC"/>
 			<S i="1dec" f="4" s="0" t="16" n="Pershyy Nezalezhnyy Test"/>
 			<S i="1df1" f="4" s="0" t="16" n="TV5"/>
-			<S i="1df6" f="1" s="0" t="16" n="ZORIANY"/>
+			<S i="1df6" f="4" s="0" t="16" n="ZORIANY"/>
 			<S i="1dfb" f="4" s="0" t="16" n="DONBAS ONLINE"/>
 			<S i="1e00" f="4" s="0" t="19" n="ATR HD"/>
 			<S i="1e05" f="4" s="0" t="16" n="ObozTV"/>
@@ -442,23 +442,23 @@
 			<S i="19be" f="4" s="0" t="1" n="NATALI"/>
 		</TS>
 		<TS id="001a" on="0044" frq="12092000" inv="2" sr="30000000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="0ab4" f="4" s="1" t="1" n="Viasat Nature"/>
-			<S i="0abe" f="4" s="1" t="1" n="TV1000"/>
-			<S i="0ac8" f="4" s="1" t="1" n="Playboy TV"/>
-			<S i="0ad2" f="4" s="1" t="1" n="Viasat Explore"/>
-			<S i="0adc" f="4" s="1" t="1" n="BOLT"/>
-			<S i="0ae6" f="4" s="1" t="1" n="TV1000 Action"/>
-			<S i="0afa" f="4" s="1" t="1" n="TV1000 World Kino"/>
-			<S i="0bd6" f="4" s="0" t="19" n="Viasat Nature/History HD"/>
+			<S i="0ab4" f="4" s="1" t="16" n="Viasat Nature"/>
+			<S i="0abe" f="4" s="1" t="16" n="TV1000"/>
+			<S i="0ac8" f="4" s="1" t="16" n="Playboy TV"/>
+			<S i="0ad2" f="4" s="1" t="16" n="Viasat Explorer"/>
+			<S i="0adc" f="4" s="1" t="16" n="BOLT"/>
+			<S i="0ae6" f="4" s="1" t="16" n="TV1000 Action"/>
+			<S i="0afa" f="4" s="1" t="16" n="TV1000 World Kino"/>
+			<S i="0bd6" f="4" s="1" t="19" n="Viasat Nature/History HD"/>
 			<S i="0be0" f="4" s="1" t="19" n="Discovery Showcase HD"/>
-			<S i="0c08" f="4" s="1" t="1" n="Fine Living"/>
-			<S i="1004" f="4" s="1" t="1" n="ViP Premiere"/>
-			<S i="100e" f="4" s="1" t="1" n="ViP Megahit"/>
-			<S i="1018" f="4" s="1" t="1" n="ViP Comedy"/>
-			<S i="1022" f="4" s="1" t="1" n="Viasat Sport"/>
-			<S i="1068" f="4" s="1" t="19" n="ViP Premiere"/>
-			<S i="1072" f="4" s="1" t="19" n="ViP Megahit"/>
-			<S i="107c" f="4" s="1" t="19" n="ViP Comedy"/>
+			<S i="0c08" f="4" s="1" t="16" n="Fine Living"/>
+			<S i="1004" f="4" s="1" t="16" n="ViP Premiere"/>
+			<S i="100e" f="4" s="1" t="16" n="ViP Megahit"/>
+			<S i="1018" f="4" s="1" t="16" n="ViP Comedy"/>
+			<S i="1022" f="4" s="1" t="16" n="Viasat Sport"/>
+			<S i="1068" f="4" s="1" t="19" n="ViP Premiere HD"/>
+			<S i="1072" f="4" s="1" t="19" n="ViP Megahit HD"/>
+			<S i="107c" f="4" s="1" t="19" n="ViP Comedy HD"/>
 			<S i="1086" f="4" s="1" t="19" n="Viasat Sport HD"/>
 		</TS>
 		<TS id="0010" on="0055" frq="12130000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">

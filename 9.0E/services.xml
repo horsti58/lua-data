@@ -126,10 +126,10 @@
 			<S i="0726" f="4" s="1" t="1" n="SISAL 3"/>
 			<S i="0730" f="4" s="1" t="1" n="SISAL 4"/>
 			<S i="073a" f="4" s="1" t="1" n="SISAL 5"/>
-			<S i="0744" f="1" s="0" t="1" n="NLM TV"/>
-			<S i="074e" f="1" s="0" t="1" n="Italy Service 3"/>
+			<S i="0744" f="4" s="0" t="1" n="NLM TV"/>
+			<S i="074e" f="4" s="0" t="1" n="Italy Service 3"/>
 			<S i="0758" f="4" s="0" t="2" n="Radio WE 2020"/>
-			<S i="0762" f="1" s="0" t="1" n="Italy Service 5"/>
+			<S i="0762" f="4" s="0" t="1" n="Italy Service 5"/>
 		</TS>
 		<TS id="0001" on="00aa" frq="11843000" inv="2" sr="27500000" fec="10" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="03f5" f="4" s="1" t="1" n="Stingray iConcerts"/>

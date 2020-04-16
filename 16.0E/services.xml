@@ -133,23 +133,25 @@
 			<S i="0548" f="4" s="1" t="1" n="Palma Plus"/>
 			<S i="0549" f="4" s="1" t="1" n="Arena Sport 1 Hr"/>
 			<S i="054a" f="4" s="1" t="1" n="Alfa"/>
-			<S i="054b" f="4" s="0" t="1" n="Arena Sport 4"/>
+			<S i="054b" f="4" s="1" t="1" n="Arena Sport 4"/>
 			<S i="054c" f="4" s="1" t="1" n="Televizija 24"/>
 			<S i="054d" f="4" s="1" t="1" n="Telma"/>
 			<S i="054e" f="4" s="1" t="1" n="MRT Sobraniski"/>
 			<S i="054f" f="4" s="1" t="1" n="Alfa MKD"/>
 			<S i="0550" f="4" s="1" t="1" n="Comedy Central"/>
-			<S i="0551" f="4" s="1" t="1" n="CineStar HRV"/>
+			<S i="0551" f="4" s="1" t="1" n="CineStar TV 1 HRV"/>
 			<S i="0552" f="4" s="1" t="1" n="Travel"/>
-			<S i="0553" f="4" s="1" t="1" n="Nick Jr."/>
+			<S i="0553" f="2" s="1" t="1" n="Nick Jr."/>
 			<S i="0554" f="4" s="1" t="1" n="Cinestar Premiere 1 HD"/>
 			<S i="0555" f="4" s="1" t="1" n="SK Esports"/>
 			<S i="0556" f="4" s="1" t="1" n="Cinestar Premiere 2 HD"/>
 			<S i="0557" f="4" s="1" t="1" n="Crime &amp; Invest."/>
 			<S i="0558" f="4" s="1" t="1" n="Dusk! TV"/>
+			<S i="0559" f="1" s="1" t="1" n="Uci Doma 1"/>
+			<S i="055a" f="1" s="1" t="1" n="Uci Doma 2"/>
 			<S i="055b" f="4" s="0" t="2" n="Radio Studio B"/>
 			<S i="055c" f="4" s="0" t="2" n="Test 1"/>
-			<S i="055f" f="4" s="1" t="1" n="DTX HD"/>
+			<S i="055f" f="2" s="1" t="1" n="DTX HD"/>
 		</TS>
 		<TS id="75fc" on="016e" frq="11011000" inv="2" sr="27500000" fec="10" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="05ab" f="4" s="1" t="1" n="SK 1 HD"/>
@@ -232,14 +234,14 @@
 		</TS>
 		<TS id="016c" on="016e" frq="11140000" inv="2" sr="30000000" fec="10" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="000e" f="4" s="0" t="1" n="KLAN KOSOVA HD"/>
-			<S i="000f" f="4" s="0" t="1" n="ABC News"/>
+			<S i="000f" f="4" s="0" t="1" n="ABC NEWS"/>
 			<S i="0046" f="4" s="0" t="1" n="Tring History"/>
 			<S i="0087" f="4" s="0" t="1" n="RTK 1"/>
 			<S i="0321" f="4" s="0" t="1" n="KIDS"/>
 			<S i="04c9" f="4" s="0" t="1" n="Elrodi"/>
-			<S i="0b0e" f="4" s="0" t="1" n="Bunga Bunga"/>
+			<S i="0b0e" f="4" s="1" t="1" n="UNK (0x016C_0x0B0E)"/>
 			<S i="0e86" f="4" s="0" t="1" n="PRIME"/>
-			<S i="126e" f="4" s="0" t="1" n="Prince Kids"/>
+			<S i="126e" f="4" s="0" t="1" n="PRINCE KIDS"/>
 			<S i="1271" f="4" s="0" t="1" n="T7"/>
 			<S i="132f" f="4" s="0" t="1" n="ARTKINO 1"/>
 			<S i="1330" f="4" s="0" t="1" n="ARTKINO 2"/>
@@ -247,11 +249,11 @@
 			<S i="1332" f="4" s="0" t="1" n="ARTDOKU 1"/>
 			<S i="1333" f="4" s="0" t="1" n="ARTDOKU 2"/>
 			<S i="1335" f="4" s="0" t="1" n="EPISODE"/>
-			<S i="1388" f="1" s="0" t="1" n="05 Top Channel"/>
-			<S i="1392" f="1" s="0" t="1" n="Top News"/>
+			<S i="1388" f="4" s="0" t="1" n="05 Top Channel"/>
+			<S i="1392" f="4" s="0" t="1" n="Top News"/>
 			<S i="177b" f="4" s="0" t="1" n="DUKAGJINI"/>
-			<S i="1790" f="4" s="1" t="1" n="ALSAT M"/>
-			<S i="f2df" f="4" s="0" t="1" n="GURMANIA"/>
+			<S i="1790" f="4" s="0" t="1" n="ALSAT M"/>
+			<S i="f2df" f="4" s="1" t="1" n="GURMANIA"/>
 		</TS>
 		<TS id="cb2c" on="016e" frq="11151000" inv="2" sr="14374000" fec="10" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0034" f="4" s="1" t="1" n="Pink Thriller"/>
@@ -333,7 +335,7 @@
 			<S i="02fa" f="4" s="1" t="1" n="Fox Movies Slo"/>
 			<S i="02fb" f="4" s="1" t="1" n="24Kitchen"/>
 			<S i="02fc" f="4" s="1" t="1" n="HGTV HD"/>
-			<S i="02fd" f="4" s="1" t="1" n="CineStar SRB"/>
+			<S i="02fd" f="4" s="1" t="1" n="CineStar TV 1 SRB"/>
 			<S i="02fe" f="4" s="1" t="1" n="CineStar A&amp;T SRB"/>
 			<S i="02ff" f="4" s="1" t="1" n="AXN"/>
 			<S i="0300" f="4" s="1" t="1" n="Brazzers TV"/>
@@ -549,13 +551,15 @@
 			<S i="08d4" f="4" s="1" t="1" n="Tring Fantasy"/>
 			<S i="0c1c" f="4" s="1" t="1" n="Klan HD"/>
 			<S i="0c80" f="4" s="1" t="1" n="Klan Plus"/>
-			<S i="1b58" f="4" s="0" t="2" n="Radio Klan"/>
+			<S i="12c0" f="1" s="1" t="1" n="KanalD Drama"/>
+			<S i="1b58" f="4" s="0" t="2" n="Radio Klan HD"/>
 		</TS>
 		<TS id="c418" on="016e" frq="11470000" inv="2" sr="30000000" fec="5" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0259" f="4" s="1" t="1f" n="Extasy 4K"/>
 			<S i="025a" f="4" s="0" t="16" n="Test"/>
 			<S i="025b" f="4" s="1" t="19" n="ID Xtra HD"/>
-			<S i="025c" f="1" s="0" t="19" n="ARENA HD"/>
+			<S i="025c" f="4" s="0" t="19" n="ARENA HD"/>
+			<S i="025d" f="4" s="0" t="16" n="Aurora TV"/>
 			<S i="025e" f="4" s="1" t="19" n="Eurosport 1 HD"/>
 			<S i="025f" f="4" s="1" t="19" n="Eurosport 2 HD"/>
 			<S i="0260" f="4" s="1" t="19" n="Planeta HD"/>
@@ -574,7 +578,7 @@
 			<S i="027e" f="4" s="1" t="16" n="TLC"/>
 			<S i="027f" f="4" s="1" t="16" n="Baby TV"/>
 			<S i="0280" f="4" s="1" t="16" n="Duck TV"/>
-			<S i="0281" f="4" s="1" t="16" n="Fine Living Network"/>
+			<S i="0281" f="4" s="1" t="16" n="Fine Living"/>
 			<S i="0282" f="4" s="1" t="19" n="Eurosport 1 HD"/>
 			<S i="0283" f="4" s="1" t="19" n="Eurosport 2 HD"/>
 			<S i="0285" f="4" s="1" t="16" n="Fine Living"/>
@@ -582,6 +586,7 @@
 			<S i="0288" f="4" s="1" t="16" n="FOX Movies"/>
 			<S i="0289" f="4" s="1" t="16" n="National Geographic Wild"/>
 			<S i="028a" f="4" s="1" t="16" n="Boomerang"/>
+			<S i="028b" f="4" s="1" t="16" n="24 Kitchen"/>
 			<S i="02ba" f="4" s="1" t="16" n="Fine Living"/>
 			<S i="02bb" f="4" s="1" t="16" n="Duck TV"/>
 		</TS>
@@ -735,6 +740,7 @@
 			<S i="009c" f="4" s="0" t="2" n="Radio CG."/>
 			<S i="00a6" f="4" s="1" t="16" n="RTL Passion."/>
 			<S i="00c0" f="4" s="1" t="16" n="RTL Crime."/>
+			<S i="00c1" f="1" s="1" t="16" n="Vivid Touch."/>
 			<S i="00c3" f="4" s="1" t="16" n="PrivateTV."/>
 			<S i="00c5" f="4" s="1" t="16" n="Fox."/>
 			<S i="00c9" f="4" s="0" t="2" n="Otvoreni."/>
@@ -746,9 +752,20 @@
 			<S i="0127" f="4" s="1" t="16" n="HRT1."/>
 		</TS>
 		<TS id="c670" on="016e" frq="11595000" inv="2" sr="30000000" fec="5" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="0385" f="4" s="1" t="19" n="Body in Balance"/>
+			<S i="0386" f="4" s="1" t="19" n="RiC International HD"/>
+			<S i="0387" f="4" s="1" t="19" n="Evil Angel HD"/>
+			<S i="0388" f="4" s="1" t="16" n="Box Hits"/>
+			<S i="0389" f="4" s="1" t="16" n="Box Africa"/>
+			<S i="038a" f="4" s="1" t="16" n="Magic UK"/>
+			<S i="038b" f="4" s="1" t="16" n="Kiss"/>
+			<S i="038c" f="4" s="1" t="16" n="Kerrang!"/>
+			<S i="038d" f="4" s="1" t="16" n="Ginx"/>
+			<S i="038e" f="4" s="0" t="16" n="Wness TV"/>
+			<S i="038f" f="4" s="0" t="1f" n="Fashion 4K"/>
 			<S i="03b8" f="4" s="0" t="19" n="Fashion Television HD"/>
-			<S i="03e6" f="4" s="0" t="c" n="A1 BG SmardTV OTA"/>
-			<S i="03e7" f="4" s="0" t="c" n="A1 BG OTA-Upgrade"/>
+			<S i="03e6" f="2" s="0" t="c" n="A1 BG SmardTV OTA"/>
+			<S i="03e7" f="2" s="0" t="c" n="A1 BG OTA-Upgrade"/>
 		</TS>
 		<TS id="c6d4" on="016e" frq="11637000" inv="2" sr="30000000" fec="5" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="076d" f="4" s="1" t="16" n="VH1 Classic"/>
@@ -944,16 +961,17 @@
 			<S i="0002" f="4" s="1" t="1" n="UNIRE 2 - VERDE"/>
 			<S i="000a" f="4" s="1" t="1" n="CH 10 - UNIRE BLU"/>
 		</TS>
-		<TS id="0001" on="0001" frq="12660000" inv="2" sr="2222000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
+		<TS id="0001" on="0001" frq="12660000" inv="2" sr="2220000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="0001" f="4" s="0" t="1" n="SNAI LIVE"/>
 			<S i="0002" f="4" s="0" t="1" n="V.E.4"/>
 		</TS>
-		<TS id="0065" on="0001" frq="12699000" inv="2" sr="9880000" fec="1" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
+		<TS id="0065" on="0001" frq="12699000" inv="2" sr="9880000" fec="2" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0005" f="4" s="0" t="1" n="CH 5 - Virtuali 2"/>
 			<S i="0007" f="4" s="1" t="1" n="SNAI TV Virtuali 1"/>
 			<S i="0037" f="4" s="0" t="1" n="CH 55 - Virtuali 3"/>
-			<S i="0038" f="4" s="0" t="1" n="CH 56 - Provider"/>
+			<S i="0038" f="2" s="0" t="1" n="CH 56 - Provider"/>
 			<S i="0039" f="4" s="0" t="1" n="CH 57 - Virtuali 1"/>
+			<S i="003a" f="4" s="0" t="1" n="CH 58 - Virtuali 4"/>
 			<S i="004d" f="4" s="1" t="1" n="SNAI TV Audio Unico"/>
 		</TS>
 		<TS id="0064" on="0064" frq="12717000" inv="2" sr="7500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">

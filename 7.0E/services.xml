@@ -156,7 +156,7 @@
 			<S i="006d" f="4" s="0" t="1" n="hidayah turky"/>
 			<S i="006e" f="4" s="0" t="1" n="Hadi 7"/>
 			<S i="0070" f="4" s="0" t="1" n="Hadi 4"/>
-			<S i="012d" f="4" s="0" t="1" n="SahebTV"/>
+			<S i="012d" f="2" s="0" t="1" n="SahebTV"/>
 			<S i="012e" f="4" s="0" t="1" n="Erfan Halgheh"/>
 			<S i="0164" f="4" s="0" t="1" n="Janatol baghie TV"/>
 			<S i="016a" f="2" s="0" t="1" n="IR Cama 1 TV"/>
@@ -349,31 +349,31 @@
 			<S i="1dea" f="2" s="1" t="1" n="BLOOMBERG HT"/>
 		</TS>
 		<TS id="c5a8" on="007e" frq="11554000" inv="2" sr="29750000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="1dc8" f="4" s="0" t="81" n="DVBSSU3"/>
-			<S i="1dc9" f="4" s="0" t="81" n="DVBSSU4"/>
-			<S i="1dca" f="4" s="0" t="81" n="Irdeto Test4"/>
-			<S i="1dcb" f="4" s="0" t="81" n="Irdeto Test3"/>
-			<S i="1dcc" f="4" s="0" t="81" n="HM9504-R"/>
-			<S i="1dcd" f="4" s="0" t="81" n="SMIT SSU"/>
-			<S i="1dce" f="4" s="0" t="81" n="SMIT"/>
-			<S i="1dcf" f="4" s="0" t="81" n="DT-5103"/>
-			<S i="1dd0" f="4" s="0" t="81" n="DT9505R"/>
-			<S i="1dd1" f="4" s="0" t="81" n="SSUTEST"/>
-			<S i="1dd4" f="4" s="0" t="81" n="DT9103-R"/>
-			<S i="1dd5" f="4" s="0" t="81" n="UEC PVR REPLACEMENT"/>
-			<S i="1dd6" f="4" s="0" t="81" n="DT61420UHD REPLACEMENT"/>
-			<S i="1dd7" f="4" s="0" t="81" n="HM9506HD Replacement"/>
+			<S i="1dc8" f="2" s="0" t="81" n="DVBSSU3"/>
+			<S i="1dc9" f="2" s="0" t="81" n="DVBSSU4"/>
+			<S i="1dca" f="2" s="0" t="81" n="Irdeto Test4"/>
+			<S i="1dcb" f="2" s="0" t="81" n="Irdeto Test3"/>
+			<S i="1dcc" f="2" s="0" t="81" n="HM9504-R"/>
+			<S i="1dcd" f="2" s="0" t="81" n="SMIT SSU"/>
+			<S i="1dce" f="2" s="0" t="81" n="SMIT"/>
+			<S i="1dcf" f="2" s="0" t="81" n="DT-5103"/>
+			<S i="1dd0" f="2" s="0" t="81" n="DT9505R"/>
+			<S i="1dd1" f="2" s="0" t="81" n="SSUTEST"/>
+			<S i="1dd4" f="2" s="0" t="81" n="DT9103-R"/>
+			<S i="1dd5" f="2" s="0" t="81" n="UEC PVR REPLACEMENT"/>
+			<S i="1dd6" f="2" s="0" t="81" n="DT61420UHD REPLACEMENT"/>
+			<S i="1dd7" f="2" s="0" t="81" n="HM9506HD Replacement"/>
 			<S i="1dd8" f="4" s="0" t="11" n="TEST XML2"/>
-			<S i="1dd9" f="1" s="1" t="11" n="PCR_MW1"/>
-			<S i="1dda" f="1" s="1" t="11" n="PCR_MW2"/>
-			<S i="1ddb" f="1" s="1" t="11" n="MCR_MW1"/>
-			<S i="1ddc" f="1" s="1" t="11" n="MCR_MW2"/>
-			<S i="1ddd" f="1" s="1" t="11" n="MCR_MW3"/>
-			<S i="1dde" f="1" s="1" t="11" n="MCR_MW4"/>
-			<S i="1ddf" f="1" s="1" t="11" n="AYAZAGA_PGM"/>
-			<S i="1de0" f="1" s="1" t="11" n="AYAZAGA_MAIN"/>
-			<S i="1de1" f="1" s="1" t="11" n="AYAZAGA_YEDEK"/>
-			<S i="1de2" f="1" s="1" t="11" n="PCR_MW3"/>
+			<S i="1dd9" f="4" s="1" t="11" n="PCR_MW1"/>
+			<S i="1dda" f="4" s="1" t="11" n="PCR_MW2"/>
+			<S i="1ddb" f="4" s="1" t="11" n="MCR_MW1"/>
+			<S i="1ddc" f="4" s="1" t="11" n="MCR_MW2"/>
+			<S i="1ddd" f="4" s="1" t="11" n="MCR_MW3"/>
+			<S i="1dde" f="4" s="1" t="11" n="MCR_MW4"/>
+			<S i="1ddf" f="4" s="1" t="11" n="AYAZAGA_PGM"/>
+			<S i="1de0" f="4" s="1" t="11" n="AYAZAGA_MAIN"/>
+			<S i="1de1" f="4" s="1" t="11" n="AYAZAGA_YEDEK"/>
+			<S i="1de2" f="4" s="1" t="11" n="PCR_MW3"/>
 			<S i="1dff" f="2" s="0" t="81" n="ARC_O2"/>
 		</TS>
 		<TS id="c5a8" on="007e" frq="11575000" inv="2" sr="30000000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">

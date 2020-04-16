@@ -390,8 +390,8 @@
 		<S i="1c16" t="29" on="46" s="-8" frq="12015" n="HISTORY 2 HD"/>
 		<S i="1c1f" t="29" on="46" s="-8" frq="12015" n="HISTORY 2 HD"/>
 		<S i="1e87" t="14" on="46" s="-8" frq="12418" n="History Europe"/>
-		<S i="106a" t="29" on="46" s="-8" frq="12015" n="HISTORY HD"/>
 		<S i="106e" t="29" on="46" s="-8" frq="12015" n="HISTORY HD"/>
+		<S i="106a" t="29" on="46" s="-8" frq="12015" n="HISTORY HD"/>
 		<S i="1ce1" t="29" on="46" s="-8" frq="12015" n="HISTORY HD (S)"/>
 		<S i="106f" t="29" on="46" s="-8" frq="12015" n="HISTORY HD (ST)"/>
 		<S i="1e86" t="14" on="46" s="-8" frq="12418" n="History Romania HD"/>
@@ -548,8 +548,8 @@
 		<S i="1f20" t="4f" on="46" s="-8" frq="12437" n="Telia Liiga Studio"/>
 		<S i="32d2" t="45" on="46" s="-8" frq="10903" n="Test 13010"/>
 		<S i="1b90" t="4b" on="56" s="-8" frq="12399" n="Test 7056"/>
-		<S i="1b90" t="4d" on="46" s="-8" frq="12399" n="Test 7056"/>
 		<S i="1b90" t="4b" on="46" s="-8" frq="12399" n="Test 7056"/>
+		<S i="1b90" t="4d" on="46" s="-8" frq="12399" n="Test 7056"/>
 		<S i="1d21" t="4b" on="56" s="-8" frq="12399" n="Test 7457"/>
 		<S i="1d21" t="4b" on="46" s="-8" frq="12399" n="Test 7457"/>
 		<S i="1d23" t="55" on="56" s="-8" frq="12322" n="Test 7459"/>
@@ -579,9 +579,9 @@
 		<S i="2347" t="52" on="46" s="-8" frq="12207" n="TS Showcase 7"/>
 		<S i="2348" t="52" on="46" s="-8" frq="12207" n="TS Showcase 8"/>
 		<S i="2349" t="52" on="46" s="-8" frq="12207" n="TS Showcase 9"/>
-		<S i="2328" t="4b" on="56" s="-8" frq="12399" n="TS Sports 1"/>
-		<S i="2328" t="4d" on="46" s="-8" frq="12399" n="TS Sports 1"/>
 		<S i="2328" t="4b" on="46" s="-8" frq="12399" n="TS Sports 1"/>
+		<S i="2328" t="4d" on="46" s="-8" frq="12399" n="TS Sports 1"/>
+		<S i="2328" t="4b" on="56" s="-8" frq="12399" n="TS Sports 1"/>
 		<S i="2331" t="54" on="46" s="-8" frq="12360" n="TS Sports 10"/>
 		<S i="2332" t="55" on="46" s="-8" frq="12322" n="TS Sports 11"/>
 		<S i="2332" t="55" on="56" s="-8" frq="12322" n="TS Sports 11"/>
@@ -591,14 +591,14 @@
 		<S i="2334" t="55" on="46" s="-8" frq="12322" n="TS Sports 13"/>
 		<S i="2335" t="55" on="56" s="-8" frq="12322" n="TS Sports 14"/>
 		<S i="2335" t="55" on="46" s="-8" frq="12322" n="TS Sports 14"/>
-		<S i="2336" t="55" on="46" s="-8" frq="12322" n="TS Sports 15"/>
 		<S i="2336" t="55" on="56" s="-8" frq="12322" n="TS Sports 15"/>
+		<S i="2336" t="55" on="46" s="-8" frq="12322" n="TS Sports 15"/>
 		<S i="2329" t="4d" on="46" s="-8" frq="12399" n="TS Sports 2"/>
-		<S i="2329" t="4b" on="56" s="-8" frq="12399" n="TS Sports 2"/>
 		<S i="2329" t="4b" on="46" s="-8" frq="12399" n="TS Sports 2"/>
+		<S i="2329" t="4b" on="56" s="-8" frq="12399" n="TS Sports 2"/>
 		<S i="232a" t="4d" on="46" s="-8" frq="12399" n="TS Sports 3"/>
-		<S i="232a" t="4b" on="56" s="-8" frq="12399" n="TS Sports 3"/>
 		<S i="232a" t="4b" on="46" s="-8" frq="12399" n="TS Sports 3"/>
+		<S i="232a" t="4b" on="56" s="-8" frq="12399" n="TS Sports 3"/>
 		<S i="232b" t="4b" on="46" s="-8" frq="12399" n="TS Sports 4"/>
 		<S i="232b" t="4d" on="46" s="-8" frq="12399" n="TS Sports 4"/>
 		<S i="232b" t="4b" on="56" s="-8" frq="12399" n="TS Sports 4"/>
@@ -661,8 +661,8 @@
 		<S i="1da8" t="3" on="46" s="-8" frq="11278" n="Viasat Jalkapallo HD"/>
 		<S i="1da9" t="3" on="46" s="-8" frq="11278" n="Viasat Jääkiekko HD"/>
 		<S i="114d" t="29" on="46" s="-8" frq="12015" n="Viasat Motor HD"/>
-		<S i="43b3" t="1c" on="46" s="-8" frq="11403" n="Viasat Series HD"/>
 		<S i="1161" t="1c" on="46" s="-8" frq="11403" n="Viasat Series HD"/>
+		<S i="43b3" t="1c" on="46" s="-8" frq="11403" n="Viasat Series HD"/>
 		<S i="1cbe" t="22" on="46" s="-8" frq="11389" n="Viasat Sport Extra"/>
 		<S i="eec" t="3e" on="46" s="-8" frq="10809" n="Viasat Sport HD"/>
 		<S i="1cd8" t="3e" on="46" s="-8" frq="10809" n="Viasat Sport Premium HD"/>
@@ -889,9 +889,9 @@
 		<S i="78c7" t="2c5" on="600" s="-8" frq="12265" n="Fem3 HU."/>
 		<S i="7600" t="2be" on="600" s="-8" frq="11766" n="Film + CZE"/>
 		<S i="7615" t="2be" on="600" s="-8" frq="11766" n="Film + CZE ( SVT)"/>
-		<S i="75fe" t="2be" on="600" s="-8" frq="11766" n="Film Cafe"/>
 		<S i="7616" t="2be" on="600" s="-8" frq="11766" n="Film Cafe"/>
 		<S i="76cb" t="2c0" on="600" s="-8" frq="11996" n="Film Cafe"/>
+		<S i="75fe" t="2be" on="600" s="-8" frq="11766" n="Film Cafe"/>
 		<S i="76cf" t="2c0" on="600" s="-8" frq="11996" n="Film Mania"/>
 		<S i="75fb" t="2be" on="600" s="-8" frq="11766" n="Film+"/>
 		<S i="760d" t="2be" on="600" s="-8" frq="11766" n="Film+ (SVT)"/>
