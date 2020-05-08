@@ -447,19 +447,20 @@
 			<S i="0ac8" f="4" s="1" t="16" n="Playboy TV"/>
 			<S i="0ad2" f="4" s="1" t="16" n="Viasat Explorer"/>
 			<S i="0adc" f="4" s="1" t="16" n="BOLT"/>
-			<S i="0ae6" f="4" s="1" t="16" n="TV1000 Action"/>
+			<S i="0ae6" f="2" s="1" t="16" n="TV1000 Action"/>
 			<S i="0afa" f="4" s="1" t="16" n="TV1000 World Kino"/>
 			<S i="0bd6" f="4" s="1" t="19" n="Viasat Nature/History HD"/>
 			<S i="0be0" f="4" s="1" t="19" n="Discovery Showcase HD"/>
 			<S i="0c08" f="4" s="1" t="16" n="Fine Living"/>
-			<S i="1004" f="4" s="1" t="16" n="ViP Premiere"/>
-			<S i="100e" f="4" s="1" t="16" n="ViP Megahit"/>
+			<S i="1004" f="2" s="1" t="16" n="ViP Premiere"/>
+			<S i="100e" f="2" s="1" t="16" n="ViP Megahit"/>
 			<S i="1018" f="4" s="1" t="16" n="ViP Comedy"/>
 			<S i="1022" f="4" s="1" t="16" n="Viasat Sport"/>
 			<S i="1068" f="4" s="1" t="19" n="ViP Premiere HD"/>
 			<S i="1072" f="4" s="1" t="19" n="ViP Megahit HD"/>
 			<S i="107c" f="4" s="1" t="19" n="ViP Comedy HD"/>
 			<S i="1086" f="4" s="1" t="19" n="Viasat Sport HD"/>
+			<S i="1090" f="4" s="1" t="19" n="TV1000 Action"/>
 		</TS>
 		<TS id="0010" on="0055" frq="12130000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="19c8" f="2" s="0" t="c" n="SW7600_FTA"/>
@@ -472,12 +473,12 @@
 			<S i="19f0" f="2" s="1" t="19" n="FOOTBALL 2 HD"/>
 			<S i="19fa" f="4" s="0" t="1" n="ICTV UA"/>
 			<S i="1a04" f="2" s="1" t="1" n="FOOTBALL 2"/>
-			<S i="1a0e" f="4" s="0" t="1" n="INTER +"/>
+			<S i="1a0e" f="4" s="0" t="1" n="INTER+ TEST"/>
 			<S i="1a18" f="4" s="0" t="1" n="1+1 International"/>
 			<S i="1a22" f="4" s="0" t="1" n="Ukraina 24"/>
-			<S i="1a28" f="4" s="1" t="1" n="test1"/>
-			<S i="1a29" f="4" s="1" t="1" n="test2"/>
-			<S i="1a2a" f="4" s="1" t="1" n="test3"/>
+			<S i="1a28" f="2" s="1" t="1" n="test1"/>
+			<S i="1a29" f="2" s="1" t="1" n="test2"/>
+			<S i="1a2a" f="2" s="1" t="1" n="test3"/>
 		</TS>
 		<TS id="00c9" on="0001" frq="12149000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="0014" f="4" s="1" t="1" n="CORAL TV1 - PVU4"/>
@@ -680,7 +681,7 @@
 			<S i="1cc5" f="2" s="0" t="1" n="PIXEL"/>
 			<S i="1cca" f="2" s="0" t="1" n="Enter Film"/>
 			<S i="1cd9" f="2" s="1" t="16" n="TEST"/>
-			<S i="1cde" f="4" s="1" t="16" n="INTER +"/>
+			<S i="1cde" f="4" s="1" t="16" n="INTER+ TEST"/>
 		</TS>
 		<TS id="0065" on="0001" frq="12418000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="000b" f="4" s="1" t="1" n="SIS VISION AUDIO &amp; VBI - CISCO 1"/>

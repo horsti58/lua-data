@@ -30,8 +30,8 @@
 		<S i="1e1a" t="2c" on="55" s="48" frq="12265" n="NicktoonsChannel"/>
 		<S i="182e" t="c" on="55" s="48" frq="11766" n="O-TV"/>
 		<S i="180c" t="c" on="55" s="48" frq="11766" n="Paramount Channel"/>
-		<S i="182d" t="c" on="55" s="48" frq="11766" n="Paramount Comedy"/>
 		<S i="17f2" t="c" on="55" s="48" frq="11766" n="Paramount Comedy"/>
+		<S i="182d" t="c" on="55" s="48" frq="11766" n="Paramount Comedy"/>
 		<S i="1e19" t="2c" on="55" s="48" frq="12265" n="ParamountChannel"/>
 		<S i="17fc" t="c" on="55" s="48" frq="11766" n="Plus Plus"/>
 		<S i="182c" t="c" on="55" s="48" frq="11766" n="Plus Plus"/>
@@ -143,6 +143,11 @@
 		<S i="27ce" t="c9" on="55" s="48" frq="11785" n="Viasat History HD"/>
 		<S i="2936" t="cb" on="55" s="48" frq="11938" n="Viasat Nature"/>
 	</Bouquet>
+	<Bouquet name="[E004.8] ARQIVA">
+		<S i="46" t="0" on="1" s="48" frq="12303" n="BBC - CCI DAB"/>
+		<S i="50b" t="0" on="1" s="48" frq="12303" n="Belsat TV"/>
+		<S i="503" t="0" on="1" s="48" frq="12303" n="IRN"/>
+	</Bouquet>
 	<Bouquet name="[E004.8] Arqiva">
 		<S i="2d0" t="0" on="1" s="48" frq="12303" n="BBC AM Dist3"/>
 		<S i="2e4" t="0" on="1" s="48" frq="12303" n="BBC AM Dist5"/>
@@ -150,11 +155,6 @@
 		<S i="2bc" t="0" on="1" s="48" frq="12303" n="BBC AM Dist1"/>
 		<S i="2c6" t="0" on="1" s="48" frq="12303" n="BBC AM Dist2"/>
 		<S i="2da" t="0" on="1" s="48" frq="12303" n="BBC AM Dist4"/>
-	</Bouquet>
-	<Bouquet name="[E004.8] ARQIVA">
-		<S i="46" t="0" on="1" s="48" frq="12303" n="BBC - CCI DAB"/>
-		<S i="50b" t="0" on="1" s="48" frq="12303" n="Belsat TV"/>
-		<S i="503" t="0" on="1" s="48" frq="12303" n="IRN"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] AVERS">
 		<S i="1815" t="c" on="55" s="48" frq="11766" n="AVERS"/>
@@ -192,8 +192,8 @@
 		<S i="19a0" t="f" on="55" s="48" frq="12073" n="ZIK"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] INTER +">
-		<S i="1cde" t="13" on="55" s="48" frq="12399" n="INTER +"/>
 		<S i="1ef6" t="2e" on="55" s="48" frq="12437" n="INTER +"/>
+		<S i="1cde" t="13" on="55" s="48" frq="12399" n="INTER+ TEST"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] MAXXI TV">
 		<S i="1b12" t="11" on="55" s="48" frq="12284" n="Channel 5 (Ukraine)"/>
@@ -282,7 +282,7 @@
 		<S i="b73" t="35" on="55" s="48" frq="12245" n="FOOTBALL 3 HD"/>
 		<S i="19e6" t="10" on="55" s="48" frq="12130" n="FOOTBALL1"/>
 		<S i="19fa" t="10" on="55" s="48" frq="12130" n="ICTV UA"/>
-		<S i="1a0e" t="10" on="55" s="48" frq="12130" n="INTER +"/>
+		<S i="1a0e" t="10" on="55" s="48" frq="12130" n="INTER+ TEST"/>
 		<S i="b72" t="35" on="55" s="48" frq="12245" n="Rybalka"/>
 		<S i="1a28" t="10" on="55" s="48" frq="12130" n="test1"/>
 		<S i="1a29" t="10" on="55" s="48" frq="12130" n="test2"/>
@@ -389,9 +389,9 @@
 		<S i="5e" t="65" on="1" s="48" frq="12418" n="ALT VC 90 AND 91"/>
 		<S i="5d" t="c9" on="1" s="48" frq="12149" n="ALT VC 92"/>
 		<S i="2328" t="6" on="56" s="48" frq="11996" n="AMB OTA"/>
+		<S i="64" t="1" on="5e" s="48" frq="12322" n="Animal Planet Europe"/>
 		<S i="65" t="1" on="5e" s="48" frq="12322" n="Animal Planet Europe"/>
 		<S i="66" t="1" on="5e" s="48" frq="12322" n="Animal Planet Europe"/>
-		<S i="64" t="1" on="5e" s="48" frq="12322" n="Animal Planet Europe"/>
 		<S i="6a4" t="1" on="5e" s="48" frq="12360" n="Animal Planet Poland HD"/>
 		<S i="514" t="1" on="5e" s="48" frq="12322" n="Animal Planet Turkey HD"/>
 		<S i="1e00" t="2b" on="55" s="48" frq="11747" n="ATR HD"/>
@@ -445,8 +445,8 @@
 		<S i="13ba" t="7" on="56" s="48" frq="11881" n="DR2"/>
 		<S i="6cc" t="19" on="56" s="48" frq="11345" n="DR3"/>
 		<S i="1e0a" t="2b" on="55" s="48" frq="11747" n="English Club HD"/>
-		<S i="1ef4" t="2e" on="55" s="48" frq="12437" n="Enter Film"/>
 		<S i="1cca" t="13" on="55" s="48" frq="12399" n="Enter Film"/>
+		<S i="1ef4" t="2e" on="55" s="48" frq="12437" n="Enter Film"/>
 		<S i="1de2" t="2b" on="55" s="48" frq="11747" n="ERC"/>
 		<S i="abe" t="23" on="56" s="48" frq="11305" n="ESPORTSTV"/>
 		<S i="adc" t="23" on="56" s="48" frq="11305" n="Eurosport 1"/>
@@ -469,7 +469,7 @@
 		<S i="190" t="1" on="5e" s="48" frq="12322" n="ID Xtra Europe"/>
 		<S i="1ee6" t="2e" on="55" s="48" frq="12437" n="Inter"/>
 		<S i="1c8e" t="13" on="55" s="48" frq="12399" n="Inter"/>
-		<S i="1a0e" t="10" on="55" s="48" frq="12130" n="INTER +"/>
+		<S i="1a0e" t="10" on="55" s="48" frq="12130" n="INTER+ TEST"/>
 		<S i="1eec" t="2e" on="55" s="48" frq="12437" n="K1"/>
 		<S i="1cb6" t="13" on="55" s="48" frq="12399" n="K1"/>
 		<S i="1eee" t="2e" on="55" s="48" frq="12437" n="K2"/>
@@ -554,8 +554,8 @@
 		<S i="410" t="1c" on="56" s="48" frq="12015" n="NRK2"/>
 		<S i="465d" t="1c" on="56" s="48" frq="12015" n="NRK2 lydtekst"/>
 		<S i="465e" t="1c" on="56" s="48" frq="12015" n="NRKSuper/NRK3lydtekst"/>
-		<S i="1c98" t="13" on="55" s="48" frq="12399" n="NTN"/>
 		<S i="1ee8" t="2e" on="55" s="48" frq="12437" n="NTN"/>
+		<S i="1c98" t="13" on="55" s="48" frq="12399" n="NTN"/>
 		<S i="1e05" t="2b" on="55" s="48" frq="11747" n="ObozTV"/>
 		<S i="104e" t="6" on="56" s="48" frq="11996" n="Pace 830 BL"/>
 		<S i="1038" t="6" on="56" s="48" frq="11996" n="Pace 865 BL"/>
@@ -698,9 +698,9 @@
 		<S i="bea" t="25" on="56" s="48" frq="11385" n="U test 27 2"/>
 		<S i="1a22" t="10" on="55" s="48" frq="12130" n="Ukraina 24"/>
 		<S i="19d2" t="10" on="55" s="48" frq="12130" n="Unian TV"/>
+		<S i="26f" t="0" on="1" s="48" frq="12303" n="Universal HUNGARY"/>
 		<S i="1f6" t="0" on="1" s="48" frq="12303" n="Universal HUNGARY"/>
 		<S i="26d" t="0" on="1" s="48" frq="12303" n="Universal HUNGARY"/>
-		<S i="26f" t="0" on="1" s="48" frq="12303" n="Universal HUNGARY"/>
 		<S i="cb" t="c9" on="1" s="48" frq="12149" n="VBI Test"/>
 		<S i="1e18" t="2c" on="55" s="48" frq="12265" n="Verimatrix TEST"/>
 		<S i="578" t="20" on="56" s="48" frq="11305" n="VFActionHD"/>
@@ -760,15 +760,6 @@
 		<S i="6f6" t="19" on="56" s="48" frq="11345" n="Svenska favoriter 2"/>
 		<S i="1f4" t="65" on="1" s="48" frq="12418" n="Upgrade Test Channel"/>
 	</Bouquet>
-	<Bouquet name="[E004.8] Viasat">
-		<S i="17fa" t="c" on="55" s="48" frq="11766" n="SK_SW_Viasat"/>
-	</Bouquet>
-	<Bouquet name="[E004.8] viasat">
-		<S i="286e" t="ca" on="55" s="48" frq="11958" n="ESPORTSTV HD"/>
-		<S i="28b4" t="ca" on="55" s="48" frq="11958" n="NHK World Japan"/>
-		<S i="1928" t="14" on="56" s="48" frq="12637" n="TV1000 Russian Kino"/>
-		<S i="195a" t="14" on="56" s="48" frq="12637" n="Viasat History (FSS)"/>
-	</Bouquet>
 	<Bouquet name="[E004.8] VIASAT">
 		<S i="adc" t="1a" on="44" s="48" frq="12092" n="BOLT"/>
 		<S i="be0" t="1a" on="44" s="48" frq="12092" n="Discovery Showcase HD"/>
@@ -776,6 +767,7 @@
 		<S i="ac8" t="1a" on="44" s="48" frq="12092" n="Playboy TV"/>
 		<S i="181d" t="c" on="55" s="48" frq="11766" n="ST_SW_1CAS"/>
 		<S i="abe" t="1a" on="44" s="48" frq="12092" n="TV1000"/>
+		<S i="1090" t="1a" on="44" s="48" frq="12092" n="TV1000 Action"/>
 		<S i="ae6" t="1a" on="44" s="48" frq="12092" n="TV1000 Action"/>
 		<S i="afa" t="1a" on="44" s="48" frq="12092" n="TV1000 World Kino"/>
 		<S i="ad2" t="1a" on="44" s="48" frq="12092" n="Viasat Explorer"/>
@@ -789,6 +781,16 @@
 		<S i="1072" t="1a" on="44" s="48" frq="12092" n="ViP Megahit HD"/>
 		<S i="1004" t="1a" on="44" s="48" frq="12092" n="ViP Premiere"/>
 		<S i="1068" t="1a" on="44" s="48" frq="12092" n="ViP Premiere HD"/>
+	</Bouquet>
+	<Bouquet name="[E004.8] Viasat">
+		<S i="17fa" t="c" on="55" s="48" frq="11766" n="SK_SW_Viasat"/>
+		<S i="1018" t="1a" on="44" s="48" frq="12092" n="ViP Comedy"/>
+	</Bouquet>
+	<Bouquet name="[E004.8] viasat">
+		<S i="286e" t="ca" on="55" s="48" frq="11958" n="ESPORTSTV HD"/>
+		<S i="28b4" t="ca" on="55" s="48" frq="11958" n="NHK World Japan"/>
+		<S i="1928" t="14" on="56" s="48" frq="12637" n="TV1000 Russian Kino"/>
+		<S i="195a" t="14" on="56" s="48" frq="12637" n="Viasat History (FSS)"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] VisionTV">
 		<S i="9ce" t="18" on="44" s="48" frq="12207" n="Animal Planet"/>

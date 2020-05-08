@@ -62,8 +62,8 @@
 		<S i="5282" t="c96" on="3" s="235" frq="12129" n="CAZ"/>
 		<S i="5276" t="c96" on="3" s="235" frq="12129" n="CAZ2"/>
 		<S i="17e0" t="c82" on="3" s="235" frq="11739" n="CD Infokanaal"/>
-		<S i="17b0" t="c82" on="3" s="235" frq="11739" n="Ceskoslovensko HD"/>
 		<S i="30a" t="c94" on="3" s="235" frq="12090" n="Cinemax"/>
+		<S i="36ff" t="c8c" on="3" s="235" frq="11934" n="CNN Prima News HD"/>
 		<S i="36f8" t="c8c" on="3" s="235" frq="11934" n="Comedy Central"/>
 		<S i="36ea" t="c8c" on="3" s="235" frq="11934" n="CS Film"/>
 		<S i="335a" t="c93" on="3" s="235" frq="12070" n="CS History"/>
@@ -81,8 +81,6 @@
 		<S i="17f3" t="c82" on="3" s="235" frq="11739" n="Downl CAM 2"/>
 		<S i="36fd" t="c8c" on="3" s="235" frq="11934" n="duck TV"/>
 		<S i="36f4" t="c8c" on="3" s="235" frq="11934" n="duck TV DUT"/>
-		<S i="17ea" t="c82" on="3" s="235" frq="11739" n="E! Entertainment BNL"/>
-		<S i="17eb" t="c82" on="3" s="235" frq="11739" n="E! Entertainment CZ"/>
 		<S i="51da" t="c96" on="3" s="235" frq="12129" n="Eclips TV"/>
 		<S i="5221" t="c99" on="3" s="235" frq="12188" n="een HD"/>
 		<S i="338f" t="c93" on="3" s="235" frq="12070" n="EPG Nagra"/>
@@ -93,9 +91,11 @@
 		<S i="311" t="c94" on="3" s="235" frq="12090" n="Eurosport 2 HD"/>
 		<S i="1b94" t="c88" on="3" s="235" frq="11856" n="Eurosport 2 NL"/>
 		<S i="5247" t="c99" on="3" s="235" frq="12188" n="Eurosport2 BE"/>
+		<S i="17ea" t="c82" on="3" s="235" frq="11739" n="FIGHTBOX"/>
 		<S i="36e2" t="c8c" on="3" s="235" frq="11934" n="FIGHTBOX PRELADTE"/>
 		<S i="52e7" t="c96" on="3" s="235" frq="12129" n="Film Europe HD"/>
 		<S i="52e8" t="c96" on="3" s="235" frq="12129" n="Film Europe HD INT"/>
+		<S i="17b0" t="c82" on="3" s="235" frq="11739" n="Film Europe+ HD"/>
 		<S i="52e2" t="c96" on="3" s="235" frq="12129" n="Film+"/>
 		<S i="51b8" t="c96" on="3" s="235" frq="12129" n="Film1 Action"/>
 		<S i="51b3" t="c96" on="3" s="235" frq="12129" n="Film1 Drama"/>
@@ -215,10 +215,10 @@
 		<S i="319" t="c94" on="3" s="235" frq="12090" n="Sport 5"/>
 		<S i="30d" t="c94" on="3" s="235" frq="12090" n="Stingray CMusic"/>
 		<S i="30e" t="c94" on="3" s="235" frq="12090" n="Stingray CMusic CZ"/>
-		<S i="36ff" t="c8c" on="3" s="235" frq="11934" n="Test"/>
+		<S i="17ce" t="c82" on="3" s="235" frq="11739" n="Test 1"/>
+		<S i="17cf" t="c82" on="3" s="235" frq="11739" n="Test 2"/>
+		<S i="17eb" t="c82" on="3" s="235" frq="11739" n="TESTHBBTV"/>
 		<S i="1f4d" t="ca1" on="3" s="235" frq="12344" n="TESTS7"/>
-		<S i="17ce" t="c82" on="3" s="235" frq="11739" n="the QYOU"/>
-		<S i="17cf" t="c82" on="3" s="235" frq="11739" n="the QYOU CZ"/>
 		<S i="51d5" t="c96" on="3" s="235" frq="12129" n="TLC"/>
 		<S i="334c" t="c93" on="3" s="235" frq="12070" n="TLC"/>
 		<S i="17ae" t="c82" on="3" s="235" frq="11739" n="Travel XP HD"/>
