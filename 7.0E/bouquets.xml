@@ -73,8 +73,8 @@
 		<S i="60f" t="c418" on="7e" s="70" frq="11471" n="beIN BOX OFFICE HD 1"/>
 		<S i="610" t="c418" on="7e" s="70" frq="11471" n="beIN BOX OFFICE HD 2"/>
 		<S i="610" t="c418" on="7e" s="70" frq="11492" n="beIN BOX OFFICE HD 2"/>
-		<S i="611" t="c418" on="7e" s="70" frq="11471" n="beIN BOX OFFICE HD 3"/>
 		<S i="611" t="c418" on="7e" s="70" frq="11492" n="beIN BOX OFFICE HD 3"/>
+		<S i="611" t="c418" on="7e" s="70" frq="11471" n="beIN BOX OFFICE HD 3"/>
 		<S i="60f" t="c418" on="7e" s="70" frq="11492" n="beIN BOX OFFICE OSCARS HD 1"/>
 		<S i="cb" t="526c" on="7e" s="70" frq="10887" n="beIN GURME HD"/>
 		<S i="20bd" t="52d0" on="7e" s="70" frq="10928" n="beIN H&amp;E HD"/>
@@ -99,8 +99,8 @@
 		<S i="26e" t="c47c" on="7e" s="70" frq="11637" n="beIN SPORTS HD 2"/>
 		<S i="d0" t="526c" on="7e" s="70" frq="10887" n="beIN SPORTS HD 3"/>
 		<S i="10a" t="526c" on="7e" s="70" frq="10887" n="beIN SPORTS HD 3"/>
-		<S i="26a" t="c47c" on="7e" s="70" frq="11637" n="beIN SPORTS HD 4"/>
 		<S i="27f" t="c47c" on="7e" s="70" frq="11637" n="beIN SPORTS HD 4"/>
+		<S i="26a" t="c47c" on="7e" s="70" frq="11637" n="beIN SPORTS HD 4"/>
 		<S i="1fb7" t="50dc" on="7e" s="70" frq="10845" n="beIN SPORTS INTERNATIONAL HD"/>
 		<S i="14b7" t="c6d4" on="7e" s="70" frq="11513" n="beIN SPORTS MAX HD 1"/>
 		<S i="2076" t="52d0" on="7e" s="70" frq="10928" n="beIN SPORTS MAX HD 2"/>
@@ -126,9 +126,9 @@
 		<S i="1d6e" t="c3b4" on="7e" s="70" frq="11471" n="CNN TÜRK HD"/>
 		<S i="14c2" t="c6d4" on="7e" s="70" frq="11513" n="CONCERTS"/>
 		<S i="14ef" t="c6d4" on="7e" s="70" frq="11513" n="DA VINCI HD"/>
-		<S i="616" t="c418" on="7e" s="70" frq="11492" n="DIGITURK 4K"/>
-		<S i="616" t="c418" on="7e" s="70" frq="11471" n="DIGITURK 4K"/>
 		<S i="938" t="c544" on="7e" s="70" frq="11554" n="DIGITURK 4K"/>
+		<S i="616" t="c418" on="7e" s="70" frq="11471" n="DIGITURK 4K"/>
+		<S i="616" t="c418" on="7e" s="70" frq="11492" n="DIGITURK 4K"/>
 		<S i="1faa" t="50dc" on="7e" s="70" frq="10845" n="DISCOVERY CHANNEL HD"/>
 		<S i="1e79" t="5208" on="7e" s="70" frq="10928" n="DISCOVERY SCIENCE HD"/>
 		<S i="14f4" t="c6d4" on="7e" s="70" frq="11513" n="DISNEY CHANNEL"/>
@@ -182,8 +182,8 @@
 		<S i="14bc" t="c6d4" on="7e" s="70" frq="11513" n="HOTTEST HITS"/>
 		<S i="14be" t="c6d4" on="7e" s="70" frq="11513" n="IN LOVE"/>
 		<S i="14d3" t="c6d4" on="7e" s="70" frq="11513" n="INTERNATIONAL"/>
-		<S i="1dcb" t="c5a8" on="7e" s="70" frq="11554" n="Irdeto Test3"/>
 		<S i="1dcb" t="c544" on="7e" s="70" frq="11554" n="Irdeto Test3"/>
+		<S i="1dcb" t="c5a8" on="7e" s="70" frq="11554" n="Irdeto Test3"/>
 		<S i="1dca" t="c5a8" on="7e" s="70" frq="11554" n="Irdeto Test4"/>
 		<S i="1dca" t="c544" on="7e" s="70" frq="11554" n="Irdeto Test4"/>
 		<S i="957" t="c5a8" on="7e" s="70" frq="11575" n="IRDETO-T2"/>
@@ -385,7 +385,7 @@
 		<S i="2" t="4e20" on="64" s="70" frq="10721" n="Simaye-Azadi"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] GlobeCast">
-		<S i="8" t="1" on="0" s="70" frq="12549" n="Corallo SAT Main"/>
+		<S i="8" t="1" on="0" s="70" frq="12549" n="Corallo SAT Bkp"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] Harmonic">
 		<S i="101" t="1000" on="2000" s="70" frq="12530" n="SATVIEW"/>

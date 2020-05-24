@@ -158,7 +158,7 @@
 			<S i="1dc4" f="4" s="0" t="16" n="Svoboda"/>
 			<S i="1dc9" f="4" s="0" t="16" n="Channel 5 (Ukraine) HD"/>
 			<S i="1dce" f="4" s="0" t="19" n="NEWS ONE HD"/>
-			<S i="1dd3" f="4" s="1" t="16" n="Test B"/>
+			<S i="1dd3" f="4" s="0" t="19" n="'Apostrophe TV"/>
 			<S i="1dd8" f="4" s="0" t="16" n="Channel 4 (Ukraine)"/>
 			<S i="1ddd" f="4" s="0" t="16" n="Svarogichi"/>
 			<S i="1de2" f="4" s="1" t="16" n="ERC"/>
@@ -531,7 +531,7 @@
 			<S i="fffe" f="4" s="0" t="8a" n="SW Download"/>
 		</TS>
 		<TS id="0035" on="0055" frq="12245000" inv="2" sr="30000000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="0b5e" f="4" s="1" t="19" n="Ukraine XD"/>
+			<S i="0b5e" f="4" s="1" t="19" n="Ukraine HD"/>
 			<S i="0b5f" f="4" s="1" t="19" n="NLO XD"/>
 			<S i="0b60" f="4" s="1" t="19" n="Indigo XD"/>
 			<S i="0b61" f="4" s="0" t="19" n="Ukraina 24"/>
@@ -546,13 +546,13 @@
 			<S i="0b6a" f="2" s="1" t="19" n="2+2 XD"/>
 			<S i="0b72" f="4" s="1" t="16" n="Rybalka"/>
 			<S i="0b73" f="4" s="1" t="19" n="FOOTBALL 3 HD"/>
-			<S i="19c8" f="4" s="0" t="c" n="SW7600 FTA"/>
-			<S i="19c9" f="4" s="0" t="c" n="SW7600 XTRA"/>
-			<S i="19ca" f="4" s="0" t="c" n="SW7601 XTRA"/>
-			<S i="19cb" f="4" s="0" t="c" n="SW Sk 1CAS XTRA"/>
-			<S i="19ce" f="4" s="0" t="c" n="SW NeotionCI+"/>
-			<S i="19cf" f="4" s="0" t="c" n="SW_Neotion_PRO2"/>
-			<S i="19d0" f="4" s="0" t="c" n="SW_Neotion_PRO8"/>
+			<S i="19c8" f="2" s="0" t="c" n="SW7600 FTA"/>
+			<S i="19c9" f="2" s="0" t="c" n="SW7600 XTRA"/>
+			<S i="19ca" f="2" s="0" t="c" n="SW7601 XTRA"/>
+			<S i="19cb" f="2" s="0" t="c" n="SW Sk 1CAS XTRA"/>
+			<S i="19ce" f="2" s="0" t="c" n="SW NeotionCI+"/>
+			<S i="19cf" f="2" s="0" t="c" n="SW_Neotion_PRO2"/>
+			<S i="19d0" f="2" s="0" t="c" n="SW_Neotion_PRO8"/>
 		</TS>
 		<TS id="002c" on="0055" frq="12265000" inv="2" sr="30000000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="1e15" f="4" s="1" t="16" n="1+1."/>
@@ -585,7 +585,7 @@
 			<S i="1b12" f="4" s="0" t="1" n="Channel 5 (Ukraine)"/>
 			<S i="1b1c" f="4" s="0" t="1" n="KRT"/>
 			<S i="1b21" f="4" s="0" t="1" n="VINTAGE TV Test"/>
-			<S i="1b26" f="4" s="0" t="1" n="Priamyi"/>
+			<S i="1b26" f="4" s="0" t="1" n="/////PRYAMIY"/>
 			<S i="1b30" f="4" s="0" t="1" n="Ukrlive Test"/>
 			<S i="1b3a" f="4" s="0" t="1" n="112"/>
 			<S i="1b44" f="4" s="0" t="1" n="NASH"/>

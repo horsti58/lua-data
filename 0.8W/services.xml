@@ -535,12 +535,12 @@
 			<S i="798a" f="4" s="1" t="1" n="HISTORY"/>
 			<S i="798b" f="4" s="1" t="1" n="Disney ROM"/>
 			<S i="798c" f="4" s="1" t="1" n="m5"/>
-			<S i="798d" f="4" s="1" t="1" n="Humor+"/>
+			<S i="798d" f="4" s="1" t="1" n="TV2 Comedy"/>
 			<S i="798e" f="4" s="1" t="1" n="Zenebutik"/>
 			<S i="798f" f="2" s="1" t="1" n="Megamax (SVT)"/>
 			<S i="7990" f="2" s="1" t="1" n="AMC CE (SVT)"/>
 			<S i="7991" f="2" s="1" t="1" n="Megamax."/>
-			<S i="7992" f="4" s="1" t="1" n="Humor+ ."/>
+			<S i="7992" f="4" s="1" t="1" n="TV2 Comedy."/>
 			<S i="7993" f="4" s="1" t="1" n="Zenebutik."/>
 			<S i="7994" f="4" s="1" t="1" n="Slager TV (SVT)"/>
 			<S i="7995" f="4" s="1" t="1" n="TV4 (SVT)"/>
@@ -555,8 +555,8 @@
 			<S i="799e" f="4" s="1" t="1" n="m5."/>
 			<S i="799f" f="4" s="1" t="1" n="TV4."/>
 			<S i="79a0" f="4" s="1" t="1" n="LiChi TV (SVT)"/>
-			<S i="79a1" f="1" s="1" t="1" n="Cartoon Network ( SVT)"/>
-			<S i="79a2" f="1" s="1" t="1" n="Investigation Discovery ( SVT)"/>
+			<S i="79a1" f="3" s="1" t="1" n="Cartoon Network ( SVT)"/>
+			<S i="79a2" f="4" s="1" t="1" n="Investigation Discovery ( SVT)"/>
 		</TS>
 		<TS id="02c3" on="0600" frq="11938000" inv="2" sr="28000000" fec="7" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="77ed" f="4" s="1" t="1" n="Extreme Sports Channel"/>
@@ -593,7 +593,7 @@
 			<S i="79e4" f="4" s="1" t="1" n="Nat Geo Wild RO"/>
 			<S i="79e5" f="4" s="1" t="1" n="JimJam RO"/>
 			<S i="79e6" f="4" s="1" t="1" n="JimJam RO."/>
-			<S i="79e7" f="4" s="1" t="1" n="Bollywood TV."/>
+			<S i="79e7" f="4" s="1" t="1" n="Bollywood TV"/>
 			<S i="79e8" f="4" s="1" t="1" n="TV5MONDE"/>
 			<S i="79e9" f="4" s="1" t="1" n="Minimax Cz"/>
 			<S i="79ea" f="4" s="1" t="1" n="TLC Romania"/>
@@ -620,6 +620,7 @@
 			<S i="7a03" f="4" s="1" t="1" n="RTL GOLD (SVT)"/>
 			<S i="7a04" f="4" s="1" t="1" n="Minimax Cz (SVT)"/>
 			<S i="7a05" f="4" s="1" t="1" n="Spektrum Home (SVT)"/>
+			<S i="7a06" f="1" s="1" t="1" n="Bollywood TV."/>
 		</TS>
 		<TS id="0af2" on="00bb" frq="11977000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="07db" f="4" s="1" t="19" n="CT 2 HD"/>
@@ -984,12 +985,13 @@
 		</TS>
 		<TS id="004b" on="0046" frq="12399000" inv="2" sr="30000000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="1b90" f="4" s="0" t="16" n="Test 7056"/>
+			<S i="1bb0" f="1" s="1" t="19" n="Viasat Ultra HD"/>
 			<S i="1d21" f="4" s="0" t="16" n="Test 7457"/>
-			<S i="2328" f="4" s="1" t="19" n="TS Sports 1"/>
-			<S i="2329" f="4" s="1" t="19" n="TS Sports 2"/>
-			<S i="232a" f="4" s="1" t="19" n="TS Sports 3"/>
-			<S i="232b" f="4" s="1" t="19" n="TS Sports 4"/>
-			<S i="232c" f="4" s="1" t="19" n="TS Sports 5"/>
+			<S i="2328" f="2" s="1" t="19" n="TS Sports 1"/>
+			<S i="2329" f="2" s="1" t="19" n="TS Sports 2"/>
+			<S i="232a" f="2" s="1" t="19" n="TS Sports 3"/>
+			<S i="232b" f="2" s="1" t="19" n="TS Sports 4"/>
+			<S i="232c" f="2" s="1" t="19" n="TS Sports 5"/>
 			<S i="2ee2" f="2" s="0" t="81" n="Samsung 680 MRS"/>
 		</TS>
 		<TS id="004b" on="0056" frq="12399000" inv="2" sr="30000000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">

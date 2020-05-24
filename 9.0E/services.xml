@@ -178,14 +178,14 @@
 			<S i="0016" f="4" s="0" t="2" n="TVT Radio 2 (Radio Kara)"/>
 			<S i="0017" f="4" s="0" t="1" n="RTB TV"/>
 			<S i="0018" f="4" s="0" t="1" n="RTB Radio"/>
-			<S i="0065" f="4" s="0" t="16" n="RTS2"/>
+			<S i="0065" f="2" s="0" t="16" n="RTS2"/>
 			<S i="006f" f="4" s="1" t="1" n="Better-1"/>
 			<S i="0070" f="4" s="1" t="1" n="Better-2"/>
 			<S i="0071" f="4" s="1" t="1" n="Better-3"/>
 			<S i="0072" f="4" s="1" t="1" n="Better-4"/>
 			<S i="00e9" f="4" s="0" t="19" n="EBSHD"/>
 			<S i="01b1" f="4" s="0" t="19" n="EBS+HD"/>
-			<S i="0672" f="4" s="1" t="19" n="myZen.tv HD"/>
+			<S i="0672" f="2" s="1" t="0" n="myZen.tv HD"/>
 		</TS>
 		<TS id="1770" on="0064" frq="11919000" inv="2" sr="27500000" fec="3" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="000c" f="2" s="0" t="1" n="TIN_972737998873"/>
@@ -375,7 +375,7 @@
 			<S i="03fb" f="4" s="1" t="1" n="Promo HD"/>
 			<S i="03fc" f="4" s="1" t="1" n="IONIAN TV"/>
 			<S i="040e" f="4" s="1" t="1" n="FOX HD"/>
-			<S i="041c" f="4" s="1" t="1" n="CosmoteCinemaDisneyPrincessHD"/>
+			<S i="041c" f="4" s="1" t="1" n="COSMOTESeriesMarathonHD"/>
 			<S i="0455" f="4" s="1" t="1" n="COSMOTESport5HD"/>
 			<S i="0462" f="4" s="1" t="1" n="TEST 5"/>
 			<S i="0463" f="4" s="1" t="1" n="Κρήτη Νέα Τηλεόραση"/>
@@ -383,7 +383,7 @@
 			<S i="0465" f="4" s="1" t="1" n="Euronews English"/>
 			<S i="0466" f="4" s="1" t="1" n="COSMOTESport9HD"/>
 			<S i="0467" f="4" s="1" t="1" n="BBC Earth HD"/>
-			<S i="0469" f="4" s="1" t="1" n="FOX Sports HD"/>
+			<S i="0469" f="4" s="1" t="1" n="Al Arabiya"/>
 			<S i="046b" f="4" s="1" t="1" n="CBS Reality"/>
 			<S i="046c" f="4" s="1" t="1" n="Viasat Nature"/>
 			<S i="046d" f="4" s="1" t="1" n="Viasat Explore"/>
