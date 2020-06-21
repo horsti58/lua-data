@@ -2,7 +2,7 @@
 		<TS id="0bbf" on="0003" frq="11581000" inv="2" sr="2398000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0e83" f="4" s="0" t="1" n="TVP Polonia"/>
 		</TS>
-		<TS id="0000" on="0001" frq="11644000" inv="2" sr="5500000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+		<TS id="0000" on="0001" frq="11644000" inv="2" sr="6000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="041a" f="4" s="1" t="1" n="1050 - WAWA Kielce"/>
 			<S i="042e" f="4" s="1" t="1" n="1070 - WAWA Krakow"/>
 			<S i="044c" f="4" s="1" t="1" n="1100 - WAWA Lodz"/>
@@ -72,7 +72,77 @@
 			<S i="1f4a" f="4" s="1" t="1" n="8010 - Radio Rodzina"/>
 			<S i="1f54" f="4" s="1" t="1" n="8020 - Radio Wielkopolska"/>
 		</TS>
-		<TS id="000b" on="0003" frq="11676000" inv="2" sr="1410000" fec="4" pol="1" mod="0" pli="0" plc="1" plm="0" sys="1">
+		<TS id="0001" on="0000" frq="11650000" inv="2" sr="5500000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="041a" f="1" s="1" t="1" n="1050 - WAWA Kielce"/>
+			<S i="042e" f="1" s="1" t="1" n="1070 - WAWA Krakow"/>
+			<S i="044c" f="1" s="1" t="1" n="1100 - WAWA Lodz"/>
+			<S i="0460" f="1" s="1" t="1" n="1120 - WAWA Opole"/>
+			<S i="047e" f="1" s="1" t="1" n="1150 - WAWA Torun"/>
+			<S i="0492" f="1" s="1" t="1" n="1170 - WAWA Gdansk"/>
+			<S i="049c" f="1" s="1" t="1" n="1180 - WAWA Wroclaw"/>
+			<S i="04d8" f="1" s="1" t="1" n="1240 - WAWA Rzeszow"/>
+			<S i="04ec" f="1" s="1" t="1" n="1260 - WAWA Szczecin"/>
+			<S i="050a" f="1" s="1" t="1" n="1290 - WAWA Nowy Sacz"/>
+			<S i="0564" f="1" s="1" t="1" n="1380 - WAWA Warszawa"/>
+			<S i="05c8" f="1" s="1" t="1" n="1480 - WAWA Jelenia Gora"/>
+			<S i="05e6" f="1" s="1" t="1" n="1510 - WAWA Trzebnica"/>
+			<S i="07d0" f="1" s="1" t="1" n="2000 - ESKA SES"/>
+			<S i="07da" f="1" s="1" t="1" n="2010 - ESKA Belchatow"/>
+			<S i="07e4" f="1" s="1" t="1" n="2020 - ESKA Bialystok"/>
+			<S i="07ee" f="1" s="1" t="1" n="2030 - ESKA Bydgoszcz"/>
+			<S i="07f8" f="1" s="1" t="1" n="2040 - ESKA Gorzow"/>
+			<S i="0802" f="1" s="1" t="1" n="2050 - ESKA Kielce"/>
+			<S i="080c" f="1" s="1" t="1" n="2060 - ESKA Siedlce"/>
+			<S i="0816" f="1" s="1" t="1" n="2070 - ESKA Krakow"/>
+			<S i="0820" f="1" s="1" t="1" n="2080 - ESKA Leszno"/>
+			<S i="082a" f="1" s="1" t="1" n="2090 - ESKA Pila"/>
+			<S i="0834" f="1" s="1" t="1" n="2100 - ESKA Lodz"/>
+			<S i="083e" f="1" s="1" t="1" n="2110 - ESKA Olsztyn"/>
+			<S i="0848" f="1" s="1" t="1" n="2120 - ESKA Opole"/>
+			<S i="0852" f="1" s="1" t="1" n="2130 - ESKA Lublin"/>
+			<S i="085c" f="1" s="1" t="1" n="2140 - ESKA Poznan"/>
+			<S i="0866" f="1" s="1" t="1" n="2150 - ESKA Torun"/>
+			<S i="0870" f="1" s="1" t="1" n="2160 - ESKA Tarnow"/>
+			<S i="087a" f="1" s="1" t="1" n="2170 - ESKA Trojmiasto"/>
+			<S i="0884" f="1" s="1" t="1" n="2180 - ESKA Wroclaw"/>
+			<S i="088e" f="1" s="1" t="1" n="2190 - ESKA Zielona Gora"/>
+			<S i="0898" f="1" s="1" t="1" n="2200 - ESKA Ostrow"/>
+			<S i="08a2" f="1" s="1" t="1" n="2210 - ESKA Radom"/>
+			<S i="08ac" f="1" s="1" t="1" n="2220 - ESKA Slask"/>
+			<S i="08b6" f="1" s="1" t="1" n="2230 - ESKA Zamosc"/>
+			<S i="08c0" f="1" s="1" t="1" n="2240 - ESKA Rzeszow"/>
+			<S i="08ca" f="1" s="1" t="1" n="2250 - ESKA Plock"/>
+			<S i="08d4" f="1" s="1" t="1" n="2260 - ESKA Szczecin"/>
+			<S i="08de" f="1" s="1" t="1" n="2270 - ESKA Koszalin"/>
+			<S i="08fc" f="1" s="1" t="1" n="2300 - ESKA Beskidy/Zywiec"/>
+			<S i="0906" f="1" s="1" t="1" n="2310 - ESKA Szczecinek"/>
+			<S i="0910" f="1" s="1" t="1" n="2320 - ESKA Przemysl"/>
+			<S i="091a" f="1" s="1" t="1" n="2330 - ESKA Malopolska"/>
+			<S i="0938" f="1" s="1" t="1" n="2360 - ESKA Krasnik"/>
+			<S i="0960" f="1" s="1" t="1" n="2400 - ESKA Starachowice"/>
+			<S i="0974" f="1" s="1" t="1" n="2420 - ESKA Zary"/>
+			<S i="097e" f="1" s="1" t="1" n="2430 - ESKA Elblag"/>
+			<S i="0988" f="1" s="1" t="1" n="2440 - ESKA Ilawa"/>
+			<S i="0992" f="1" s="1" t="1" n="2450 - ESKA Grudziadz"/>
+			<S i="099c" f="1" s="1" t="1" n="2460 - ESKA Lomza"/>
+			<S i="09b0" f="1" s="1" t="1" n="2480 - ESKA Wroclaw JG"/>
+			<S i="09c4" f="1" s="1" t="1" n="2500 - ESKA Ostrzeszow"/>
+			<S i="09d8" f="1" s="1" t="1" n="2520 - ESKA Braniewo"/>
+			<S i="0be0" f="1" s="1" t="1" n="3040 - VOX Gorzow"/>
+			<S i="0c44" f="1" s="1" t="1" n="3140 - VOX Poznan"/>
+			<S i="0c8a" f="1" s="1" t="1" n="3210 - VOX Radom"/>
+			<S i="0f96" f="1" s="1" t="1" n="3990 - VOX"/>
+			<S i="0fa0" f="1" s="1" t="1" n="4000 - PLUS SES"/>
+			<S i="100e" f="1" s="1" t="1" n="4110 - PLUS Olsztyn"/>
+			<S i="1022" f="1" s="1" t="1" n="4130 - PLUS Lublin"/>
+			<S i="10ae" f="1" s="1" t="1" n="4270 - PLUS Koszalin"/>
+			<S i="10f4" f="1" s="1" t="1" n="4340 - PLUS Podhale"/>
+			<S i="1388" f="1" s="1" t="1" n="5000 - Testowy 1"/>
+			<S i="1392" f="1" s="1" t="1" n="5010 - Testowy 2"/>
+			<S i="1f4a" f="1" s="1" t="1" n="8010 - Radio Rodzina"/>
+			<S i="1f54" f="1" s="1" t="1" n="8020 - Radio Wielkopolska"/>
+		</TS>
+		<TS id="000b" on="0003" frq="11678000" inv="2" sr="2050000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="2af8" f="4" s="0" t="2" n="unknown (0x000B_0x2AF8)"/>
 			<S i="2ee0" f="4" s="0" t="2" n="unknown (0x000B_0x2EE0)"/>
 			<S i="32c8" f="4" s="0" t="2" n="unknown (0x000B_0x32C8)"/>
@@ -81,6 +151,32 @@
 			<S i="3e80" f="4" s="0" t="2" n="unknown (0x000B_0x3E80)"/>
 			<S i="4268" f="4" s="0" t="2" n="unknown (0x000B_0x4268)"/>
 			<S i="4650" f="4" s="0" t="2" n="unknown (0x000B_0x4650)"/>
+		</TS>
+		<TS id="000f" on="0005" frq="11678000" inv="2" sr="2050000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="5208" f="1" s="0" t="2" n="unknown (0x000F_0x5208)"/>
+			<S i="55f0" f="1" s="0" t="2" n="unknown (0x000F_0x55F0)"/>
+			<S i="59d8" f="1" s="0" t="2" n="unknown (0x000F_0x59D8)"/>
+			<S i="5dc0" f="1" s="0" t="2" n="unknown (0x000F_0x5DC0)"/>
+			<S i="61a8" f="1" s="0" t="2" n="unknown (0x000F_0x61A8)"/>
+			<S i="6590" f="1" s="0" t="2" n="unknown (0x000F_0x6590)"/>
+			<S i="6978" f="1" s="0" t="2" n="unknown (0x000F_0x6978)"/>
+			<S i="6d60" f="1" s="0" t="2" n="unknown (0x000F_0x6D60)"/>
+			<S i="7918" f="1" s="0" t="2" n="unknown (0x000F_0x7918)"/>
+			<S i="7d00" f="1" s="0" t="2" n="unknown (0x000F_0x7D00)"/>
+			<S i="80e8" f="1" s="0" t="2" n="unknown (0x000F_0x80E8)"/>
+			<S i="84d0" f="1" s="0" t="2" n="unknown (0x000F_0x84D0)"/>
+			<S i="88b8" f="1" s="0" t="2" n="unknown (0x000F_0x88B8)"/>
+			<S i="8ca0" f="1" s="0" t="2" n="unknown (0x000F_0x8CA0)"/>
+			<S i="9088" f="1" s="0" t="2" n="unknown (0x000F_0x9088)"/>
+			<S i="9470" f="1" s="0" t="2" n="unknown (0x000F_0x9470)"/>
+			<S i="c738" f="1" s="0" t="2" n="unknown (0x000F_0xC738)"/>
+			<S i="cb20" f="1" s="0" t="2" n="unknown (0x000F_0xCB20)"/>
+			<S i="cf08" f="1" s="0" t="2" n="unknown (0x000F_0xCF08)"/>
+			<S i="d2f0" f="1" s="0" t="2" n="unknown (0x000F_0xD2F0)"/>
+			<S i="d6d8" f="1" s="0" t="2" n="unknown (0x000F_0xD6D8)"/>
+			<S i="dac0" f="1" s="0" t="2" n="unknown (0x000F_0xDAC0)"/>
+			<S i="dea8" f="1" s="0" t="2" n="unknown (0x000F_0xDEA8)"/>
+			<S i="e290" f="1" s="0" t="2" n="unknown (0x000F_0xE290)"/>
 		</TS>
 		<TS id="0c81" on="0003" frq="11719000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="4eca" f="4" s="0" t="1" n="Fight Network"/>
@@ -145,7 +241,7 @@
 			<S i="178e" f="4" s="1" t="16" n="FOX Channel"/>
 			<S i="1793" f="4" s="1" t="16" n="Boomerang"/>
 			<S i="1794" f="4" s="1" t="16" n="Boomerang CZ"/>
-			<S i="179d" f="4" s="1" t="16" n="Investigation Discovery"/>
+			<S i="179d" f="4" s="1" t="16" n="FIGHTBOX BtoB"/>
 			<S i="17ad" f="2" s="0" t="19" n="Be2Can HD"/>
 			<S i="17ae" f="4" s="1" t="19" n="Travel XP HD"/>
 			<S i="17af" f="4" s="1" t="19" n="Travel XP HD BNL"/>
@@ -158,7 +254,7 @@
 			<S i="17cc" f="4" s="1" t="19" n="FOX Sports 1 HD"/>
 			<S i="17ce" f="4" s="1" t="19" n="Test 1"/>
 			<S i="17cf" f="4" s="1" t="19" n="Test 2"/>
-			<S i="17d1" f="4" s="1" t="16" n="Discovery Channel"/>
+			<S i="17d1" f="4" s="1" t="16" n="BBC Entertainment"/>
 			<S i="17e0" f="4" s="0" t="16" n="CD Infokanaal"/>
 			<S i="17e1" f="4" s="0" t="16" n="TVV Infokanaal"/>
 			<S i="17e9" f="4" s="1" t="16" n="Cartoon Network"/>
@@ -170,7 +266,7 @@
 			<S i="17f0" f="4" s="0" t="2" n="Arrow Classic Rock"/>
 			<S i="17f1" f="4" s="0" t="2" n="Classic FM"/>
 			<S i="17f2" f="4" s="0" t="2" n="Radio Veronica"/>
-			<S i="17f3" f="4" s="0" t="81" n="Downl CAM 2"/>
+			<S i="17f3" f="2" s="0" t="81" n="Downl CAM 2"/>
 			<S i="1810" f="4" s="1" t="16" n="Adventure TV"/>
 		</TS>
 		<TS id="0c84" on="0003" frq="11778000" inv="2" sr="27500000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -277,12 +373,12 @@
 			<S i="1b90" f="4" s="1" t="19" n="Q2 HD"/>
 			<S i="1b91" f="4" s="1" t="19" n="VIER HD"/>
 			<S i="1b92" f="4" s="1" t="16" n="RTL Z"/>
-			<S i="1b94" f="4" s="1" t="16" n="Eurosport 2 NL"/>
+			<S i="1b94" f="4" s="1" t="16" n="Nautical BtoB"/>
 			<S i="1b95" f="4" s="1" t="16" n="ZES"/>
 			<S i="1bfc" f="4" s="1" t="19" n="FOX Sports 2 HD"/>
 			<S i="1bfd" f="4" s="1" t="19" n="Nautical HD"/>
-			<S i="1bfe" f="4" s="1" t="19" n="Eurosport 1 HD"/>
-			<S i="1bff" f="4" s="1" t="19" n="Eurosport 1 HD BE"/>
+			<S i="1bfe" f="2" s="1" t="19" n="Eurosport 1 HD"/>
+			<S i="1bff" f="4" s="1" t="16" n="RTL Crime"/>
 			<S i="1c01" f="4" s="1" t="16" n="JimJam CZ"/>
 		</TS>
 		<TS id="0c89" on="0003" frq="11876000" inv="2" sr="29900000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -401,6 +497,8 @@
 			<S i="17d6" f="4" s="1" t="19" n="iConcert"/>
 			<S i="17d7" f="4" s="1" t="19" n="AutoMotorSport HD"/>
 			<S i="17de" f="4" s="0" t="19" n="SES Demo HD"/>
+			<S i="17e9" f="4" s="0" t="1" n="RTS Nauka"/>
+			<S i="17ea" f="4" s="1" t="1" n="RTS Poletarac 2"/>
 			<S i="182e" f="2" s="0" t="c" n="A2C-RMT"/>
 		</TS>
 		<TS id="0c93" on="0003" frq="12070000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
@@ -440,17 +538,19 @@
 			<S i="030e" f="4" s="1" t="16" n="Stingray CMusic CZ"/>
 			<S i="030f" f="4" s="1" t="19" n="Love Nature HD CZ"/>
 			<S i="0310" f="4" s="1" t="19" n="Spektrum HD"/>
-			<S i="0311" f="4" s="1" t="19" n="Eurosport 2 HD"/>
+			<S i="0311" f="4" s="0" t="19" n="Eurosport 2 HD"/>
 			<S i="0312" f="4" s="0" t="16" n="regionalnitelevize.cz"/>
 			<S i="0313" f="4" s="1" t="16" n="NGC"/>
 			<S i="0314" f="4" s="1" t="16" n="Fishing and Hunting"/>
 			<S i="0315" f="4" s="1" t="16" n="AXN CZ"/>
-			<S i="0316" f="4" s="1" t="16" n="REBEL 2"/>
+			<S i="0316" f="2" s="1" t="16" n="REBEL 2"/>
 			<S i="0317" f="4" s="1" t="16" n="Fishing and Hunting INT"/>
 			<S i="0318" f="4" s="1" t="19" n="Sport 2 HD"/>
 			<S i="0319" f="4" s="1" t="16" n="Sport 5"/>
 			<S i="031a" f="4" s="1" t="19" n="Love Nature HD INT"/>
 			<S i="031b" f="4" s="1" t="19" n="Love Nature HD BNL"/>
+			<S i="031c" f="1" s="0" t="19" n="Eurosport 1 HD"/>
+			<S i="031d" f="1" s="0" t="19" n="Discovery Showcase HD CZ"/>
 		</TS>
 		<TS id="0c96" on="0003" frq="12129000" inv="2" sr="29900000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="51ae" f="4" s="1" t="16" n="Film1 Family"/>
@@ -459,7 +559,7 @@
 			<S i="51bd" f="4" s="1" t="16" n="Ziggo Sport Voetbal"/>
 			<S i="51c2" f="4" s="1" t="16" n="Ziggo Sport Golf"/>
 			<S i="51d1" f="4" s="1" t="16" n="SBS9"/>
-			<S i="51d5" f="4" s="1" t="16" n="TLC"/>
+			<S i="51d5" f="4" s="1" t="16" n="MENT TV"/>
 			<S i="51da" f="4" s="1" t="16" n="Eclips TV"/>
 			<S i="51db" f="4" s="1" t="19" n="Film1 Premiere HD"/>
 			<S i="51e0" f="4" s="1" t="19" n="Ziggo Sport Select HD"/>
@@ -514,7 +614,7 @@
 			<S i="5248" f="4" s="0" t="16" n="REBEL"/>
 			<S i="5249" f="4" s="0" t="16" n="RELAX"/>
 			<S i="524b" f="4" s="1" t="16" n="Arena Sport"/>
-			<S i="524c" f="4" s="1" t="19" n="Discovery Showcase HD CZ"/>
+			<S i="524c" f="2" s="1" t="19" n="Discovery Showcase HD CZ"/>
 			<S i="524d" f="4" s="1" t="16" n="Omrop Fryslan Televisie"/>
 			<S i="524f" f="4" s="0" t="16" n="TV Drenthe"/>
 			<S i="5250" f="4" s="1" t="16" n="TV Gelderland"/>
@@ -533,7 +633,7 @@
 			<S i="5265" f="4" s="1" t="16" n="TV Noord"/>
 			<S i="5268" f="4" s="1" t="16" n="Omroep Brabant Televisie"/>
 			<S i="526a" f="4" s="1" t="16" n="Golf Channel"/>
-			<S i="52b0" f="4" s="1" t="19" n="Discovery Showcase HD"/>
+			<S i="52b0" f="4" s="1" t="19" n="BBC First"/>
 		</TS>
 		<TS id="0ca1" on="0003" frq="12344000" inv="2" sr="29900000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="1f41" f="4" s="1" t="19" n="CT 1 HD"/>
@@ -587,7 +687,7 @@
 			<S i="1335" f="2" s="0" t="16" n="OCKO STAR"/>
 			<S i="1336" f="4" s="0" t="1" n="Otta - interaktivna sluzba"/>
 			<S i="1337" f="2" s="0" t="2" n="Radio Jazz"/>
-			<S i="1338" f="4" s="0" t="c" n="RDS SAT"/>
+			<S i="1338" f="2" s="0" t="c" n="RDS SAT"/>
 			<S i="1339" f="4" s="0" t="2" n="Slovensko"/>
 			<S i="133a" f="4" s="0" t="2" n="ReginaBA"/>
 			<S i="133b" f="4" s="0" t="2" n="ReginaBB"/>
@@ -605,7 +705,7 @@
 			<S i="1347" f="4" s="0" t="2" n="Jemne V"/>
 			<S i="1348" f="4" s="0" t="2" n="Radio Lumen"/>
 			<S i="1349" f="4" s="0" t="2" n="Antena Rock"/>
-			<S i="134a" f="2" s="0" t="2" n="Radio-7"/>
+			<S i="134a" f="4" s="0" t="2" n="TEST"/>
 			<S i="134b" f="4" s="0" t="2" n="ZET"/>
 			<S i="134c" f="4" s="0" t="2" n="BEAT"/>
 			<S i="134d" f="4" s="0" t="2" n="BEAT JM"/>

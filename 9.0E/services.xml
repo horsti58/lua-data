@@ -163,7 +163,7 @@
 			<S i="0db9" f="4" s="1" t="1" n="EUROBET 13"/>
 			<S i="0dba" f="4" s="1" t="1" n="EUROBET 14"/>
 			<S i="0dbb" f="4" s="0" t="1" n="ORTB TV"/>
-			<S i="0dbf" f="4" s="0" t="1" n="RTS 1"/>
+			<S i="0dbf" f="2" s="0" t="1" n="RTS 1"/>
 			<S i="0dc0" f="4" s="0" t="2" n="RSI"/>
 			<S i="0dc1" f="4" s="1" t="1" n="OPAP VG1"/>
 			<S i="0dc2" f="4" s="1" t="1" n="OPAP MG"/>
@@ -276,7 +276,7 @@
 			<S i="01a2" f="4" s="1" t="19" n="Deluxe Music HD"/>
 			<S i="01a3" f="4" s="1" t="19" n="Comedy Central HD"/>
 			<S i="01a4" f="4" s="1" t="19" n="Disney Channel HD"/>
-			<S i="ee48" f="4" s="1" t="b" n="TC ATV 2"/>
+			<S i="ee48" f="2" s="1" t="b" n="TC ATV 2"/>
 		</TS>
 		<TS id="19c8" on="009e" frq="12034000" inv="2" sr="27500000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="00ca" f="4" s="0" t="1" n="M6 Suisse HD"/>
@@ -472,7 +472,7 @@
 			<S i="05dc" f="4" s="1" t="1" n="TV Polonia"/>
 			<S i="060e" f="4" s="1" t="1" n="TRT-Turk TV"/>
 			<S i="0640" f="4" s="1" t="1" n="wetter.com TV"/>
-			<S i="0672" f="4" s="1" t="19" n="Animal Planet HD"/>
+			<S i="0672" f="4" s="1" t="19" n="RTL Crime HD"/>
 			<S i="06a4" f="4" s="1" t="19" n="MTV Live HD"/>
 		</TS>
 		<TS id="206c" on="009c" frq="12360000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -520,9 +520,9 @@
 			<S i="4eed" f="4" s="1" t="1" n="E! Entertainment D"/>
 			<S i="4eee" f="4" s="1" t="16" n="Duck TV SD"/>
 			<S i="4eef" f="4" s="1" t="19" n="SPORTDIGITAL FUSSBALL"/>
-			<S i="4ef1" f="4" s="1" t="1" n="Eurosport 2"/>
+			<S i="4ef1" f="4" s="1" t="1" n="RTL Living"/>
 			<S i="4ef2" f="4" s="1" t="1" n="Gute Laune TV"/>
-			<S i="4ef3" f="4" s="1" t="19" n="Discovery Channel HD"/>
+			<S i="4ef3" f="4" s="1" t="19" n="GEO HD"/>
 			<S i="4ef6" f="4" s="1" t="19" n="FOX HD"/>
 		</TS>
 		<TS id="0007" on="00aa" frq="12475000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">

@@ -249,21 +249,23 @@
 			<S i="0087" f="4" s="0" t="1" n="RTK 1"/>
 			<S i="0321" f="4" s="0" t="1" n="KIDS"/>
 			<S i="04c9" f="4" s="0" t="1" n="Elrodi"/>
+			<S i="091a" f="4" s="0" t="1" n="News 24 TV"/>
 			<S i="0b0e" f="4" s="1" t="1" n="UNK (0x016C_0x0B0E)"/>
 			<S i="0e86" f="4" s="0" t="1" n="PRIME"/>
 			<S i="126e" f="4" s="0" t="1" n="PRINCE KIDS"/>
 			<S i="1271" f="4" s="0" t="1" n="T7"/>
+			<S i="1324" f="4" s="0" t="1" n="Klan Maqedonia"/>
 			<S i="132f" f="4" s="0" t="1" n="ARTKINO 1"/>
 			<S i="1330" f="4" s="0" t="1" n="ARTKINO 2"/>
 			<S i="1331" f="4" s="0" t="1" n="ARTKINO 3"/>
 			<S i="1332" f="4" s="0" t="1" n="ARTDOKU 1"/>
 			<S i="1333" f="4" s="0" t="1" n="ARTDOKU 2"/>
 			<S i="1335" f="4" s="0" t="1" n="EPISODE"/>
-			<S i="1388" f="4" s="0" t="1" n="05 Top Channel"/>
-			<S i="1392" f="4" s="0" t="1" n="Top News"/>
+			<S i="1388" f="2" s="0" t="1" n="05 Top Channel"/>
+			<S i="1392" f="2" s="0" t="1" n="Top News"/>
 			<S i="177b" f="4" s="0" t="1" n="DUKAGJINI"/>
-			<S i="1790" f="4" s="0" t="1" n="ALSAT M"/>
-			<S i="f2df" f="4" s="1" t="1" n="GURMANIA"/>
+			<S i="1790" f="4" s="1" t="1" n="ALSAT M"/>
+			<S i="f2df" f="4" s="0" t="1" n="GURMANIA"/>
 		</TS>
 		<TS id="cb2c" on="016e" frq="11151000" inv="2" sr="14374000" fec="10" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0034" f="4" s="1" t="1" n="Pink Thriller"/>
@@ -620,7 +622,7 @@
 			<S i="0c1c" f="4" s="1" t="1" n="Klan HD"/>
 			<S i="0c80" f="4" s="1" t="1" n="Klan Plus"/>
 			<S i="12c0" f="4" s="1" t="1" n="KanalD Drama"/>
-			<S i="1b58" f="4" s="0" t="2" n="Radio Klan HD"/>
+			<S i="1b58" f="4" s="0" t="2" n="Radio Klan"/>
 		</TS>
 		<TS id="c418" on="016e" frq="11470000" inv="2" sr="30000000" fec="5" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0259" f="4" s="1" t="1f" n="Extasy 4K"/>
@@ -686,7 +688,7 @@
 			<S i="036d" f="4" s="1" t="1" n="Nat Geo Wild HD"/>
 			<S i="0383" f="4" s="1" t="1" n="Test"/>
 		</TS>
-		<TS id="0001" on="0040" frq="11512000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+		<TS id="0001" on="0040" frq="11512000" inv="2" sr="30000000" fec="8" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="0014" f="4" s="1" t="16" n="RTL Living."/>
 			<S i="0015" f="4" s="1" t="16" n="RTL Kockica."/>
 			<S i="001e" f="4" s="1" t="16" n="National Geographic Channel."/>
@@ -809,7 +811,7 @@
 			<S i="00a6" f="4" s="1" t="16" n="RTL Passion."/>
 			<S i="00c0" f="4" s="1" t="16" n="RTL Crime."/>
 			<S i="00c1" f="4" s="1" t="16" n="Vivid Touch."/>
-			<S i="00c2" f="1" s="0" t="16" n="OTV Valentino."/>
+			<S i="00c2" f="4" s="0" t="16" n="OTV Valentino."/>
 			<S i="00c3" f="4" s="1" t="16" n="PrivateTV."/>
 			<S i="00c5" f="4" s="1" t="16" n="Fox."/>
 			<S i="00c9" f="4" s="0" t="2" n="Otvoreni."/>
@@ -818,7 +820,7 @@
 			<S i="00d3" f="4" s="0" t="2" n="R.Marija."/>
 			<S i="00da" f="4" s="0" t="2" n="R. Mediaservis"/>
 			<S i="00db" f="4" s="0" t="2" n="Enter ZG."/>
-			<S i="00dc" f="1" s="0" t="2" n="ORV Valentino."/>
+			<S i="00dc" f="4" s="0" t="2" n="ORV Valentino."/>
 			<S i="0127" f="4" s="1" t="16" n="HRT1."/>
 		</TS>
 		<TS id="c670" on="016e" frq="11595000" inv="2" sr="30000000" fec="5" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
