@@ -2,6 +2,7 @@
 		<S i="201" t="765c" on="7e" s="70" frq="11304" n="Iran International HD"/>
 		<S i="1649" t="9efc" on="7e" s="70" frq="11221" n="Iran International SD PAL - Eutelsat via Cogent"/>
 		<S i="1af4" t="9efc" on="7e" s="70" frq="11221" n="IRANEFARDA"/>
+		<S i="202" t="765c" on="7e" s="70" frq="11304" n="ITOON HD"/>
 		<S i="164a" t="9efc" on="7e" s="70" frq="11221" n="Kanal Yek"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] Avmeda">
@@ -357,6 +358,9 @@
 		<S i="805" t="7788" on="7e" s="70" frq="11324" n="Fashion TV HD"/>
 		<S i="802" t="7788" on="7e" s="70" frq="11324" n="IFILM HD"/>
 	</Bouquet>
+	<Bouquet name="[E007.0] eutelsat">
+		<S i="1" t="1" on="1" s="70" frq="12745" n="NUMIDIA TV"/>
+	</Bouquet>
 	<Bouquet name="[E007.0] Eutelsat">
 		<S i="1630" t="9efc" on="7e" s="70" frq="11221" n="Andisheh TV"/>
 		<S i="811" t="7788" on="7e" s="70" frq="11324" n="Avang TV HD"/>
@@ -375,24 +379,24 @@
 		<S i="15e0" t="9efc" on="7e" s="70" frq="11221" n="PUBLIRAD"/>
 		<S i="1648" t="9efc" on="7e" s="70" frq="11221" n="RFM Senegal"/>
 	</Bouquet>
-	<Bouquet name="[E007.0] eutelsat">
-		<S i="1" t="1" on="1" s="70" frq="12745" n="NUMIDIA TV"/>
+	<Bouquet name="[E007.0] FAMILY">
+		<S i="12f" t="765c" on="7e" s="70" frq="11262" n="Family TV"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] FFmpeg">
 		<S i="776" t="9fc4" on="7e" s="70" frq="11387" n="Glory HD"/>
 	</Bouquet>
-	<Bouquet name="[E007.0] GLOBECAST">
-		<S i="2" t="4e20" on="64" s="70" frq="10721" n="Simaye-Azadi"/>
-	</Bouquet>
 	<Bouquet name="[E007.0] GlobeCast">
 		<S i="8" t="1" on="0" s="70" frq="12549" n="Corallo SAT Bkp"/>
+	</Bouquet>
+	<Bouquet name="[E007.0] GLOBECAST">
+		<S i="2" t="4e20" on="64" s="70" frq="10721" n="Simaye-Azadi"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] Harmonic">
 		<S i="101" t="1000" on="2000" s="70" frq="12530" n="SATVIEW"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] iKOMG">
 		<S i="2329" t="4e20" on="64" s="70" frq="10721" n="Andisheh"/>
-		<S i="232a" t="4e20" on="64" s="70" frq="10721" n="Kanal Yek TV"/>
+		<S i="232a" t="4e20" on="64" s="70" frq="10721" n="Kanal Yek"/>
 		<S i="2328" t="4e20" on="64" s="70" frq="10721" n="PTN"/>
 		<S i="2199" t="4e20" on="64" s="70" frq="10721" n="Rangarang TV"/>
 	</Bouquet>
@@ -409,6 +413,7 @@
 		<S i="13c" t="9efc" on="7e" s="70" frq="11345" n="Cine Series"/>
 		<S i="136" t="9efc" on="7e" s="70" frq="11345" n="GHM-SD"/>
 		<S i="13f" t="9efc" on="7e" s="70" frq="11345" n="Hopecity"/>
+		<S i="232a" t="4e20" on="64" s="70" frq="10721" n="Kanal Yek"/>
 		<S i="1cbb" t="4e20" on="64" s="70" frq="10721" n="Manoto"/>
 		<S i="132" t="9efc" on="7e" s="70" frq="11345" n="Manoto SD"/>
 		<S i="135" t="9efc" on="7e" s="70" frq="11345" n="Nat Geo Farsi"/>
@@ -416,6 +421,8 @@
 		<S i="232b" t="4e20" on="64" s="70" frq="10721" n="Mihan Radio"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] Manoto HD">
+		<S i="1fe" t="765c" on="7e" s="70" frq="11304" n="Cine Film HD"/>
+		<S i="1ff" t="765c" on="7e" s="70" frq="11304" n="Cine Series HD"/>
 		<S i="1" t="765c" on="7e" s="70" frq="11304" n="Manoto HD"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] MBC">
@@ -443,11 +450,17 @@
 	<Bouquet name="[E007.0] Opal_7">
 		<S i="1964" t="9efc" on="7e" s="70" frq="11221" n="Banda_Riservata-W3a-F5"/>
 	</Bouquet>
+	<Bouquet name="[E007.0] TELEIP">
+		<S i="16e" t="765c" on="7e" s="70" frq="11262" n="4U TV"/>
+		<S i="164" t="765c" on="7e" s="70" frq="11262" n="Janatol baghie TV"/>
+		<S i="130" t="765c" on="7e" s="70" frq="11262" n="T2 Channel"/>
+	</Bouquet>
 	<Bouquet name="[E007.0] TV-Provider">
 		<S i="101" t="1" on="1" s="70" frq="12530" n="SatView"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] Unknown Provider">
 		<S i="131" t="9efc" on="7e" s="70" frq="11345" n="Didgah TV"/>
+		<S i="12e" t="765c" on="7e" s="70" frq="11262" n="Erfan Halgheh"/>
 		<S i="6d" t="765c" on="7e" s="70" frq="11262" n="hidayah turky"/>
 		<S i="12f" t="9efc" on="7e" s="70" frq="11345" n="ICC TV"/>
 	</Bouquet>

@@ -212,9 +212,9 @@
 		<S i="ce4" t="5014" on="16e" s="160" frq="10804" n="A2 CNN"/>
 		<S i="8ac" t="5014" on="16e" s="160" frq="10804" n="ABC News"/>
 		<S i="500" t="4f4c" on="16e" s="160" frq="10762" n="ALBUK"/>
-		<S i="e10" t="51a4" on="16e" s="160" frq="10887" n="Animal Planet HD"/>
 		<S i="3ec" t="51a4" on="16e" s="160" frq="10887" n="Animal Planet HD"/>
 		<S i="125c" t="51a4" on="16e" s="160" frq="10887" n="Animal Planet HD"/>
+		<S i="e10" t="51a4" on="16e" s="160" frq="10887" n="Animal Planet HD"/>
 		<S i="410" t="4f4c" on="16e" s="160" frq="10762" n="Bang Bang"/>
 		<S i="514" t="4f4c" on="16e" s="160" frq="10762" n="BCTV Europe"/>
 		<S i="401" t="51a4" on="16e" s="160" frq="10887" n="Comedy Central Extra"/>
@@ -908,6 +908,7 @@
 		<S i="304" t="9d08" on="16e" s="160" frq="11231" n="Disney"/>
 		<S i="365" t="c3b4" on="16e" s="160" frq="11471" n="Diva"/>
 		<S i="301" t="9d08" on="16e" s="160" frq="11231" n="Dorcel HD"/>
+		<S i="55a" t="75fb" on="16e" s="160" frq="10972" n="Dorcel XXX HD"/>
 		<S i="55f" t="75fb" on="16e" s="160" frq="10972" n="DTX HD"/>
 		<S i="558" t="75fb" on="16e" s="160" frq="10972" n="Dusk! TV"/>
 		<S i="2f7" t="9d08" on="16e" s="160" frq="11231" n="E!"/>
@@ -965,6 +966,7 @@
 		<S i="6a" t="cb2b" on="16e" s="160" frq="11178" n="Pink M"/>
 		<S i="309" t="9d08" on="16e" s="160" frq="11231" n="Pink Reality"/>
 		<S i="1163" t="9ca4" on="16e" s="160" frq="11221" n="Planet TV"/>
+		<S i="559" t="75fb" on="16e" s="160" frq="10972" n="Playboy HD"/>
 		<S i="353" t="c3b4" on="16e" s="160" frq="11471" n="Prva"/>
 		<S i="6de" t="c544" on="16e" s="160" frq="11554" n="Prva CG"/>
 		<S i="307" t="9d08" on="16e" s="160" frq="11231" n="Prva Kick"/>
@@ -982,8 +984,8 @@
 		<S i="1171" t="9ca4" on="16e" s="160" frq="11221" n="SCI FI HD"/>
 		<S i="67f" t="9fc4" on="16e" s="160" frq="11387" n="Sitel"/>
 		<S i="5ad" t="75fc" on="16e" s="160" frq="11011" n="SK 1 CG HD"/>
-		<S i="5ab" t="75fc" on="16e" s="160" frq="11011" n="SK 1 HD"/>
 		<S i="36a" t="c3b4" on="16e" s="160" frq="11471" n="SK 1 HD"/>
+		<S i="5ab" t="75fc" on="16e" s="160" frq="11011" n="SK 1 HD"/>
 		<S i="362" t="c3b4" on="16e" s="160" frq="11471" n="SK 1 HR"/>
 		<S i="360" t="c3b4" on="16e" s="160" frq="11471" n="SK 1 SLO"/>
 		<S i="5ac" t="75fc" on="16e" s="160" frq="11011" n="SK 2 HD"/>
@@ -1004,8 +1006,6 @@
 		<S i="6dd" t="c544" on="16e" s="160" frq="11554" n="TV SLO 2 HD"/>
 		<S i="5b3" t="75fc" on="16e" s="160" frq="11011" n="TV Vijesti"/>
 		<S i="363" t="c3b4" on="16e" s="160" frq="11471" n="TV1000"/>
-		<S i="559" t="75fb" on="16e" s="160" frq="10972" n="Uci Doma 1"/>
-		<S i="55a" t="75fb" on="16e" s="160" frq="10972" n="Uci Doma 2"/>
 		<S i="30a" t="9d08" on="16e" s="160" frq="11231" n="Vavoom"/>
 		<S i="2f2" t="9d08" on="16e" s="160" frq="11231" n="Viasat Explore"/>
 		<S i="2f3" t="9d08" on="16e" s="160" frq="11231" n="Viasat History"/>
@@ -1053,6 +1053,7 @@
 		<S i="c80" t="168" on="16e" s="160" frq="11427" n="Klan Plus"/>
 		<S i="50" t="168" on="16e" s="160" frq="11427" n="Living HD"/>
 		<S i="91a" t="16c" on="16e" s="160" frq="11140" n="News 24 TV"/>
+		<S i="924" t="168" on="16e" s="160" frq="11427" n="Report TV"/>
 		<S i="87" t="16a" on="16e" s="160" frq="11400" n="RTK"/>
 		<S i="7b" t="16a" on="16e" s="160" frq="11400" n="RTSH"/>
 		<S i="7" t="168" on="16e" s="160" frq="11427" n="RTV 21"/>
@@ -1062,9 +1063,9 @@
 		<S i="1c" t="168" on="16e" s="160" frq="11427" n="SPORT 2 HD"/>
 		<S i="1d" t="168" on="16e" s="160" frq="11427" n="SPORT 3 HD"/>
 		<S i="1a" t="168" on="16e" s="160" frq="11427" n="SPORT 4 HD"/>
+		<S i="5" t="168" on="16e" s="160" frq="11427" n="Summertime"/>
 		<S i="8" t="168" on="16e" s="160" frq="11427" n="TIP TV"/>
 		<S i="15" t="168" on="16e" s="160" frq="11427" n="Tring Action HD"/>
-		<S i="5" t="168" on="16e" s="160" frq="11427" n="Tring Comedy"/>
 		<S i="8d4" t="168" on="16e" s="160" frq="11427" n="Tring Fantasy"/>
 		<S i="46" t="16a" on="16e" s="160" frq="11400" n="Tring History"/>
 		<S i="46" t="16c" on="16e" s="160" frq="11140" n="Tring History"/>
