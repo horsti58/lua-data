@@ -113,10 +113,10 @@
 		<S i="1b9" t="1015" on="2be" s="260" frq="12034" n="Sudania 24 HD"/>
 		<S i="1" t="1015" on="2be" s="260" frq="12034" n="TAseti Radio"/>
 		<S i="72b" t="1fa" on="2be" s="260" frq="12054" n="Teleliban TV"/>
-		<S i="709" t="1fa" on="2be" s="260" frq="12054" n="Test"/>
 		<S i="1a6" t="1015" on="2be" s="260" frq="12034" n="test"/>
 		<S i="19e" t="1015" on="2be" s="260" frq="12034" n="TEST"/>
 		<S i="731" t="1fa" on="2be" s="260" frq="12054" n="test"/>
+		<S i="709" t="1fa" on="2be" s="260" frq="12054" n="Tigrai TV"/>
 		<S i="714" t="1fa" on="2be" s="260" frq="12054" n="Amman FM"/>
 		<S i="72d" t="1fa" on="2be" s="260" frq="12054" n="DJIBOUTI R1"/>
 		<S i="72e" t="1fa" on="2be" s="260" frq="12054" n="DJIBOUTI R2"/>
@@ -266,14 +266,31 @@
 		<S i="65" t="24e" on="2be" s="260" frq="12523" n="Sudan Sport HD"/>
 		<S i="32" t="24e" on="2be" s="260" frq="12523" n="Sudani24HD"/>
 		<S i="12" t="1137" on="2be" s="260" frq="12643" n="Telvza TV"/>
+		<S i="71" t="24e" on="2be" s="260" frq="12523" n="TEST"/>
 		<S i="7" t="24e" on="2be" s="260" frq="12523" n="test"/>
 		<S i="b" t="24e" on="2be" s="260" frq="12523" n="TEST"/>
-		<S i="71" t="24e" on="2be" s="260" frq="12523" n="TEST"/>
 		<S i="4" t="24e" on="2be" s="260" frq="12523" n="test100"/>
 		<S i="e" t="24e" on="2be" s="260" frq="12523" n="Test2"/>
 		<S i="b" t="1137" on="2be" s="260" frq="12643" n="Tunisia Nat 1"/>
 		<S i="c" t="1137" on="2be" s="260" frq="12643" n="Tunisia Nat 2"/>
 		<S i="11" t="1137" on="2be" s="260" frq="12643" n="Tunisna"/>
+		<S i="19" t="1f6" on="1" s="260" frq="11938" n="UNK (0x01F6_0x0019)"/>
+		<S i="19d" t="1f6" on="1" s="260" frq="11938" n="UNK (0x01F6_0x019D)"/>
+		<S i="1f4" t="1f6" on="1" s="260" frq="11938" n="UNK (0x01F6_0x01F4)"/>
+		<S i="215" t="1f6" on="1" s="260" frq="11938" n="UNK (0x01F6_0x0215)"/>
+		<S i="216" t="1f6" on="1" s="260" frq="11938" n="UNK (0x01F6_0x0216)"/>
+		<S i="219" t="1f6" on="1" s="260" frq="11938" n="UNK (0x01F6_0x0219)"/>
+		<S i="21a" t="1f6" on="1" s="260" frq="11938" n="UNK (0x01F6_0x021A)"/>
+		<S i="21b" t="1f6" on="1" s="260" frq="11938" n="UNK (0x01F6_0x021B)"/>
+		<S i="21c" t="1f6" on="1" s="260" frq="11938" n="UNK (0x01F6_0x021C)"/>
+		<S i="21d" t="1f6" on="1" s="260" frq="11938" n="UNK (0x01F6_0x021D)"/>
+		<S i="21e" t="1f6" on="1" s="260" frq="11938" n="UNK (0x01F6_0x021E)"/>
+		<S i="222" t="1f6" on="1" s="260" frq="11938" n="UNK (0x01F6_0x0222)"/>
+		<S i="249" t="1f6" on="1" s="260" frq="11938" n="UNK (0x01F6_0x0249)"/>
+		<S i="24f" t="1f6" on="1" s="260" frq="11938" n="UNK (0x01F6_0x024F)"/>
+		<S i="250" t="1f6" on="1" s="260" frq="11938" n="UNK (0x01F6_0x0250)"/>
+		<S i="251" t="1f6" on="1" s="260" frq="11938" n="UNK (0x01F6_0x0251)"/>
+		<S i="252" t="1f6" on="1" s="260" frq="11938" n="UNK (0x01F6_0x0252)"/>
 		<S i="1f" t="24e" on="2be" s="260" frq="12523" n="ALBASERA TEST"/>
 		<S i="29" t="24e" on="2be" s="260" frq="12523" n="Albasira FM"/>
 		<S i="19" t="24e" on="2be" s="260" frq="12523" n="Albasira fm"/>

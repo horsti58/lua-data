@@ -606,12 +606,12 @@
 		<S i="e83" t="bbf" on="3" s="235" frq="11581" n="TVP Polonia"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] Unknown Provider">
-		<S i="41a" t="0" on="1" s="235" frq="11644" n="1050 - WAWA Kielce"/>
 		<S i="41a" t="1" on="0" s="235" frq="11650" n="1050 - WAWA Kielce"/>
-		<S i="42e" t="0" on="1" s="235" frq="11644" n="1070 - WAWA Krakow"/>
+		<S i="41a" t="0" on="1" s="235" frq="11644" n="1050 - WAWA Kielce"/>
 		<S i="42e" t="1" on="0" s="235" frq="11650" n="1070 - WAWA Krakow"/>
-		<S i="44c" t="0" on="1" s="235" frq="11644" n="1100 - WAWA Lodz"/>
+		<S i="42e" t="0" on="1" s="235" frq="11644" n="1070 - WAWA Krakow"/>
 		<S i="44c" t="1" on="0" s="235" frq="11650" n="1100 - WAWA Lodz"/>
+		<S i="44c" t="0" on="1" s="235" frq="11644" n="1100 - WAWA Lodz"/>
 		<S i="460" t="1" on="0" s="235" frq="11650" n="1120 - WAWA Opole"/>
 		<S i="460" t="0" on="1" s="235" frq="11644" n="1120 - WAWA Opole"/>
 		<S i="47e" t="0" on="1" s="235" frq="11644" n="1150 - WAWA Torun"/>
@@ -624,8 +624,8 @@
 		<S i="4d8" t="0" on="1" s="235" frq="11644" n="1240 - WAWA Rzeszow"/>
 		<S i="4ec" t="0" on="1" s="235" frq="11644" n="1260 - WAWA Szczecin"/>
 		<S i="4ec" t="1" on="0" s="235" frq="11650" n="1260 - WAWA Szczecin"/>
-		<S i="50a" t="0" on="1" s="235" frq="11644" n="1290 - WAWA Nowy Sacz"/>
 		<S i="50a" t="1" on="0" s="235" frq="11650" n="1290 - WAWA Nowy Sacz"/>
+		<S i="50a" t="0" on="1" s="235" frq="11644" n="1290 - WAWA Nowy Sacz"/>
 		<S i="564" t="1" on="0" s="235" frq="11650" n="1380 - WAWA Warszawa"/>
 		<S i="564" t="0" on="1" s="235" frq="11644" n="1380 - WAWA Warszawa"/>
 		<S i="5c8" t="0" on="1" s="235" frq="11644" n="1480 - WAWA Jelenia Gora"/>
@@ -640,8 +640,8 @@
 		<S i="7e4" t="0" on="1" s="235" frq="11644" n="2020 - ESKA Bialystok"/>
 		<S i="7ee" t="0" on="1" s="235" frq="11644" n="2030 - ESKA Bydgoszcz"/>
 		<S i="7ee" t="1" on="0" s="235" frq="11650" n="2030 - ESKA Bydgoszcz"/>
-		<S i="7f8" t="0" on="1" s="235" frq="11644" n="2040 - ESKA Gorzow"/>
 		<S i="7f8" t="1" on="0" s="235" frq="11650" n="2040 - ESKA Gorzow"/>
+		<S i="7f8" t="0" on="1" s="235" frq="11644" n="2040 - ESKA Gorzow"/>
 		<S i="802" t="0" on="1" s="235" frq="11644" n="2050 - ESKA Kielce"/>
 		<S i="802" t="1" on="0" s="235" frq="11650" n="2050 - ESKA Kielce"/>
 		<S i="80c" t="1" on="0" s="235" frq="11650" n="2060 - ESKA Siedlce"/>
@@ -674,8 +674,8 @@
 		<S i="88e" t="1" on="0" s="235" frq="11650" n="2190 - ESKA Zielona Gora"/>
 		<S i="898" t="0" on="1" s="235" frq="11644" n="2200 - ESKA Ostrow"/>
 		<S i="898" t="1" on="0" s="235" frq="11650" n="2200 - ESKA Ostrow"/>
-		<S i="8a2" t="1" on="0" s="235" frq="11650" n="2210 - ESKA Radom"/>
 		<S i="8a2" t="0" on="1" s="235" frq="11644" n="2210 - ESKA Radom"/>
+		<S i="8a2" t="1" on="0" s="235" frq="11650" n="2210 - ESKA Radom"/>
 		<S i="8ac" t="1" on="0" s="235" frq="11650" n="2220 - ESKA Slask"/>
 		<S i="8ac" t="0" on="1" s="235" frq="11644" n="2220 - ESKA Slask"/>
 		<S i="8b6" t="1" on="0" s="235" frq="11650" n="2230 - ESKA Zamosc"/>
@@ -692,8 +692,8 @@
 		<S i="8fc" t="1" on="0" s="235" frq="11650" n="2300 - ESKA Beskidy/Zywiec"/>
 		<S i="906" t="0" on="1" s="235" frq="11644" n="2310 - ESKA Szczecinek"/>
 		<S i="906" t="1" on="0" s="235" frq="11650" n="2310 - ESKA Szczecinek"/>
-		<S i="910" t="1" on="0" s="235" frq="11650" n="2320 - ESKA Przemysl"/>
 		<S i="910" t="0" on="1" s="235" frq="11644" n="2320 - ESKA Przemysl"/>
+		<S i="910" t="1" on="0" s="235" frq="11650" n="2320 - ESKA Przemysl"/>
 		<S i="91a" t="0" on="1" s="235" frq="11644" n="2330 - ESKA Malopolska"/>
 		<S i="91a" t="1" on="0" s="235" frq="11650" n="2330 - ESKA Malopolska"/>
 		<S i="938" t="0" on="1" s="235" frq="11644" n="2360 - ESKA Krasnik"/>
@@ -708,8 +708,8 @@
 		<S i="988" t="1" on="0" s="235" frq="11650" n="2440 - ESKA Ilawa"/>
 		<S i="992" t="0" on="1" s="235" frq="11644" n="2450 - ESKA Grudziadz"/>
 		<S i="992" t="1" on="0" s="235" frq="11650" n="2450 - ESKA Grudziadz"/>
-		<S i="99c" t="1" on="0" s="235" frq="11650" n="2460 - ESKA Lomza"/>
 		<S i="99c" t="0" on="1" s="235" frq="11644" n="2460 - ESKA Lomza"/>
+		<S i="99c" t="1" on="0" s="235" frq="11650" n="2460 - ESKA Lomza"/>
 		<S i="9b0" t="0" on="1" s="235" frq="11644" n="2480 - ESKA Wroclaw JG"/>
 		<S i="9b0" t="1" on="0" s="235" frq="11650" n="2480 - ESKA Wroclaw JG"/>
 		<S i="9c4" t="1" on="0" s="235" frq="11650" n="2500 - ESKA Ostrzeszow"/>
@@ -734,8 +734,8 @@
 		<S i="10ae" t="1" on="0" s="235" frq="11650" n="4270 - PLUS Koszalin"/>
 		<S i="10f4" t="0" on="1" s="235" frq="11644" n="4340 - PLUS Podhale"/>
 		<S i="10f4" t="1" on="0" s="235" frq="11650" n="4340 - PLUS Podhale"/>
-		<S i="1388" t="0" on="1" s="235" frq="11644" n="5000 - Testowy 1"/>
 		<S i="1388" t="1" on="0" s="235" frq="11650" n="5000 - Testowy 1"/>
+		<S i="1388" t="0" on="1" s="235" frq="11644" n="5000 - Testowy 1"/>
 		<S i="1392" t="1" on="0" s="235" frq="11650" n="5010 - Testowy 2"/>
 		<S i="1392" t="0" on="1" s="235" frq="11644" n="5010 - Testowy 2"/>
 		<S i="1f4a" t="1" on="0" s="235" frq="11650" n="8010 - Radio Rodzina"/>

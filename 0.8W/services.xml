@@ -239,20 +239,20 @@
 			<S i="4699" f="4" s="1" t="19" n="TV3 HD (S) - Text"/>
 		</TS>
 		<TS id="0002" on="0046" frq="11309000" inv="2" sr="25000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="05f1" f="1" s="1" t="2" n="Test 1521"/>
-			<S i="05f3" f="1" s="1" t="2" n="Test 1523"/>
-			<S i="0602" f="1" s="1" t="2" n="Test 1538"/>
-			<S i="0603" f="1" s="1" t="2" n="Test 1539"/>
-			<S i="0604" f="1" s="1" t="2" n="Test 1540"/>
-			<S i="0605" f="1" s="1" t="2" n="Test 1541"/>
-			<S i="0606" f="1" s="1" t="2" n="Test 1542"/>
-			<S i="0608" f="1" s="1" t="2" n="Test 1544"/>
-			<S i="060a" f="1" s="1" t="2" n="Test 1546"/>
-			<S i="060f" f="1" s="1" t="2" n="Test 1551"/>
+			<S i="05f1" f="4" s="1" t="2" n="Test 1521"/>
+			<S i="05f3" f="4" s="1" t="2" n="Test 1523"/>
+			<S i="0602" f="4" s="1" t="2" n="Test 1538"/>
+			<S i="0603" f="4" s="1" t="2" n="Test 1539"/>
+			<S i="0604" f="4" s="1" t="2" n="Test 1540"/>
+			<S i="0605" f="4" s="1" t="2" n="Test 1541"/>
+			<S i="0606" f="4" s="1" t="2" n="Test 1542"/>
+			<S i="0608" f="4" s="1" t="2" n="Test 1544"/>
+			<S i="060a" f="4" s="1" t="2" n="Test 1546"/>
+			<S i="060f" f="4" s="1" t="2" n="Test 1551"/>
 			<S i="0a2c" f="4" s="1" t="19" n="TV3 Puls HD"/>
 			<S i="0fd5" f="4" s="1" t="19" n="V film premiere HD"/>
 			<S i="1150" f="4" s="1" t="19" n="Test 4432"/>
-			<S i="1baf" f="1" s="1" t="2" n="Test 7087"/>
+			<S i="1baf" f="4" s="1" t="2" n="Test 7087"/>
 			<S i="1e5b" f="4" s="1" t="16" n="Test 7771"/>
 			<S i="1e5c" f="4" s="1" t="16" n="Test 7772"/>
 			<S i="1e5d" f="4" s="1" t="16" n="Test 7773"/>
@@ -376,7 +376,7 @@
 			<S i="7599" f="4" s="1" t="1" n="m1"/>
 			<S i="759a" f="4" s="1" t="1" n="m2 / Petofi"/>
 			<S i="759b" f="4" s="1" t="16" n="TV Markiza"/>
-			<S i="759c" f="4" s="1" t="1" n="TV1000"/>
+			<S i="759c" f="4" s="1" t="1" n="TV 1000"/>
 			<S i="759f" f="4" s="1" t="1" n="Spektrum"/>
 			<S i="75a0" f="4" s="1" t="1" n="TV Paprika"/>
 			<S i="75a2" f="4" s="1" t="1" n="TV PaprikaSVT"/>
@@ -386,7 +386,7 @@
 			<S i="75b1" f="4" s="1" t="1" n="Moziverzum"/>
 			<S i="75b2" f="4" s="1" t="1" n="Jocky TV."/>
 			<S i="75b3" f="4" s="1" t="1" n="Moziverzum."/>
-			<S i="75b4" f="2" s="1" t="1" n="Test 01"/>
+			<S i="75b4" f="4" s="1" t="1" n="Spiler2."/>
 			<S i="75b5" f="4" s="1" t="1" n="JimJam HU."/>
 		</TS>
 		<TS id="0005" on="1111" frq="11747000" inv="2" sr="28000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
@@ -907,7 +907,7 @@
 			<S i="01f5" f="4" s="1" t="1" n="Paramount Channel Hungary"/>
 			<S i="01f6" f="4" s="1" t="1" n="Comedy Central Family Hungary"/>
 			<S i="01f7" f="4" s="1" t="1" n="Comedy Central Hungary"/>
-			<S i="01f8" f="4" s="1" t="1" n="Comedy Central Extra"/>
+			<S i="01f8" f="4" s="1" t="1" n="Nicktoons"/>
 			<S i="01f9" f="4" s="1" t="1" n="Nickelodeon Europe"/>
 			<S i="01fa" f="4" s="1" t="1" n="MTV Europe"/>
 			<S i="01fb" f="4" s="1" t="1" n="VH1"/>
@@ -1046,7 +1046,7 @@
 			<S i="0b60" f="4" s="0" t="1" n="AlJazeera English"/>
 			<S i="0efd" f="4" s="0" t="1" n="Sky News"/>
 			<S i="1201" f="4" s="1" t="16" n="BrunstadTV"/>
-			<S i="1e86" f="4" s="0" t="19" n="History Romania HD"/>
+			<S i="1e86" f="2" s="0" t="19" n="History Romania HD"/>
 			<S i="1e87" f="4" s="0" t="1" n="History Europe"/>
 			<S i="1e88" f="4" s="0" t="1" n="Crime + Investigation Europe"/>
 			<S i="32cd" f="4" s="1" t="16" n="Test 13005"/>

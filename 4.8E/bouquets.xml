@@ -17,7 +17,6 @@
 		<S i="17e2" t="c" on="55" s="48" frq="11766" n="Bigudi"/>
 		<S i="1e1c" t="2c" on="55" s="48" frq="12265" n="Bigudi."/>
 		<S i="17f4" t="c" on="55" s="48" frq="11766" n="Dacha"/>
-		<S i="1812" t="c" on="55" s="48" frq="11766" n="Epoque"/>
 		<S i="1e24" t="2c" on="55" s="48" frq="12265" n="Fauna"/>
 		<S i="1808" t="c" on="55" s="48" frq="11766" n="FilmUADrama"/>
 		<S i="1832" t="c" on="55" s="48" frq="11766" n="Kus-Kus"/>
@@ -30,8 +29,8 @@
 		<S i="1e1a" t="2c" on="55" s="48" frq="12265" n="NicktoonsChannel"/>
 		<S i="182e" t="c" on="55" s="48" frq="11766" n="O-TV"/>
 		<S i="180c" t="c" on="55" s="48" frq="11766" n="Paramount Channel"/>
-		<S i="182d" t="c" on="55" s="48" frq="11766" n="Paramount Comedy"/>
 		<S i="17f2" t="c" on="55" s="48" frq="11766" n="Paramount Comedy"/>
+		<S i="182d" t="c" on="55" s="48" frq="11766" n="Paramount Comedy"/>
 		<S i="1e19" t="2c" on="55" s="48" frq="12265" n="ParamountChannel"/>
 		<S i="17fc" t="c" on="55" s="48" frq="11766" n="Plus Plus"/>
 		<S i="182c" t="c" on="55" s="48" frq="11766" n="Plus Plus"/>
@@ -53,6 +52,7 @@
 		<S i="1831" t="c" on="55" s="48" frq="11766" n="Unian TV"/>
 		<S i="1810" t="c" on="55" s="48" frq="11766" n="Unian TV"/>
 		<S i="1e1d" t="2c" on="55" s="48" frq="12265" n="Unian TV."/>
+		<S i="1812" t="c" on="55" s="48" frq="11766" n="Епоха"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] AMB">
 		<S i="2792" t="c9" on="55" s="48" frq="11785" n="3+"/>
@@ -143,11 +143,6 @@
 		<S i="27ce" t="c9" on="55" s="48" frq="11785" n="Viasat History HD"/>
 		<S i="2936" t="cb" on="55" s="48" frq="11938" n="Viasat Nature"/>
 	</Bouquet>
-	<Bouquet name="[E004.8] ARQIVA">
-		<S i="46" t="0" on="1" s="48" frq="12303" n="BBC - CCI DAB"/>
-		<S i="50b" t="0" on="1" s="48" frq="12303" n="Belsat TV"/>
-		<S i="503" t="0" on="1" s="48" frq="12303" n="IRN"/>
-	</Bouquet>
 	<Bouquet name="[E004.8] Arqiva">
 		<S i="2d0" t="0" on="1" s="48" frq="12303" n="BBC AM Dist3"/>
 		<S i="2e4" t="0" on="1" s="48" frq="12303" n="BBC AM Dist5"/>
@@ -155,6 +150,11 @@
 		<S i="2bc" t="0" on="1" s="48" frq="12303" n="BBC AM Dist1"/>
 		<S i="2c6" t="0" on="1" s="48" frq="12303" n="BBC AM Dist2"/>
 		<S i="2da" t="0" on="1" s="48" frq="12303" n="BBC AM Dist4"/>
+	</Bouquet>
+	<Bouquet name="[E004.8] ARQIVA">
+		<S i="46" t="0" on="1" s="48" frq="12303" n="BBC - CCI DAB"/>
+		<S i="50b" t="0" on="1" s="48" frq="12303" n="Belsat TV"/>
+		<S i="503" t="0" on="1" s="48" frq="12303" n="IRN"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] AVERS">
 		<S i="1815" t="c" on="55" s="48" frq="11766" n="AVERS"/>
@@ -760,16 +760,6 @@
 		<S i="6f6" t="19" on="56" s="48" frq="11345" n="Svenska favoriter 2"/>
 		<S i="1f4" t="65" on="1" s="48" frq="12418" n="Upgrade Test Channel"/>
 	</Bouquet>
-	<Bouquet name="[E004.8] viasat">
-		<S i="286e" t="ca" on="55" s="48" frq="11958" n="ESPORTSTV HD"/>
-		<S i="28b4" t="ca" on="55" s="48" frq="11958" n="NHK World Japan"/>
-		<S i="1928" t="14" on="56" s="48" frq="12637" n="TV1000 Russian Kino"/>
-		<S i="195a" t="14" on="56" s="48" frq="12637" n="Viasat History (FSS)"/>
-	</Bouquet>
-	<Bouquet name="[E004.8] Viasat">
-		<S i="17fa" t="c" on="55" s="48" frq="11766" n="SK_SW_Viasat"/>
-		<S i="1018" t="1a" on="44" s="48" frq="12092" n="ViP Comedy"/>
-	</Bouquet>
 	<Bouquet name="[E004.8] VIASAT">
 		<S i="9ce" t="18" on="44" s="48" frq="12207" n="Animal Planet"/>
 		<S i="adc" t="1a" on="44" s="48" frq="12092" n="BOLT"/>
@@ -811,6 +801,16 @@
 		<S i="1072" t="1a" on="44" s="48" frq="12092" n="ViP Megahit HD"/>
 		<S i="1004" t="1a" on="44" s="48" frq="12092" n="ViP Premiere"/>
 		<S i="1068" t="1a" on="44" s="48" frq="12092" n="ViP Premiere HD"/>
+	</Bouquet>
+	<Bouquet name="[E004.8] viasat">
+		<S i="286e" t="ca" on="55" s="48" frq="11958" n="ESPORTSTV HD"/>
+		<S i="28b4" t="ca" on="55" s="48" frq="11958" n="NHK World Japan"/>
+		<S i="1928" t="14" on="56" s="48" frq="12637" n="TV1000 Russian Kino"/>
+		<S i="195a" t="14" on="56" s="48" frq="12637" n="Viasat History (FSS)"/>
+	</Bouquet>
+	<Bouquet name="[E004.8] Viasat">
+		<S i="17fa" t="c" on="55" s="48" frq="11766" n="SK_SW_Viasat"/>
+		<S i="1018" t="1a" on="44" s="48" frq="12092" n="ViP Comedy"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] VIsionTV">
 		<S i="181d" t="c" on="55" s="48" frq="11766" n="ST_SW_1CAS"/>

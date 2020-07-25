@@ -379,14 +379,12 @@
 		<S i="43d" t="1" on="aa" s="90" frq="11843" n="CNBC"/>
 		<S i="410" t="9" on="aa" s="90" frq="11938" n="CNN"/>
 		<S i="44f" t="6" on="aa" s="90" frq="12399" n="Corfu Channel"/>
-		<S i="3fe" t="5" on="aa" s="90" frq="12284" n="COSMOTE CinemaOnDemand 1 HD"/>
 		<S i="3ff" t="5" on="aa" s="90" frq="12284" n="COSMOTE CinemaOnDemand 2"/>
 		<S i="45d" t="5" on="aa" s="90" frq="12284" n="COSMOTE History"/>
 		<S i="408" t="4" on="aa" s="90" frq="12207" n="COSMOTE History HD"/>
 		<S i="3f0" t="5" on="aa" s="90" frq="12284" n="COSMOTECinema1HD"/>
 		<S i="460" t="9" on="aa" s="90" frq="11938" n="COSMOTECinema2HD"/>
 		<S i="446" t="6" on="aa" s="90" frq="12399" n="COSMOTECinema3"/>
-		<S i="41c" t="8" on="aa" s="90" frq="12169" n="COSMOTESeriesMarathonHD"/>
 		<S i="447" t="5" on="aa" s="90" frq="12284" n="COSMOTESport1HD"/>
 		<S i="404" t="6" on="aa" s="90" frq="12399" n="COSMOTESport3HD"/>
 		<S i="40f" t="2" on="aa" s="90" frq="12054" n="COSMOTESport4HD"/>
@@ -453,6 +451,9 @@
 		<S i="472" t="9" on="aa" s="90" frq="11938" n="TEST 81"/>
 		<S i="448" t="4" on="aa" s="90" frq="12207" n="TEST G"/>
 		<S i="457" t="7" on="aa" s="90" frq="12475" n="TEST I"/>
+		<S i="41c" t="8" on="aa" s="90" frq="12169" n="TEST POP UP HD"/>
+		<S i="3fe" t="5" on="aa" s="90" frq="12284" n="TEST PPV 1HD"/>
+		<S i="3f6" t="2" on="aa" s="90" frq="12054" n="TEST PPV 2HD"/>
 		<S i="40d" t="6" on="aa" s="90" frq="12399" n="Travel Channel HD"/>
 		<S i="41b" t="4" on="aa" s="90" frq="12207" n="VH1"/>
 		<S i="46d" t="8" on="aa" s="90" frq="12169" n="Viasat Explore"/>
@@ -593,6 +594,7 @@
 		<S i="434" t="5" on="aa" s="90" frq="12284" n="TEST 1"/>
 		<S i="421" t="6" on="aa" s="90" frq="12399" n="TEST BISS"/>
 		<S i="431" t="6" on="aa" s="90" frq="12399" n="TEST FREE"/>
+		<S i="3f1" t="2" on="aa" s="90" frq="12054" n="TEST PPV 3HD"/>
 		<S i="45e" t="6" on="aa" s="90" frq="12399" n="TRT"/>
 		<S i="3f1" t="6" on="aa" s="90" frq="12399" n="TV ΔΕΛΤΑ"/>
 		<S i="3f8" t="9" on="aa" s="90" frq="11938" n="Village Cinema HD"/>

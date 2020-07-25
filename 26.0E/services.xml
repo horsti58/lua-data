@@ -1,4 +1,23 @@
 	<sat name="26.0E Badr" position="260" diseqc="-1" uncommited="-1">
+		<TS id="01f6" on="0001" frq="11938000" inv="2" sr="27500000" fec="5" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
+			<S i="0019" f="1" s="1" t="1" n="UNK (0x01F6_0x0019)"/>
+			<S i="019d" f="1" s="1" t="1" n="UNK (0x01F6_0x019D)"/>
+			<S i="01f4" f="1" s="1" t="1" n="UNK (0x01F6_0x01F4)"/>
+			<S i="0215" f="1" s="1" t="1" n="UNK (0x01F6_0x0215)"/>
+			<S i="0216" f="1" s="1" t="1" n="UNK (0x01F6_0x0216)"/>
+			<S i="0219" f="1" s="1" t="1" n="UNK (0x01F6_0x0219)"/>
+			<S i="021a" f="1" s="1" t="1" n="UNK (0x01F6_0x021A)"/>
+			<S i="021b" f="1" s="1" t="1" n="UNK (0x01F6_0x021B)"/>
+			<S i="021c" f="1" s="1" t="1" n="UNK (0x01F6_0x021C)"/>
+			<S i="021d" f="1" s="1" t="1" n="UNK (0x01F6_0x021D)"/>
+			<S i="021e" f="1" s="1" t="1" n="UNK (0x01F6_0x021E)"/>
+			<S i="0222" f="1" s="1" t="1" n="UNK (0x01F6_0x0222)"/>
+			<S i="0249" f="1" s="1" t="1" n="UNK (0x01F6_0x0249)"/>
+			<S i="024f" f="1" s="1" t="1" n="UNK (0x01F6_0x024F)"/>
+			<S i="0250" f="1" s="1" t="1" n="UNK (0x01F6_0x0250)"/>
+			<S i="0251" f="1" s="1" t="1" n="UNK (0x01F6_0x0251)"/>
+			<S i="0252" f="1" s="1" t="1" n="UNK (0x01F6_0x0252)"/>
+		</TS>
 		<TS id="001a" on="001a" frq="11958000" inv="2" sr="27500000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="08ac" f="4" s="0" t="1" n="Palestine Live HD"/>
 			<S i="0b9a" f="4" s="0" t="1" n="Palestine HD"/>
@@ -68,7 +87,7 @@
 			<S i="01bb" f="1" s="0" t="1" n="ALMAREEFA EDU"/>
 		</TS>
 		<TS id="01fa" on="02be" frq="12054000" inv="2" sr="27500000" fec="5" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="0709" f="4" s="0" t="1" n="Test"/>
+			<S i="0709" f="4" s="0" t="1" n="Tigrai TV"/>
 			<S i="070a" f="4" s="0" t="1" n="Jordan TV"/>
 			<S i="070b" f="4" s="0" t="1" n="Future TV"/>
 			<S i="0714" f="4" s="0" t="2" n="Amman FM"/>
@@ -83,7 +102,7 @@
 			<S i="072e" f="4" s="0" t="2" n="DJIBOUTI R2"/>
 			<S i="072f" f="4" s="0" t="2" n="DJIBOUTI R3"/>
 			<S i="0730" f="4" s="0" t="1" n="Iqra TV"/>
-			<S i="0731" f="4" s="0" t="1" n="test"/>
+			<S i="0731" f="2" s="0" t="1" n="test"/>
 			<S i="0732" f="4" s="0" t="2" n="SSBC RADIO"/>
 		</TS>
 		<TS id="0208" on="02be" frq="12092000" inv="2" sr="27500000" fec="5" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">

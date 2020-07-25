@@ -1,6 +1,6 @@
 	<Bouquet name="[E007.0] ABS">
 		<S i="201" t="765c" on="7e" s="70" frq="11304" n="Iran International HD"/>
-		<S i="1649" t="9efc" on="7e" s="70" frq="11221" n="Iran International SD PAL - Eutelsat via Cogent"/>
+		<S i="1649" t="9efc" on="7e" s="70" frq="11221" n="Iran International SD to Eutelsat"/>
 		<S i="1af4" t="9efc" on="7e" s="70" frq="11221" n="IRANEFARDA"/>
 		<S i="202" t="765c" on="7e" s="70" frq="11304" n="ITOON HD"/>
 		<S i="164a" t="9efc" on="7e" s="70" frq="11221" n="Kanal Yek"/>
@@ -74,8 +74,8 @@
 		<S i="60f" t="c418" on="7e" s="70" frq="11471" n="beIN BOX OFFICE HD 1"/>
 		<S i="610" t="c418" on="7e" s="70" frq="11471" n="beIN BOX OFFICE HD 2"/>
 		<S i="610" t="c418" on="7e" s="70" frq="11492" n="beIN BOX OFFICE HD 2"/>
-		<S i="611" t="c418" on="7e" s="70" frq="11471" n="beIN BOX OFFICE HD 3"/>
 		<S i="611" t="c418" on="7e" s="70" frq="11492" n="beIN BOX OFFICE HD 3"/>
+		<S i="611" t="c418" on="7e" s="70" frq="11471" n="beIN BOX OFFICE HD 3"/>
 		<S i="60f" t="c418" on="7e" s="70" frq="11492" n="beIN BOX OFFICE OSCARS HD 1"/>
 		<S i="cb" t="526c" on="7e" s="70" frq="10887" n="beIN GURME HD"/>
 		<S i="20bd" t="52d0" on="7e" s="70" frq="10928" n="beIN H&amp;E HD"/>
@@ -100,8 +100,8 @@
 		<S i="26e" t="c47c" on="7e" s="70" frq="11637" n="beIN SPORTS HD 2"/>
 		<S i="d0" t="526c" on="7e" s="70" frq="10887" n="beIN SPORTS HD 3"/>
 		<S i="10a" t="526c" on="7e" s="70" frq="10887" n="beIN SPORTS HD 3"/>
-		<S i="26a" t="c47c" on="7e" s="70" frq="11637" n="beIN SPORTS HD 4"/>
 		<S i="27f" t="c47c" on="7e" s="70" frq="11637" n="beIN SPORTS HD 4"/>
+		<S i="26a" t="c47c" on="7e" s="70" frq="11637" n="beIN SPORTS HD 4"/>
 		<S i="1fb7" t="50dc" on="7e" s="70" frq="10845" n="beIN SPORTS INTERNATIONAL HD"/>
 		<S i="14b7" t="c6d4" on="7e" s="70" frq="11513" n="beIN SPORTS MAX HD 1"/>
 		<S i="2076" t="52d0" on="7e" s="70" frq="10928" n="beIN SPORTS MAX HD 2"/>
@@ -127,9 +127,9 @@
 		<S i="1d6e" t="c3b4" on="7e" s="70" frq="11471" n="CNN TÜRK HD"/>
 		<S i="14c2" t="c6d4" on="7e" s="70" frq="11513" n="CONCERTS"/>
 		<S i="14ef" t="c6d4" on="7e" s="70" frq="11513" n="DA VINCI HD"/>
-		<S i="616" t="c418" on="7e" s="70" frq="11492" n="DIGITURK 4K"/>
-		<S i="616" t="c418" on="7e" s="70" frq="11471" n="DIGITURK 4K"/>
 		<S i="938" t="c544" on="7e" s="70" frq="11554" n="DIGITURK 4K"/>
+		<S i="616" t="c418" on="7e" s="70" frq="11471" n="DIGITURK 4K"/>
+		<S i="616" t="c418" on="7e" s="70" frq="11492" n="DIGITURK 4K"/>
 		<S i="1faa" t="50dc" on="7e" s="70" frq="10845" n="DISCOVERY CHANNEL HD"/>
 		<S i="1e79" t="5208" on="7e" s="70" frq="10928" n="DISCOVERY SCIENCE HD"/>
 		<S i="14f4" t="c6d4" on="7e" s="70" frq="11513" n="DISNEY CHANNEL"/>
@@ -183,8 +183,8 @@
 		<S i="14bc" t="c6d4" on="7e" s="70" frq="11513" n="HOTTEST HITS"/>
 		<S i="14be" t="c6d4" on="7e" s="70" frq="11513" n="IN LOVE"/>
 		<S i="14d3" t="c6d4" on="7e" s="70" frq="11513" n="INTERNATIONAL"/>
-		<S i="1dcb" t="c5a8" on="7e" s="70" frq="11554" n="Irdeto Test3"/>
 		<S i="1dcb" t="c544" on="7e" s="70" frq="11554" n="Irdeto Test3"/>
+		<S i="1dcb" t="c5a8" on="7e" s="70" frq="11554" n="Irdeto Test3"/>
 		<S i="1dca" t="c5a8" on="7e" s="70" frq="11554" n="Irdeto Test4"/>
 		<S i="1dca" t="c544" on="7e" s="70" frq="11554" n="Irdeto Test4"/>
 		<S i="957" t="c5a8" on="7e" s="70" frq="11575" n="IRDETO-T2"/>
@@ -258,9 +258,9 @@
 		<S i="14b9" t="c6d4" on="7e" s="70" frq="11513" n="TELE 1 HD"/>
 		<S i="940" t="c544" on="7e" s="70" frq="11554" n="TEST XML1"/>
 		<S i="1dd8" t="c5a8" on="7e" s="70" frq="11554" n="TEST XML2"/>
-		<S i="617" t="c418" on="7e" s="70" frq="11492" n="test_i1"/>
-		<S i="6e4" t="c4e0" on="7e" s="70" frq="11534" n="test_i1"/>
 		<S i="617" t="c418" on="7e" s="70" frq="11471" n="test_i1"/>
+		<S i="6e4" t="c4e0" on="7e" s="70" frq="11534" n="test_i1"/>
+		<S i="617" t="c418" on="7e" s="70" frq="11492" n="test_i1"/>
 		<S i="618" t="c418" on="7e" s="70" frq="11492" n="test_i2"/>
 		<S i="618" t="c418" on="7e" s="70" frq="11471" n="test_i2"/>
 		<S i="6e5" t="c4e0" on="7e" s="70" frq="11534" n="test_i2"/>
@@ -270,6 +270,7 @@
 		<S i="608" t="c418" on="7e" s="70" frq="11492" n="TGRT HABER"/>
 		<S i="1d6b" t="c3b4" on="7e" s="70" frq="11471" n="TGRT HABER HD"/>
 		<S i="1fa9" t="50dc" on="7e" s="70" frq="10845" n="TJK TV"/>
+		<S i="1103" t="c670" on="7e" s="70" frq="11679" n="TJK tv HD"/>
 		<S i="1de9" t="c544" on="7e" s="70" frq="11554" n="TLC"/>
 		<S i="1f4c" t="5140" on="7e" s="70" frq="10845" n="TLC HD"/>
 		<S i="213b" t="4fb0" on="7e" s="70" frq="10804" n="TRT 3/TRT SPOR"/>
@@ -310,7 +311,6 @@
 		<S i="108" t="526c" on="7e" s="70" frq="10887" n="TİCARİ beIN SPORTS HD 3"/>
 		<S i="27e" t="c47c" on="7e" s="70" frq="11637" n="TİCARİ beIN SPORTS HD 4"/>
 		<S i="213c" t="4fb0" on="7e" s="70" frq="10804" n="UNK (0x4FB0_0x213C)"/>
-		<S i="1103" t="c670" on="7e" s="70" frq="11679" n="unknown (0xC670_0x1103)"/>
 		<S i="1104" t="c670" on="7e" s="70" frq="11679" n="UÇANKUŞ TV HD"/>
 		<S i="1935" t="c60c" on="7e" s="70" frq="11596" n="VH1"/>
 		<S i="14e4" t="c6d4" on="7e" s="70" frq="11513" n="VIRGIN RADIO"/>
