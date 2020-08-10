@@ -459,7 +459,7 @@
 		</TS>
 		<TS id="02bf" on="0600" frq="11804000" inv="2" sr="30000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="765d" f="4" s="1" t="16" n="Sport 5"/>
-			<S i="765e" f="4" s="1" t="1" n="LALA TV"/>
+			<S i="765e" f="4" s="1" t="16" n="LALA TV"/>
 			<S i="765f" f="4" s="1" t="16" n="CS Film/CS Horror"/>
 			<S i="7660" f="4" s="1" t="16" n="NOVA Cinema"/>
 			<S i="7661" f="4" s="1" t="16" n="Markiza INT"/>
@@ -480,17 +480,17 @@
 			<S i="7670" f="4" s="1" t="16" n="Dajto"/>
 			<S i="7671" f="4" s="1" t="16" n="JOJ Plus"/>
 			<S i="7672" f="4" s="1" t="19" n="Look Sport HD"/>
-			<S i="7673" f="4" s="1" t="1" n="HBO HD RO"/>
+			<S i="7673" f="4" s="1" t="19" n="HBO HD RO"/>
 			<S i="7674" f="4" s="1" t="19" n="Mooz Dance HD"/>
 			<S i="7675" f="4" s="1" t="19" n="CNN Prima News HD"/>
-			<S i="7676" f="4" s="1" t="1" n="RTL2 HD"/>
+			<S i="7676" f="4" s="1" t="19" n="RTL2 HD"/>
 			<S i="7677" f="4" s="1" t="16" n="Arena Sport 1 (SKT)"/>
 			<S i="7678" f="4" s="1" t="16" n="CS Film/CS Horror(SKT)"/>
 			<S i="7679" f="4" s="1" t="16" n="Ocko (SKT)"/>
-			<S i="767a" f="4" s="1" t="1" n="Jojko"/>
-			<S i="767b" f="4" s="1" t="1" n="LALA TV ( SKT)"/>
+			<S i="767a" f="4" s="1" t="16" n="Jojko"/>
+			<S i="767b" f="4" s="1" t="16" n="LALA TV ( SKT)"/>
 			<S i="767c" f="4" s="1" t="16" n="Barrandov TV (SKT)"/>
-			<S i="767d" f="4" s="1" t="1" n="Film+ HD"/>
+			<S i="767d" f="4" s="1" t="19" n="Film+ HD"/>
 		</TS>
 		<TS id="0007" on="0001" frq="11862000" inv="2" sr="28000000" fec="7" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="029d" f="4" s="0" t="6" n="HDT1169"/>
@@ -1076,6 +1076,15 @@
 			<S i="1f4b" f="4" s="1" t="16" n="Film+ SK"/>
 			<S i="1f4c" f="4" s="1" t="16" n="Minimax SK"/>
 			<S i="1f4d" f="4" s="1" t="16" n="Spektrum SK HD"/>
+		</TS>
+		<TS id="0af7" on="00bb" frq="12563000" inv="2" sr="28800000" fec="10" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
+			<S i="1b63" f="4" s="1" t="19" n="Epic Drama HD"/>
+			<S i="1b64" f="4" s="1" t="16" n="Seznam.cz TV"/>
+			<S i="1b65" f="4" s="1" t="19" n="Prima LOVE HD"/>
+			<S i="1b66" f="4" s="1" t="19" n="Prima COOL HD"/>
+			<S i="1b67" f="4" s="1" t="19" n="Prima MAX HD"/>
+			<S i="1b68" f="4" s="0" t="2" n="Radio DALNICE"/>
+			<S i="1b69" f="4" s="1" t="19" n="Nova Cinema HD"/>
 		</TS>
 		<TS id="0001" on="0001" frq="12607000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0001" f="4" s="0" t="1" n="Channel-01"/>

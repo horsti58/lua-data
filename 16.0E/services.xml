@@ -413,7 +413,7 @@
 			<S i="000e" f="4" s="0" t="2" n="Radio MIX"/>
 			<S i="000f" f="4" s="0" t="2" n="Fles Radio"/>
 			<S i="0010" f="4" s="0" t="2" n="Radio Curak"/>
-			<S i="0011" f="4" s="0" t="16" n="RTRS plus"/>
+			<S i="0011" f="4" s="1" t="16" n="RTRS plus"/>
 			<S i="0012" f="4" s="0" t="2" n="RTRS RRS"/>
 			<S i="0013" f="4" s="0" t="2" n="Radio Mir Medjugorje"/>
 			<S i="0014" f="2" s="0" t="2" n="Radio Posavina"/>
@@ -421,7 +421,7 @@
 			<S i="0065" f="4" s="0" t="19" n="Al Jazeera Balkans HD"/>
 			<S i="0066" f="4" s="0" t="2" n="Studio 99"/>
 			<S i="0067" f="4" s="0" t="16" n="MINIMAX"/>
-			<S i="0068" f="4" s="1" t="19" n="Eurochannel HD"/>
+			<S i="0068" f="4" s="0" t="19" n="Eurochannel HD"/>
 			<S i="006a" f="4" s="0" t="16" n="YU Planet"/>
 			<S i="006b" f="4" s="0" t="16" n="OBN"/>
 			<S i="006c" f="4" s="0" t="16" n="Supersat TV - TEST"/>
@@ -630,7 +630,7 @@
 			<S i="025a" f="4" s="0" t="16" n="Test"/>
 			<S i="025b" f="4" s="1" t="19" n="ID Xtra HD"/>
 			<S i="025c" f="4" s="0" t="19" n="ARENA HD"/>
-			<S i="025d" f="2" s="0" t="16" n="Aurora TV"/>
+			<S i="025d" f="4" s="1" t="16" n="Test X"/>
 			<S i="025e" f="4" s="1" t="19" n="Eurosport 1 HD"/>
 			<S i="025f" f="4" s="1" t="19" n="Eurosport 2 HD"/>
 			<S i="0260" f="4" s="1" t="19" n="Planeta HD"/>
@@ -895,7 +895,7 @@
 			<S i="0d6c" f="4" s="0" t="2" n="RASLO ARS"/>
 			<S i="0d6d" f="4" s="0" t="2" n="RASLO RADIO SI"/>
 		</TS>
-		<TS id="0003" on="0040" frq="11678000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+		<TS id="0003" on="0040" frq="11678000" inv="2" sr="30000000" fec="10" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0022" f="4" s="1" t="16" n="Vivid TV."/>
 			<S i="002a" f="4" s="0" t="16" n="Arena Slo."/>
 			<S i="002b" f="4" s="1" t="16" n="Woman."/>

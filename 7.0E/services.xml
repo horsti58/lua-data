@@ -158,13 +158,14 @@
 			<S i="0070" f="2" s="0" t="1" n="Hadi 4"/>
 			<S i="012d" f="2" s="0" t="1" n="SahebTV"/>
 			<S i="012e" f="4" s="0" t="1" n="Erfan Halgheh"/>
-			<S i="012f" f="1" s="0" t="1" n="Family TV"/>
-			<S i="0130" f="1" s="0" t="1" n="T2 Channel"/>
+			<S i="012f" f="3" s="0" t="1" n="Family TV"/>
+			<S i="0130" f="4" s="0" t="1" n="T2 Channel"/>
 			<S i="0164" f="4" s="0" t="1" n="Janatol baghie TV"/>
 			<S i="016a" f="2" s="0" t="1" n="IR Cama 1 TV"/>
 			<S i="016e" f="4" s="0" t="1" n="4U TV"/>
 			<S i="0170" f="4" s="0" t="1" n="DUA CHANNEL"/>
 			<S i="0176" f="4" s="0" t="1" n="iToon TV"/>
+			<S i="0177" f="1" s="0" t="1" n="Nostalgic Radio"/>
 		</TS>
 		<TS id="765c" on="007e" frq="11304000" inv="2" sr="29700000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0001" f="4" s="0" t="1" n="Manoto HD"/>
@@ -249,6 +250,22 @@
 			<S i="0619" f="1" s="0" t="11" n="HBB_662"/>
 			<S i="061a" f="1" s="1" t="11" n="HBB_663"/>
 		</TS>
+		<TS id="c4e0" on="007e" frq="11513000" inv="2" sr="30000000" fec="5" pol="1" mod="0" pli="0" plc="1" plm="0" sys="1">
+			<S i="06a5" f="4" s="1" t="11" n="beIN MOVIES FAMILY HD"/>
+			<S i="06a6" f="4" s="1" t="11" n="National Geographic WILD HD"/>
+			<S i="06a7" f="4" s="1" t="11" n="DISCOVERY CHANNEL HD"/>
+			<S i="06a8" f="4" s="1" t="11" n="BEYAZ TV HD"/>
+			<S i="06a9" f="4" s="0" t="1" n="TJK TV"/>
+			<S i="06aa" f="4" s="1" t="11" n="S SPORT HD"/>
+			<S i="06ab" f="4" s="1" t="11" n="beIN İZ HD"/>
+			<S i="06ac" f="4" s="1" t="11" n="beIN İZ HD"/>
+			<S i="06ad" f="4" s="1" t="11" n="DMAX HD"/>
+			<S i="06ae" f="4" s="0" t="81" n="Sagem4KSSU"/>
+			<S i="06af" f="4" s="1" t="2" n="test_i3-"/>
+			<S i="06b0" f="4" s="1" t="1" n="test_i4-"/>
+			<S i="06b1" f="4" s="0" t="81" n="9104"/>
+			<S i="06b2" f="4" s="0" t="81" n="HY 6100"/>
+		</TS>
 		<TS id="c6d4" on="007e" frq="11513000" inv="2" sr="29900000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="14b6" f="4" s="1" t="11" n="beIN MOVIES ACTION 2 HD"/>
 			<S i="14b7" f="4" s="1" t="11" n="beIN SPORTS MAX HD 1"/>
@@ -307,7 +324,7 @@
 			<S i="14ed" f="4" s="1" t="82" n="MASAL RADYO"/>
 			<S i="14ef" f="4" s="1" t="11" n="DA VINCI HD"/>
 			<S i="14f0" f="4" s="1" t="11" n="BABY TV HD"/>
-			<S i="14f1" f="4" s="1" t="1" n="İDMAN AZERBAYCAN"/>
+			<S i="14f1" f="2" s="1" t="1" n="İDMAN AZERBAYCAN"/>
 			<S i="14f2" f="4" s="1" t="1" n="CARTOON NETWORK"/>
 			<S i="14f3" f="4" s="1" t="1" n="DISNEY JUNIOR"/>
 			<S i="14f4" f="4" s="1" t="1" n="DISNEY CHANNEL"/>

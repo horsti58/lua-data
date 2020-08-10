@@ -237,6 +237,7 @@
 		<S i="bda" t="af3" on="bb" s="-8" frq="12169" n="Duck TV"/>
 		<S i="bdb" t="af3" on="bb" s="-8" frq="12169" n="Dusk TV"/>
 		<S i="3f4" t="af1" on="bb" s="-8" frq="12054" n="Dvojka HD"/>
+		<S i="1b63" t="af7" on="bb" s="-8" frq="12563" n="Epic Drama HD"/>
 		<S i="1b63" t="af7" on="bb" s="-8" frq="12687" n="Epic Drama HD"/>
 		<S i="7e7" t="af2" on="bb" s="-8" frq="11977" n="Eroxxx"/>
 		<S i="7df" t="af2" on="bb" s="-8" frq="11977" n="Eurosport 1 HD"/>
@@ -262,6 +263,7 @@
 		<S i="7e2" t="af2" on="bb" s="-8" frq="11977" n="NGC HD"/>
 		<S i="bd1" t="af3" on="bb" s="-8" frq="12169" n="Nova 2 HD"/>
 		<S i="bcd" t="af3" on="bb" s="-8" frq="12169" n="Nova Action HD"/>
+		<S i="1b69" t="af7" on="bb" s="-8" frq="12563" n="Nova Cinema HD"/>
 		<S i="1b69" t="af7" on="bb" s="-8" frq="12687" n="Nova Cinema HD"/>
 		<S i="bcf" t="af3" on="bb" s="-8" frq="12169" n="Nova Gold HD"/>
 		<S i="400" t="af1" on="bb" s="-8" frq="12054" n="Nova HD"/>
@@ -269,12 +271,16 @@
 		<S i="fb4" t="af4" on="bb" s="-8" frq="12245" n="PREMIER SPORT CZ HD"/>
 		<S i="bde" t="af3" on="bb" s="-8" frq="12169" n="PREMIER SPORT HD"/>
 		<S i="1b66" t="af7" on="bb" s="-8" frq="12687" n="Prima COOL HD"/>
+		<S i="1b66" t="af7" on="bb" s="-8" frq="12563" n="Prima COOL HD"/>
 		<S i="3fa" t="af1" on="bb" s="-8" frq="12054" n="Prima HD"/>
 		<S i="fac" t="af4" on="bb" s="-8" frq="12245" n="Prima Krimi HD"/>
 		<S i="1b65" t="af7" on="bb" s="-8" frq="12687" n="Prima LOVE HD"/>
+		<S i="1b65" t="af7" on="bb" s="-8" frq="12563" n="Prima LOVE HD"/>
+		<S i="1b67" t="af7" on="bb" s="-8" frq="12563" n="Prima MAX HD"/>
 		<S i="1b67" t="af7" on="bb" s="-8" frq="12687" n="Prima MAX HD"/>
 		<S i="3fd" t="af1" on="bb" s="-8" frq="12054" n="Senzi"/>
 		<S i="1b64" t="af7" on="bb" s="-8" frq="12687" n="Seznam.cz TV"/>
+		<S i="1b64" t="af7" on="bb" s="-8" frq="12563" n="Seznam.cz TV"/>
 		<S i="3ff" t="af1" on="bb" s="-8" frq="12054" n="Slagr TV"/>
 		<S i="bc4" t="af3" on="bb" s="-8" frq="12169" n="Spektrum HD"/>
 		<S i="1f4d" t="af8" on="bb" s="-8" frq="12527" n="Spektrum SK HD"/>
@@ -297,6 +303,7 @@
 		<S i="fbe" t="af4" on="bb" s="-8" frq="12245" n="Viasat Nature"/>
 		<S i="bcc" t="af3" on="bb" s="-8" frq="12169" n="X-MO"/>
 		<S i="1b68" t="af7" on="bb" s="-8" frq="12687" n="Radio DALNICE"/>
+		<S i="1b68" t="af7" on="bb" s="-8" frq="12563" n="Radio DALNICE"/>
 	</Bouquet>
 	<Bouquet name="[W000.8] ST">
 		<S i="438" t="af1" on="bb" s="-8" frq="12054" n="DATA ADB PRST"/>
@@ -600,9 +607,9 @@
 		<S i="2347" t="52" on="46" s="-8" frq="12207" n="TS Showcase 7"/>
 		<S i="2348" t="52" on="46" s="-8" frq="12207" n="TS Showcase 8"/>
 		<S i="2349" t="52" on="46" s="-8" frq="12207" n="TS Showcase 9"/>
+		<S i="2328" t="4b" on="46" s="-8" frq="12399" n="TS Sports 1"/>
 		<S i="2328" t="4d" on="46" s="-8" frq="12399" n="TS Sports 1"/>
 		<S i="2328" t="4b" on="56" s="-8" frq="12399" n="TS Sports 1"/>
-		<S i="2328" t="4b" on="46" s="-8" frq="12399" n="TS Sports 1"/>
 		<S i="2331" t="54" on="46" s="-8" frq="12360" n="TS Sports 10"/>
 		<S i="2332" t="55" on="56" s="-8" frq="12322" n="TS Sports 11"/>
 		<S i="2332" t="55" on="46" s="-8" frq="12322" n="TS Sports 11"/>

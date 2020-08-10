@@ -44,10 +44,6 @@
 		<S i="1f83" t="ca1" on="3" s="235" frq="12344" n="CRo VYSOCINA"/>
 		<S i="1f89" t="ca1" on="3" s="235" frq="12344" n="CRo ZLIN"/>
 	</Bouquet>
-	<Bouquet name="[E023.5] M7 group">
-		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
-		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
-	</Bouquet>
 	<Bouquet name="[E023.5] M7 Group">
 		<S i="177f" t="c82" on="3" s="235" frq="11739" n="192TV"/>
 		<S i="523f" t="c99" on="3" s="235" frq="12188" n="24Kitchen"/>
@@ -88,6 +84,7 @@
 		<S i="36f4" t="c8c" on="3" s="235" frq="11934" n="duck TV DUT"/>
 		<S i="51da" t="c96" on="3" s="235" frq="12129" n="Eclips TV"/>
 		<S i="5221" t="c99" on="3" s="235" frq="12188" n="een HD"/>
+		<S i="52ec" t="c96" on="3" s="235" frq="12129" n="Eleven Sports Pro League 1 NL"/>
 		<S i="338f" t="c93" on="3" s="235" frq="12070" n="EPG Nagra"/>
 		<S i="339e" t="c89" on="3" s="235" frq="11876" n="Epic Drama HD"/>
 		<S i="1bfe" t="c88" on="3" s="235" frq="11856" n="Eurosport 1 HD"/>
@@ -277,6 +274,10 @@
 		<S i="5262" t="c99" on="3" s="235" frq="12188" n="SLAM!"/>
 		<S i="52db" t="c96" on="3" s="235" frq="12129" n="Studio Brussel"/>
 	</Bouquet>
+	<Bouquet name="[E023.5] M7 group">
+		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
+		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
+	</Bouquet>
 	<Bouquet name="[E023.5] MB Satellite">
 		<S i="36d9" t="c8c" on="3" s="235" frq="11934" n="GERMAN TOTE TV"/>
 		<S i="3e8" t="1" on="1" s="235" frq="12639" n="DLF USI1"/>
@@ -398,6 +399,7 @@
 		<S i="4f07" t="c81" on="3" s="235" frq="11719" n="Favorit TV"/>
 		<S i="4eca" t="c81" on="3" s="235" frq="11719" n="Fight Network"/>
 		<S i="4f00" t="c81" on="3" s="235" frq="11719" n="Film +"/>
+		<S i="4efe" t="c81" on="3" s="235" frq="11719" n="Film 4"/>
 		<S i="4e2d" t="c8b" on="3" s="235" frq="11914" n="Film Klub"/>
 		<S i="4e72" t="c8b" on="3" s="235" frq="11914" n="Film Klub Extra"/>
 		<S i="4e64" t="ca4" on="3" s="235" frq="12402" n="FOX Crime HD"/>
@@ -467,7 +469,6 @@
 		<S i="4e53" t="c85" on="3" s="235" frq="11798" n="Pink Western"/>
 		<S i="4e57" t="c86" on="3" s="235" frq="11817" n="PINK World Cinema"/>
 		<S i="4eb9" t="ca4" on="3" s="235" frq="12402" n="Pink&amp;Roll"/>
-		<S i="4efe" t="c81" on="3" s="235" frq="11719" n="PRIME"/>
 		<S i="4f03" t="c81" on="3" s="235" frq="11719" n="Pro TV International"/>
 		<S i="4e25" t="c85" on="3" s="235" frq="11798" n="Prva"/>
 		<S i="4e74" t="c86" on="3" s="235" frq="11817" n="Prva Files"/>
@@ -606,12 +607,12 @@
 		<S i="e83" t="bbf" on="3" s="235" frq="11581" n="TVP Polonia"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] Unknown Provider">
-		<S i="41a" t="1" on="0" s="235" frq="11650" n="1050 - WAWA Kielce"/>
 		<S i="41a" t="0" on="1" s="235" frq="11644" n="1050 - WAWA Kielce"/>
-		<S i="42e" t="1" on="0" s="235" frq="11650" n="1070 - WAWA Krakow"/>
+		<S i="41a" t="1" on="0" s="235" frq="11650" n="1050 - WAWA Kielce"/>
 		<S i="42e" t="0" on="1" s="235" frq="11644" n="1070 - WAWA Krakow"/>
-		<S i="44c" t="1" on="0" s="235" frq="11650" n="1100 - WAWA Lodz"/>
+		<S i="42e" t="1" on="0" s="235" frq="11650" n="1070 - WAWA Krakow"/>
 		<S i="44c" t="0" on="1" s="235" frq="11644" n="1100 - WAWA Lodz"/>
+		<S i="44c" t="1" on="0" s="235" frq="11650" n="1100 - WAWA Lodz"/>
 		<S i="460" t="1" on="0" s="235" frq="11650" n="1120 - WAWA Opole"/>
 		<S i="460" t="0" on="1" s="235" frq="11644" n="1120 - WAWA Opole"/>
 		<S i="47e" t="0" on="1" s="235" frq="11644" n="1150 - WAWA Torun"/>
@@ -624,8 +625,8 @@
 		<S i="4d8" t="0" on="1" s="235" frq="11644" n="1240 - WAWA Rzeszow"/>
 		<S i="4ec" t="0" on="1" s="235" frq="11644" n="1260 - WAWA Szczecin"/>
 		<S i="4ec" t="1" on="0" s="235" frq="11650" n="1260 - WAWA Szczecin"/>
-		<S i="50a" t="1" on="0" s="235" frq="11650" n="1290 - WAWA Nowy Sacz"/>
 		<S i="50a" t="0" on="1" s="235" frq="11644" n="1290 - WAWA Nowy Sacz"/>
+		<S i="50a" t="1" on="0" s="235" frq="11650" n="1290 - WAWA Nowy Sacz"/>
 		<S i="564" t="1" on="0" s="235" frq="11650" n="1380 - WAWA Warszawa"/>
 		<S i="564" t="0" on="1" s="235" frq="11644" n="1380 - WAWA Warszawa"/>
 		<S i="5c8" t="0" on="1" s="235" frq="11644" n="1480 - WAWA Jelenia Gora"/>
@@ -640,8 +641,8 @@
 		<S i="7e4" t="0" on="1" s="235" frq="11644" n="2020 - ESKA Bialystok"/>
 		<S i="7ee" t="0" on="1" s="235" frq="11644" n="2030 - ESKA Bydgoszcz"/>
 		<S i="7ee" t="1" on="0" s="235" frq="11650" n="2030 - ESKA Bydgoszcz"/>
-		<S i="7f8" t="1" on="0" s="235" frq="11650" n="2040 - ESKA Gorzow"/>
 		<S i="7f8" t="0" on="1" s="235" frq="11644" n="2040 - ESKA Gorzow"/>
+		<S i="7f8" t="1" on="0" s="235" frq="11650" n="2040 - ESKA Gorzow"/>
 		<S i="802" t="0" on="1" s="235" frq="11644" n="2050 - ESKA Kielce"/>
 		<S i="802" t="1" on="0" s="235" frq="11650" n="2050 - ESKA Kielce"/>
 		<S i="80c" t="1" on="0" s="235" frq="11650" n="2060 - ESKA Siedlce"/>
@@ -674,8 +675,8 @@
 		<S i="88e" t="1" on="0" s="235" frq="11650" n="2190 - ESKA Zielona Gora"/>
 		<S i="898" t="0" on="1" s="235" frq="11644" n="2200 - ESKA Ostrow"/>
 		<S i="898" t="1" on="0" s="235" frq="11650" n="2200 - ESKA Ostrow"/>
-		<S i="8a2" t="0" on="1" s="235" frq="11644" n="2210 - ESKA Radom"/>
 		<S i="8a2" t="1" on="0" s="235" frq="11650" n="2210 - ESKA Radom"/>
+		<S i="8a2" t="0" on="1" s="235" frq="11644" n="2210 - ESKA Radom"/>
 		<S i="8ac" t="1" on="0" s="235" frq="11650" n="2220 - ESKA Slask"/>
 		<S i="8ac" t="0" on="1" s="235" frq="11644" n="2220 - ESKA Slask"/>
 		<S i="8b6" t="1" on="0" s="235" frq="11650" n="2230 - ESKA Zamosc"/>
@@ -692,8 +693,8 @@
 		<S i="8fc" t="1" on="0" s="235" frq="11650" n="2300 - ESKA Beskidy/Zywiec"/>
 		<S i="906" t="0" on="1" s="235" frq="11644" n="2310 - ESKA Szczecinek"/>
 		<S i="906" t="1" on="0" s="235" frq="11650" n="2310 - ESKA Szczecinek"/>
-		<S i="910" t="0" on="1" s="235" frq="11644" n="2320 - ESKA Przemysl"/>
 		<S i="910" t="1" on="0" s="235" frq="11650" n="2320 - ESKA Przemysl"/>
+		<S i="910" t="0" on="1" s="235" frq="11644" n="2320 - ESKA Przemysl"/>
 		<S i="91a" t="0" on="1" s="235" frq="11644" n="2330 - ESKA Malopolska"/>
 		<S i="91a" t="1" on="0" s="235" frq="11650" n="2330 - ESKA Malopolska"/>
 		<S i="938" t="0" on="1" s="235" frq="11644" n="2360 - ESKA Krasnik"/>
@@ -708,8 +709,8 @@
 		<S i="988" t="1" on="0" s="235" frq="11650" n="2440 - ESKA Ilawa"/>
 		<S i="992" t="0" on="1" s="235" frq="11644" n="2450 - ESKA Grudziadz"/>
 		<S i="992" t="1" on="0" s="235" frq="11650" n="2450 - ESKA Grudziadz"/>
-		<S i="99c" t="0" on="1" s="235" frq="11644" n="2460 - ESKA Lomza"/>
 		<S i="99c" t="1" on="0" s="235" frq="11650" n="2460 - ESKA Lomza"/>
+		<S i="99c" t="0" on="1" s="235" frq="11644" n="2460 - ESKA Lomza"/>
 		<S i="9b0" t="0" on="1" s="235" frq="11644" n="2480 - ESKA Wroclaw JG"/>
 		<S i="9b0" t="1" on="0" s="235" frq="11650" n="2480 - ESKA Wroclaw JG"/>
 		<S i="9c4" t="1" on="0" s="235" frq="11650" n="2500 - ESKA Ostrzeszow"/>
@@ -734,8 +735,8 @@
 		<S i="10ae" t="1" on="0" s="235" frq="11650" n="4270 - PLUS Koszalin"/>
 		<S i="10f4" t="0" on="1" s="235" frq="11644" n="4340 - PLUS Podhale"/>
 		<S i="10f4" t="1" on="0" s="235" frq="11650" n="4340 - PLUS Podhale"/>
-		<S i="1388" t="1" on="0" s="235" frq="11650" n="5000 - Testowy 1"/>
 		<S i="1388" t="0" on="1" s="235" frq="11644" n="5000 - Testowy 1"/>
+		<S i="1388" t="1" on="0" s="235" frq="11650" n="5000 - Testowy 1"/>
 		<S i="1392" t="1" on="0" s="235" frq="11650" n="5010 - Testowy 2"/>
 		<S i="1392" t="0" on="1" s="235" frq="11644" n="5010 - Testowy 2"/>
 		<S i="1f4a" t="1" on="0" s="235" frq="11650" n="8010 - Radio Rodzina"/>
@@ -744,6 +745,14 @@
 		<S i="1f54" t="1" on="0" s="235" frq="11650" n="8020 - Radio Wielkopolska"/>
 		<S i="1452" t="c98" on="3" s="235" frq="12168" n="Ocko Star"/>
 		<S i="1451" t="c98" on="3" s="235" frq="12168" n="Ocko TV"/>
+		<S i="2af8" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x2AF8)"/>
+		<S i="2ee0" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x2EE0)"/>
+		<S i="32c8" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x32C8)"/>
+		<S i="36b0" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x36B0)"/>
+		<S i="3a98" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x3A98)"/>
+		<S i="3e80" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x3E80)"/>
+		<S i="4268" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x4268)"/>
+		<S i="4650" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x4650)"/>
 		<S i="5208" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x5208)"/>
 		<S i="55f0" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x55F0)"/>
 		<S i="59d8" t="f" on="5" s="235" frq="11678" n="unknown (0x000F_0x59D8)"/>

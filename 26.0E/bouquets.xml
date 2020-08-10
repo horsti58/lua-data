@@ -76,18 +76,15 @@
 		<S i="16" t="1fd" on="2be" s="260" frq="11996" n="France 24 (in Arabic)"/>
 		<S i="20" t="1fd" on="2be" s="260" frq="11996" n="France 24 (in English)"/>
 	</Bouquet>
-	<Bouquet name="[E026.0] GlobeCast">
-		<S i="2a" t="1fd" on="2be" s="260" frq="11996" n="WRN (Sawt Al Alam) R1"/>
-	</Bouquet>
 	<Bouquet name="[E026.0] GLOBECAST">
 		<S i="14" t="1fd" on="2be" s="260" frq="11996" n="RFI Francais"/>
 		<S i="33" t="1fd" on="2be" s="260" frq="11996" n="RMC Doualia"/>
 	</Bouquet>
+	<Bouquet name="[E026.0] GlobeCast">
+		<S i="2a" t="1fd" on="2be" s="260" frq="11996" n="WRN (Sawt Al Alam) R1"/>
+	</Bouquet>
 	<Bouquet name="[E026.0] Harmonic">
 		<S i="bb8" t="1a" on="1a" s="260" frq="11958" n="MUSAWA HD"/>
-	</Bouquet>
-	<Bouquet name="[E026.0] jmc">
-		<S i="718" t="1fa" on="2be" s="260" frq="12054" n="Jordan Radio Foreign"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] JMC">
 		<S i="19c" t="1015" on="2be" s="260" frq="12034" n="Al Istijaba TV"/>
@@ -123,6 +120,9 @@
 		<S i="72f" t="1fa" on="2be" s="260" frq="12054" n="DJIBOUTI R3"/>
 		<S i="726" t="1fa" on="2be" s="260" frq="12054" n="Radio Orient"/>
 		<S i="732" t="1fa" on="2be" s="260" frq="12054" n="SSBC RADIO"/>
+	</Bouquet>
+	<Bouquet name="[E026.0] jmc">
+		<S i="718" t="1fa" on="2be" s="260" frq="12054" n="Jordan Radio Foreign"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] Kuwait Radio">
 		<S i="11" t="1a" on="1b" s="260" frq="12523" n="Kuwait Classical"/>
@@ -266,9 +266,9 @@
 		<S i="65" t="24e" on="2be" s="260" frq="12523" n="Sudan Sport HD"/>
 		<S i="32" t="24e" on="2be" s="260" frq="12523" n="Sudani24HD"/>
 		<S i="12" t="1137" on="2be" s="260" frq="12643" n="Telvza TV"/>
-		<S i="71" t="24e" on="2be" s="260" frq="12523" n="TEST"/>
 		<S i="7" t="24e" on="2be" s="260" frq="12523" n="test"/>
 		<S i="b" t="24e" on="2be" s="260" frq="12523" n="TEST"/>
+		<S i="71" t="24e" on="2be" s="260" frq="12523" n="TEST"/>
 		<S i="4" t="24e" on="2be" s="260" frq="12523" n="test100"/>
 		<S i="e" t="24e" on="2be" s="260" frq="12523" n="Test2"/>
 		<S i="b" t="1137" on="2be" s="260" frq="12643" n="Tunisia Nat 1"/>
