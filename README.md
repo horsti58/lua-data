@@ -2,7 +2,7 @@
 
 diverse Neutrino Sat-Settings 28.2E, 26.0E, 23.5E, 19.2E, 13.0E, 16.0E, 9.0E, 7.0E, 4.8E, 0.8W 
 
-diverse Neutrino Kabel-Settings UnityMedia und KabelDeutschland/Vodafone 
+        Neutrino Kabel-Settings Vodafone 
 
 gescant im Westen von NRW....
 
@@ -27,5 +27,5 @@ gescant im Westen von NRW....
  keine ubouquets.xml enthalten, denn da gibt es zuviele Geschmäcker :) 
 
 
-14.09.2019
+05.08.2020
 

@@ -85,14 +85,14 @@ function create_settingupdater_cfg()
 	file:write("28.2E=0", "\n")
 	file:write("26.0E=0", "\n")
 	file:write("23.5E=0", "\n")
-	file:write("19.2E=0", "\n")
+	file:write("19.2E=1", "\n")
 	file:write("16.0E=0", "\n")
 	file:write("13.0E=0", "\n")
 	file:write("9.0E=0", "\n")
 	file:write("7.0E=0", "\n")
 	file:write("4.8E=0", "\n")
 	file:write("0.8W=0", "\n")
-	file:write("UnityMedia=0", "\n")
+	file:write("Vodafone=0", "\n")
 	file:write("use_git=0", "\n")
 	file:close()
 end
@@ -222,7 +222,7 @@ function start_update()
 	if (get_cfg_value("7.0E") == 1) then table.insert (positions, "7.0E"); have_sat = 1 end
 	if (get_cfg_value("4.8E") == 1) then table.insert (positions, "4.8E"); have_sat = 1 end
 	if (get_cfg_value("0.8W") == 1) then table.insert (positions, "0.8W"); have_sat = 1 end
-	if (get_cfg_value("UnityMedia") == 1) then table.insert (positions, "UnityMedia"); have_cable = 1 end
+	if (get_cfg_value("Vodafone") == 1) then table.insert (positions, "Vodafone"); have_cable = 1 end
 	table.insert (positions, "end")
 
 	bouquets = io.open(zapitdir .. "/bouquets.xml", 'w')
@@ -328,7 +328,7 @@ function thor_cfg(k, v, str)
 end
 
 function kab_cfg(k, v, str)
-	write_cfg(k, v, "UnityMedia")
+	write_cfg(k, v, "Vodafone")
 end
 
 function use_git_cfg(k, v, str)
@@ -390,9 +390,9 @@ function options ()
 	elseif (get_cfg_value("0.8W") == 0) then
 		menu:addItem{type="chooser", action="thor_cfg", options={off, on}, icon=0, directkey=RC["0"], name=locale[lang].cfg_install_a .. " 0.8W " .. locale[lang].cfg_install_b}
 	end
-	if (get_cfg_value("UnityMedia") == 1) then
+	if (get_cfg_value("Vodafone") == 1) then
 		menu:addItem{type="chooser", action="kab_cfg", options={on, off}, icon=yellow, directkey=RC["yellow"], name=locale[lang].cfg_install_a .. " Kabel " .. locale[lang].cfg_install_b}
-	elseif (get_cfg_value("UnityMedia") == 0) then
+	elseif (get_cfg_value("Vodafone") == 0) then
 		menu:addItem{type="chooser", action="kab_cfg", options={off, on}, icon=yellow, directkey=RC["yellow"], name=locale[lang].cfg_install_a .. " Kabel " .. locale[lang].cfg_install_b}
 	end
 	if (get_cfg_value("use_git") == 1) then
