@@ -9,6 +9,8 @@ gescant im Westen von NRW....
 
 # Anleitung lua Plugin:
 
+ bei lua Script Update ggf. /var/tuxbox/config/settingupdater.cfg einmalig löschen !
+
  settingsupdater.cfg und settingsupdater.lua ins Pluginverzeichnis der Neutrinobox kopieren,
 
  restarten...
@@ -27,5 +29,5 @@ gescant im Westen von NRW....
  keine ubouquets.xml enthalten, denn da gibt es zuviele Geschmäcker :) 
 
 
-05.08.2020
+10.08.2020
 
