@@ -167,9 +167,9 @@
 			<S i="0dbb" f="4" s="0" t="1" n="ORTB TV"/>
 			<S i="0dbf" f="2" s="0" t="1" n="RTS 1"/>
 			<S i="0dc0" f="4" s="0" t="2" n="RSI"/>
-			<S i="0dc1" f="4" s="1" t="1" n="OPAP VG1"/>
-			<S i="0dc2" f="4" s="1" t="1" n="OPAP MG"/>
-			<S i="0dc3" f="4" s="0" t="1" n="OPAP HR"/>
+			<S i="0dc1" f="2" s="1" t="1" n="OPAP VG1"/>
+			<S i="0dc2" f="2" s="1" t="1" n="OPAP MG"/>
+			<S i="0dc3" f="2" s="0" t="1" n="OPAP HR"/>
 			<S i="0dc5" f="4" s="1" t="19" n="MCM TOP"/>
 		</TS>
 		<TS id="170c" on="009e" frq="11900000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -284,7 +284,7 @@
 			<S i="00ca" f="4" s="0" t="1" n="M6 Suisse HD"/>
 			<S i="00cc" f="4" s="0" t="1" n="6 TER Suisse HD"/>
 			<S i="00cd" f="4" s="0" t="1" n="W9 Suisse HD"/>
-			<S i="0160" f="4" s="0" t="1" n="RTG int"/>
+			<S i="0160" f="4" s="0" t="1" n="RTG Int"/>
 			<S i="0161" f="4" s="0" t="1" n="Phoenix Info News"/>
 			<S i="0162" f="4" s="0" t="1" n="ORTM"/>
 			<S i="0163" f="4" s="0" t="1" n="Télé Sahel"/>
@@ -500,15 +500,15 @@
 			<S i="026f" f="4" s="1" t="19" n="SPORT1+ HD"/>
 		</TS>
 		<TS id="0006" on="00aa" frq="12399000" inv="2" sr="27500000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="03f1" f="4" s="1" t="1" n="TV ΔΕΛΤΑ"/>
-			<S i="03f6" f="4" s="1" t="1" n="Blue Sky"/>
+			<S i="03f1" f="2" s="1" t="1" n="TV ΔΕΛΤΑ"/>
+			<S i="03f6" f="2" s="1" t="1" n="Blue Sky"/>
 			<S i="03f7" f="4" s="1" t="1" n="COSMOTESport2HD"/>
 			<S i="03fa" f="4" s="1" t="1" n="ΑΡΤ"/>
 			<S i="0400" f="4" s="1" t="1" n="MEGA HD"/>
 			<S i="0403" f="4" s="1" t="1" n="Disney Junior"/>
 			<S i="0404" f="4" s="1" t="1" n="COSMOTESport3HD"/>
 			<S i="040d" f="4" s="1" t="1" n="Travel Channel HD"/>
-			<S i="0417" f="4" s="1" t="1" n="Extra Channel"/>
+			<S i="0417" f="4" s="1" t="1" n="COSMOTE SERIES MARATHON"/>
 			<S i="0418" f="4" s="1" t="1" n="Body in Balance"/>
 			<S i="0419" f="4" s="1" t="1" n="National Geographic+"/>
 			<S i="0420" f="4" s="1" t="1" n="MAD"/>

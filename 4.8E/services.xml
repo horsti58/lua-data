@@ -162,6 +162,9 @@
 			<S i="1dd8" f="4" s="0" t="16" n="Channel 4 (Ukraine)"/>
 			<S i="1ddd" f="4" s="0" t="16" n="Svarogichi"/>
 			<S i="1de2" f="4" s="1" t="16" n="ERC"/>
+			<S i="1de7" f="1" s="1" t="19" n="ICTV HD"/>
+			<S i="1de8" f="1" s="1" t="19" n="STB HD"/>
+			<S i="1de9" f="1" s="1" t="19" n="NOVY CHANNEL HD"/>
 			<S i="1dec" f="4" s="0" t="16" n="Pershyy Nezalezhnyy Test"/>
 			<S i="1df1" f="4" s="0" t="16" n="TV5"/>
 			<S i="1df6" f="4" s="0" t="16" n="ZORIANY"/>
@@ -514,7 +517,9 @@
 			<S i="09e2" f="4" s="1" t="16" n="Discovery Channel"/>
 			<S i="09ec" f="4" s="1" t="16" n="Travel Channel"/>
 			<S i="09f6" f="4" s="1" t="16" n="Sony Turbo"/>
-			<S i="0a00" f="4" s="1" t="1" n="UNK (0x0018_0x0A00)"/>
+			<S i="0a00" f="4" s="1" t="16" n="Dorama"/>
+			<S i="0a02" f="4" s="1" t="16" n="Zee TV"/>
+			<S i="0a04" f="4" s="1" t="16" n="Duck TV"/>
 			<S i="0a0a" f="4" s="1" t="16" n="Discovery Science"/>
 			<S i="0a14" f="4" s="1" t="16" n="Fox"/>
 			<S i="0a1e" f="4" s="1" t="16" n="Viasat History"/>
@@ -528,6 +533,10 @@
 			<S i="0aaa" f="4" s="1" t="16" n="Food Network"/>
 			<S i="0bb8" f="4" s="1" t="16" n="Eurosport 1"/>
 			<S i="0bc2" f="4" s="1" t="16" n="Eurosport 2"/>
+			<S i="17fa" f="4" s="0" t="c" n="SK_SW_Viasat"/>
+			<S i="1819" f="4" s="0" t="c" n="ST_SW_FTA"/>
+			<S i="181b" f="4" s="0" t="c" n="ST_SW_Viasat"/>
+			<S i="181d" f="4" s="0" t="c" n="ST_SW_1CAS"/>
 			<S i="fffe" f="2" s="0" t="8a" n="SW Download"/>
 		</TS>
 		<TS id="0035" on="0055" frq="12245000" inv="2" sr="30000000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -726,14 +735,14 @@
 		<TS id="002e" on="0055" frq="12437000" inv="2" sr="30000000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="1ee6" f="4" s="1" t="1" n="Inter"/>
 			<S i="1ee8" f="4" s="1" t="1" n="NTN"/>
-			<S i="1ee9" f="1" s="1" t="1" n="Test"/>
+			<S i="1ee9" f="3" s="1" t="1" n="Test"/>
 			<S i="1eea" f="4" s="1" t="1" n="MEGA"/>
 			<S i="1eec" f="4" s="1" t="1" n="K1"/>
 			<S i="1eee" f="4" s="1" t="1" n="K2"/>
 			<S i="1ef0" f="4" s="1" t="1" n="ZOOM"/>
 			<S i="1ef2" f="4" s="1" t="1" n="PIXEL"/>
 			<S i="1ef4" f="4" s="1" t="1" n="Enter Film"/>
-			<S i="1ef6" f="4" s="1" t="16" n="INTER +"/>
+			<S i="1ef6" f="4" s="0" t="16" n="INTER +"/>
 		</TS>
 		<TS id="001d" on="0056" frq="12608000" inv="2" sr="27500000" fec="3" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
 			<S i="076c" f="4" s="1" t="1" n="Viasat Feed"/>
