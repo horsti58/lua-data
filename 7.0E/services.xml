@@ -21,7 +21,7 @@
 			<S i="2329" f="2" s="0" t="1" n="Andisheh"/>
 			<S i="232a" f="4" s="0" t="1" n="Kanal Yek"/>
 			<S i="232b" f="4" s="0" t="2" n="Mihan Radio"/>
-			<S i="232c" f="1" s="0" t="1" n="AZADI"/>
+			<S i="232c" f="4" s="0" t="1" n="AZADI"/>
 		</TS>
 		<TS id="4fb0" on="007e" frq="10804000" inv="2" sr="30000000" fec="5" pol="1" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="2135" f="4" s="0" t="1" n="TRT AVAZ"/>
@@ -54,24 +54,6 @@
 			<S i="09d8" f="4" s="0" t="11" n="CGTN DOCUMENTARY HD"/>
 			<S i="1942" f="1" s="0" t="81" n="IRDETO_T5"/>
 		</TS>
-		<TS id="50dc" on="007e" frq="10845000" inv="2" sr="30000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
-			<S i="1fa5" f="4" s="1" t="11" n="beIN MOVIES FAMILY HD"/>
-			<S i="1fa6" f="4" s="1" t="11" n="National Geographic WILD HD"/>
-			<S i="1fa8" f="2" s="1" t="1" n="A SPOR"/>
-			<S i="1fa9" f="4" s="0" t="1" n="TJK TV"/>
-			<S i="1faa" f="4" s="1" t="11" n="DISCOVERY CHANNEL HD"/>
-			<S i="1fab" f="4" s="1" t="11" n="BEYAZ TV HD"/>
-			<S i="1fac" f="4" s="0" t="81" n="Sagem4KSSU"/>
-			<S i="1fae" f="4" s="1" t="11" n="S SPORT HD"/>
-			<S i="1faf" f="4" s="1" t="2" n="test_i3-"/>
-			<S i="1fb0" f="4" s="1" t="1" n="test_i4-"/>
-			<S i="1fb1" f="4" s="0" t="81" n="9104"/>
-			<S i="1fb2" f="4" s="0" t="81" n="HY 6100"/>
-			<S i="1fb6" f="4" s="1" t="11" n="beIN İZ HD"/>
-			<S i="1fb7" f="4" s="1" t="11" n="beIN SPORTS INTERNATIONAL HD"/>
-			<S i="1ffd" f="4" s="1" t="11" n="beIN İZ HD"/>
-			<S i="2007" f="4" s="1" t="11" n="DMAX HD"/>
-		</TS>
 		<TS id="5140" on="007e" frq="10845000" inv="2" sr="30000000" fec="5" pol="1" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="1942" f="4" s="0" t="81" n="IRDETO_T5"/>
 			<S i="1f42" f="4" s="1" t="11" n="ÜLKE TV HD"/>
@@ -87,6 +69,24 @@
 			<S i="1f4f" f="4" s="1" t="11" n="BBC WORLD NEWS HD"/>
 			<S i="1f50" f="4" s="1" t="1" n="HALK TV"/>
 			<S i="1f51" f="4" s="1" t="1" n="BLOOMBERG"/>
+		</TS>
+		<TS id="50dc" on="007e" frq="10848000" inv="2" sr="27500000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
+			<S i="1fa5" f="4" s="1" t="11" n="beIN MOVIES FAMILY HD"/>
+			<S i="1fa6" f="4" s="1" t="11" n="National Geographic WILD HD"/>
+			<S i="1fa8" f="2" s="1" t="1" n="A SPOR"/>
+			<S i="1fa9" f="2" s="0" t="1" n="TJK TV"/>
+			<S i="1faa" f="4" s="1" t="11" n="DISCOVERY CHANNEL HD"/>
+			<S i="1fab" f="4" s="1" t="11" n="BEYAZ TV HD"/>
+			<S i="1fac" f="4" s="1" t="81" n="Sagem4KSSU"/>
+			<S i="1fae" f="4" s="1" t="11" n="S SPORT HD"/>
+			<S i="1faf" f="4" s="1" t="2" n="test_i3-"/>
+			<S i="1fb0" f="4" s="1" t="1" n="test_i4-"/>
+			<S i="1fb1" f="4" s="1" t="81" n="9104"/>
+			<S i="1fb2" f="4" s="1" t="81" n="HY 6100"/>
+			<S i="1fb6" f="4" s="1" t="11" n="beIN İZ HD"/>
+			<S i="1fb7" f="2" s="1" t="11" n="beIN SPORTS INTERNATIONAL HD"/>
+			<S i="1ffd" f="4" s="0" t="11" n="beIN İZ HD"/>
+			<S i="2007" f="4" s="1" t="11" n="DMAX HD"/>
 		</TS>
 		<TS id="51a4" on="007e" frq="10887000" inv="2" sr="30000000" fec="4" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="1ede" f="4" s="1" t="11" n="beIN SERIES DRAMA HD"/>

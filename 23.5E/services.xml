@@ -724,6 +724,7 @@
 		<TS id="0ca4" on="0003" frq="12402000" inv="2" sr="30000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="4e63" f="4" s="0" t="1" n="FOX Life HD"/>
 			<S i="4e64" f="4" s="0" t="1" n="FOX Crime HD"/>
+			<S i="4e8f" f="1" s="0" t="1" n="ATV HD"/>
 			<S i="4e97" f="4" s="0" t="1" n="RTRS Plus"/>
 			<S i="4e98" f="4" s="0" t="1" n="Discovery Channel"/>
 			<S i="4e99" f="4" s="0" t="1" n="BBC Earth"/>
@@ -743,8 +744,8 @@
 			<S i="4ea8" f="4" s="0" t="1" n="English Club TV"/>
 			<S i="4ea9" f="4" s="0" t="1" n="E!"/>
 			<S i="4eac" f="4" s="0" t="1" n="24Kitchen"/>
-			<S i="4ead" f="4" s="0" t="1" n="Fashion TV"/>
-			<S i="4eaf" f="4" s="1" t="1" n="LoL"/>
+			<S i="4ead" f="4" s="1" t="1" n="Fashion TV"/>
+			<S i="4eaf" f="4" s="0" t="1" n="LoL"/>
 			<S i="4eb0" f="4" s="0" t="1" n="RTL Croatia"/>
 			<S i="4eb1" f="4" s="0" t="1" n="TV Hayat"/>
 			<S i="4eb2" f="4" s="0" t="1" n="TV Hayat Plus"/>

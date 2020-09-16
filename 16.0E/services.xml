@@ -294,6 +294,48 @@
 			<S i="0043" f="4" s="1" t="1" n="Pink Horror"/>
 			<S i="0044" f="4" s="1" t="1" n="Pink Folk 2"/>
 		</TS>
+		<TS id="0170" on="016e" frq="11158000" inv="2" sr="45000000" fec="10" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
+			<S i="03e8" f="4" s="1" t="1" n="Vizion Plus HD"/>
+			<S i="041a" f="4" s="1" t="1" n="Klan Kosova"/>
+			<S i="044c" f="4" s="1" t="1" n="Klan HD"/>
+			<S i="047e" f="4" s="1" t="1" n="Klan Plus"/>
+			<S i="04b0" f="4" s="1" t="1" n="RTK 1"/>
+			<S i="0514" f="4" s="1" t="1" n="RTV 21"/>
+			<S i="0546" f="4" s="1" t="1" n="Klan Maqedonia"/>
+			<S i="0578" f="4" s="1" t="1" n="FAX NEWS"/>
+			<S i="05aa" f="4" s="1" t="1" n="ABC NEWS"/>
+			<S i="05dc" f="4" s="1" t="1" n="Report TV"/>
+			<S i="060e" f="4" s="1" t="1" n="News 24"/>
+			<S i="0640" f="4" s="0" t="1" n="Kanali 7"/>
+			<S i="0672" f="4" s="1" t="1" n="Syri TV"/>
+			<S i="06d6" f="4" s="1" t="1" n="Tring Tring"/>
+			<S i="0708" f="4" s="1" t="1" n="Kids"/>
+			<S i="073a" f="4" s="1" t="1" n="TIP TV"/>
+			<S i="076c" f="4" s="1" t="1" n="Living HD"/>
+			<S i="07d0" f="4" s="1" t="1" n="Jolly HD"/>
+			<S i="0802" f="4" s="1" t="1" n="3Plus"/>
+			<S i="0817" f="4" s="0" t="c" n="OTA_Beacon"/>
+			<S i="0834" f="4" s="1" t="1" n="KanalD Drama"/>
+			<S i="0866" f="4" s="1" t="1" n="Smile"/>
+			<S i="0898" f="4" s="1" t="1" n="Tring Shqip"/>
+			<S i="08ca" f="4" s="1" t="1" n="Tring Super HD"/>
+			<S i="08fc" f="4" s="1" t="1" n="Tring Action HD"/>
+			<S i="092e" f="4" s="1" t="1" n="Tring Life"/>
+			<S i="0960" f="4" s="1" t="1" n="Tring Comedy"/>
+			<S i="0992" f="4" s="1" t="1" n="Tring Fantasy"/>
+			<S i="0a5a" f="4" s="1" t="1" n="Tring History"/>
+			<S i="0a8c" f="4" s="1" t="1" n="Tring Planet"/>
+			<S i="0abe" f="4" s="1" t="1" n="Tring World"/>
+			<S i="0af0" f="4" s="1" t="1" n="Tring Sport News"/>
+			<S i="0b22" f="4" s="1" t="1" n="SPORT 1 HD"/>
+			<S i="0b54" f="4" s="1" t="1" n="SPORT 2 HD"/>
+			<S i="0b86" f="4" s="0" t="1" n="SPORT 3 HD"/>
+			<S i="0bb8" f="4" s="0" t="1" n="SPORT 4 HD"/>
+			<S i="0c4e" f="4" s="1" t="1" n="Folk Plus"/>
+			<S i="0cb2" f="4" s="1" t="1" n="BBF"/>
+			<S i="0ce4" f="4" s="1" t="1" n="Desire"/>
+			<S i="0d16" f="4" s="1" t="1" n="Elrodi"/>
+		</TS>
 		<TS id="0170" on="016e" frq="11176000" inv="2" sr="30000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="03e8" f="1" s="1" t="1" n="Vizion Plus HD"/>
 			<S i="044c" f="1" s="1" t="1" n="Klan HD"/>
@@ -368,6 +410,7 @@
 			<S i="1171" f="4" s="1" t="1" n="SCI FI HD"/>
 			<S i="1172" f="4" s="1" t="2" n="Radio Kanal 77"/>
 			<S i="1770" f="4" s="0" t="c" n="unknown (0x9CA4_0x1770)"/>
+			<S i="1771" f="1" s="0" t="c" n="unknown (0x9CA4_0x1771)"/>
 		</TS>
 		<TS id="9d08" on="016e" frq="11231000" inv="2" sr="42000000" fec="4" pol="1" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="02ef" f="4" s="1" t="1" n="O Kanal"/>
@@ -448,9 +491,9 @@
 			<S i="000c" f="4" s="0" t="19" n="BN BIH HD"/>
 			<S i="000d" f="4" s="0" t="2" n="Radio BN"/>
 			<S i="000e" f="4" s="0" t="2" n="Radio MIX"/>
-			<S i="000f" f="4" s="0" t="2" n="Fles Radio"/>
+			<S i="000f" f="2" s="0" t="2" n="Fles Radio"/>
 			<S i="0010" f="4" s="0" t="2" n="Radio Curak"/>
-			<S i="0011" f="4" s="1" t="16" n="RTRS plus"/>
+			<S i="0011" f="4" s="0" t="16" n="RTRS plus"/>
 			<S i="0012" f="4" s="0" t="2" n="RTRS RRS"/>
 			<S i="0013" f="4" s="0" t="2" n="Radio Mir Medjugorje"/>
 			<S i="0014" f="2" s="0" t="2" n="Radio Posavina"/>
@@ -473,7 +516,7 @@
 			<S i="007f" f="4" s="0" t="2" n="RM Romania HU"/>
 			<S i="0080" f="4" s="0" t="2" n="RM Albania"/>
 			<S i="0081" f="4" s="0" t="2" n="RM BiH"/>
-			<S i="0082" f="4" s="0" t="2" n="RM Armenia"/>
+			<S i="0082" f="4" s="0" t="2" n="RM Kosovo"/>
 			<S i="0084" f="4" s="0" t="2" n="RM Hungary"/>
 		</TS>
 		<TS id="9dd0" on="016e" frq="11283000" inv="2" sr="30000000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -775,7 +818,7 @@
 			<S i="06dc" f="4" s="1" t="1" n="TV SLO 1"/>
 			<S i="06dd" f="4" s="1" t="1" n="TV SLO 2 HD"/>
 			<S i="06de" f="4" s="1" t="1" n="Prva CG"/>
-			<S i="06df" f="1" s="1" t="1" n="Pink Reality"/>
+			<S i="06df" f="4" s="1" t="1" n="Pink Reality"/>
 			<S i="06e0" f="4" s="1" t="1" n="Arena Sport 1"/>
 			<S i="06e1" f="4" s="1" t="1" n="Arena Sport 2"/>
 			<S i="06e2" f="4" s="1" t="1" n="SK Golf"/>
@@ -1084,7 +1127,7 @@
 		<TS id="00a0" on="0000" frq="12660000" inv="2" sr="2220000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="0001" f="1" s="0" t="1" n="V.E. 4"/>
 		</TS>
-		<TS id="0001" on="0001" frq="12694000" inv="2" sr="2222000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
+		<TS id="0001" on="0001" frq="12694000" inv="2" sr="2222000" fec="11" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="0001" f="4" s="0" t="1" n="EPQ C1"/>
 			<S i="0002" f="4" s="0" t="1" n="EPQ C2"/>
 		</TS>

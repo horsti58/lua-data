@@ -16,9 +16,6 @@
 	<Bouquet name="[E009.0] ARC/DCM1 TSOIP">
 		<S i="166" t="19c8" on="9e" s="90" frq="12034" n="Disney Channel ME"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] ARQIVA">
-		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
-	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva">
 		<S i="48d" t="1af4" on="9e" s="90" frq="12092" n="DAB D1"/>
 		<S i="451" t="1af4" on="9e" s="90" frq="12092" n="DISJ1_CEMA"/>
@@ -33,6 +30,9 @@
 		<S i="4a6" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist3"/>
 		<S i="4ab" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist4"/>
 		<S i="4b0" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist5"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] ARQIVA">
+		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva LTD">
 		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="TV5MONDE France Belgique Suisse"/>
@@ -335,7 +335,7 @@
 	<Bouquet name="[E009.0] MTVA">
 		<S i="67" t="1838" on="9e" s="90" frq="11958" n="Duna HD"/>
 		<S i="71" t="1838" on="9e" s="90" frq="11958" n="Duna HD (Europa)"/>
-		<S i="69" t="1838" on="9e" s="90" frq="11958" n="Duna World SD"/>
+		<S i="69" t="1838" on="9e" s="90" frq="11958" n="Duna World HD"/>
 		<S i="65" t="1838" on="9e" s="90" frq="11958" n="M1 HD"/>
 		<S i="6f" t="1838" on="9e" s="90" frq="11958" n="M1 HD (Europa)"/>
 		<S i="66" t="1838" on="9e" s="90" frq="11958" n="M2 HD"/>

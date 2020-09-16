@@ -754,8 +754,9 @@
 			<S i="0449" f="4" s="0" t="c" n="DATA KSTB2096"/>
 		</TS>
 		<TS id="02c2" on="0600" frq="12073000" inv="2" sr="28000000" fec="7" pol="1" mod="0" pli="0" plc="1" plm="0" sys="0">
-			<S i="778d" f="4" s="1" t="1" n="m1"/>
-			<S i="778f" f="4" s="1" t="1" n="m2 / Petofi"/>
+			<S i="7789" f="1" s="1" t="1" n="TV Paprika RO"/>
+			<S i="778d" f="2" s="1" t="1" n="m1"/>
+			<S i="778f" f="2" s="1" t="1" n="m2 / Petofi"/>
 			<S i="77a7" f="4" s="1" t="1" n="Nick Jr Czech"/>
 			<S i="77a8" f="4" s="1" t="1" n="Nick Jr Romania"/>
 			<S i="77a9" f="4" s="1" t="1" n="Nickelodeon Czech"/>
