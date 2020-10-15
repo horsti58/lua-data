@@ -1,3 +1,6 @@
+	<Bouquet name="[W000.8] Digi">
+		<S i="e1b" t="4" on="1" s="-8" frq="12188" n="Kiss FM"/>
+	</Bouquet>
 	<Bouquet name="[W000.8] DIGI">
 		<S i="29c" t="5" on="1" s="-8" frq="11785" n="SW DL 1165"/>
 		<S i="2a0" t="5" on="1" s="-8" frq="11785" n="SW DL 5160"/>
@@ -7,9 +10,6 @@
 		<S i="e6a" t="5" on="1" s="-8" frq="11785" n="Kossuth Radio"/>
 		<S i="e60" t="5" on="1" s="-8" frq="11785" n="Petofi Radio"/>
 		<S i="fa1" t="5" on="1" s="-8" frq="11785" n="Slager FM"/>
-	</Bouquet>
-	<Bouquet name="[W000.8] Digi">
-		<S i="e1b" t="4" on="1" s="-8" frq="12188" n="Kiss FM"/>
 	</Bouquet>
 	<Bouquet name="[W000.8] DigiTV">
 		<S i="d48" t="c" on="1" s="-8" frq="11900" n="Agro TV"/>
@@ -178,18 +178,18 @@
 		<S i="200" t="1b" on="2c0" s="-8" frq="12226" n="Comedy Central Family Hungary."/>
 		<S i="1f7" t="1b" on="2c0" s="-8" frq="12226" n="Comedy Central Hungary"/>
 		<S i="201" t="1b" on="2c0" s="-8" frq="12226" n="Comedy Central Hungary."/>
+		<S i="1fe" t="1b" on="2c0" s="-8" frq="12226" n="MTV 80s"/>
+		<S i="208" t="1b" on="2c0" s="-8" frq="12226" n="MTV 80s."/>
+		<S i="1ff" t="1b" on="2c0" s="-8" frq="12226" n="MTV 90s"/>
+		<S i="209" t="1b" on="2c0" s="-8" frq="12226" n="MTV 90s."/>
 		<S i="1fa" t="1b" on="2c0" s="-8" frq="12226" n="MTV Europe"/>
 		<S i="204" t="1b" on="2c0" s="-8" frq="12226" n="MTV Europe."/>
 		<S i="1fc" t="1b" on="2c0" s="-8" frq="12226" n="MTV Hits"/>
 		<S i="206" t="1b" on="2c0" s="-8" frq="12226" n="MTV Hits."/>
-		<S i="1ff" t="1b" on="2c0" s="-8" frq="12226" n="MTV Rocks"/>
-		<S i="209" t="1b" on="2c0" s="-8" frq="12226" n="MTV Rocks."/>
 		<S i="1f9" t="1b" on="2c0" s="-8" frq="12226" n="Nickelodeon Europe"/>
 		<S i="203" t="1b" on="2c0" s="-8" frq="12226" n="Nickelodeon Europe."/>
 		<S i="1f5" t="1b" on="2c0" s="-8" frq="12226" n="Paramount Channel Hungary"/>
 		<S i="1fb" t="1b" on="2c0" s="-8" frq="12226" n="VH1"/>
-		<S i="1fe" t="1b" on="2c0" s="-8" frq="12226" n="VH1 Classic"/>
-		<S i="208" t="1b" on="2c0" s="-8" frq="12226" n="VH1 Classic."/>
 		<S i="205" t="1b" on="2c0" s="-8" frq="12226" n="VH1."/>
 	</Bouquet>
 	<Bouquet name="[W000.8] MX1">
@@ -326,8 +326,8 @@
 	<Bouquet name="[W000.8] Telenor">
 		<S i="12c7" t="43" on="46" s="-8" frq="10778" n="6`eren HD"/>
 		<S i="2efd" t="4" on="46" s="-8" frq="11229" n="ADB basic zapper bootload"/>
-		<S i="2efc" t="19" on="46" s="-8" frq="11325" n="ADB PVR bootload"/>
 		<S i="2efc" t="1c" on="46" s="-8" frq="11403" n="ADB PVR bootload"/>
+		<S i="2efc" t="19" on="46" s="-8" frq="11325" n="ADB PVR bootload"/>
 		<S i="2efb" t="a" on="46" s="-8" frq="10934" n="ADB Zapper bootload"/>
 		<S i="9db" t="4" on="46" s="-8" frq="11229" n="ADBMTS"/>
 		<S i="b60" t="14" on="46" s="-8" frq="12418" n="AlJazeera English"/>
@@ -402,8 +402,8 @@
 		<S i="81" t="20" on="46" s="-8" frq="11357" n="Gospel Channel Europe"/>
 		<S i="1909" t="47" on="46" s="-8" frq="10716" n="Handan CDC9000 loader"/>
 		<S i="1cac" t="4c" on="46" s="-8" frq="12149" n="History"/>
-		<S i="1c16" t="29" on="46" s="-8" frq="12015" n="HISTORY 2 HD"/>
 		<S i="1c1f" t="29" on="46" s="-8" frq="12015" n="HISTORY 2 HD"/>
+		<S i="1c16" t="29" on="46" s="-8" frq="12015" n="HISTORY 2 HD"/>
 		<S i="1e87" t="14" on="46" s="-8" frq="12418" n="History Europe"/>
 		<S i="106a" t="29" on="46" s="-8" frq="12015" n="HISTORY HD"/>
 		<S i="106e" t="29" on="46" s="-8" frq="12015" n="HISTORY HD"/>
@@ -571,13 +571,12 @@
 		<S i="32cd" t="14" on="46" s="-8" frq="12418" n="Test 13005"/>
 		<S i="32d2" t="45" on="46" s="-8" frq="10903" n="Test 13010"/>
 		<S i="1150" t="2" on="46" s="-8" frq="11309" n="Test 4432"/>
+		<S i="1b90" t="4b" on="56" s="-8" frq="12399" n="Test 7056"/>
 		<S i="1b90" t="4d" on="46" s="-8" frq="12399" n="Test 7056"/>
 		<S i="1b90" t="4b" on="46" s="-8" frq="12399" n="Test 7056"/>
-		<S i="1b90" t="4b" on="56" s="-8" frq="12399" n="Test 7056"/>
 		<S i="1c65" t="3e" on="46" s="-8" frq="10809" n="Test 7269"/>
 		<S i="1d21" t="4b" on="56" s="-8" frq="12399" n="Test 7457"/>
 		<S i="1d21" t="4b" on="46" s="-8" frq="12399" n="Test 7457"/>
-		<S i="1d23" t="55" on="56" s="-8" frq="12322" n="Test 7459"/>
 		<S i="1d23" t="55" on="46" s="-8" frq="12322" n="Test 7459"/>
 		<S i="1d42" t="47" on="46" s="-8" frq="10716" n="Test 7490"/>
 		<S i="1e5b" t="2" on="46" s="-8" frq="11309" n="Test 7771"/>
@@ -585,7 +584,9 @@
 		<S i="1e5d" t="2" on="46" s="-8" frq="11309" n="Test 7773"/>
 		<S i="1e5e" t="2" on="46" s="-8" frq="11309" n="Test 7774"/>
 		<S i="1e5f" t="2" on="46" s="-8" frq="11309" n="Test 7775"/>
-		<S i="232e" t="54" on="46" s="-8" frq="12360" n="Test 9006"/>
+		<S i="232d" t="54" on="46" s="-8" frq="12360" n="Test 9005 E"/>
+		<S i="232e" t="54" on="46" s="-8" frq="12360" n="Test 9006 B NO"/>
+		<S i="232f" t="54" on="46" s="-8" frq="12360" n="Test 9007 B NORD"/>
 		<S i="32ca" t="29" on="46" s="-8" frq="12015" n="Test_13002"/>
 		<S i="32cb" t="29" on="46" s="-8" frq="12015" n="Test_13003"/>
 		<S i="32cc" t="29" on="46" s="-8" frq="12015" n="Test_13004"/>
@@ -609,41 +610,34 @@
 		<S i="2347" t="52" on="46" s="-8" frq="12207" n="TS Showcase 7"/>
 		<S i="2348" t="52" on="46" s="-8" frq="12207" n="TS Showcase 8"/>
 		<S i="2349" t="52" on="46" s="-8" frq="12207" n="TS Showcase 9"/>
+		<S i="2328" t="4b" on="56" s="-8" frq="12399" n="TS Sports 1"/>
 		<S i="2328" t="4b" on="46" s="-8" frq="12399" n="TS Sports 1"/>
 		<S i="2328" t="4d" on="46" s="-8" frq="12399" n="TS Sports 1"/>
-		<S i="2328" t="4b" on="56" s="-8" frq="12399" n="TS Sports 1"/>
 		<S i="2331" t="54" on="46" s="-8" frq="12360" n="TS Sports 10"/>
-		<S i="2332" t="55" on="56" s="-8" frq="12322" n="TS Sports 11"/>
 		<S i="2332" t="55" on="46" s="-8" frq="12322" n="TS Sports 11"/>
 		<S i="2333" t="55" on="46" s="-8" frq="12322" n="TS Sports 12"/>
-		<S i="2333" t="55" on="56" s="-8" frq="12322" n="TS Sports 12"/>
-		<S i="2334" t="55" on="56" s="-8" frq="12322" n="TS Sports 13"/>
 		<S i="2334" t="55" on="46" s="-8" frq="12322" n="TS Sports 13"/>
 		<S i="2335" t="55" on="46" s="-8" frq="12322" n="TS Sports 14"/>
-		<S i="2335" t="55" on="56" s="-8" frq="12322" n="TS Sports 14"/>
-		<S i="2336" t="55" on="56" s="-8" frq="12322" n="TS Sports 15"/>
 		<S i="2336" t="55" on="46" s="-8" frq="12322" n="TS Sports 15"/>
-		<S i="2329" t="4b" on="56" s="-8" frq="12399" n="TS Sports 2"/>
 		<S i="2329" t="4d" on="46" s="-8" frq="12399" n="TS Sports 2"/>
 		<S i="2329" t="4b" on="46" s="-8" frq="12399" n="TS Sports 2"/>
-		<S i="232a" t="4b" on="46" s="-8" frq="12399" n="TS Sports 3"/>
+		<S i="2329" t="4b" on="56" s="-8" frq="12399" n="TS Sports 2"/>
 		<S i="232a" t="4b" on="56" s="-8" frq="12399" n="TS Sports 3"/>
+		<S i="232a" t="4b" on="46" s="-8" frq="12399" n="TS Sports 3"/>
 		<S i="232a" t="4d" on="46" s="-8" frq="12399" n="TS Sports 3"/>
-		<S i="232b" t="4b" on="46" s="-8" frq="12399" n="TS Sports 4"/>
 		<S i="232b" t="4d" on="46" s="-8" frq="12399" n="TS Sports 4"/>
+		<S i="232b" t="4b" on="46" s="-8" frq="12399" n="TS Sports 4"/>
 		<S i="232b" t="4b" on="56" s="-8" frq="12399" n="TS Sports 4"/>
 		<S i="232c" t="4b" on="56" s="-8" frq="12399" n="TS Sports 5"/>
-		<S i="232c" t="4d" on="46" s="-8" frq="12399" n="TS Sports 5"/>
 		<S i="232c" t="4b" on="46" s="-8" frq="12399" n="TS Sports 5"/>
-		<S i="232d" t="54" on="46" s="-8" frq="12360" n="TS Sports 6"/>
-		<S i="232f" t="54" on="46" s="-8" frq="12360" n="TS Sports 8"/>
+		<S i="232c" t="4d" on="46" s="-8" frq="12399" n="TS Sports 5"/>
 		<S i="2330" t="54" on="46" s="-8" frq="12360" n="TS Sports 9"/>
 		<S i="1ed7" t="45" on="46" s="-8" frq="10903" n="TST1"/>
-		<S i="1ed7" t="2b" on="46" s="-8" frq="11341" n="TST1"/>
 		<S i="1ed7" t="18" on="46" s="-8" frq="11293" n="TST1"/>
+		<S i="1ed7" t="2b" on="46" s="-8" frq="11341" n="TST1"/>
 		<S i="1ed8" t="2b" on="46" s="-8" frq="11341" n="TST2"/>
-		<S i="1ed8" t="45" on="46" s="-8" frq="10903" n="TST2"/>
 		<S i="1ed8" t="18" on="46" s="-8" frq="11293" n="TST2"/>
+		<S i="1ed8" t="45" on="46" s="-8" frq="10903" n="TST2"/>
 		<S i="1263" t="3f" on="46" s="-8" frq="10841" n="TV 2 / Bornholm"/>
 		<S i="1261" t="3f" on="46" s="-8" frq="10841" n="TV 2 / Fyn"/>
 		<S i="125e" t="3f" on="46" s="-8" frq="10841" n="TV 2 / Midt-Vest"/>
@@ -683,6 +677,12 @@
 		<S i="1ef9" t="4f" on="46" s="-8" frq="12437" n="TV8 HD"/>
 		<S i="1007" t="43" on="46" s="-8" frq="10778" n="TVNorge HD"/>
 		<S i="3717" t="43" on="46" s="-8" frq="10778" n="TVNorge HD - Tekst"/>
+		<S i="1d23" t="55" on="56" s="-8" frq="12322" n="UNK (0x0055_0x1D23)"/>
+		<S i="2332" t="55" on="56" s="-8" frq="12322" n="UNK (0x0055_0x2332)"/>
+		<S i="2333" t="55" on="56" s="-8" frq="12322" n="UNK (0x0055_0x2333)"/>
+		<S i="2334" t="55" on="56" s="-8" frq="12322" n="UNK (0x0055_0x2334)"/>
+		<S i="2335" t="55" on="56" s="-8" frq="12322" n="UNK (0x0055_0x2335)"/>
+		<S i="2336" t="55" on="56" s="-8" frq="12322" n="UNK (0x0055_0x2336)"/>
 		<S i="115f" t="50" on="46" s="-8" frq="12476" n="V film action HD"/>
 		<S i="fd6" t="50" on="46" s="-8" frq="12476" n="V film family"/>
 		<S i="1162" t="50" on="46" s="-8" frq="12476" n="V film hits HD"/>
@@ -788,6 +788,42 @@
 		<S i="26" t="1" on="1" s="-8" frq="12643" n="Channel-38"/>
 		<S i="27" t="1" on="1" s="-8" frq="12643" n="Channel-39"/>
 		<S i="28" t="1" on="1" s="-8" frq="12643" n="Channel-40"/>
+		<S i="1d23" t="55" on="56" s="-8" frq="12322" n="UNK (0x0055_0x1D23)"/>
+		<S i="2332" t="55" on="56" s="-8" frq="12322" n="UNK (0x0055_0x2332)"/>
+		<S i="2333" t="55" on="56" s="-8" frq="12322" n="UNK (0x0055_0x2333)"/>
+		<S i="2334" t="55" on="56" s="-8" frq="12322" n="UNK (0x0055_0x2334)"/>
+		<S i="2335" t="55" on="56" s="-8" frq="12322" n="UNK (0x0055_0x2335)"/>
+		<S i="2336" t="55" on="56" s="-8" frq="12322" n="UNK (0x0055_0x2336)"/>
+		<S i="7789" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x7789)"/>
+		<S i="778a" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x778A)"/>
+		<S i="77a7" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77A7)"/>
+		<S i="77a8" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77A8)"/>
+		<S i="77a9" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77A9)"/>
+		<S i="77aa" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77AA)"/>
+		<S i="77ab" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77AB)"/>
+		<S i="77ac" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77AC)"/>
+		<S i="77ad" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77AD)"/>
+		<S i="77ae" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77AE)"/>
+		<S i="77af" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77AF)"/>
+		<S i="77b0" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77B0)"/>
+		<S i="77b1" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77B1)"/>
+		<S i="77b2" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77B2)"/>
+		<S i="77bb" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77BB)"/>
+		<S i="77bc" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77BC)"/>
+		<S i="77bd" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77BD)"/>
+		<S i="77be" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77BE)"/>
+		<S i="77bf" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77BF)"/>
+		<S i="77c0" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77C0)"/>
+		<S i="77c1" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77C1)"/>
+		<S i="77c2" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77C2)"/>
+		<S i="77c3" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77C3)"/>
+		<S i="77c4" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77C4)"/>
+		<S i="77c5" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77C5)"/>
+		<S i="77ca" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77CA)"/>
+		<S i="77cb" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77CB)"/>
+		<S i="77cc" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77CC)"/>
+		<S i="77cf" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77CF)"/>
+		<S i="77d0" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77D0)"/>
 		<S i="29" t="1" on="1" s="-8" frq="12607" n="Radio-01"/>
 		<S i="2a" t="1" on="1" s="-8" frq="12607" n="Radio-02"/>
 		<S i="2b" t="1" on="1" s="-8" frq="12607" n="Radio-03"/>
@@ -821,8 +857,6 @@
 		<S i="79a1" t="2c7" on="600" s="-8" frq="11919" n="Cartoon Network ( SVT)"/>
 		<S i="79e3" t="2c8" on="600" s="-8" frq="11958" n="CNN"/>
 		<S i="79fa" t="2c8" on="600" s="-8" frq="11958" n="CNN (SVT)"/>
-		<S i="77aa" t="2c2" on="600" s="-8" frq="12073" n="Comedy Central Romania"/>
-		<S i="77be" t="2c2" on="600" s="-8" frq="12073" n="Comedy Central Romania."/>
 		<S i="7667" t="2bf" on="600" s="-8" frq="11804" n="CT1"/>
 		<S i="76da" t="2c0" on="600" s="-8" frq="11996" n="Discovery Channel"/>
 		<S i="767d" t="2bf" on="600" s="-8" frq="11804" n="Film+ HD"/>
@@ -840,7 +874,6 @@
 		<S i="767a" t="2bf" on="600" s="-8" frq="11804" n="Jojko"/>
 		<S i="765e" t="2bf" on="600" s="-8" frq="11804" n="LALA TV"/>
 		<S i="767b" t="2bf" on="600" s="-8" frq="11804" n="LALA TV ( SKT)"/>
-		<S i="797f" t="2c7" on="600" s="-8" frq="11919" n="LiChi TV"/>
 		<S i="7599" t="2bd" on="600" s="-8" frq="11727" n="m1"/>
 		<S i="778d" t="2c2" on="600" s="-8" frq="12073" n="m1"/>
 		<S i="778f" t="2c2" on="600" s="-8" frq="12073" n="m2 / Petofi"/>
@@ -851,31 +884,9 @@
 		<S i="7674" t="2bf" on="600" s="-8" frq="11804" n="Mooz Dance HD"/>
 		<S i="75b1" t="2bd" on="600" s="-8" frq="11727" n="Moziverzum"/>
 		<S i="75b3" t="2bd" on="600" s="-8" frq="11727" n="Moziverzum."/>
-		<S i="77ae" t="2c2" on="600" s="-8" frq="12073" n="MTV Hungary"/>
-		<S i="77c2" t="2c2" on="600" s="-8" frq="12073" n="MTV Hungary (SVT)"/>
-		<S i="77cc" t="2c2" on="600" s="-8" frq="12073" n="MTV Hungary."/>
 		<S i="79e4" t="2c8" on="600" s="-8" frq="11958" n="Nat Geo Wild RO"/>
-		<S i="77a7" t="2c2" on="600" s="-8" frq="12073" n="Nick Jr Czech"/>
-		<S i="77c5" t="2c2" on="600" s="-8" frq="12073" n="Nick Jr Czech (ENG)"/>
-		<S i="77bb" t="2c2" on="600" s="-8" frq="12073" n="Nick Jr Czech (SVT)"/>
-		<S i="77ad" t="2c2" on="600" s="-8" frq="12073" n="Nick Jr Hungary"/>
-		<S i="77c1" t="2c2" on="600" s="-8" frq="12073" n="Nick Jr Hungary (SVT)"/>
-		<S i="77cb" t="2c2" on="600" s="-8" frq="12073" n="Nick Jr Hungary."/>
-		<S i="77a8" t="2c2" on="600" s="-8" frq="12073" n="Nick Jr Romania"/>
-		<S i="77bc" t="2c2" on="600" s="-8" frq="12073" n="Nick Jr Romania."/>
-		<S i="77a9" t="2c2" on="600" s="-8" frq="12073" n="Nickelodeon Czech"/>
-		<S i="77bd" t="2c2" on="600" s="-8" frq="12073" n="Nickelodeon Czech (SVT)"/>
-		<S i="77ac" t="2c2" on="600" s="-8" frq="12073" n="Nickelodeon Hungary"/>
-		<S i="77c0" t="2c2" on="600" s="-8" frq="12073" n="Nickelodeon Hungary ( SVT)"/>
-		<S i="77ca" t="2c2" on="600" s="-8" frq="12073" n="Nickelodeon Hungary."/>
-		<S i="77b0" t="2c2" on="600" s="-8" frq="12073" n="Nickelodeon Romania"/>
-		<S i="77c4" t="2c2" on="600" s="-8" frq="12073" n="Nickelodeon Romania."/>
-		<S i="77af" t="2c2" on="600" s="-8" frq="12073" n="Paramount Romania"/>
-		<S i="77c3" t="2c2" on="600" s="-8" frq="12073" n="Paramount Romania."/>
 		<S i="7666" t="2bf" on="600" s="-8" frq="11804" n="Prima TV"/>
 		<S i="7a03" t="2c8" on="600" s="-8" frq="11958" n="RTL GOLD (SVT)"/>
-		<S i="77ab" t="2c2" on="600" s="-8" frq="12073" n="RTL Spike"/>
-		<S i="77bf" t="2c2" on="600" s="-8" frq="12073" n="RTL Spike."/>
 		<S i="79ed" t="2c8" on="600" s="-8" frq="11958" n="RTL+"/>
 		<S i="79ec" t="2c8" on="600" s="-8" frq="11958" n="RTL2"/>
 		<S i="7676" t="2bf" on="600" s="-8" frq="11804" n="RTL2 HD"/>
@@ -887,14 +898,39 @@
 		<S i="75b4" t="2bd" on="600" s="-8" frq="11727" n="Spiler2."/>
 		<S i="7598" t="2bd" on="600" s="-8" frq="11727" n="Sport1"/>
 		<S i="79ea" t="2c8" on="600" s="-8" frq="11958" n="TLC Romania"/>
-		<S i="759c" t="2bd" on="600" s="-8" frq="11727" n="TV 1000"/>
 		<S i="759b" t="2bd" on="600" s="-8" frq="11727" n="TV Markiza"/>
 		<S i="75a5" t="2bd" on="600" s="-8" frq="11727" n="TV NOVA"/>
 		<S i="75a0" t="2bd" on="600" s="-8" frq="11727" n="TV Paprika"/>
-		<S i="7789" t="2c2" on="600" s="-8" frq="12073" n="TV Paprika RO"/>
 		<S i="75a2" t="2bd" on="600" s="-8" frq="11727" n="TV PaprikaSVT"/>
+		<S i="759c" t="2bd" on="600" s="-8" frq="11727" n="TV1000"/>
+		<S i="797f" t="2c7" on="600" s="-8" frq="11919" n="TV2 Sef"/>
 		<S i="799f" t="2c7" on="600" s="-8" frq="11919" n="TV4."/>
 		<S i="79e8" t="2c8" on="600" s="-8" frq="11958" n="TV5MONDE"/>
+		<S i="7789" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x7789)"/>
+		<S i="77a7" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77A7)"/>
+		<S i="77a8" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77A8)"/>
+		<S i="77a9" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77A9)"/>
+		<S i="77aa" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77AA)"/>
+		<S i="77ab" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77AB)"/>
+		<S i="77ac" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77AC)"/>
+		<S i="77ad" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77AD)"/>
+		<S i="77ae" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77AE)"/>
+		<S i="77af" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77AF)"/>
+		<S i="77b0" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77B0)"/>
+		<S i="77bb" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77BB)"/>
+		<S i="77bc" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77BC)"/>
+		<S i="77bd" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77BD)"/>
+		<S i="77be" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77BE)"/>
+		<S i="77bf" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77BF)"/>
+		<S i="77c0" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77C0)"/>
+		<S i="77c1" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77C1)"/>
+		<S i="77c2" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77C2)"/>
+		<S i="77c3" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77C3)"/>
+		<S i="77c4" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77C4)"/>
+		<S i="77c5" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77C5)"/>
+		<S i="77ca" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77CA)"/>
+		<S i="77cb" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77CB)"/>
+		<S i="77cc" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77CC)"/>
 		<S i="75fc" t="2be" on="600" s="-8" frq="11766" n="Viasat Nature"/>
 	</Bouquet>
 	<Bouquet name="[W000.8] UPC Direct">
@@ -951,9 +987,9 @@
 		<S i="7800" t="2c3" on="600" s="-8" frq="11938" n="ducktv."/>
 		<S i="78c4" t="2c5" on="600" s="-8" frq="12265" n="Duna TV"/>
 		<S i="78c6" t="2c5" on="600" s="-8" frq="12265" n="Duna TV."/>
-		<S i="7608" t="2be" on="600" s="-8" frq="11766" n="Duna World"/>
-		<S i="760a" t="2be" on="600" s="-8" frq="11766" n="Duna World (SVT)"/>
-		<S i="7617" t="2be" on="600" s="-8" frq="11766" n="Duna World."/>
+		<S i="7608" t="2be" on="600" s="-8" frq="11766" n="Duna World / M4 Sport+"/>
+		<S i="760a" t="2be" on="600" s="-8" frq="11766" n="Duna World / M4 Sport+ (SVT)"/>
+		<S i="7617" t="2be" on="600" s="-8" frq="11766" n="Duna World / M4 Sport+."/>
 		<S i="7663" t="2bf" on="600" s="-8" frq="11804" n="Dvojka"/>
 		<S i="5013" t="2bd" on="600" s="-8" frq="11727" n="EPG"/>
 		<S i="78b5" t="2c5" on="600" s="-8" frq="12265" n="Eurosport"/>
@@ -1004,8 +1040,6 @@
 		<S i="77fd" t="2c3" on="600" s="-8" frq="11938" n="JimJam (SVT)"/>
 		<S i="7808" t="2c3" on="600" s="-8" frq="11938" n="JimJam."/>
 		<S i="7671" t="2bf" on="600" s="-8" frq="11804" n="JOJ Plus"/>
-		<S i="79a0" t="2c7" on="600" s="-8" frq="11919" n="LiChi TV (SVT)"/>
-		<S i="799a" t="2c7" on="600" s="-8" frq="11919" n="LiChi TV."/>
 		<S i="77f3" t="2c3" on="600" s="-8" frq="11938" n="Life TV"/>
 		<S i="7806" t="2c3" on="600" s="-8" frq="11938" n="Life TV."/>
 		<S i="772f" t="2c1" on="600" s="-8" frq="12034" n="Look Plus HD"/>
@@ -1031,10 +1065,6 @@
 		<S i="7725" t="2c1" on="600" s="-8" frq="12034" n="Nat Geo Wild Romania HD"/>
 		<S i="7997" t="2c7" on="600" s="-8" frq="11919" n="Nat Geo."/>
 		<S i="78bc" t="2c5" on="600" s="-8" frq="12265" n="National Geographic RO"/>
-		<S i="77b2" t="2c2" on="600" s="-8" frq="12073" n="Nicktoons Hungary"/>
-		<S i="77d0" t="2c2" on="600" s="-8" frq="12073" n="Nicktoons Hungary."/>
-		<S i="77b1" t="2c2" on="600" s="-8" frq="12073" n="Nicktoons Romania"/>
-		<S i="77cf" t="2c2" on="600" s="-8" frq="12073" n="Nicktoons Romania."/>
 		<S i="7660" t="2bf" on="600" s="-8" frq="11804" n="NOVA Cinema"/>
 		<S i="766d" t="2bf" on="600" s="-8" frq="11804" n="Nova Sport"/>
 		<S i="7668" t="2bf" on="600" s="-8" frq="11804" n="Ocko"/>
@@ -1090,11 +1120,18 @@
 		<S i="7992" t="2c7" on="600" s="-8" frq="11919" n="TV2 Comedy."/>
 		<S i="7998" t="2c7" on="600" s="-8" frq="11919" n="TV2 Kids"/>
 		<S i="7999" t="2c7" on="600" s="-8" frq="11919" n="TV2 Kids."/>
+		<S i="79a0" t="2c7" on="600" s="-8" frq="11919" n="TV2 Sef (SVT)"/>
+		<S i="799a" t="2c7" on="600" s="-8" frq="11919" n="TV2 Sef."/>
 		<S i="7989" t="2c7" on="600" s="-8" frq="11919" n="TV4"/>
 		<S i="7995" t="2c7" on="600" s="-8" frq="11919" n="TV4 (SVT)"/>
 		<S i="76c2" t="2c0" on="600" s="-8" frq="11996" n="TVR 1"/>
 		<S i="773e" t="2c1" on="600" s="-8" frq="12034" n="TVR 1 HD"/>
 		<S i="76d3" t="2c0" on="600" s="-8" frq="11996" n="TVR 3"/>
+		<S i="778a" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x778A)"/>
+		<S i="77b1" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77B1)"/>
+		<S i="77b2" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77B2)"/>
+		<S i="77cf" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77CF)"/>
+		<S i="77d0" t="2c2" on="600" s="-8" frq="12073" n="UNK (0x02C2_0x77D0)"/>
 		<S i="78b8" t="2c5" on="600" s="-8" frq="12265" n="Viasat Explore"/>
 		<S i="7982" t="2c7" on="600" s="-8" frq="11919" n="Viasat History"/>
 		<S i="798e" t="2c7" on="600" s="-8" frq="11919" n="Zenebutik"/>

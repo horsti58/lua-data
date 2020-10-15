@@ -297,8 +297,8 @@
 		<TS id="0170" on="016e" frq="11158000" inv="2" sr="45000000" fec="10" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="03e8" f="4" s="1" t="1" n="Vizion Plus HD"/>
 			<S i="041a" f="4" s="1" t="1" n="Klan Kosova"/>
-			<S i="044c" f="4" s="1" t="1" n="Klan HD"/>
-			<S i="047e" f="4" s="1" t="1" n="Klan Plus"/>
+			<S i="044c" f="2" s="1" t="1" n="Klan HD"/>
+			<S i="047e" f="2" s="1" t="1" n="Klan Plus"/>
 			<S i="04b0" f="4" s="1" t="1" n="RTK 1"/>
 			<S i="0514" f="4" s="1" t="1" n="RTV 21"/>
 			<S i="0546" f="4" s="1" t="1" n="Klan Maqedonia"/>
@@ -308,13 +308,14 @@
 			<S i="060e" f="4" s="1" t="1" n="News 24"/>
 			<S i="0640" f="4" s="0" t="1" n="Kanali 7"/>
 			<S i="0672" f="4" s="1" t="1" n="Syri TV"/>
-			<S i="06d6" f="4" s="1" t="1" n="Tring Tring"/>
+			<S i="06a4" f="1" s="1" t="1" n="Tring Tring"/>
+			<S i="06d6" f="2" s="1" t="1" n="Tring Tring"/>
 			<S i="0708" f="4" s="1" t="1" n="Kids"/>
 			<S i="073a" f="4" s="1" t="1" n="TIP TV"/>
 			<S i="076c" f="4" s="1" t="1" n="Living HD"/>
 			<S i="07d0" f="4" s="1" t="1" n="Jolly HD"/>
-			<S i="0802" f="4" s="1" t="1" n="3Plus"/>
-			<S i="0817" f="4" s="0" t="c" n="OTA_Beacon"/>
+			<S i="0802" f="4" s="1" t="1" n="3 Plus"/>
+			<S i="0817" f="2" s="0" t="c" n="OTA_Beacon"/>
 			<S i="0834" f="4" s="1" t="1" n="KanalD Drama"/>
 			<S i="0866" f="4" s="1" t="1" n="Smile"/>
 			<S i="0898" f="4" s="1" t="1" n="Tring Shqip"/>
@@ -329,12 +330,15 @@
 			<S i="0af0" f="4" s="1" t="1" n="Tring Sport News"/>
 			<S i="0b22" f="4" s="1" t="1" n="SPORT 1 HD"/>
 			<S i="0b54" f="4" s="1" t="1" n="SPORT 2 HD"/>
-			<S i="0b86" f="4" s="0" t="1" n="SPORT 3 HD"/>
-			<S i="0bb8" f="4" s="0" t="1" n="SPORT 4 HD"/>
+			<S i="0b86" f="4" s="1" t="1" n="SPORT 3 HD"/>
+			<S i="0bb8" f="4" s="1" t="1" n="SPORT 4 HD"/>
+			<S i="0c1c" f="1" s="1" t="1" n="Klan HD"/>
 			<S i="0c4e" f="4" s="1" t="1" n="Folk Plus"/>
+			<S i="0c80" f="1" s="1" t="1" n="Klan Plus"/>
 			<S i="0cb2" f="4" s="1" t="1" n="BBF"/>
 			<S i="0ce4" f="4" s="1" t="1" n="Desire"/>
 			<S i="0d16" f="4" s="1" t="1" n="Elrodi"/>
+			<S i="1b59" f="1" s="0" t="2" n="Radio Klan"/>
 		</TS>
 		<TS id="0170" on="016e" frq="11176000" inv="2" sr="30000000" fec="5" pol="0" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="03e8" f="1" s="1" t="1" n="Vizion Plus HD"/>
@@ -374,7 +378,7 @@
 			<S i="000a" f="4" s="1" t="1" n="Pink Music"/>
 			<S i="000b" f="4" s="1" t="1" n="Pink 3 Info"/>
 			<S i="000c" f="4" s="1" t="1" n="Pink Family"/>
-			<S i="000d" f="4" s="0" t="2" n="Radio Sport FM"/>
+			<S i="000d" f="4" s="0" t="2" n="WTF radio"/>
 			<S i="0042" f="4" s="1" t="1" n="Zadruga Live 1"/>
 			<S i="0050" f="4" s="1" t="1" n="Pink Kids"/>
 			<S i="0052" f="4" s="1" t="1" n="Zadruga Live 2"/>
@@ -407,10 +411,11 @@
 			<S i="116b" f="4" s="1" t="1" n="N1 Srb HD"/>
 			<S i="116c" f="4" s="1" t="1" n="FOX HD"/>
 			<S i="116d" f="4" s="1" t="1" n="FOX Life HD"/>
+			<S i="116e" f="1" s="1" t="1" n="Uci Doma 3"/>
 			<S i="1171" f="4" s="1" t="1" n="SCI FI HD"/>
 			<S i="1172" f="4" s="1" t="2" n="Radio Kanal 77"/>
 			<S i="1770" f="4" s="0" t="c" n="unknown (0x9CA4_0x1770)"/>
-			<S i="1771" f="1" s="0" t="c" n="unknown (0x9CA4_0x1771)"/>
+			<S i="1771" f="4" s="0" t="c" n="unknown (0x9CA4_0x1771)"/>
 		</TS>
 		<TS id="9d08" on="016e" frq="11231000" inv="2" sr="42000000" fec="4" pol="1" mod="0" pli="0" plc="1" plm="0" sys="1">
 			<S i="02ef" f="4" s="1" t="1" n="O Kanal"/>
@@ -521,8 +526,8 @@
 		</TS>
 		<TS id="9dd0" on="016e" frq="11283000" inv="2" sr="30000000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="0a8d" f="4" s="1" t="19" n="Filmbox Premium HD"/>
-			<S i="0a8e" f="4" s="1" t="19" n="Timeless Drama Channel HD"/>
-			<S i="0a8f" f="4" s="1" t="19" n="Timeless Drama Channel HD"/>
+			<S i="0a8e" f="4" s="1" t="19" n="Dizi HD"/>
+			<S i="0a8f" f="4" s="1" t="19" n="Dizi HD"/>
 			<S i="0a91" f="4" s="1" t="19" n="Gametoon HD"/>
 			<S i="0a92" f="4" s="1" t="19" n="FightBox HD"/>
 			<S i="0a93" f="4" s="1" t="16" n="FilmBox Arthouse AFR"/>
@@ -536,7 +541,7 @@
 			<S i="0a9b" f="4" s="1" t="16" n="EroX"/>
 			<S i="0a9c" f="4" s="1" t="19" n="360 TuneBox HD"/>
 			<S i="0a9d" f="4" s="1" t="19" n="FilmBox Extra HD"/>
-			<S i="0a9e" f="4" s="1" t="16" n="FilmBox Plus"/>
+			<S i="0a9e" f="4" s="1" t="16" n="FilmBox Stars"/>
 			<S i="0a9f" f="4" s="1" t="16" n="FilmBox Premium"/>
 			<S i="0aa0" f="4" s="1" t="16" n="360TuneBox"/>
 			<S i="0aa1" f="4" s="1" t="16" n="FashionBox"/>
@@ -545,7 +550,7 @@
 			<S i="0aa4" f="4" s="1" t="16" n="FilmBox Premium"/>
 			<S i="0aa5" f="4" s="1" t="16" n="FilmBox Family"/>
 			<S i="0aa6" f="4" s="1" t="19" n="FAST&amp;FUN Box HD"/>
-			<S i="0aa7" f="4" s="1" t="16" n="FilmBox Plus"/>
+			<S i="0aa7" f="4" s="1" t="16" n="FilmBox Stars"/>
 			<S i="0aa8" f="4" s="1" t="16" n="FilmBox Extra HD"/>
 			<S i="0aa9" f="4" s="1" t="19" n="Gametoon HD"/>
 		</TS>

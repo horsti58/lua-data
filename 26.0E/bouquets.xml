@@ -47,7 +47,7 @@
 	</Bouquet>
 	<Bouquet name="[E026.0] DU">
 		<S i="12" t="1ff" on="2be" s="260" frq="12111" n="ALAAN TV HD"/>
-		<S i="7d2" t="1ff" on="2be" s="260" frq="12111" n="DW Arabia"/>
+		<S i="7d2" t="1ff" on="2be" s="260" frq="12111" n="DW Arabia HD"/>
 		<S i="19" t="1ff" on="2be" s="260" frq="12111" n="AL AAN FM"/>
 		<S i="7da" t="1ff" on="2be" s="260" frq="12111" n="DW A2"/>
 	</Bouquet>
@@ -55,6 +55,9 @@
 		<S i="11" t="1ff" on="2be" s="260" frq="12111" n="CITRUSS TV HD"/>
 		<S i="18" t="1fd" on="2be" s="260" frq="11996" n="CNBC Arabiya"/>
 		<S i="29" t="1fd" on="2be" s="260" frq="11996" n="CNBC Arabiya R1"/>
+		<S i="7d2" t="1ff" on="2be" s="260" frq="12111" n="DW Arabia HD"/>
+		<S i="7da" t="1ff" on="2be" s="260" frq="12111" n="DW A2"/>
+		<S i="7db" t="1ff" on="2be" s="260" frq="12111" n="DW05"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] ETISALAT">
 		<S i="89b" t="1fc" on="2be" s="260" frq="12130" n="Dubai One"/>
@@ -76,53 +79,107 @@
 		<S i="16" t="1fd" on="2be" s="260" frq="11996" n="France 24 (in Arabic)"/>
 		<S i="20" t="1fd" on="2be" s="260" frq="11996" n="France 24 (in English)"/>
 	</Bouquet>
-	<Bouquet name="[E026.0] GlobeCast">
-		<S i="2a" t="1fd" on="2be" s="260" frq="11996" n="WRN (Sawt Al Alam) R1"/>
-	</Bouquet>
 	<Bouquet name="[E026.0] GLOBECAST">
 		<S i="14" t="1fd" on="2be" s="260" frq="11996" n="RFI Francais"/>
 		<S i="33" t="1fd" on="2be" s="260" frq="11996" n="RMC Doualia"/>
+		<S i="2a" t="1fd" on="2be" s="260" frq="11996" n="WRN (Sawt Al Alam) R1"/>
+	</Bouquet>
+	<Bouquet name="[E026.0] GlobeCast">
+		<S i="2a" t="1fd" on="2be" s="260" frq="11996" n="WRN (Sawt Al Alam) R1"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] Harmonic">
+		<S i="1b" t="208" on="2be" s="260" frq="12092" n="AA hadith"/>
+		<S i="15" t="208" on="2be" s="260" frq="12092" n="Expo2020 TV"/>
 		<S i="bb8" t="1a" on="1a" s="260" frq="11958" n="MUSAWA HD"/>
-	</Bouquet>
-	<Bouquet name="[E026.0] jmc">
-		<S i="718" t="1fa" on="2be" s="260" frq="12054" n="Jordan Radio Foreign"/>
+		<S i="11" t="208" on="2be" s="260" frq="12092" n="Seventeen TV"/>
+		<S i="19e" t="1015" on="1" s="260" frq="12034" n="TEST"/>
+		<S i="1a6" t="1015" on="1" s="260" frq="12034" n="test"/>
+		<S i="19" t="208" on="2be" s="260" frq="12092" n="Test 4"/>
+		<S i="1a" t="208" on="2be" s="260" frq="12092" n="Test 5"/>
+		<S i="1c" t="208" on="2be" s="260" frq="12092" n="Test 6"/>
+		<S i="18" t="208" on="2be" s="260" frq="12092" n="TRT Arabi"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] JMC">
+		<S i="250" t="1f6" on="2be" s="260" frq="11938" n="Al Arabiya"/>
 		<S i="19c" t="1015" on="2be" s="260" frq="12034" n="Al Istijaba TV"/>
+		<S i="19c" t="1015" on="1" s="260" frq="12034" n="Al Istijaba TV"/>
 		<S i="1b8" t="1015" on="2be" s="260" frq="12034" n="Al-Marikh TV"/>
+		<S i="1b8" t="1015" on="1" s="260" frq="12034" n="Al-Marikh TV"/>
 		<S i="19d" t="1015" on="2be" s="260" frq="12034" n="Alalamia (University of Africa)"/>
 		<S i="1b1" t="1015" on="2be" s="260" frq="12034" n="Alalamia 2 TV"/>
+		<S i="1c" t="1f6" on="2be" s="260" frq="11938" n="Alhurra"/>
+		<S i="24f" t="1f6" on="2be" s="260" frq="11938" n="Alhurra HD"/>
+		<S i="1f4" t="1f6" on="2be" s="260" frq="11938" n="Alhurra Iraq HD"/>
 		<S i="71a" t="1fa" on="2be" s="260" frq="12054" n="Almamlaka TV"/>
+		<S i="1bb" t="1015" on="1" s="260" frq="12034" n="ALMAREEFA EDU"/>
 		<S i="1bb" t="1015" on="2be" s="260" frq="12034" n="ALMAREEFA EDU"/>
 		<S i="4d" t="1015" on="2be" s="260" frq="12034" n="Dongula Radio"/>
 		<S i="70b" t="1fa" on="2be" s="260" frq="12054" n="Future TV"/>
 		<S i="730" t="1fa" on="2be" s="260" frq="12054" n="Iqra TV"/>
 		<S i="70a" t="1fa" on="2be" s="260" frq="12054" n="Jordan TV"/>
+		<S i="19f" t="1015" on="1" s="260" frq="12034" n="kassala TV"/>
 		<S i="19f" t="1015" on="2be" s="260" frq="12034" n="Kassala TV"/>
+		<S i="222" t="1f6" on="2be" s="260" frq="11938" n="NHK WORLD RADIO JAPAN"/>
+		<S i="1b0" t="1015" on="1" s="260" frq="12034" n="Nile River"/>
 		<S i="1b0" t="1015" on="2be" s="260" frq="12034" n="Nile River"/>
 		<S i="1a8" t="1015" on="2be" s="260" frq="12034" n="Omdurman TV"/>
+		<S i="1a8" t="1015" on="1" s="260" frq="12034" n="Omdurman TV"/>
 		<S i="4c" t="1015" on="2be" s="260" frq="12034" n="Quran Kareem"/>
+		<S i="1a1" t="1015" on="1" s="260" frq="12034" n="Red Sea"/>
 		<S i="1a1" t="1015" on="2be" s="260" frq="12034" n="Red Sea"/>
 		<S i="71b" t="1fa" on="2be" s="260" frq="12054" n="RO`YA HD"/>
 		<S i="729" t="1fa" on="2be" s="260" frq="12054" n="RTD-Djibouti"/>
 		<S i="72a" t="1fa" on="2be" s="260" frq="12054" n="SSBC"/>
+		<S i="1a4" t="1015" on="1" s="260" frq="12034" n="Sudan Knowledge"/>
 		<S i="1a4" t="1015" on="2be" s="260" frq="12034" n="Sudan Knowledge"/>
+		<S i="1a5" t="1015" on="1" s="260" frq="12034" n="Sudan Sport"/>
 		<S i="1a5" t="1015" on="2be" s="260" frq="12034" n="Sudan Sport"/>
 		<S i="1b9" t="1015" on="2be" s="260" frq="12034" n="Sudania 24 HD"/>
+		<S i="1b9" t="1015" on="1" s="260" frq="12034" n="Sudania 24 HD"/>
 		<S i="1" t="1015" on="2be" s="260" frq="12034" n="TAseti Radio"/>
 		<S i="72b" t="1fa" on="2be" s="260" frq="12054" n="Teleliban TV"/>
-		<S i="1a6" t="1015" on="2be" s="260" frq="12034" n="test"/>
 		<S i="19e" t="1015" on="2be" s="260" frq="12034" n="TEST"/>
+		<S i="252" t="1f6" on="2be" s="260" frq="11938" n="test"/>
+		<S i="249" t="1f6" on="2be" s="260" frq="11938" n="Test"/>
+		<S i="1a6" t="1015" on="2be" s="260" frq="12034" n="test"/>
 		<S i="731" t="1fa" on="2be" s="260" frq="12054" n="test"/>
+		<S i="1f8" t="1f6" on="2be" s="260" frq="11938" n="Test 1"/>
+		<S i="23f" t="1f6" on="2be" s="260" frq="11938" n="Test 8"/>
+		<S i="1f7" t="1f6" on="2be" s="260" frq="11938" n="Test-3"/>
+		<S i="231" t="1f6" on="2be" s="260" frq="11938" n="Test-5"/>
+		<S i="1fe" t="1f6" on="2be" s="260" frq="11938" n="Test-6"/>
+		<S i="230" t="1f6" on="2be" s="260" frq="11938" n="Test-7"/>
+		<S i="19d" t="1015" on="1" s="260" frq="12034" n="TEST1"/>
+		<S i="1b1" t="1015" on="1" s="260" frq="12034" n="TEST2"/>
 		<S i="709" t="1fa" on="2be" s="260" frq="12054" n="Tigrai TV"/>
 		<S i="714" t="1fa" on="2be" s="260" frq="12054" n="Amman FM"/>
 		<S i="72d" t="1fa" on="2be" s="260" frq="12054" n="DJIBOUTI R1"/>
 		<S i="72e" t="1fa" on="2be" s="260" frq="12054" n="DJIBOUTI R2"/>
 		<S i="72f" t="1fa" on="2be" s="260" frq="12054" n="DJIBOUTI R3"/>
+		<S i="19a" t="1f6" on="2be" s="260" frq="11938" n="ERI R1"/>
+		<S i="19b" t="1f6" on="2be" s="260" frq="11938" n="ERI R2"/>
+		<S i="19c" t="1f6" on="2be" s="260" frq="11938" n="ERI R3"/>
+		<S i="19d" t="1f6" on="2be" s="260" frq="11938" n="ERI R4"/>
 		<S i="726" t="1fa" on="2be" s="260" frq="12054" n="Radio Orient"/>
+		<S i="21a" t="1f6" on="2be" s="260" frq="11938" n="Radio Sawa Future 1"/>
+		<S i="21e" t="1f6" on="2be" s="260" frq="11938" n="Radio Sawa Future 2"/>
+		<S i="214" t="1f6" on="2be" s="260" frq="11938" n="Radio Sawa Iraq"/>
+		<S i="21c" t="1f6" on="2be" s="260" frq="11938" n="Radio Sawa Levant"/>
+		<S i="216" t="1f6" on="2be" s="260" frq="11938" n="Radio Sawa VOA Sudan"/>
 		<S i="732" t="1fa" on="2be" s="260" frq="12054" n="SSBC RADIO"/>
+		<S i="218" t="1f6" on="2be" s="260" frq="11938" n="VOA Djibouti FM"/>
+		<S i="21b" t="1f6" on="2be" s="260" frq="11938" n="VOA Ethiopia"/>
+		<S i="21d" t="1f6" on="2be" s="260" frq="11938" n="VOA French to Africa"/>
+		<S i="215" t="1f6" on="2be" s="260" frq="11938" n="VOA Iraq1"/>
+	</Bouquet>
+	<Bouquet name="[E026.0] jmc">
+		<S i="251" t="1f6" on="2be" s="260" frq="11938" n="ERI TV"/>
+		<S i="718" t="1fa" on="2be" s="260" frq="12054" n="Jordan Radio Foreign"/>
+		<S i="217" t="1f6" on="2be" s="260" frq="11938" n="VOA Djibouti MW"/>
+		<S i="219" t="1f6" on="2be" s="260" frq="11938" n="VOA Libya"/>
+	</Bouquet>
+	<Bouquet name="[E026.0] JMC`">
+		<S i="19" t="1f6" on="2be" s="260" frq="11938" n="Ahurra Iraq"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] Kuwait Radio">
 		<S i="11" t="1a" on="1b" s="260" frq="12523" n="Kuwait Classical"/>
@@ -148,6 +205,9 @@
 		<S i="64" t="1a" on="1b" s="260" frq="12523" n="Kuwait TV 1"/>
 		<S i="2" t="1a" on="1b" s="260" frq="12523" n="Kuwait TV 2"/>
 	</Bouquet>
+	<Bouquet name="[E026.0] OSN">
+		<S i="1a" t="1fd" on="2be" s="260" frq="11996" n="Sky News Arabia HD"/>
+	</Bouquet>
 	<Bouquet name="[E026.0] PALSAT">
 		<S i="d2a" t="1a" on="1a" s="260" frq="11958" n="Awdeh"/>
 		<S i="ba4" t="1a" on="1a" s="260" frq="11958" n="MUSAWA"/>
@@ -161,6 +221,7 @@
 		<S i="1389" t="1a" on="1a" s="260" frq="11958" n="Voice of Palestine"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] Qatar TV">
+		<S i="2" t="1" on="1" s="260" frq="12169" n="Qatar 2"/>
 		<S i="4" t="1" on="1" s="260" frq="12169" n="Qatar TV HD"/>
 		<S i="5" t="1" on="1" s="260" frq="12169" n="Qatar TV Test"/>
 		<S i="17" t="1" on="1" s="260" frq="12169" n="Qatar Oryx Radio"/>
@@ -192,18 +253,29 @@
 		<S i="5d" t="320" on="2be" s="260" frq="12683" n="Radio Med VI"/>
 		<S i="5a" t="320" on="2be" s="260" frq="12683" n="Radio Nationale"/>
 	</Bouquet>
+	<Bouquet name="[E026.0] Sudan Sport">
+		<S i="7da" t="24e" on="2be" s="260" frq="12523" n="Sudan"/>
+		<S i="65" t="24e" on="2be" s="260" frq="12523" n="Sudan Sport HD"/>
+		<S i="71" t="24e" on="2be" s="260" frq="12523" n="TEST"/>
+		<S i="7db" t="24e" on="2be" s="260" frq="12523" n="test12"/>
+		<S i="1fd" t="24e" on="2be" s="260" frq="12523" n="TEST"/>
+	</Bouquet>
 	<Bouquet name="[E026.0] Sudania 24none">
 		<S i="7da" t="24e" on="2be" s="260" frq="12523" n="Sudan"/>
 		<S i="1f4" t="24e" on="2be" s="260" frq="12523" n="Sudania24HD"/>
 		<S i="7db" t="24e" on="2be" s="260" frq="12523" n="test12"/>
 		<S i="1fd" t="24e" on="2be" s="260" frq="12523" n="TEST"/>
 	</Bouquet>
+	<Bouquet name="[E026.0] Sudania24 Group">
+		<S i="5a" t="24e" on="2be" s="260" frq="12523" n="Sudan monwaat"/>
+		<S i="32" t="24e" on="2be" s="260" frq="12523" n="Sudania24HD"/>
+	</Bouquet>
 	<Bouquet name="[E026.0] SVS">
 		<S i="a" t="1a" on="88" s="260" frq="12563" n="Athagavia MR"/>
 		<S i="8" t="1a" on="88" s="260" frq="12563" n="CHINGUIT TV"/>
-		<S i="9" t="1a" on="88" s="260" frq="12563" n="DAVA TV"/>
 		<S i="7" t="1a" on="88" s="260" frq="12563" n="EL MAHADRA"/>
 		<S i="4" t="1a" on="88" s="260" frq="12563" n="EL WATANIA TV"/>
+		<S i="9" t="1a" on="88" s="260" frq="12563" n="TV 9"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] TDM">
 		<S i="c" t="1a" on="88" s="260" frq="12563" n="AL BARLEMANIA"/>
@@ -237,7 +309,7 @@
 		<S i="1" t="1a" on="88" s="260" frq="12563" n="ELMOURITANIA"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] Twofour54">
-		<S i="1b" t="208" on="2be" s="260" frq="12092" n="AA hadath"/>
+		<S i="1b" t="208" on="2be" s="260" frq="12092" n="AA hadith"/>
 		<S i="15" t="208" on="2be" s="260" frq="12092" n="Expo2020 TV"/>
 		<S i="16" t="208" on="2be" s="260" frq="12092" n="LBC International"/>
 		<S i="19" t="208" on="2be" s="260" frq="12092" n="Test 4"/>
@@ -246,31 +318,31 @@
 		<S i="18" t="208" on="2be" s="260" frq="12092" n="TRT Arabi"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] Unknown Provider">
+		<S i="7" t="24e" on="2be" s="260" frq="12523" n="AGAR TV"/>
+		<S i="4" t="24e" on="2be" s="260" frq="12523" n="AGAR TV"/>
 		<S i="d" t="1137" on="2be" s="260" frq="12643" n="Carthage+"/>
-		<S i="44c" t="1137" on="2be" s="260" frq="12643" n="HD1"/>
 		<S i="4b0" t="1137" on="2be" s="260" frq="12643" n="HD2"/>
 		<S i="a" t="24e" on="2be" s="260" frq="12523" n="IXIR"/>
 		<S i="10" t="1137" on="2be" s="260" frq="12643" n="M Tunisia"/>
 		<S i="6" t="24e" on="2be" s="260" frq="12523" n="Neelain Sport"/>
 		<S i="2" t="24e" on="2be" s="260" frq="12523" n="NOOR TV"/>
+		<S i="13" t="1137" on="2be" s="260" frq="12643" n="Radio Visuelle NAT TN"/>
 		<S i="8fc" t="1137" on="2be" s="260" frq="12643" n="Radio1"/>
 		<S i="5" t="24e" on="2be" s="260" frq="12523" n="S24"/>
 		<S i="14" t="1137" on="2be" s="260" frq="12643" n="SD10"/>
 		<S i="e" t="1137" on="2be" s="260" frq="12643" n="SD4"/>
 		<S i="f" t="1137" on="2be" s="260" frq="12643" n="SD5"/>
-		<S i="13" t="1137" on="2be" s="260" frq="12643" n="SD9"/>
 		<S i="8" t="24e" on="2be" s="260" frq="12523" n="Sudan Drama"/>
 		<S i="5a" t="24e" on="2be" s="260" frq="12523" n="Sudan monwaat"/>
 		<S i="c" t="24e" on="2be" s="260" frq="12523" n="Sudan Music"/>
 		<S i="f" t="24e" on="2be" s="260" frq="12523" n="Sudan Sport"/>
 		<S i="65" t="24e" on="2be" s="260" frq="12523" n="Sudan Sport HD"/>
-		<S i="32" t="24e" on="2be" s="260" frq="12523" n="Sudani24HD"/>
+		<S i="32" t="24e" on="2be" s="260" frq="12523" n="Sudania24HD"/>
 		<S i="12" t="1137" on="2be" s="260" frq="12643" n="Telvza TV"/>
 		<S i="71" t="24e" on="2be" s="260" frq="12523" n="TEST"/>
-		<S i="7" t="24e" on="2be" s="260" frq="12523" n="test"/>
 		<S i="b" t="24e" on="2be" s="260" frq="12523" n="TEST"/>
-		<S i="4" t="24e" on="2be" s="260" frq="12523" n="test100"/>
 		<S i="e" t="24e" on="2be" s="260" frq="12523" n="Test2"/>
+		<S i="44c" t="1137" on="2be" s="260" frq="12643" n="Tunisia 1 HD"/>
 		<S i="b" t="1137" on="2be" s="260" frq="12643" n="Tunisia Nat 1"/>
 		<S i="c" t="1137" on="2be" s="260" frq="12643" n="Tunisia Nat 2"/>
 		<S i="11" t="1137" on="2be" s="260" frq="12643" n="Tunisna"/>
