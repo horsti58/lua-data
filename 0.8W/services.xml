@@ -114,11 +114,13 @@
 			<S i="1195" f="4" s="1" t="16" n="liv"/>
 			<S i="132b" f="4" s="1" t="16" n="C More Juniori"/>
 			<S i="1bb1" f="4" s="1" t="19" n="C More Sport 1 HD"/>
+			<S i="1d15" f="1" s="1" t="19" n="Yle Teema &amp; Fem HD"/>
 			<S i="1d25" f="2" s="1" t="16" n="Telia Liiga 1"/>
 			<S i="1d26" f="2" s="1" t="16" n="Telia Liiga 2"/>
 			<S i="1d27" f="2" s="1" t="16" n="Telia Liiga 3"/>
 			<S i="1d28" f="2" s="1" t="16" n="Telia Liiga 4"/>
 			<S i="1f09" f="4" s="1" t="19" n="Strive Sport TV HD"/>
+			<S i="4425" f="1" s="1" t="19" n="Yle Teema &amp; Fem HD"/>
 			<S i="45f3" f="4" s="1" t="16" n="C More Juniori"/>
 		</TS>
 		<TS id="0030" on="0046" frq="10903000" inv="2" sr="25000000" fec="3" pol="0" mod="9" sys="1">
@@ -146,7 +148,7 @@
 			<S i="1f12" f="3" s="1" t="19" n="Eurosport Pluss 4 HD"/>
 			<S i="32d2" f="2" s="1" t="16" n="Test 13010"/>
 		</TS>
-		<TS id="000a" on="0046" frq="10934000" inv="2" sr="25000000" fec="7" pol="1" mod="9" sys="1">
+		<TS id="000a" on="0046" frq="10934000" inv="2" sr="25000000" fec="3" pol="1" mod="9" sys="1">
 			<S i="1b9f" f="4" s="1" t="19" n="TV 2 Zulu HD"/>
 			<S i="1c8f" f="4" s="1" t="16" n="ID Investigation Discovery (D)"/>
 			<S i="1c93" f="4" s="1" t="16" n="dk4"/>
@@ -157,10 +159,10 @@
 			<S i="1c98" f="4" s="1" t="16" n="DR Ramasjang"/>
 			<S i="1c99" f="2" s="1" t="16" n="DR K"/>
 			<S i="1ca4" f="4" s="0" t="2" n="DR P3"/>
-			<S i="1ea5" f="4" s="1" t="19" n="Yle Teema &amp; Fem HD"/>
-			<S i="2efb" f="2" s="0" t="c" n="ADB Zapper bootload"/>
-			<S i="2f44" f="2" s="0" t="c" n="OnePlace Bootload"/>
-			<S i="45b5" f="4" s="1" t="19" n="Yle Teema &amp; Fem HD"/>
+			<S i="1ea5" f="4" s="1" t="19" n="Yle Teema &amp; Fem HD (old)"/>
+			<S i="2efb" f="4" s="0" t="c" n="ADB Zapper bootload"/>
+			<S i="2f44" f="4" s="0" t="c" n="OnePlace Bootload"/>
+			<S i="45b5" f="4" s="1" t="19" n="Yle Teema &amp; Fem HD (old)"/>
 		</TS>
 		<TS id="000e" on="0046" frq="10934000" inv="2" sr="25000000" fec="3" pol="0" mod="9" sys="1">
 			<S i="057c" f="4" s="1" t="19" n="C More Live 5 HD"/>
@@ -192,6 +194,8 @@
 			<S i="449d" f="4" s="1" t="19" n="SVT2 HD - Talande Text"/>
 			<S i="449e" f="4" s="1" t="19" n="SVTB/SVT24 HD - Talande Text"/>
 			<S i="449f" f="4" s="1" t="19" n="Kunskapskanalen HD - Talande Text"/>
+			<S i="4886" f="1" s="0" t="19" n="SVTB HD - Talande Text"/>
+			<S i="4887" f="1" s="1" t="19" n="SVT24 HD - Talande Text"/>
 		</TS>
 		<TS id="0004" on="0046" frq="11229000" inv="2" sr="25000000" fec="3" pol="0" mod="9" sys="1">
 			<S i="09db" f="2" s="0" t="c" n="ADBMTS"/>
@@ -449,8 +453,8 @@
 			<S i="7617" f="4" s="1" t="1" n="Duna World / M4 Sport+."/>
 		</TS>
 		<TS id="0005" on="0001" frq="11785000" inv="2" sr="28000000" fec="7" pol="0" mod="0" sys="0">
-			<S i="029c" f="2" s="0" t="6" n="SW DL 1165"/>
-			<S i="02a0" f="2" s="0" t="6" n="SW DL 5160"/>
+			<S i="029c" f="4" s="0" t="6" n="SW DL 1165"/>
+			<S i="02a0" f="4" s="0" t="6" n="SW DL 5160"/>
 			<S i="056e" f="4" s="1" t="1" n="Minimax"/>
 			<S i="0618" f="4" s="1" t="1" n="M1"/>
 			<S i="0a0a" f="4" s="1" t="1" n="Fishing and Hunting"/>
@@ -1221,7 +1225,7 @@
 			<S i="1b69" f="4" s="1" t="19" n="Nova Cinema HD"/>
 		</TS>
 		<TS id="0002" on="0001" frq="12723000" inv="2" sr="27500000" fec="3" pol="0" mod="0" sys="0">
-			<S i="029b" f="2" s="0" t="6" n="SW DL 1170"/>
+			<S i="029b" f="4" s="0" t="6" n="SW DL 1170"/>
 			<S i="03eb" f="4" s="1" t="1" n="PRO TV"/>
 			<S i="03f4" f="4" s="1" t="1" n="Cinemaraton"/>
 			<S i="03ff" f="4" s="1" t="1" n="Cinemax"/>
@@ -1237,6 +1241,6 @@
 			<S i="062c" f="4" s="1" t="1" n="TV 1000"/>
 			<S i="09d4" f="4" s="0" t="2" n="Radio Vibe"/>
 			<S i="0d52" f="4" s="1" t="1" n="HGTV"/>
-			<S i="1f54" f="2" s="0" t="6" n="SW DL Digi+C"/>
+			<S i="1f54" f="4" s="0" t="6" n="SW DL Digi+C"/>
 		</TS>
 	</sat>

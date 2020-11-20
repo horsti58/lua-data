@@ -119,15 +119,16 @@
 			<S i="1284" f="4" s="0" t="19" n="Discovery Showcase HD"/>
 			<S i="1298" f="4" s="0" t="1" n="DTX"/>
 		</TS>
-		<TS id="526c" on="016e" frq="10928000" inv="2" sr="30000000" fec="8" pol="0" mod="0" sys="1">
+		<TS id="526c" on="016e" frq="10928000" inv="2" sr="30000000" fec="10" pol="0" mod="9" sys="1">
 			<S i="044d" f="4" s="1" t="1" n="Viasat Nature SD"/>
 			<S i="044e" f="4" s="1" t="1" n="Viasat Explore SD"/>
 			<S i="044f" f="4" s="1" t="1" n="Viasat History SD"/>
 			<S i="0450" f="4" s="1" t="1" n="TV1000 Balkan"/>
 			<S i="0451" f="4" s="1" t="1" n="TV1000 Russian Kino Global"/>
-			<S i="0453" f="2" s="1" t="16" n="Kerrang!"/>
-			<S i="0454" f="2" s="1" t="16" n="Kiss"/>
-			<S i="0455" f="2" s="1" t="16" n="Magic UK"/>
+			<S i="0452" f="1" s="1" t="19" n="Viasat History HD"/>
+			<S i="0453" f="4" s="1" t="1" n="Viasat History SD"/>
+			<S i="0454" f="4" s="1" t="19" n="Viasat Explore HD"/>
+			<S i="0455" f="4" s="1" t="1" n="Viasat Explore SD"/>
 			<S i="0456" f="2" s="1" t="16" n="BoxHits"/>
 			<S i="0457" f="2" s="1" t="16" n="BoxAfrica"/>
 			<S i="0458" f="4" s="1" t="19" n="Epic Drama"/>
@@ -769,7 +770,7 @@
 			<S i="02ba" f="4" s="1" t="16" n="Fine Living"/>
 			<S i="02bb" f="4" s="1" t="16" n="Duck TV"/>
 		</TS>
-		<TS id="c3b4" on="016e" frq="11471000" inv="2" sr="30000000" fec="8" pol="0" mod="0" sys="1">
+		<TS id="c3b4" on="016e" frq="11471000" inv="2" sr="30000000" fec="3" pol="0" mod="9" sys="1">
 			<S i="0353" f="4" s="1" t="1" n="Prva"/>
 			<S i="0354" f="4" s="1" t="1" n="Prva Plus"/>
 			<S i="0355" f="4" s="1" t="1" n="Happy"/>
@@ -779,7 +780,7 @@
 			<S i="035a" f="4" s="1" t="1" n="POP TV HD"/>
 			<S i="035b" f="4" s="1" t="1" n="RTCG 1 HD"/>
 			<S i="035c" f="4" s="1" t="1" n="RTCG 2 HD"/>
-			<S i="035d" f="2" s="1" t="1" n="HRT 1"/>
+			<S i="035d" f="4" s="1" t="1" n="Shoppster Slo"/>
 			<S i="035e" f="2" s="1" t="1" n="HRT 2"/>
 			<S i="0360" f="4" s="1" t="1" n="SK 1 SLO"/>
 			<S i="0361" f="4" s="1" t="1" n="Hema TV"/>
@@ -1163,12 +1164,15 @@
 			<S i="0002" f="4" s="1" t="1" n="UNIRE 2 - VERDE"/>
 			<S i="000a" f="4" s="1" t="1" n="CH 10 - UNIRE BLU"/>
 		</TS>
-		<TS id="0001" on="0001" frq="12660000" inv="2" sr="2222000" fec="5" pol="0" mod="0" sys="1">
+		<TS id="0001" on="0001" frq="12660000" inv="2" sr="2220000" fec="5" pol="0" mod="0" sys="1">
 			<S i="0001" f="4" s="0" t="1" n="SNAI LIVE"/>
 			<S i="0002" f="4" s="0" t="1" n="V.E.4"/>
 		</TS>
 		<TS id="00a0" on="0000" frq="12660000" inv="2" sr="2220000" fec="5" pol="0" mod="0" sys="1">
 			<S i="0001" f="1" s="0" t="1" n="V.E. 4"/>
+		</TS>
+		<TS id="00a0" on="0001" frq="12660000" inv="2" sr="2222000" fec="5" pol="0" mod="0" sys="1">
+			<S i="0001" f="4" s="1" t="1" n="UNK (0x00A0_0x0001)"/>
 		</TS>
 		<TS id="00a0" on="0046" frq="12660000" inv="2" sr="2222000" fec="5" pol="0" mod="0" sys="1">
 			<S i="0001" f="1" s="1" t="1" n="UNK (0x00A0_0x0001)"/>
