@@ -64,11 +64,11 @@
 		<S i="aa4" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Premium"/>
 		<S i="a9f" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Premium"/>
 		<S i="a8d" t="9dd0" on="16e" s="160" frq="11283" n="Filmbox Premium HD"/>
-		<S i="aa7" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Stars"/>
 		<S i="a9e" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Stars"/>
+		<S i="aa7" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Stars"/>
+		<S i="281" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
 		<S i="26a" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
 		<S i="2ba" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
-		<S i="281" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
 		<S i="4b5" t="76c1" on="16e" s="160" frq="11094" n="Fishing and Hunting"/>
 		<S i="270" t="c418" on="16e" s="160" frq="11470" n="Food Network"/>
 		<S i="aa9" t="9dd0" on="16e" s="160" frq="11283" n="Gametoon HD"/>
@@ -185,7 +185,19 @@
 	</Bouquet>
 	<Bouquet name="[E016.0] Antik">
 		<S i="259" t="c418" on="16e" s="160" frq="11470" n="Extasy 4K"/>
-		<S i="25a" t="c418" on="16e" s="160" frq="11470" n="Test"/>
+		<S i="25a" t="c418" on="16e" s="160" frq="11470" n="Fashion TV"/>
+		<S i="261" t="c418" on="16e" s="160" frq="11470" n="RiK TV HD"/>
+		<S i="25d" t="c418" on="16e" s="160" frq="11470" n="Slagr Premium HD"/>
+	</Bouquet>
+	<Bouquet name="[E016.0] Digitalb">
+		<S i="a9c" t="9dd0" on="16e" s="160" frq="11283" n="360 TuneBox HD"/>
+		<S i="27f" t="c418" on="16e" s="160" frq="11470" n="Baby TV"/>
+		<S i="aa6" t="9dd0" on="16e" s="160" frq="11283" n="FAST&amp;FUN Box HD"/>
+		<S i="a92" t="9dd0" on="16e" s="160" frq="11283" n="FightBox HD"/>
+		<S i="27a" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
+		<S i="a91" t="9dd0" on="16e" s="160" frq="11283" n="Gametoon HD"/>
+		<S i="27d" t="c418" on="16e" s="160" frq="11470" n="ID Xtra HD"/>
+		<S i="27e" t="c418" on="16e" s="160" frq="11470" n="TLC"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] DigitALB">
 		<S i="3fd" t="51a4" on="16e" s="160" frq="10887" n="24 Kitchen"/>
@@ -267,16 +279,6 @@
 		<S i="96b" t="5014" on="16e" s="160" frq="10804" n="NRG Radio"/>
 		<S i="708" t="4f4c" on="16e" s="160" frq="10762" n="Top Albania Radio"/>
 		<S i="71c" t="4f4c" on="16e" s="160" frq="10762" n="Top Gold Radio"/>
-	</Bouquet>
-	<Bouquet name="[E016.0] Digitalb">
-		<S i="a9c" t="9dd0" on="16e" s="160" frq="11283" n="360 TuneBox HD"/>
-		<S i="27f" t="c418" on="16e" s="160" frq="11470" n="Baby TV"/>
-		<S i="aa6" t="9dd0" on="16e" s="160" frq="11283" n="FAST&amp;FUN Box HD"/>
-		<S i="a92" t="9dd0" on="16e" s="160" frq="11283" n="FightBox HD"/>
-		<S i="27a" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
-		<S i="a91" t="9dd0" on="16e" s="160" frq="11283" n="Gametoon HD"/>
-		<S i="27d" t="c418" on="16e" s="160" frq="11470" n="ID Xtra HD"/>
-		<S i="27e" t="c418" on="16e" s="160" frq="11470" n="TLC"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] DM-SAT">
 		<S i="1" t="a78" on="1" s="160" frq="12593" n="DM-SAT"/>
@@ -391,14 +393,21 @@
 	</Bouquet>
 	<Bouquet name="[E016.0] Pro Tv">
 		<S i="5" t="1f4" on="5" s="160" frq="12643" n="PRO TV"/>
+		<S i="1db1" t="145c" on="5" s="160" frq="12516" n="PRO TV"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] ProTV">
 		<S i="b" t="1f4" on="5" s="160" frq="12643" n="DIGI 24"/>
 		<S i="c" t="1f4" on="5" s="160" frq="12643" n="Etno TV"/>
 		<S i="7" t="1f4" on="5" s="160" frq="12643" n="PRO 2"/>
+		<S i="1db2" t="145c" on="5" s="160" frq="12516" n="PRO 2"/>
 		<S i="8" t="1f4" on="5" s="160" frq="12643" n="PRO CINEMA"/>
+		<S i="1db4" t="145c" on="5" s="160" frq="12516" n="PRO CINEMA"/>
+		<S i="1db7" t="145c" on="5" s="160" frq="12516" n="PRO GOLD"/>
 		<S i="6" t="1f4" on="5" s="160" frq="12643" n="PRO X"/>
+		<S i="1db5" t="145c" on="5" s="160" frq="12516" n="PRO X"/>
+		<S i="1db3" t="145c" on="5" s="160" frq="12516" n="PTI Test"/>
 		<S i="a" t="1f4" on="5" s="160" frq="12643" n="RomaniaTV"/>
+		<S i="1db6" t="145c" on="5" s="160" frq="12516" n="TEST 1"/>
 		<S i="9" t="1f4" on="5" s="160" frq="12643" n="TNT"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] RTSH">

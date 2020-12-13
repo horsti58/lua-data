@@ -8,10 +8,6 @@
 	<Bouquet name="[E009.0] ARC/DCM1 TSOIP">
 		<S i="166" t="19c8" on="9e" s="90" frq="12034" n="Disney Channel ME"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] ARQIVA">
-		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
-		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="IRN"/>
-	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva">
 		<S i="48d" t="1af4" on="9e" s="90" frq="12092" n="DAB D1"/>
 		<S i="451" t="1af4" on="9e" s="90" frq="12092" n="DISJ1_CEMA"/>
@@ -21,6 +17,10 @@
 		<S i="492" t="1af4" on="9e" s="90" frq="12092" n="SDL NATL"/>
 		<S i="4b5" t="1af4" on="9e" s="90" frq="12092" n="Absolute Radio"/>
 		<S i="4a6" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist3"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] ARQIVA">
+		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
+		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="IRN"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] BASIS 1">
 		<S i="ec" t="1644" on="9c" s="90" frq="11861" n="BBC WORLD"/>
@@ -377,6 +377,8 @@
 		<S i="3ff" t="5" on="aa" s="90" frq="12284" n="TEAM2 PPV"/>
 		<S i="473" t="9" on="aa" s="90" frq="11938" n="TEST - 3"/>
 		<S i="468" t="7" on="aa" s="90" frq="12475" n="TEST 13"/>
+		<S i="459" t="9" on="aa" s="90" frq="11938" n="TEST 15"/>
+		<S i="3ea" t="9" on="aa" s="90" frq="11938" n="TEST 16"/>
 		<S i="429" t="9" on="aa" s="90" frq="11938" n="TEST 2 SD"/>
 		<S i="45f" t="1" on="aa" s="90" frq="11843" n="TEST 4"/>
 		<S i="462" t="8" on="aa" s="90" frq="12169" n="TEST 5"/>
@@ -392,9 +394,7 @@
 		<S i="3ed" t="2" on="aa" s="90" frq="12054" n="ΒΟΥΛΗ"/>
 		<S i="3e9" t="2" on="aa" s="90" frq="12054" n="ΕΡΤ1"/>
 		<S i="402" t="5" on="aa" s="90" frq="12284" n="ΕΡΤ1 HD"/>
-		<S i="459" t="9" on="aa" s="90" frq="11938" n="ΕΡΤ2"/>
 		<S i="458" t="9" on="aa" s="90" frq="11938" n="ΕΡΤ2 HD"/>
-		<S i="3ea" t="9" on="aa" s="90" frq="11938" n="ΕΡΤ3"/>
 		<S i="424" t="2" on="aa" s="90" frq="12054" n="Επιλογές Τηλεόραση"/>
 		<S i="3fd" t="1" on="aa" s="90" frq="11843" n="ΚΡΗΤΗ TV"/>
 		<S i="463" t="8" on="aa" s="90" frq="12169" n="Κρήτη Νέα Τηλεόραση"/>
@@ -510,7 +510,7 @@
 		<S i="3f8" t="9" on="aa" s="90" frq="11938" n="Village Cinema HD"/>
 		<S i="450" t="6" on="aa" s="90" frq="12399" n="Αιγαίο TV"/>
 		<S i="3f9" t="9" on="aa" s="90" frq="11938" n="Βεργίνα TV"/>
-		<S i="451" t="9" on="aa" s="90" frq="11938" n="ΕΡΤ Sports HD"/>
+		<S i="451" t="9" on="aa" s="90" frq="11938" n="ΕΡΤ3 HD"/>
 		<S i="3f1" t="2" on="aa" s="90" frq="12054" n="ΠΑΝΑΘΗΝΑΪΚΟΣ TV"/>
 		<S i="423" t="6" on="aa" s="90" frq="12399" n="ΤΕΣΤ 8"/>
 		<S i="42b" t="6" on="aa" s="90" frq="12399" n="TEST Radio1"/>

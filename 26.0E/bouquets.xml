@@ -74,6 +74,9 @@
 		<S i="1c" t="208" on="2be" s="260" frq="12092" n="Test 6"/>
 		<S i="18" t="208" on="2be" s="260" frq="12092" n="TRT Arabi"/>
 	</Bouquet>
+	<Bouquet name="[E026.0] jmc">
+		<S i="718" t="1fa" on="2be" s="260" frq="12054" n="Jordan Radio Foreign"/>
+	</Bouquet>
 	<Bouquet name="[E026.0] JMC">
 		<S i="19c" t="1015" on="1" s="260" frq="12034" n="Al Istijaba TV"/>
 		<S i="1b8" t="1015" on="1" s="260" frq="12034" n="Al-Marikh TV"/>
@@ -101,9 +104,6 @@
 		<S i="72f" t="1fa" on="2be" s="260" frq="12054" n="DJIBOUTI R3"/>
 		<S i="726" t="1fa" on="2be" s="260" frq="12054" n="Radio Orient"/>
 		<S i="732" t="1fa" on="2be" s="260" frq="12054" n="SSBC RADIO"/>
-	</Bouquet>
-	<Bouquet name="[E026.0] jmc">
-		<S i="718" t="1fa" on="2be" s="260" frq="12054" n="Jordan Radio Foreign"/>
 	</Bouquet>
 	<Bouquet name="[E026.0] OSN">
 		<S i="1a" t="1fd" on="2be" s="260" frq="11996" n="Sky News Arabia HD"/>
