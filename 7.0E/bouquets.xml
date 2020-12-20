@@ -2,6 +2,7 @@
 		<S i="201" t="765c" on="7e" s="70" frq="11304" n="Iran International HD"/>
 		<S i="1649" t="9efc" on="7e" s="70" frq="11221" n="Iran International SD PAL - Eutelsat via Cogent"/>
 		<S i="202" t="765c" on="7e" s="70" frq="11304" n="ITOON HD"/>
+		<S i="164a" t="9efc" on="7e" s="70" frq="11221" n="Kanal Yek"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] BBC World Service">
 		<S i="1" t="4e20" on="64" s="70" frq="10721" n="BBC Persian"/>
@@ -237,11 +238,11 @@
 		<S i="1646" t="9efc" on="7e" s="70" frq="11221" n="MOOD RADIO"/>
 		<S i="1648" t="9efc" on="7e" s="70" frq="11221" n="RFM Senegal"/>
 	</Bouquet>
-	<Bouquet name="[E007.0] GlobeCast">
-		<S i="8" t="1" on="0" s="70" frq="12549" n="Corallo SAT Bkp"/>
-	</Bouquet>
 	<Bouquet name="[E007.0] GLOBECAST">
 		<S i="2" t="4e20" on="64" s="70" frq="10721" n="Simaye-Azadi"/>
+	</Bouquet>
+	<Bouquet name="[E007.0] GlobeCast">
+		<S i="8" t="1" on="0" s="70" frq="12549" n="Corallo SAT Bkp"/>
 	</Bouquet>
 	<Bouquet name="[E007.0] iKO Media Group">
 		<S i="232a" t="4e20" on="64" s="70" frq="10721" n="Kanal Yek"/>

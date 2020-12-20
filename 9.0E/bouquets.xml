@@ -1,4 +1,5 @@
 	<Bouquet name="[E009.0] A1 Broadcasting">
+		<S i="361" t="c35a" on="9e" s="90" frq="11727" n="HOLYGOD TV"/>
 		<S i="366" t="c35a" on="9e" s="90" frq="11727" n="LuxeTV"/>
 		<S i="363" t="c35a" on="9e" s="90" frq="11727" n="MUSEUM"/>
 		<S i="365" t="c35a" on="9e" s="90" frq="11727" n="MyZen TV HD"/>
@@ -8,19 +9,26 @@
 	<Bouquet name="[E009.0] ARC/DCM1 TSOIP">
 		<S i="166" t="19c8" on="9e" s="90" frq="12034" n="Disney Channel ME"/>
 	</Bouquet>
+	<Bouquet name="[E009.0] ARQIVA">
+		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
+		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="IRN"/>
+	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva">
 		<S i="48d" t="1af4" on="9e" s="90" frq="12092" n="DAB D1"/>
 		<S i="451" t="1af4" on="9e" s="90" frq="12092" n="DISJ1_CEMA"/>
+		<S i="474" t="1af4" on="9e" s="90" frq="12092" n="Diva Balkans"/>
+		<S i="46f" t="1af4" on="9e" s="90" frq="12092" n="Diva Romania"/>
 		<S i="479" t="1af4" on="9e" s="90" frq="12092" n="E! Entertainment Europe"/>
 		<S i="456" t="1af4" on="9e" s="90" frq="12092" n="Luxe TV"/>
 		<S i="46a" t="1af4" on="9e" s="90" frq="12092" n="PTV Global"/>
 		<S i="492" t="1af4" on="9e" s="90" frq="12092" n="SDL NATL"/>
 		<S i="4b5" t="1af4" on="9e" s="90" frq="12092" n="Absolute Radio"/>
+		<S i="49c" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist1"/>
+		<S i="4a1" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist2"/>
 		<S i="4a6" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist3"/>
-	</Bouquet>
-	<Bouquet name="[E009.0] ARQIVA">
-		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
-		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="IRN"/>
+		<S i="4ab" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist4"/>
+		<S i="4b0" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist5"/>
+		<S i="483" t="1af4" on="9e" s="90" frq="12092" n="Premier Radio 96k"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] BASIS 1">
 		<S i="ec" t="1644" on="9c" s="90" frq="11861" n="BBC WORLD"/>
@@ -353,6 +361,7 @@
 		<S i="449" t="1" on="aa" s="90" frq="11843" n="MEZZO LIVE HD"/>
 		<S i="401" t="4" on="aa" s="90" frq="12207" n="Motorvision Channel HD"/>
 		<S i="45a" t="1" on="aa" s="90" frq="11843" n="MTV Live HD"/>
+		<S i="468" t="7" on="aa" s="90" frq="12475" n="Museum TV"/>
 		<S i="41a" t="2" on="aa" s="90" frq="12054" n="National Geographic WILD HD"/>
 		<S i="471" t="7" on="aa" s="90" frq="12475" n="Nautical Channel HD"/>
 		<S i="445" t="6" on="aa" s="90" frq="12399" n="Nickelodeon HD"/>
@@ -376,7 +385,6 @@
 		<S i="3fe" t="5" on="aa" s="90" frq="12284" n="TEAM1 PPV"/>
 		<S i="3ff" t="5" on="aa" s="90" frq="12284" n="TEAM2 PPV"/>
 		<S i="473" t="9" on="aa" s="90" frq="11938" n="TEST - 3"/>
-		<S i="468" t="7" on="aa" s="90" frq="12475" n="TEST 13"/>
 		<S i="459" t="9" on="aa" s="90" frq="11938" n="TEST 15"/>
 		<S i="3ea" t="9" on="aa" s="90" frq="11938" n="TEST 16"/>
 		<S i="429" t="9" on="aa" s="90" frq="11938" n="TEST 2 SD"/>

@@ -34,13 +34,13 @@
 		<S i="293b" t="cb" on="55" s="48" frq="11938" n="Nat Geo Wild"/>
 		<S i="285a" t="ca" on="55" s="48" frq="11958" n="Tallinna TV"/>
 	</Bouquet>
+	<Bouquet name="[E004.8] Arqiva">
+		<S i="3ee" t="0" on="1" s="48" frq="12303" n="Absolute Radio"/>
+	</Bouquet>
 	<Bouquet name="[E004.8] ARQIVA">
 		<S i="46" t="0" on="1" s="48" frq="12303" n="BBC - CCI DAB"/>
 		<S i="50b" t="0" on="1" s="48" frq="12303" n="Belsat TV"/>
 		<S i="503" t="0" on="1" s="48" frq="12303" n="IRN"/>
-	</Bouquet>
-	<Bouquet name="[E004.8] Arqiva">
-		<S i="3ee" t="0" on="1" s="48" frq="12303" n="Absolute Radio"/>
 	</Bouquet>
 	<Bouquet name="[E004.8] Channel 5 (Ukraine)">
 		<S i="1b26" t="11" on="55" s="48" frq="12284" n="/////PRYAMIY"/>
@@ -120,6 +120,7 @@
 		<S i="2968" t="cb" on="55" s="48" frq="11938" n="ETV+"/>
 		<S i="2918" t="cb" on="55" s="48" frq="11938" n="ETV2"/>
 		<S i="27e7" t="c9" on="55" s="48" frq="11785" n="FOX"/>
+		<S i="28d7" t="ca" on="55" s="48" frq="11958" n="Fox Life"/>
 		<S i="2855" t="ca" on="55" s="48" frq="11958" n="Kanal 11"/>
 		<S i="27e2" t="c9" on="55" s="48" frq="11785" n="Kanal 12"/>
 		<S i="2850" t="ca" on="55" s="48" frq="11958" n="Kanal 2"/>
