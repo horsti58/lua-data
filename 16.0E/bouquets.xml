@@ -64,8 +64,8 @@
 		<S i="aa4" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Premium"/>
 		<S i="a9f" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Premium"/>
 		<S i="a8d" t="9dd0" on="16e" s="160" frq="11283" n="Filmbox Premium HD"/>
-		<S i="a9e" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Stars"/>
 		<S i="aa7" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Stars"/>
+		<S i="a9e" t="9dd0" on="16e" s="160" frq="11283" n="FilmBox Stars"/>
 		<S i="2ba" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
 		<S i="281" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
 		<S i="26a" t="c418" on="16e" s="160" frq="11470" n="Fine Living"/>
@@ -84,8 +84,10 @@
 		<S i="38c" t="c670" on="16e" s="160" frq="11595" n="Kerrang!"/>
 		<S i="38b" t="c670" on="16e" s="160" frq="11595" n="Kiss"/>
 		<S i="4bb" t="76c1" on="16e" s="160" frq="11094" n="Leo TV / Extasy"/>
+		<S i="263" t="c418" on="16e" s="160" frq="11470" n="Love Nature HD"/>
 		<S i="38a" t="c670" on="16e" s="160" frq="11595" n="Magic UK"/>
 		<S i="4b6" t="76c1" on="16e" s="160" frq="11094" n="Mnam TV"/>
+		<S i="76d" t="c6d4" on="16e" s="160" frq="11637" n="MyZen TV HD"/>
 		<S i="4c6" t="76c1" on="16e" s="160" frq="11094" n="National Geographic Channel"/>
 		<S i="289" t="c418" on="16e" s="160" frq="11470" n="National Geographic Wild"/>
 		<S i="76f" t="c6d4" on="16e" s="160" frq="11637" n="Nick Jr."/>
@@ -229,6 +231,7 @@
 		<S i="40a" t="50dc" on="16e" s="160" frq="10845" n="IN tv"/>
 		<S i="834" t="5014" on="16e" s="160" frq="10804" n="Junior TV"/>
 		<S i="3fd" t="50dc" on="16e" s="160" frq="10845" n="Kanal 10"/>
+		<S i="7da" t="5014" on="16e" s="160" frq="10804" n="Klan TV HD"/>
 		<S i="8c0" t="5014" on="16e" s="160" frq="10804" n="Melody.TV"/>
 		<S i="5b4" t="4f4c" on="16e" s="160" frq="10762" n="MTV Live HD"/>
 		<S i="848" t="5014" on="16e" s="160" frq="10804" n="My Music"/>
@@ -345,24 +348,6 @@
 		<S i="67" t="9f60" on="16e" s="160" frq="11366" n="TV Lux HD"/>
 		<S i="65" t="9f60" on="16e" s="160" frq="11366" n="WAU HD"/>
 	</Bouquet>
-	<Bouquet name="[E016.0] pink">
-		<S i="41" t="cb2c" on="16e" s="160" frq="11151" n="Pink Comedy"/>
-		<S i="35" t="cb2c" on="16e" s="160" frq="11151" n="Pink Crime&amp;Mystery"/>
-		<S i="40" t="cb2c" on="16e" s="160" frq="11151" n="Pink Folk"/>
-		<S i="44" t="cb2c" on="16e" s="160" frq="11151" n="Pink Folk 2"/>
-		<S i="3e" t="cb2c" on="16e" s="160" frq="11151" n="Pink Hits 2"/>
-		<S i="43" t="cb2c" on="16e" s="160" frq="11151" n="Pink Horror"/>
-		<S i="3f" t="cb2c" on="16e" s="160" frq="11151" n="Pink Koncert"/>
-		<S i="3d" t="cb2c" on="16e" s="160" frq="11151" n="Pink Pedia"/>
-		<S i="39" t="cb2c" on="16e" s="160" frq="11151" n="Pink Premium"/>
-		<S i="38" t="cb2c" on="16e" s="160" frq="11151" n="Pink Reality"/>
-		<S i="36" t="cb2c" on="16e" s="160" frq="11151" n="Pink Romance"/>
-		<S i="37" t="cb2c" on="16e" s="160" frq="11151" n="Pink Sci-Fi&amp;Fantasy"/>
-		<S i="3a" t="cb2c" on="16e" s="160" frq="11151" n="Pink Soap"/>
-		<S i="34" t="cb2c" on="16e" s="160" frq="11151" n="Pink Thriller"/>
-		<S i="3b" t="cb2c" on="16e" s="160" frq="11151" n="Pink World"/>
-		<S i="3c" t="cb2c" on="16e" s="160" frq="11151" n="Pink Zabava"/>
-	</Bouquet>
 	<Bouquet name="[E016.0] Pink">
 		<S i="55" t="cb2b" on="16e" s="160" frq="11178" n="City Play"/>
 		<S i="67" t="cb2b" on="16e" s="160" frq="11178" n="HA HA"/>
@@ -391,6 +376,24 @@
 		<S i="5d" t="cb2b" on="16e" s="160" frq="11178" n="Zadruga Live 4"/>
 		<S i="3" t="cb2b" on="16e" s="160" frq="11178" n="Radio Pink"/>
 	</Bouquet>
+	<Bouquet name="[E016.0] pink">
+		<S i="41" t="cb2c" on="16e" s="160" frq="11151" n="Pink Comedy"/>
+		<S i="35" t="cb2c" on="16e" s="160" frq="11151" n="Pink Crime&amp;Mystery"/>
+		<S i="40" t="cb2c" on="16e" s="160" frq="11151" n="Pink Folk"/>
+		<S i="44" t="cb2c" on="16e" s="160" frq="11151" n="Pink Folk 2"/>
+		<S i="3e" t="cb2c" on="16e" s="160" frq="11151" n="Pink Hits 2"/>
+		<S i="43" t="cb2c" on="16e" s="160" frq="11151" n="Pink Horror"/>
+		<S i="3f" t="cb2c" on="16e" s="160" frq="11151" n="Pink Koncert"/>
+		<S i="3d" t="cb2c" on="16e" s="160" frq="11151" n="Pink Pedia"/>
+		<S i="39" t="cb2c" on="16e" s="160" frq="11151" n="Pink Premium"/>
+		<S i="38" t="cb2c" on="16e" s="160" frq="11151" n="Pink Reality"/>
+		<S i="36" t="cb2c" on="16e" s="160" frq="11151" n="Pink Romance"/>
+		<S i="37" t="cb2c" on="16e" s="160" frq="11151" n="Pink Sci-Fi&amp;Fantasy"/>
+		<S i="3a" t="cb2c" on="16e" s="160" frq="11151" n="Pink Soap"/>
+		<S i="34" t="cb2c" on="16e" s="160" frq="11151" n="Pink Thriller"/>
+		<S i="3b" t="cb2c" on="16e" s="160" frq="11151" n="Pink World"/>
+		<S i="3c" t="cb2c" on="16e" s="160" frq="11151" n="Pink Zabava"/>
+	</Bouquet>
 	<Bouquet name="[E016.0] Pro Tv">
 		<S i="5" t="1f4" on="5" s="160" frq="12643" n="PRO TV"/>
 		<S i="1db1" t="145c" on="5" s="160" frq="12516" n="PRO TV"/>
@@ -403,9 +406,9 @@
 		<S i="8" t="1f4" on="5" s="160" frq="12643" n="PRO CINEMA"/>
 		<S i="1db4" t="145c" on="5" s="160" frq="12516" n="PRO CINEMA"/>
 		<S i="1db7" t="145c" on="5" s="160" frq="12516" n="PRO GOLD"/>
+		<S i="1db3" t="145c" on="5" s="160" frq="12516" n="PRO TV International"/>
 		<S i="6" t="1f4" on="5" s="160" frq="12643" n="PRO X"/>
 		<S i="1db5" t="145c" on="5" s="160" frq="12516" n="PRO X"/>
-		<S i="1db3" t="145c" on="5" s="160" frq="12516" n="PTI Test"/>
 		<S i="a" t="1f4" on="5" s="160" frq="12643" n="RomaniaTV"/>
 		<S i="1db6" t="145c" on="5" s="160" frq="12516" n="TEST 1"/>
 		<S i="9" t="1f4" on="5" s="160" frq="12643" n="TNT"/>
@@ -756,8 +759,8 @@
 		<S i="4b0" t="170" on="16e" s="160" frq="11158" n="RTK 1"/>
 		<S i="514" t="168" on="16e" s="160" frq="11427" n="RTV 21"/>
 		<S i="514" t="170" on="16e" s="160" frq="11158" n="RTV 21"/>
-		<S i="866" t="170" on="16e" s="160" frq="11158" n="Smile"/>
 		<S i="866" t="168" on="16e" s="160" frq="11427" n="Smile"/>
+		<S i="866" t="170" on="16e" s="160" frq="11158" n="Smile"/>
 		<S i="b22" t="170" on="16e" s="160" frq="11158" n="SPORT 1 HD"/>
 		<S i="b54" t="170" on="16e" s="160" frq="11158" n="SPORT 2 HD"/>
 		<S i="b86" t="170" on="16e" s="160" frq="11158" n="SPORT 3 HD"/>
