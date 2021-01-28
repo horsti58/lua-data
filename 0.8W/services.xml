@@ -257,10 +257,10 @@
 			<S i="1c70" f="4" s="0" t="16" n="Vision Sverige"/>
 		</TS>
 		<TS id="0023" on="0046" frq="11372000" inv="2" sr="25000000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="1af5" f="4" s="1" t="19" n="C More Live HD"/>
-			<S i="1bb8" f="4" s="1" t="19" n="TV 2 HD (D) (old)"/>
-			<S i="1e2d" f="4" s="1" t="19" n="TV 2 Charlie HD (old)"/>
-			<S i="1e2e" f="4" s="1" t="19" n="TV 2 News HD (old)"/>
+			<S i="1af5" f="4" s="1" t="19" n="C More Live HD (Old)"/>
+			<S i="1bb8" f="2" s="1" t="19" n="TV 2 HD (D) (old)"/>
+			<S i="1e2d" f="2" s="1" t="19" n="TV 2 Charlie HD (old)"/>
+			<S i="1e2e" f="2" s="1" t="19" n="TV 2 News HD (old)"/>
 			<S i="1e40" f="4" s="1" t="19" n="C More Golf HD"/>
 		</TS>
 		<TS id="0022" on="0046" frq="11389000" inv="2" sr="24500000" fec="7" pol="0" mod="0" pli="0" plc="1" plm="0" sys="0">
@@ -279,7 +279,7 @@
 			<S i="1bac" f="4" s="1" t="16" n="Boomerang"/>
 			<S i="1c7c" f="4" s="1" t="16" n="TV6 (N)"/>
 			<S i="1d39" f="4" s="1" t="16" n="Godare"/>
-			<S i="4282" f="4" s="1" t="16" n="Boomerang"/>
+			<S i="4282" f="4" s="1" t="16" n="Boomerang_"/>
 			<S i="43b3" f="4" s="1" t="19" n="V series HD"/>
 		</TS>
 		<TS id="002c" on="0046" frq="11421000" inv="2" sr="25000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">

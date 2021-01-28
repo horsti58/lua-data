@@ -167,21 +167,22 @@
 			<S i="1816" f="4" s="1" t="19" n="Mezzo HD"/>
 		</TS>
 		<TS id="0c84" on="0003" frq="11778000" inv="2" sr="29900000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="3a98" f="4" s="1" t="16" n="Test 1"/>
-			<S i="3a99" f="4" s="1" t="19" n="Test 2"/>
-			<S i="3a9a" f="4" s="1" t="19" n="Test 3"/>
-			<S i="3a9b" f="4" s="1" t="19" n="Test 4"/>
-			<S i="3a9c" f="4" s="1" t="19" n="Test 5"/>
-			<S i="3a9d" f="4" s="1" t="19" n="Test 6"/>
-			<S i="3a9e" f="4" s="1" t="16" n="Test 7"/>
-			<S i="3a9f" f="4" s="1" t="16" n="Test 8"/>
-			<S i="3aa0" f="4" s="1" t="16" n="Test 9"/>
-			<S i="3aa1" f="4" s="1" t="19" n="Test 10"/>
-			<S i="3aa2" f="4" s="1" t="16" n="Test 11"/>
-			<S i="3aa3" f="4" s="1" t="16" n="Test 12"/>
-			<S i="3aa4" f="4" s="1" t="16" n="Test 13"/>
-			<S i="3aa5" f="4" s="1" t="16" n="Test 14"/>
-			<S i="3aa6" f="4" s="1" t="16" n="Test 15"/>
+			<S i="3a98" f="4" s="1" t="16" n="Galaxy4"/>
+			<S i="3a99" f="4" s="1" t="19" n="Duna HD"/>
+			<S i="3a9a" f="4" s="1" t="19" n="M1 HD"/>
+			<S i="3a9b" f="4" s="1" t="19" n="M2 / Petofi HD"/>
+			<S i="3a9c" f="4" s="1" t="19" n="M4 HD"/>
+			<S i="3a9d" f="4" s="1" t="19" n="M5 HD"/>
+			<S i="3a9e" f="4" s="1" t="16" n="Cool"/>
+			<S i="3a9f" f="4" s="1" t="16" n="Comedy Central Hungary"/>
+			<S i="3aa0" f="4" s="1" t="16" n="Duna World / M4 Sport+"/>
+			<S i="3aa1" f="4" s="1" t="19" n="Film+ HD Hungary"/>
+			<S i="3aa2" f="4" s="1" t="16" n="TV2 Comedy"/>
+			<S i="3aa3" f="4" s="1" t="16" n="Izaura TV"/>
+			<S i="3aa4" f="4" s="1" t="16" n="Comedy Central Family"/>
+			<S i="3aa5" f="4" s="1" t="16" n="Fem3"/>
+			<S i="3aa6" f="4" s="1" t="16" n="ATV"/>
+			<S i="3aa7" f="1" s="1" t="16" n="HirTV"/>
 		</TS>
 		<TS id="0c85" on="0003" frq="11798000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="4e24" f="4" s="0" t="1" n="TV Pink"/>
@@ -305,7 +306,7 @@
 			<S i="339a" f="4" s="1" t="16" n="Jojko"/>
 			<S i="339b" f="4" s="1" t="16" n="Nova International"/>
 			<S i="339c" f="4" s="1" t="16" n="Prima KRIMI"/>
-			<S i="339d" f="4" s="0" t="16" n="Slagr 2"/>
+			<S i="339d" f="4" s="1" t="16" n="Slagr 2"/>
 			<S i="339e" f="4" s="1" t="19" n="Epic Drama HD"/>
 		</TS>
 		<TS id="0c8b" on="0003" frq="11914000" inv="2" sr="30000000" fec="3" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
@@ -349,7 +350,7 @@
 		<TS id="0c8c" on="0003" frq="11934000" inv="2" sr="27500000" fec="3" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="36d9" f="4" s="0" t="1" n="GERMAN TOTE TV"/>
 			<S i="36e3" f="4" s="1" t="16" n="DOCUBOX"/>
-			<S i="36e4" f="4" s="1" t="16" n="Prima Comedy Central"/>
+			<S i="36e4" f="4" s="1" t="16" n="Paramount Network"/>
 			<S i="36e5" f="4" s="1" t="19" n="Prima MAX HD"/>
 			<S i="36e6" f="4" s="1" t="19" n="History HD BNL"/>
 			<S i="36e7" f="4" s="1" t="16" n="TV Oranje"/>
@@ -357,17 +358,17 @@
 			<S i="36e9" f="4" s="1" t="16" n="Filmbox"/>
 			<S i="36ea" f="4" s="1" t="16" n="CS Film"/>
 			<S i="36eb" f="4" s="1" t="16" n="CS Horror"/>
-			<S i="36ec" f="4" s="1" t="16" n="Viasat History-PRELADTE"/>
-			<S i="36ed" f="4" s="1" t="16" n="Viasat Explore-PRELADTE"/>
-			<S i="36ee" f="4" s="1" t="16" n="Viasat Nature-PRELADTE"/>
-			<S i="36ef" f="4" s="1" t="16" n="Prima Love"/>
+			<S i="36ec" f="2" s="1" t="16" n="Viasat History-PRELADTE"/>
+			<S i="36ed" f="2" s="1" t="16" n="Viasat Explore-PRELADTE"/>
+			<S i="36ee" f="2" s="1" t="16" n="Viasat Nature-PRELADTE"/>
+			<S i="36ef" f="4" s="1" t="19" n="Prima Love HD"/>
 			<S i="36f0" f="4" s="1" t="16" n="Nick Jr Czech"/>
 			<S i="36f1" f="4" s="1" t="16" n="Senzi"/>
-			<S i="36f3" f="4" s="1" t="19" n="Filmbox Extra HD-PRELADTE"/>
+			<S i="36f3" f="2" s="1" t="19" n="Filmbox Extra HD-PRELADTE"/>
 			<S i="36f4" f="4" s="1" t="16" n="duck TV DUT"/>
 			<S i="36f5" f="4" s="1" t="16" n="Cartoon Network CZ"/>
 			<S i="36f6" f="4" s="1" t="16" n="MTV NL"/>
-			<S i="36f7" f="4" s="1" t="16" n="Nickelodeon / Spike"/>
+			<S i="36f7" f="2" s="1" t="16" n="Nickelodeon / Spike"/>
 			<S i="36f8" f="4" s="1" t="16" n="Comedy Central"/>
 			<S i="36f9" f="4" s="1" t="16" n="Spike 24"/>
 			<S i="36fa" f="4" s="1" t="16" n="Nickelodeon"/>
@@ -378,26 +379,27 @@
 			<S i="36ff" f="4" s="1" t="19" n="CNN Prima News HD"/>
 		</TS>
 		<TS id="0c8d" on="0003" frq="11953000" inv="2" sr="29900000" fec="2" pol="0" mod="9" pli="0" plc="1" plm="0" sys="1">
-			<S i="3b60" f="4" s="1" t="16" n="Test 1"/>
-			<S i="3b61" f="4" s="1" t="16" n="Test 2"/>
-			<S i="3b62" f="4" s="1" t="19" n="Test 3"/>
-			<S i="3b63" f="4" s="1" t="16" n="Test 4"/>
-			<S i="3b64" f="4" s="1" t="16" n="Test 5"/>
-			<S i="3b65" f="4" s="1" t="16" n="Test 6"/>
-			<S i="3b66" f="4" s="1" t="16" n="Test 7"/>
-			<S i="3b67" f="4" s="1" t="16" n="Test 8"/>
-			<S i="3b68" f="4" s="1" t="16" n="Test 9"/>
-			<S i="3b69" f="4" s="1" t="16" n="Test 10"/>
-			<S i="3b6a" f="4" s="1" t="16" n="Test 11"/>
-			<S i="3b6b" f="4" s="1" t="16" n="Test 12"/>
+			<S i="3b60" f="4" s="1" t="16" n="Nickelodeon Hungary"/>
+			<S i="3b61" f="4" s="1" t="16" n="Prime"/>
+			<S i="3b62" f="4" s="1" t="19" n="RTL2 HD"/>
+			<S i="3b63" f="4" s="1" t="16" n="RTL+"/>
+			<S i="3b64" f="4" s="1" t="16" n="RTL Gold"/>
+			<S i="3b65" f="4" s="1" t="16" n="Sorozat+"/>
+			<S i="3b66" f="4" s="1" t="16" n="SuperTV2"/>
+			<S i="3b67" f="4" s="1" t="16" n="TV2"/>
+			<S i="3b68" f="4" s="1" t="16" n="TV4"/>
+			<S i="3b69" f="4" s="1" t="16" n="Zenebutik"/>
+			<S i="3b6a" f="4" s="1" t="16" n="AXN Black"/>
+			<S i="3b6b" f="4" s="1" t="16" n="AXN White"/>
 			<S i="3b6c" f="4" s="1" t="16" n="Extreme Sports Channel"/>
-			<S i="3b6d" f="4" s="1" t="19" n="Test 14"/>
-			<S i="3b6e" f="4" s="1" t="16" n="Test 15"/>
+			<S i="3b6d" f="4" s="1" t="19" n="RTL Klub HD"/>
+			<S i="3b6e" f="4" s="1" t="16" n="STORY4"/>
 			<S i="3b6f" f="4" s="1" t="16" n="Spektrum Home"/>
-			<S i="3b70" f="4" s="1" t="16" n="Test 17"/>
-			<S i="3b71" f="4" s="1" t="16" n="Test 18"/>
-			<S i="3b72" f="4" s="1" t="16" n="Test 19"/>
-			<S i="3b73" f="4" s="1" t="16" n="Test 20"/>
+			<S i="3b70" f="4" s="1" t="16" n="Mozi+"/>
+			<S i="3b71" f="4" s="1" t="16" n="Muzsika TV"/>
+			<S i="3b72" f="4" s="1" t="16" n="Slager TV"/>
+			<S i="3b73" f="4" s="1" t="16" n="Nick Jr Hungary"/>
+			<S i="3b74" f="1" s="1" t="16" n="Nicktoons CZ"/>
 		</TS>
 		<TS id="0c8e" on="0003" frq="11973000" inv="2" sr="29900000" fec="2" pol="1" mod="9" pli="0" plc="1" plm="0" sys="1">
 			<S i="371e" f="4" s="1" t="19" n="Nova Sport 2 HD"/>
@@ -435,9 +437,9 @@
 			<S i="3c31" f="4" s="1" t="16" n="UP NETWORK CZ"/>
 			<S i="3c32" f="4" s="1" t="19" n="Slagr Premium HD"/>
 			<S i="3c33" f="4" s="1" t="16" n="CBS Reality"/>
-			<S i="3c34" f="4" s="1" t="16" n="Test 10"/>
+			<S i="3c34" f="4" s="1" t="16" n="Filmbox Family"/>
 			<S i="3c35" f="4" s="1" t="16" n="Golf Channel"/>
-			<S i="3c36" f="4" s="1" t="19" n="Test 12"/>
+			<S i="3c36" f="4" s="1" t="19" n="History HD"/>
 			<S i="3c37" f="4" s="1" t="16" n="JimJam CZ"/>
 			<S i="3c38" f="4" s="0" t="16" n="REBEL"/>
 			<S i="3c39" f="4" s="0" t="16" n="RELAX"/>
@@ -518,7 +520,7 @@
 			<S i="51e0" f="4" s="1" t="19" n="Ziggo Sport Select HD"/>
 			<S i="51e5" f="4" s="1" t="19" n="NGC HD"/>
 			<S i="5276" f="4" s="1" t="16" n="CAZ2"/>
-			<S i="5278" f="4" s="1" t="16" n="KetOp12"/>
+			<S i="5278" f="4" s="1" t="16" n="Ketnet"/>
 			<S i="527c" f="4" s="1" t="16" n="vtm KIDS"/>
 			<S i="5280" f="4" s="1" t="16" n="VTM 3"/>
 			<S i="5282" f="4" s="1" t="16" n="VTM 4"/>
@@ -527,15 +529,15 @@
 			<S i="52da" f="4" s="1" t="2" n="MNM"/>
 			<S i="52db" f="4" s="1" t="2" n="Studio Brussel"/>
 			<S i="52dc" f="4" s="1" t="2" n="Klara"/>
-			<S i="52e1" f="4" s="1" t="19" n="Eurosport 1 HD NL"/>
-			<S i="52e2" f="4" s="1" t="16" n="Film+ - PRELADTE"/>
-			<S i="52e3" f="4" s="1" t="16" n="Filmbox Stars - PRELADTE"/>
-			<S i="52e4" f="4" s="1" t="16" n="Filmbox Premium - PRELADTE"/>
-			<S i="52e5" f="4" s="1" t="16" n="UP NETWORK CZ - PRELADTE"/>
-			<S i="52e7" f="4" s="1" t="19" n="Film Europe HD - PRELADTE"/>
-			<S i="52e8" f="4" s="1" t="19" n="Film Europe HD INT"/>
-			<S i="52e9" f="4" s="1" t="16" n="Animal Planet CZ"/>
-			<S i="52ea" f="4" s="1" t="16" n="Animal Planet"/>
+			<S i="52e1" f="2" s="1" t="19" n="Eurosport 1 HD NL"/>
+			<S i="52e2" f="2" s="1" t="16" n="Film+ - PRELADTE"/>
+			<S i="52e3" f="2" s="1" t="16" n="Filmbox Stars - PRELADTE"/>
+			<S i="52e4" f="2" s="1" t="16" n="Filmbox Premium - PRELADTE"/>
+			<S i="52e5" f="2" s="1" t="16" n="UP NETWORK CZ - PRELADTE"/>
+			<S i="52e7" f="2" s="1" t="19" n="Film Europe HD - PRELADTE"/>
+			<S i="52e8" f="2" s="1" t="19" n="Film Europe HD INT"/>
+			<S i="52e9" f="2" s="1" t="16" n="Animal Planet CZ"/>
+			<S i="52ea" f="2" s="1" t="16" n="Animal Planet"/>
 			<S i="52eb" f="4" s="0" t="2" n="Sky Radio"/>
 			<S i="52ec" f="4" s="1" t="16" n="Eleven Sports Pro League 1 NL"/>
 		</TS>
