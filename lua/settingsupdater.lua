@@ -83,15 +83,11 @@ end
 function create_settingupdater_cfg()
 	file = io.open(settingupdater_cfg, "w")
 	file:write("28.2E=0", "\n")
-	file:write("26.0E=0", "\n")
 	file:write("23.5E=0", "\n")
 	file:write("19.2E=1", "\n")
 	file:write("16.0E=0", "\n")
 	file:write("13.0E=0", "\n")
 	file:write("9.0E=0", "\n")
-	file:write("7.0E=0", "\n")
-	file:write("4.8E=0", "\n")
-	file:write("0.8W=0", "\n")
 	file:write("Vodafone=0", "\n")
 	file:write("use_git=0", "\n")
 	file:close()
@@ -213,15 +209,11 @@ function start_update()
 	local positions ={}
 	table.insert (positions, "start")
 	if (get_cfg_value("28.2E") == 1) then table.insert (positions, "28.2E"); have_sat = 1 end
-	if (get_cfg_value("26.0E") == 1) then table.insert (positions, "26.0E"); have_sat = 1 end
 	if (get_cfg_value("23.5E") == 1) then table.insert (positions, "23.5E"); have_sat = 1 end
 	if (get_cfg_value("19.2E") == 1) then table.insert (positions, "19.2E"); have_sat = 1 end
 	if (get_cfg_value("16.0E") == 1) then table.insert (positions, "16.0E"); have_sat = 1 end
 	if (get_cfg_value("13.0E") == 1) then table.insert (positions, "13.0E"); have_sat = 1 end
 	if (get_cfg_value("9.0E") == 1) then table.insert (positions, "9.0E"); have_sat = 1 end
-	if (get_cfg_value("7.0E") == 1) then table.insert (positions, "7.0E"); have_sat = 1 end
-	if (get_cfg_value("4.8E") == 1) then table.insert (positions, "4.8E"); have_sat = 1 end
-	if (get_cfg_value("0.8W") == 1) then table.insert (positions, "0.8W"); have_sat = 1 end
 	if (get_cfg_value("Vodafone") == 1) then table.insert (positions, "Vodafone"); have_cable = 1 end
 	table.insert (positions, "end")
 
@@ -291,10 +283,6 @@ function astra_gb_cfg(k, v, str)
 	write_cfg(k, v, "28.2E")
 end
 
-function badr_cfg(k, v, str)
-	write_cfg(k, v, "26.0E")
-end
-
 function astra_nl_cfg(k, v, str)
 	write_cfg(k, v, "23.5E")
 end
@@ -315,18 +303,6 @@ function eutelsata_cfg(k, v, str)
 	write_cfg(k, v, "9.0E")
 end
 
-function eutelsatb_cfg(k, v, str)
-	write_cfg(k, v, "7.0E")
-end
-
-function astraa_cfg(k, v, str)
-	write_cfg(k, v, "4.8E")
-end
-
-function thor_cfg(k, v, str)
-	write_cfg(k, v, "0.8W")
-end
-
 function kab_cfg(k, v, str)
 	write_cfg(k, v, "Vodafone")
 end
@@ -344,11 +320,6 @@ function options ()
 		menu:addItem{type="chooser", action="astra_gb_cfg", options={on, off}, icon=1, directkey=RC["1"], name=locale[lang].cfg_install_a .. " 28.2E " .. locale[lang].cfg_install_b}
 	elseif (get_cfg_value("28.2E") == 0) then
 		menu:addItem{type="chooser", action="astra_gb_cfg", options={off, on}, icon=1, directkey=RC["1"], name=locale[lang].cfg_install_a .. " 28.2E " .. locale[lang].cfg_install_b}
-	end
-	if (get_cfg_value("26.0E") == 1) then
-		menu:addItem{type="chooser", action="badr_cfg", options={on, off}, icon=2, directkey=RC["2"], name=locale[lang].cfg_install_a .. " 26.0E " .. locale[lang].cfg_install_b}
-	elseif (get_cfg_value("26.0E") == 0) then
-		menu:addItem{type="chooser", action="badr_cfg", options={off, on}, icon=2, directkey=RC["2"], name=locale[lang].cfg_install_a .. " 26.0E " .. locale[lang].cfg_install_b}
 	end
 	if (get_cfg_value("23.5E") == 1) then
 		menu:addItem{type="chooser", action="astra_nl_cfg", options={on, off}, icon=3, directkey=RC["3"], name=locale[lang].cfg_install_a .. " 23.5E " .. locale[lang].cfg_install_b}
@@ -374,21 +345,6 @@ function options ()
 		menu:addItem{type="chooser", action="eutelsata_cfg", options={on, off}, icon=7, directkey=RC["7"], name=locale[lang].cfg_install_a .. " 9.0E " .. locale[lang].cfg_install_b}
 	elseif (get_cfg_value("9.0E") == 0) then
 		menu:addItem{type="chooser", action="eutelsata_cfg", options={off, on}, icon=7, directkey=RC["7"], name=locale[lang].cfg_install_a .. " 9.0E " .. locale[lang].cfg_install_b}
-	end
-	if (get_cfg_value("7.0E") == 1) then
-		menu:addItem{type="chooser", action="eutelsatb_cfg", options={on, off}, icon=8, directkey=RC["8"], name=locale[lang].cfg_install_a .. " 7.0E " .. locale[lang].cfg_install_b}
-	elseif (get_cfg_value("7.0E") == 0) then
-		menu:addItem{type="chooser", action="eutelsatb_cfg", options={off, on}, icon=8, directkey=RC["8"], name=locale[lang].cfg_install_a .. " 7.0E " .. locale[lang].cfg_install_b}
-	end
-	if (get_cfg_value("4.8E") == 1) then
-		menu:addItem{type="chooser", action="astraa_cfg", options={on, off}, icon=9, directkey=RC["9"], name=locale[lang].cfg_install_a .. " 4.8E " .. locale[lang].cfg_install_b}
-	elseif (get_cfg_value("4.8E") == 0) then
-		menu:addItem{type="chooser", action="astraa_cfg", options={off, on}, icon=9, directkey=RC["9"], name=locale[lang].cfg_install_a .. " 4.8E " .. locale[lang].cfg_install_b}
-	end
-	if (get_cfg_value("0.8W") == 1) then
-		menu:addItem{type="chooser", action="thor_cfg", options={on, off}, icon=0, directkey=RC["0"], name=locale[lang].cfg_install_a .. " 0.8W " .. locale[lang].cfg_install_b}
-	elseif (get_cfg_value("0.8W") == 0) then
-		menu:addItem{type="chooser", action="thor_cfg", options={off, on}, icon=0, directkey=RC["0"], name=locale[lang].cfg_install_a .. " 0.8W " .. locale[lang].cfg_install_b}
 	end
 	if (get_cfg_value("Vodafone") == 1) then
 		menu:addItem{type="chooser", action="kab_cfg", options={on, off}, icon=yellow, directkey=RC["yellow"], name=locale[lang].cfg_install_a .. " Kabel " .. locale[lang].cfg_install_b}
