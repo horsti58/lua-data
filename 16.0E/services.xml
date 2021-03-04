@@ -23,6 +23,7 @@
 			<S i="0708" f="4" s="0" t="2" n="Top Albania Radio"/>
 			<S i="071c" f="4" s="0" t="2" n="Top Gold Radio"/>
 			<S i="07d0" f="4" s="0" t="16" n="DGA TEST2"/>
+			<S i="07ee" f="4" s="0" t="16" n="TAG TEST2"/>
 		</TS>
 		<TS id="5014" on="016e" frq="10804000" inv="2" sr="29950000" fec="2" pol="0" mod="9" sys="1">
 			<S i="0399" f="4" s="0" t="2" n="My Music Radio"/>
@@ -63,6 +64,7 @@
 			<S i="0e4c" f="4" s="0" t="19" n="Travel Channel HD"/>
 			<S i="0e74" f="4" s="0" t="19" n="Travel Channel HD"/>
 			<S i="1040" f="4" s="0" t="16" n="STAR PLUS TV"/>
+			<S i="10a4" f="4" s="0" t="16" n="MCN TV"/>
 			<S i="116c" f="4" s="0" t="16" n="FOX Movies"/>
 		</TS>
 		<TS id="51a4" on="016e" frq="10887000" inv="2" sr="30000000" fec="8" pol="0" mod="0" sys="1">
@@ -80,6 +82,7 @@
 			<S i="0406" f="4" s="0" t="1" n="SuperSonic TV"/>
 			<S i="0407" f="4" s="0" t="1" n="Report TV"/>
 			<S i="0412" f="4" s="0" t="1" n="Discovery Channel"/>
+			<S i="0c80" f="4" s="0" t="19" n="MTV Live HD"/>
 			<S i="0ca8" f="4" s="0" t="19" n="Playboy TV HD"/>
 			<S i="0cbc" f="4" s="0" t="19" n="ABC News HD"/>
 			<S i="0e10" f="4" s="0" t="19" n="Animal Planet HD"/>
@@ -205,7 +208,7 @@
 			<S i="0008" f="4" s="1" t="1" n="Pink Movies"/>
 			<S i="0009" f="4" s="1" t="1" n="Pink Film"/>
 			<S i="000a" f="4" s="1" t="1" n="Pink Music"/>
-			<S i="000b" f="4" s="1" t="1" n="Pink 3 Info"/>
+			<S i="000b" f="4" s="1" t="1" n="Vesti"/>
 			<S i="000c" f="4" s="1" t="1" n="Pink Family"/>
 			<S i="000d" f="4" s="0" t="2" n="WTF radio"/>
 			<S i="0042" f="4" s="1" t="1" n="Zadruga Live 1"/>
@@ -412,7 +415,6 @@
 			<S i="0280" f="4" s="1" t="16" n="Duck TV"/>
 			<S i="0282" f="4" s="1" t="19" n="Eurosport 1 HD"/>
 			<S i="0283" f="4" s="1" t="19" n="Eurosport 2 HD"/>
-			<S i="0286" f="4" s="1" t="16" n="Nickelodeon"/>
 			<S i="0288" f="4" s="1" t="16" n="FOX Movies"/>
 			<S i="0289" f="4" s="1" t="16" n="National Geographic Wild"/>
 			<S i="028a" f="4" s="1" t="16" n="Boomerang"/>
@@ -577,10 +579,9 @@
 			<S i="0392" f="4" s="1" t="19" n="DTX"/>
 			<S i="0393" f="4" s="1" t="19" n="Discovery Science HD"/>
 			<S i="0395" f="4" s="1" t="16" n="Reality Kings TV"/>
-			<S i="0396" f="4" s="0" t="1f" n="Ultra 4K Extreme"/>
+			<S i="0396" f="4" s="1" t="1f" n="Ultra 4K Extreme"/>
 		</TS>
 		<TS id="c6d4" on="016e" frq="11637000" inv="2" sr="30000000" fec="5" pol="0" mod="9" sys="1">
-			<S i="076d" f="4" s="0" t="19" n="MyZen TV HD"/>
 			<S i="076e" f="4" s="1" t="19" n="History HD"/>
 			<S i="076f" f="4" s="1" t="16" n="Nick Jr."/>
 			<S i="0770" f="4" s="0" t="16" n="Super SAT"/>
@@ -596,7 +597,6 @@
 			<S i="077a" f="4" s="1" t="16" n="AXN Spin"/>
 			<S i="077d" f="4" s="1" t="16" n="Barely Legal"/>
 			<S i="077f" f="4" s="1" t="16" n="Da Vinci LEARNING"/>
-			<S i="0781" f="4" s="1" t="16" n="History Channel"/>
 			<S i="0782" f="4" s="1" t="19" n="PlanetSport 5 HD"/>
 			<S i="0784" f="4" s="1" t="19" n="HBO HD"/>
 			<S i="0785" f="4" s="1" t="19" n="HBO 2 HD"/>
@@ -670,9 +670,7 @@
 		</TS>
 		<TS id="0001" on="0001" frq="12541000" inv="2" sr="19970000" fec="3" pol="1" mod="0" sys="1">
 			<S i="0001" f="4" s="0" t="1" n="KTV"/>
-			<S i="0002" f="4" s="0" t="1" n="Klan HD"/>
 			<S i="0003" f="4" s="0" t="1" n="RTV21"/>
-			<S i="0004" f="4" s="0" t="1" n="Dukagjini"/>
 			<S i="0006" f="4" s="0" t="1" n="First Channel"/>
 			<S i="0007" f="4" s="0" t="1" n="Arta TV"/>
 			<S i="0008" f="4" s="0" t="1" n="T7"/>
@@ -761,6 +759,9 @@
 			<S i="0001" f="4" s="1" t="1" n="UNIRE 1 - GRIGIO"/>
 			<S i="0002" f="4" s="1" t="1" n="UNIRE 2 - VERDE"/>
 			<S i="000a" f="4" s="1" t="1" n="CH 10 - UNIRE BLU"/>
+		</TS>
+		<TS id="00a0" on="0047" frq="12660000" inv="2" sr="2222000" fec="5" pol="0" mod="0" sys="1">
+			<S i="0001" f="4" s="1" t="1" n="UNK (0x00A0_0x0001)"/>
 		</TS>
 		<TS id="0001" on="0001" frq="12694000" inv="2" sr="2222000" fec="5" pol="0" mod="0" sys="1">
 			<S i="0001" f="4" s="0" t="1" n="EPQ C1"/>

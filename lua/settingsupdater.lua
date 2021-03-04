@@ -114,7 +114,7 @@ end
 
 function check_for_update()
 	if not isdir(tmp) then os.execute("mkdir -p " .. tmp) end
-	os.execute("curl https://raw.githubusercontent.com/horsti58/lua-data/master/start/services.xml -o " .. tmp .. "/version_online")
+	os.execute("curl -k https://raw.githubusercontent.com/horsti58/lua-data/master/start/services.xml -o " .. tmp .. "/version_online")
 	for line in io.lines(tmp .. "/version_online") do
 		if line:match(",") and line:match(":") then
 			local _,mark_begin = string.find(line, ",")
@@ -177,7 +177,7 @@ function start_update()
 		ok ,err, exitcode = os.execute("git clone " .. setting_url .. " " .. tmp)
 	else
 		setting_url = "https://codeload.github.com/horsti58/lua-data/zip/master"
-		ok ,err, exitcode = os.execute("curl " .. setting_url .. " -o " .. tmp .. ".zip")
+		ok ,err, exitcode = os.execute("curl -k " .. setting_url .. " -o " .. tmp .. ".zip")
 		if (exists(tmp) ~= true) then
 			os.execute("mkdir " .. tmp)
 		end

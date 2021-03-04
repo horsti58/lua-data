@@ -13,10 +13,6 @@
 		<S i="1f45" t="ca1" on="3" s="235" frq="12344" n="CT :D/art HD"/>
 		<S i="1f44" t="ca1" on="3" s="235" frq="12344" n="CT sport HD"/>
 	</Bouquet>
-	<Bouquet name="[E023.5] M7 group">
-		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
-		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
-	</Bouquet>
 	<Bouquet name="[E023.5] M7 Group">
 		<S i="177f" t="c82" on="3" s="235" frq="11739" n="192TV"/>
 		<S i="523f" t="c99" on="3" s="235" frq="12188" n="24Kitchen"/>
@@ -35,7 +31,6 @@
 		<S i="5226" t="c99" on="3" s="235" frq="12188" n="Canvas HD"/>
 		<S i="17e9" t="c82" on="3" s="235" frq="11739" n="Cartoon Network"/>
 		<S i="36f5" t="c8c" on="3" s="235" frq="11934" n="Cartoon Network CZ"/>
-		<S i="5276" t="c96" on="3" s="235" frq="12129" n="CAZ2"/>
 		<S i="3c33" t="c90" on="3" s="235" frq="12012" n="CBS Reality"/>
 		<S i="17e0" t="c82" on="3" s="235" frq="11739" n="CD Infokanaal"/>
 		<S i="3c2c" t="c90" on="3" s="235" frq="12012" n="Cinemax HD"/>
@@ -231,6 +226,7 @@
 		<S i="1b90" t="c88" on="3" s="235" frq="11856" n="VTM 2 HD"/>
 		<S i="5280" t="c96" on="3" s="235" frq="12129" n="VTM 3"/>
 		<S i="5282" t="c96" on="3" s="235" frq="12129" n="VTM 4"/>
+		<S i="5276" t="c96" on="3" s="235" frq="12129" n="VTM Gold"/>
 		<S i="1b76" t="c88" on="3" s="235" frq="11856" n="VTM HD"/>
 		<S i="527c" t="c96" on="3" s="235" frq="12129" n="vtm KIDS"/>
 		<S i="371f" t="c8e" on="3" s="235" frq="11973" n="WAU HD"/>
@@ -241,9 +237,9 @@
 		<S i="5253" t="c99" on="3" s="235" frq="12188" n="100% NL"/>
 		<S i="17f0" t="c82" on="3" s="235" frq="11739" n="Arrow Classic Rock"/>
 		<S i="4ed1" t="c99" on="3" s="235" frq="12188" n="BNR Nieuwsradio"/>
-		<S i="17f1" t="c82" on="3" s="235" frq="11739" n="Classic FM"/>
+		<S i="17f1" t="c82" on="3" s="235" frq="11739" n="Classicnl"/>
 		<S i="3747" t="c8e" on="3" s="235" frq="11973" n="Funx"/>
-		<S i="17ef" t="c82" on="3" s="235" frq="11739" n="Joe FM"/>
+		<S i="17ef" t="c82" on="3" s="235" frq="11739" n="Joe"/>
 		<S i="52dc" t="c96" on="3" s="235" frq="12129" n="Klara"/>
 		<S i="3748" t="c8e" on="3" s="235" frq="11973" n="L1 Radio"/>
 		<S i="52da" t="c96" on="3" s="235" frq="12129" n="MNM"/>
@@ -262,10 +258,14 @@
 		<S i="5262" t="c99" on="3" s="235" frq="12188" n="SLAM!"/>
 		<S i="52db" t="c96" on="3" s="235" frq="12129" n="Studio Brussel"/>
 	</Bouquet>
+	<Bouquet name="[E023.5] M7 group">
+		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
+		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
+	</Bouquet>
 	<Bouquet name="[E023.5] MB Satellite">
 		<S i="36d9" t="c8c" on="3" s="235" frq="11934" n="GERMAN TOTE TV"/>
-		<S i="3e8" t="1" on="1" s="235" frq="12639" n="DLF USI2"/>
-		<S i="7d0" t="1" on="1" s="235" frq="12639" n="DLFK USI2"/>
+		<S i="3e8" t="1" on="1" s="235" frq="12639" n="DLF USI1"/>
+		<S i="7d0" t="1" on="1" s="235" frq="12639" n="DLFK USI1"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] Media Broadcast">
 		<S i="3e8" t="1" on="1" s="235" frq="12647" n="NRW Enc1 Ltg-Dssd."/>
@@ -406,7 +406,6 @@
 		<S i="4e93" t="c86" on="3" s="235" frq="11817" n="OK KANAL"/>
 		<S i="4ea3" t="ca4" on="3" s="235" frq="12402" n="Outdoor"/>
 		<S i="4ee0" t="c81" on="3" s="235" frq="11719" n="Panon TV"/>
-		<S i="4e2b" t="c85" on="3" s="235" frq="11798" n="Pink 3 Info"/>
 		<S i="4e4e" t="c85" on="3" s="235" frq="11798" n="Pink Action"/>
 		<S i="4f13" t="c81" on="3" s="235" frq="11719" n="Pink BiH"/>
 		<S i="4e51" t="c85" on="3" s="235" frq="11798" n="Pink Comedy"/>
@@ -503,6 +502,7 @@
 		<S i="4e78" t="c86" on="3" s="235" frq="11817" n="TVDR"/>
 		<S i="4fb0" t="c8b" on="3" s="235" frq="11914" n="Uci doma 2"/>
 		<S i="4fb1" t="c8b" on="3" s="235" frq="11914" n="Uci doma 3"/>
+		<S i="4e2b" t="c85" on="3" s="235" frq="11798" n="Vesti"/>
 		<S i="4eb6" t="ca4" on="3" s="235" frq="12402" n="VH1"/>
 		<S i="4e9f" t="ca4" on="3" s="235" frq="12402" n="Viasat Explore"/>
 		<S i="4e9e" t="ca4" on="3" s="235" frq="12402" n="Viasat History"/>

@@ -10,7 +10,7 @@
 			<S i="032a" f="4" s="1" t="16" n="VTM 2"/>
 			<S i="032b" f="4" s="1" t="19" n="Ment HD"/>
 			<S i="032c" f="4" s="1" t="16" n="VTM Kids"/>
-			<S i="032d" f="4" s="1" t="16" n="CAZ 2"/>
+			<S i="032d" f="4" s="1" t="16" n="VTM GOLD"/>
 			<S i="032e" f="4" s="1" t="19" n="ZiggoSport Voetbal HD"/>
 			<S i="032f" f="4" s="1" t="16" n="Ziggo Sport Racing"/>
 			<S i="0330" f="4" s="1" t="16" n="Ziggo Sport Golf"/>
@@ -109,8 +109,8 @@
 			<S i="0192" f="4" s="0" t="19" n="Bars &amp; Tone"/>
 		</TS>
 		<TS id="0001" on="0064" frq="11823000" inv="2" sr="27500000" fec="3" pol="0" mod="0" sys="0">
-			<S i="064a" f="4" s="0" t="2" n="Ros * Ros"/>
-			<S i="0654" f="4" s="0" t="2" n="Ros * Ros Selex"/>
+			<S i="064a" f="2" s="0" t="2" n="Ros * Ros"/>
+			<S i="0654" f="4" s="0" t="2" n="Ros Ros Selex"/>
 			<S i="065e" f="4" s="0" t="2" n="Carrefour Iper"/>
 			<S i="0668" f="4" s="0" t="2" n="Carrefour Market"/>
 			<S i="06a4" f="4" s="0" t="2" n="Radio CHINA FM"/>
@@ -143,7 +143,7 @@
 			<S i="00e6" f="4" s="1" t="19" n="Kabel Eins HD"/>
 			<S i="00e7" f="4" s="1" t="19" n="DMAX HD"/>
 			<S i="00e8" f="4" s="1" t="19" n="TELE 5 HD"/>
-			<S i="00e9" f="4" s="1" t="19" n="NICK/MTV+ HD"/>
+			<S i="00e9" f="4" s="1" t="19" n="NICK/CC+1 HD"/>
 			<S i="00ea" f="4" s="1" t="19" n="SPORT 1 HD"/>
 			<S i="00eb" f="4" s="1" t="19" n="TLC HD"/>
 			<S i="00ec" f="4" s="0" t="16" n="BBC WORLD"/>
@@ -232,6 +232,18 @@
 			<S i="0201" f="4" s="1" t="19" n="Penthouse Passion (20-06)"/>
 			<S i="0203" f="4" s="1" t="1" n="Playboy TV SD (20-06)"/>
 		</TS>
+		<TS id="0001" on="0001" frq="11996000" inv="2" sr="27500000" fec="3" pol="1" mod="0" sys="0">
+			<S i="026b" f="1" s="0" t="1" n="CCTV-4"/>
+			<S i="026c" f="1" s="0" t="1" n="CGTN-E"/>
+			<S i="026d" f="1" s="0" t="1" n="CGTN-R"/>
+			<S i="026e" f="1" s="0" t="1" n="CGTN-A"/>
+			<S i="026f" f="1" s="0" t="1" n="CGTN Documentary"/>
+			<S i="0273" f="1" s="0" t="1" n="CBS Reality EMEA"/>
+			<S i="0274" f="1" s="0" t="1" n="JimJam PE"/>
+			<S i="0275" f="1" s="0" t="1" n="JimJam ME"/>
+			<S i="0276" f="1" s="1" t="1" n="Extreme Sports"/>
+			<S i="0277" f="1" s="0" t="2" n="EDM FM"/>
+		</TS>
 		<TS id="1900" on="009c" frq="11996000" inv="2" sr="27500000" fec="3" pol="1" mod="0" sys="0">
 			<S i="026b" f="4" s="0" t="1" n="CCTV-4"/>
 			<S i="026c" f="4" s="0" t="1" n="CGTN-E"/>
@@ -251,12 +263,13 @@
 			<S i="01a2" f="4" s="1" t="19" n="Deluxe Music HD"/>
 			<S i="01a3" f="4" s="1" t="19" n="Comedy Central HD"/>
 			<S i="01a4" f="4" s="1" t="19" n="Disney Channel HD"/>
-			<S i="01a5" f="4" s="0" t="16" n="NICK/MTV+"/>
+			<S i="01a5" f="4" s="0" t="16" n="NICK/CC+1"/>
 		</TS>
 		<TS id="19c8" on="009e" frq="12034000" inv="2" sr="27500000" fec="3" pol="1" mod="9" sys="1">
 			<S i="00ca" f="4" s="0" t="1" n="M6 Suisse HD"/>
 			<S i="00cc" f="4" s="0" t="1" n="6 TER Suisse HD"/>
 			<S i="00cd" f="4" s="0" t="1" n="W9 Suisse HD"/>
+			<S i="015f" f="1" s="0" t="1" n="HWAZAN"/>
 			<S i="0160" f="4" s="0" t="1" n="RTG Int"/>
 			<S i="0161" f="4" s="0" t="1" n="Phoenix Info News"/>
 			<S i="0162" f="4" s="0" t="1" n="ORTM"/>
@@ -358,7 +371,7 @@
 			<S i="03fb" f="4" s="1" t="1" n="Promo HD"/>
 			<S i="03fc" f="4" s="1" t="1" n="IONIAN TV"/>
 			<S i="040e" f="4" s="1" t="1" n="FOX HD"/>
-			<S i="041c" f="4" s="1" t="1" n="POP UP TEST HD"/>
+			<S i="041c" f="4" s="1" t="1" n="Cosmote Cinema Oscars HD"/>
 			<S i="0455" f="4" s="1" t="1" n="COSMOTESport5HD"/>
 			<S i="0462" f="4" s="1" t="1" n="TEST 5"/>
 			<S i="0463" f="4" s="1" t="1" n="Κρήτη Νέα Τηλεόραση"/>

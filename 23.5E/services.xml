@@ -139,6 +139,7 @@
 			<S i="178e" f="4" s="1" t="16" n="FOX Channel"/>
 			<S i="1793" f="4" s="1" t="16" n="Boomerang"/>
 			<S i="1794" f="4" s="1" t="16" n="Boomerang CZ"/>
+			<S i="179d" f="2" s="0" t="1" n="FIGHTBOX BtoB"/>
 			<S i="17ae" f="4" s="1" t="19" n="Travel XP HD"/>
 			<S i="17af" f="4" s="1" t="19" n="Travel XP HD BNL"/>
 			<S i="17b1" f="4" s="1" t="16" n="Disney Channel"/>
@@ -155,9 +156,9 @@
 			<S i="17e9" f="4" s="1" t="16" n="Cartoon Network"/>
 			<S i="17ea" f="4" s="1" t="16" n="FIGHTBOX"/>
 			<S i="17ee" f="4" s="1" t="2" n="Q-Music"/>
-			<S i="17ef" f="4" s="1" t="2" n="Joe FM"/>
+			<S i="17ef" f="4" s="1" t="2" n="Joe"/>
 			<S i="17f0" f="4" s="0" t="2" n="Arrow Classic Rock"/>
-			<S i="17f1" f="4" s="0" t="2" n="Classic FM"/>
+			<S i="17f1" f="4" s="0" t="2" n="Classicnl"/>
 			<S i="17f2" f="4" s="0" t="2" n="Radio Veronica"/>
 			<S i="1816" f="4" s="1" t="19" n="Mezzo HD"/>
 		</TS>
@@ -186,7 +187,7 @@
 			<S i="4e27" f="4" s="0" t="1" n="Happy TV"/>
 			<S i="4e28" f="4" s="0" t="1" n="Studio B"/>
 			<S i="4e2a" f="4" s="0" t="1" n="Red TV"/>
-			<S i="4e2b" f="4" s="0" t="1" n="Pink 3 Info"/>
+			<S i="4e2b" f="4" s="0" t="1" n="Vesti"/>
 			<S i="4e2e" f="4" s="0" t="1" n="Prva MAX"/>
 			<S i="4e2f" f="4" s="0" t="1" n="Timeless Dizi Channel"/>
 			<S i="4e34" f="4" s="0" t="19" n="Arena Sport 1 HD"/>
@@ -496,7 +497,7 @@
 			<S i="51db" f="4" s="1" t="19" n="Film1 Premiere HD"/>
 			<S i="51e0" f="4" s="1" t="19" n="Ziggo Sport Select HD"/>
 			<S i="51e5" f="4" s="1" t="19" n="NGC HD"/>
-			<S i="5276" f="4" s="1" t="16" n="CAZ2"/>
+			<S i="5276" f="4" s="1" t="16" n="VTM Gold"/>
 			<S i="5278" f="4" s="1" t="16" n="Ketnet"/>
 			<S i="527c" f="4" s="1" t="16" n="vtm KIDS"/>
 			<S i="5280" f="4" s="1" t="16" n="VTM 3"/>
@@ -629,7 +630,7 @@
 			<S i="4ea8" f="4" s="0" t="1" n="English Club TV"/>
 			<S i="4ea9" f="4" s="0" t="1" n="E!"/>
 			<S i="4eac" f="4" s="0" t="1" n="24Kitchen"/>
-			<S i="4ead" f="4" s="0" t="1" n="Fashion TV"/>
+			<S i="4ead" f="4" s="1" t="1" n="Fashion TV"/>
 			<S i="4eaf" f="4" s="0" t="1" n="LoL"/>
 			<S i="4eb0" f="4" s="0" t="1" n="RTL Croatia"/>
 			<S i="4eb1" f="4" s="0" t="1" n="TV Hayat"/>
@@ -654,11 +655,13 @@
 			<S i="4ec5" f="4" s="0" t="1" n="CNN"/>
 			<S i="4ec6" f="4" s="0" t="1" n="Euronews"/>
 			<S i="4ec7" f="4" s="0" t="1" n="DW English"/>
-			<S i="4ec8" f="4" s="1" t="1" n="RT"/>
+			<S i="4ec8" f="4" s="0" t="1" n="RT"/>
+			<S i="4ed4" f="2" s="0" t="1" n="Dorcel"/>
+			<S i="4eda" f="2" s="0" t="1" n="Hustler"/>
 		</TS>
 		<TS id="0001" on="0001" frq="12639000" inv="2" sr="940000" fec="1" pol="1" mod="0" sys="0">
-			<S i="03e8" f="4" s="0" t="2" n="DLF USI2"/>
-			<S i="07d0" f="4" s="0" t="2" n="DLFK USI2"/>
+			<S i="03e8" f="4" s="0" t="2" n="DLF USI1"/>
+			<S i="07d0" f="4" s="0" t="2" n="DLFK USI1"/>
 		</TS>
 		<TS id="0001" on="0001" frq="12647000" inv="2" sr="285000" fec="7" pol="1" mod="0" sys="0">
 			<S i="03e8" f="4" s="0" t="2" n="NRW Enc1 Ltg-Dssd."/>
