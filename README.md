@@ -9,9 +9,11 @@ gescant im Westen von NRW....
 
 # Anleitung lua Plugin:
 
- bei lua Script Update ggf. /var/tuxbox/config/settingupdater.cfg einmalig löschen !
+ wegen Sicherheitsänderungen auf github, kann es sein das die Settings nicht ladbar sind,
 
- settingsupdater.cfg und settingsupdater.lua ins Pluginverzeichnis/var/tuxbox/plugins der Neutrinobox kopieren,
+ dann settingsupdater.lua und cfg Datei erneuern, in der ist der SSL-Test mit dem Parameter -k ausgeschaltet.
+
+ settingsupdater.cfg und settingsupdater.lua ins Pluginverzeichnis /var/tuxbox/plugins der Neutrinobox kopieren,
 
  restarten...
 
@@ -29,5 +31,5 @@ gescant im Westen von NRW....
  keine ubouquets.xml enthalten, denn da gibt es zuviele Geschmäcker :) 
 
 
-04.03.2021
+16.03.2021
 
