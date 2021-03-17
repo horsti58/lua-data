@@ -204,6 +204,7 @@ function start_update()
 	else
 		ret:hide();
 	end
+    local ok,err,exitcode = os.execute("cp -f " .. neutrino_conf_base .. "/satellites.xml " .. neutrino_conf_base .. "/satellites-kopie.xml")
 	local ret = hintbox.new { title = caption, icon = "settings", text = locale[lang].write_settings};
 	ret:paint();
 	local positions ={}
