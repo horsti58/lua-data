@@ -252,7 +252,7 @@
 			<S i="5302" f="4" s="0" t="1" n="4seven"/>
 		</TS>
 		<TS id="0815" on="0002" frq="11141000" inv="2" sr="22000000" fec="5" pol="0" mod="0" sys="0">
-			<S i="c789" f="4" s="0" t="1" n="BET:BlackEntTv"/>
+			<S i="c789" f="2" s="0" t="1" n="BET:BlackEntTv"/>
 			<S i="c78a" f="4" s="1" t="1" n="Nicktoons"/>
 			<S i="c78b" f="4" s="1" t="1" n="ComedyCent+1"/>
 			<S i="c78c" f="4" s="1" t="1" n="ComedyCentral"/>
@@ -261,7 +261,7 @@
 			<S i="c790" f="4" s="1" t="1" n="Nick Jr."/>
 			<S i="c792" f="4" s="1" t="1" n="Nick Jr+1"/>
 			<S i="c793" f="4" s="1" t="1" n="Nickelodeon"/>
-			<S i="c794" f="4" s="1" t="1" n="Nick Jr. Too"/>
+			<S i="c794" f="4" s="1" t="1" n="NickJrPAWPatrol"/>
 			<S i="c795" f="4" s="1" t="1" n="ComedyCentral"/>
 			<S i="c796" f="4" s="1" t="1" n="MTV HITS"/>
 			<S i="c797" f="4" s="1" t="1" n="MTV MUSIC"/>
@@ -487,7 +487,7 @@
 			<S i="587d" f="4" s="0" t="2" n="Desi Radio"/>
 		</TS>
 		<TS id="082f" on="0002" frq="11553000" inv="2" sr="22000000" fec="5" pol="0" mod="0" sys="0">
-			<S i="2541" f="4" s="0" t="1" n="Hochanda"/>
+			<S i="2541" f="4" s="0" t="1" n="The Craft Store"/>
 			<S i="254d" f="4" s="0" t="2" n="Capital XTRA"/>
 			<S i="2557" f="4" s="0" t="2" n="Radio X"/>
 			<S i="2558" f="4" s="0" t="2" n="Capital"/>
@@ -505,6 +505,7 @@
 			<S i="d749" f="4" s="0" t="1" n="Clubland TV"/>
 			<S i="d74a" f="4" s="0" t="1" n="NOW 90s"/>
 			<S i="d74c" f="4" s="0" t="1" n="NDTV 24x7"/>
+			<S i="d74e" f="2" s="0" t="1" n="mytv"/>
 			<S i="d758" f="2" s="0" t="2" n="UCB Ireland"/>
 			<S i="d75b" f="4" s="0" t="2" n="LBC News"/>
 			<S i="d75c" f="4" s="0" t="2" n="Smooth"/>
@@ -676,9 +677,9 @@
 		</TS>
 		<TS id="07db" on="0002" frq="11914000" inv="2" sr="27500000" fec="5" pol="0" mod="0" sys="0">
 			<S i="0ff1" f="4" s="1" t="1" n="MUTV"/>
-			<S i="146d" f="4" s="0" t="1" n="5229"/>
+			<S i="146d" f="4" s="0" t="1" n="Sky Arts"/>
 			<S i="146e" f="4" s="1" t="1" n="SkyDocumntrs"/>
-			<S i="1471" f="4" s="1" t="1" n="5233"/>
+			<S i="1471" f="4" s="1" t="1" n="Sky Nature"/>
 			<S i="1575" f="4" s="1" t="1" n="RTÉ2+1"/>
 			<S i="15a1" f="4" s="1" t="1" n="RTÉ One"/>
 			<S i="15a2" f="4" s="1" t="1" n="RTÉ2"/>
@@ -954,7 +955,7 @@
 			<S i="21ab" f="4" s="0" t="82" n="Pending Cancel"/>
 		</TS>
 		<TS id="07ec" on="0002" frq="12246000" inv="2" sr="27500000" fec="2" pol="1" mod="9" sys="1">
-			<S i="0668" f="1" s="1" t="19" n="Floyd Case HD"/>
+			<S i="0668" f="4" s="1" t="19" n="Floyd Case HD"/>
 			<S i="1468" f="4" s="1" t="19" n="Sky Sports HD"/>
 			<S i="148b" f="4" s="0" t="2" n="SNR"/>
 			<S i="25e5" f="4" s="1" t="1f" n="UH1MON"/>

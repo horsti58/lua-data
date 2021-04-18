@@ -87,7 +87,7 @@
 			<S i="4eca" f="4" s="0" t="1" n="Fight Network"/>
 			<S i="4ecb" f="4" s="0" t="1" n="FOX News"/>
 			<S i="4ecc" f="4" s="0" t="1" n="Extreme Sports"/>
-			<S i="4ecd" f="4" s="0" t="1" n="Motorvision"/>
+			<S i="4ecd" f="4" s="0" t="1" n="Parlamentarni"/>
 			<S i="4ece" f="4" s="0" t="1" n="Telebet"/>
 			<S i="4ed4" f="4" s="0" t="1" n="Dorcel"/>
 			<S i="4ed5" f="4" s="0" t="1" n="Brazzers TV"/>
@@ -130,7 +130,7 @@
 			<S i="4f16" f="4" s="0" t="1" n="K3"/>
 			<S i="4f1a" f="4" s="0" t="1" n="TV Niksic"/>
 			<S i="4f1b" f="4" s="0" t="1" n="TV Budva"/>
-			<S i="4f1c" f="4" s="0" t="1" n="TV Pljevlja"/>
+			<S i="4f1c" f="4" s="1" t="1" n="TV Pljevlja"/>
 			<S i="4f24" f="4" s="0" t="1" n="Baby TV"/>
 		</TS>
 		<TS id="0c82" on="0003" frq="11739000" inv="2" sr="29900000" fec="2" pol="1" mod="9" sys="1">
@@ -517,6 +517,7 @@
 			<S i="5282" f="4" s="1" t="16" n="VTM 4"/>
 			<S i="5284" f="4" s="1" t="16" n="Man-X"/>
 			<S i="5286" f="4" s="1" t="16" n="Play5"/>
+			<S i="5287" f="1" s="1" t="16" n="Play7"/>
 			<S i="52da" f="4" s="1" t="2" n="MNM"/>
 			<S i="52db" f="4" s="1" t="2" n="Studio Brussel"/>
 			<S i="52dc" f="4" s="1" t="2" n="Klara"/>
@@ -672,7 +673,7 @@
 			<S i="4ea8" f="4" s="0" t="1" n="English Club TV"/>
 			<S i="4ea9" f="4" s="0" t="1" n="E!"/>
 			<S i="4eac" f="4" s="0" t="1" n="24Kitchen"/>
-			<S i="4ead" f="4" s="0" t="1" n="Fashion TV"/>
+			<S i="4ead" f="4" s="1" t="1" n="Fashion TV"/>
 			<S i="4eaf" f="4" s="0" t="1" n="LoL"/>
 			<S i="4eb0" f="4" s="0" t="1" n="RTL Croatia"/>
 			<S i="4eb1" f="4" s="0" t="1" n="TV Hayat"/>
@@ -697,7 +698,7 @@
 			<S i="4ec5" f="4" s="0" t="1" n="CNN"/>
 			<S i="4ec6" f="4" s="0" t="1" n="Euronews"/>
 			<S i="4ec7" f="4" s="0" t="1" n="DW English"/>
-			<S i="4ec8" f="4" s="1" t="1" n="RT"/>
+			<S i="4ec8" f="4" s="0" t="1" n="RT"/>
 			<S i="4ed4" f="2" s="0" t="1" n="Dorcel"/>
 			<S i="4eda" f="2" s="0" t="1" n="Hustler"/>
 		</TS>

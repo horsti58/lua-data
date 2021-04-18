@@ -2,6 +2,8 @@
 		<S i="366" t="c35a" on="9e" s="90" frq="11727" n="Finest TV"/>
 		<S i="363" t="c35a" on="9e" s="90" frq="11727" n="MUSEUM"/>
 		<S i="365" t="c35a" on="9e" s="90" frq="11727" n="MyZen TV HD"/>
+		<S i="35f" t="c35a" on="9e" s="90" frq="11727" n="ORTB TV"/>
+		<S i="360" t="c35a" on="9e" s="90" frq="11727" n="RTI"/>
 		<S i="364" t="c35a" on="9e" s="90" frq="11727" n="TIN - The Israeli Network - new"/>
 		<S i="362" t="c35a" on="9e" s="90" frq="11727" n="TRT tamil"/>
 	</Bouquet>
@@ -88,33 +90,14 @@
 		<S i="726" t="1" on="64" s="90" frq="11823" n="SISAL 3"/>
 		<S i="730" t="1" on="64" s="90" frq="11823" n="SISAL 4"/>
 		<S i="73a" t="1" on="64" s="90" frq="11823" n="SISAL 5"/>
+		<S i="672" t="1" on="64" s="90" frq="11823" n="TVT International"/>
+		<S i="67c" t="1" on="64" s="90" frq="11823" n="TVT Radio 1 (Radio Lome)"/>
+		<S i="686" t="1" on="64" s="90" frq="11823" n="TVT Radio 2 (Radio Kara)"/>
 		<S i="65e" t="1" on="64" s="90" frq="11823" n="Carrefour Iper"/>
 		<S i="668" t="1" on="64" s="90" frq="11823" n="Carrefour Market"/>
 		<S i="6a4" t="1" on="64" s="90" frq="11823" n="Radio CHINA FM"/>
 		<S i="64a" t="1" on="64" s="90" frq="11823" n="Ros * Ros"/>
 		<S i="654" t="1" on="64" s="90" frq="11823" n="Ros * Ros Selex"/>
-	</Bouquet>
-	<Bouquet name="[E009.0] GlobeCast">
-		<S i="273" t="1" on="1" s="90" frq="11996" n="CBS Reality EMEA"/>
-		<S i="273" t="1900" on="9c" s="90" frq="11996" n="CBS Reality EMEA"/>
-		<S i="26b" t="1900" on="9c" s="90" frq="11996" n="CCTV-4"/>
-		<S i="26b" t="1" on="1" s="90" frq="11996" n="CCTV-4"/>
-		<S i="26f" t="1" on="1" s="90" frq="11996" n="CGTN Documentary"/>
-		<S i="26f" t="1900" on="9c" s="90" frq="11996" n="CGTN Documentary"/>
-		<S i="26e" t="1900" on="9c" s="90" frq="11996" n="CGTN-A"/>
-		<S i="26e" t="1" on="1" s="90" frq="11996" n="CGTN-A"/>
-		<S i="26c" t="1" on="1" s="90" frq="11996" n="CGTN-E"/>
-		<S i="26c" t="1900" on="9c" s="90" frq="11996" n="CGTN-E"/>
-		<S i="26d" t="1900" on="9c" s="90" frq="11996" n="CGTN-R"/>
-		<S i="26d" t="1" on="1" s="90" frq="11996" n="CGTN-R"/>
-		<S i="276" t="1900" on="9c" s="90" frq="11996" n="Extreme Sports"/>
-		<S i="276" t="1" on="1" s="90" frq="11996" n="Extreme Sports"/>
-		<S i="275" t="1900" on="9c" s="90" frq="11996" n="JimJam ME"/>
-		<S i="275" t="1" on="1" s="90" frq="11996" n="JimJam ME"/>
-		<S i="274" t="1900" on="9c" s="90" frq="11996" n="JimJam PE"/>
-		<S i="274" t="1" on="1" s="90" frq="11996" n="JimJam PE"/>
-		<S i="277" t="1900" on="9c" s="90" frq="11996" n="EDM FM"/>
-		<S i="277" t="1" on="1" s="90" frq="11996" n="EDM FM"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] GLOBECAST">
 		<S i="cc" t="19c8" on="9e" s="90" frq="12034" n="6 TER Suisse HD"/>
@@ -128,6 +111,28 @@
 		<S i="163" t="19c8" on="9e" s="90" frq="12034" n="Télé Sahel"/>
 		<S i="cd" t="19c8" on="9e" s="90" frq="12034" n="W9 Suisse HD"/>
 		<S i="164" t="19c8" on="9e" s="90" frq="12034" n="La Voix Du Sahel"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] GlobeCast">
+		<S i="273" t="1900" on="9c" s="90" frq="11996" n="CBS Reality EMEA"/>
+		<S i="273" t="1" on="1" s="90" frq="11996" n="CBS Reality EMEA"/>
+		<S i="26b" t="1900" on="9c" s="90" frq="11996" n="CCTV-4"/>
+		<S i="26b" t="1" on="1" s="90" frq="11996" n="CCTV-4"/>
+		<S i="26f" t="1" on="1" s="90" frq="11996" n="CGTN Documentary"/>
+		<S i="26f" t="1900" on="9c" s="90" frq="11996" n="CGTN Documentary"/>
+		<S i="26e" t="1900" on="9c" s="90" frq="11996" n="CGTN-A"/>
+		<S i="26e" t="1" on="1" s="90" frq="11996" n="CGTN-A"/>
+		<S i="26c" t="1900" on="9c" s="90" frq="11996" n="CGTN-E"/>
+		<S i="26c" t="1" on="1" s="90" frq="11996" n="CGTN-E"/>
+		<S i="26d" t="1900" on="9c" s="90" frq="11996" n="CGTN-R"/>
+		<S i="26d" t="1" on="1" s="90" frq="11996" n="CGTN-R"/>
+		<S i="276" t="1900" on="9c" s="90" frq="11996" n="Extreme Sports"/>
+		<S i="276" t="1" on="1" s="90" frq="11996" n="Extreme Sports"/>
+		<S i="275" t="1900" on="9c" s="90" frq="11996" n="JimJam ME"/>
+		<S i="275" t="1" on="1" s="90" frq="11996" n="JimJam ME"/>
+		<S i="274" t="1900" on="9c" s="90" frq="11996" n="JimJam PE"/>
+		<S i="274" t="1" on="1" s="90" frq="11996" n="JimJam PE"/>
+		<S i="277" t="1900" on="9c" s="90" frq="11996" n="EDM FM"/>
+		<S i="277" t="1" on="1" s="90" frq="11996" n="EDM FM"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Inview Ltd">
 		<S i="c03" t="65" on="12" s="90" frq="11804" n="INV1-afnatl"/>
@@ -250,6 +255,7 @@
 		<S i="1f5" t="2134" on="9c" s="90" frq="11977" n="Mediaset Italia"/>
 		<S i="1fd" t="2134" on="9c" s="90" frq="11977" n="Mezzo Live HD"/>
 		<S i="6a4" t="1fa4" on="9c" s="90" frq="12322" n="MTV Live HD"/>
+		<S i="4ef0" t="21fc" on="9c" s="90" frq="12437" n="Nat Geo Wild HD"/>
 		<S i="26e" t="206c" on="9c" s="90" frq="12360" n="National Geographic HD"/>
 		<S i="267" t="206c" on="9c" s="90" frq="12360" n="Nick Jr."/>
 		<S i="1fe" t="2134" on="9c" s="90" frq="11977" n="OstWest"/>
@@ -425,7 +431,9 @@
 		<S i="dc5" t="16a8" on="9c" s="90" frq="11881" n="MCM TOP"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] RAI">
+		<S i="dbb" t="16a8" on="9c" s="90" frq="11881" n="ORTB TV"/>
 		<S i="daf" t="16a8" on="9c" s="90" frq="11881" n="Rai Africa"/>
+		<S i="db5" t="16a8" on="9c" s="90" frq="11881" n="RTI"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] SBT">
 		<S i="18" t="170c" on="9e" s="90" frq="11900" n="RTB Radio"/>
