@@ -796,8 +796,8 @@
 		<TS id="07e4" on="0002" frq="12090000" inv="2" sr="27500000" fec="2" pol="1" mod="9" sys="1">
 			<S i="0cc9" f="4" s="1" t="19" n="SkySp Mix HD"/>
 			<S i="0e2d" f="4" s="1" t="19" n="SkySp News HD"/>
-			<S i="0eee" f="4" s="1" t="19" n="SkySp Action HD"/>
-			<S i="0ef0" f="4" s="1" t="19" n="SkySp Action HD"/>
+			<S i="0eee" f="4" s="1" t="19" n="SkySp NFL HD"/>
+			<S i="0ef0" f="4" s="1" t="19" n="SkySp NFL HD"/>
 			<S i="0efb" f="4" s="1" t="19" n="SkySp F1 HD"/>
 			<S i="0efc" f="4" s="1" t="19" n="SkySp F1 HD"/>
 			<S i="0f0e" f="4" s="1" t="19" n="Sky News HD"/>
@@ -815,6 +815,7 @@
 			<S i="0fa5" f="4" s="1" t="19" n="SONY MAX HD"/>
 			<S i="144b" f="4" s="1" t="19" n="SkyHistory2HD"/>
 			<S i="144f" f="4" s="1" t="19" n="SkyAnimationHD"/>
+			<S i="16b2" f="4" s="1" t="19" n="W HD"/>
 			<S i="1793" f="4" s="1" t="19" n="Nat Geo HD"/>
 		</TS>
 		<TS id="07e6" on="0002" frq="12129000" inv="2" sr="27500000" fec="5" pol="1" mod="0" sys="0">
@@ -915,8 +916,8 @@
 			<S i="0ffd" f="4" s="1" t="1" n="SkySp Mix"/>
 			<S i="1076" f="4" s="1" t="1" n="SkySpMainEv"/>
 			<S i="1078" f="4" s="1" t="1" n="SkySpMainEv"/>
-			<S i="107b" f="4" s="1" t="1" n="SkySp Action"/>
-			<S i="119f" f="4" s="1" t="1" n="SkySp Action"/>
+			<S i="107b" f="4" s="1" t="1" n="SkySp NFL"/>
+			<S i="119f" f="4" s="1" t="1" n="SkySp NFL"/>
 			<S i="125d" f="4" s="1" t="1" n="Sky One"/>
 			<S i="1298" f="4" s="1" t="1" n="Virgin One"/>
 			<S i="13e3" f="4" s="1" t="1" n="SkySp Mix"/>
@@ -955,7 +956,7 @@
 			<S i="21ab" f="4" s="0" t="82" n="Pending Cancel"/>
 		</TS>
 		<TS id="07ec" on="0002" frq="12246000" inv="2" sr="27500000" fec="2" pol="1" mod="9" sys="1">
-			<S i="0668" f="4" s="1" t="19" n="Floyd Case HD"/>
+			<S i="0668" f="4" s="1" t="19" n="PPV"/>
 			<S i="1468" f="4" s="1" t="19" n="Sky Sports HD"/>
 			<S i="148b" f="4" s="0" t="2" n="SNR"/>
 			<S i="25e5" f="4" s="1" t="1f" n="UH1MON"/>
@@ -989,8 +990,12 @@
 			<S i="0ee8" f="4" s="1" t="19" n="Sky Drama HD"/>
 			<S i="0ee9" f="4" s="1" t="19" n="Sky ScFi/HorHD"/>
 			<S i="0eeb" f="4" s="1" t="19" n="Sky Comedy HD"/>
-			<S i="0fa6" f="4" s="1" t="19" n="W HD"/>
+			<S i="0fa6" f="2" s="1" t="19" n="W HD"/>
 			<S i="13b7" f="4" s="0" t="19" n="CNBC HD"/>
+			<S i="177e" f="4" s="1" t="19" n="Sky Action HD"/>
+			<S i="1784" f="4" s="1" t="19" n="SkyOscarsHD"/>
+			<S i="17ae" f="4" s="1" t="19" n="Sky Thriller HD"/>
+			<S i="1837" f="4" s="1" t="19" n="6199"/>
 		</TS>
 		<TS id="07f0" on="0002" frq="12324000" inv="2" sr="27500000" fec="2" pol="1" mod="9" sys="1">
 			<S i="03ea" f="4" s="0" t="19" n="Sky Intro"/>
