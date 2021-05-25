@@ -20,7 +20,6 @@
 			<S i="1186" f="4" s="1" t="1" n="Cinemax HD"/>
 			<S i="1187" f="4" s="1" t="1" n="National Geographic Wild HD"/>
 			<S i="118f" f="4" s="1" t="1" n="DATA"/>
-			<S i="1190" f="3" s="1" t="84" n="NETFLIX"/>
 		</TS>
 		<TS id="2b5c" on="013e" frq="10727000" inv="2" sr="30000000" fec="3" pol="0" mod="9" sys="1">
 			<S i="11f9" f="4" s="1" t="1" n="4K Universe"/>
@@ -63,21 +62,21 @@
 			<S i="429e" f="4" s="1" t="1" n="Nowa TV"/>
 		</TS>
 		<TS id="2c24" on="013e" frq="10775000" inv="2" sr="29900000" fec="10" pol="0" mod="9" sys="1">
-			<S i="05e2" f="4" s="0" t="1" n="IRINN"/>
+			<S i="05e2" f="4" s="0" t="1" n="IRIINN"/>
 			<S i="05e4" f="4" s="0" t="1" n="IRIB QURAN"/>
 			<S i="05ea" f="4" s="0" t="1" n="iFILM"/>
 			<S i="05f0" f="4" s="0" t="1" n="IRIB NASIM"/>
-			<S i="05f1" f="4" s="0" t="1" n="JAMEJAM1"/>
-			<S i="05f2" f="4" s="0" t="1" n="JAMEJAM2"/>
-			<S i="05f3" f="4" s="0" t="1" n="JAMEJAM3"/>
+			<S i="05f1" f="4" s="0" t="1" n="JAAMEJAM 1"/>
+			<S i="05f2" f="4" s="0" t="1" n="JAAMEJAM 2"/>
+			<S i="05f3" f="4" s="0" t="1" n="JAAMEJAM 3"/>
 			<S i="05f6" f="4" s="0" t="1" n="SAHAR BALKAN"/>
 			<S i="05f7" f="4" s="0" t="1" n="SAHAR AZARI"/>
-			<S i="05f8" f="4" s="0" t="1" n="SAHAR URDU"/>
+			<S i="05f8" f="4" s="0" t="1" n="SAHAR ORDU"/>
 			<S i="05f9" f="4" s="0" t="1" n="SAHAR KURDISH"/>
 			<S i="05fa" f="4" s="0" t="1" n="ALKAWTHAR"/>
 			<S i="05fb" f="4" s="0" t="1" n="PRESS TV HD"/>
 			<S i="05fc" f="4" s="0" t="1" n="HISPAN TV"/>
-			<S i="05fd" f="4" s="0" t="1" n="iFILM ENGLISH"/>
+			<S i="05fd" f="4" s="0" t="1" n="iFILM ENG"/>
 			<S i="060f" f="4" s="0" t="2" n="RADIO IRAN"/>
 			<S i="0610" f="4" s="0" t="2" n="RADIO PAYAM"/>
 			<S i="0611" f="4" s="0" t="2" n="RADIO JAVAN"/>
@@ -95,7 +94,7 @@
 			<S i="061e" f="4" s="0" t="2" n="RADIO 03 ARABIC WORLD SERVICE"/>
 			<S i="0621" f="4" s="0" t="2" n="RADIO TALAVAT"/>
 			<S i="0622" f="4" s="0" t="2" n="RADIO GOFTOGOO"/>
-			<S i="062d" f="4" s="0" t="2" n="RADIO 01 WORLD SERVICE"/>
+			<S i="062d" f="4" s="0" t="2" n="IRIB 01 WORLD SERVICE"/>
 			<S i="062e" f="4" s="0" t="2" n="RADIO 02 WORLD SERVICE"/>
 			<S i="0630" f="4" s="0" t="2" n="RADIO 04 WORLD SERVICE"/>
 			<S i="0631" f="4" s="0" t="2" n="RADIO 05 WORLD SERVICE"/>
@@ -118,6 +117,7 @@
 			<S i="3d66" f="4" s="1" t="1" n="TV PULS HD"/>
 			<S i="3d67" f="4" s="1" t="1" n="TVP Historia"/>
 			<S i="3d68" f="4" s="1" t="1" n="FilmBox Extra HD"/>
+			<S i="3d84" f="4" s="1" t="1f" n="15748"/>
 			<S i="3d8d" f="4" s="1" t="1" n="CBS Reality HD"/>
 			<S i="3d8e" f="4" s="1" t="1" n="TVP SERIALE"/>
 			<S i="3d8f" f="4" s="1" t="1" n="Filmbox Premium HD"/>
@@ -126,7 +126,6 @@
 			<S i="3d97" f="4" s="1" t="1" n="FilmBox Action"/>
 			<S i="3d99" f="4" s="1" t="1" n="TVP Historia"/>
 			<S i="3d9a" f="4" s="1" t="1" n="FilmBox Extra HD"/>
-			<S i="3db5" f="4" s="1" t="1" n="UNK (0x2C88_0x3DB5)"/>
 			<S i="3db6" f="4" s="1" t="1" n="UNK (0x2C88_0x3DB6)"/>
 			<S i="3db7" f="4" s="1" t="1" n="UNK (0x2C88_0x3DB7)"/>
 		</TS>
@@ -143,6 +142,7 @@
 			<S i="0db0" f="4" s="1" t="1" n="Animal Planet HD"/>
 			<S i="0db1" f="4" s="1" t="1" n="TVP Sport HD"/>
 			<S i="0db2" f="4" s="1" t="1" n="Discovery Historia"/>
+			<S i="0db3" f="4" s="1" t="1" n="Cinemax HD"/>
 			<S i="0db4" f="4" s="1" t="1" n="AXN SPIN HD"/>
 			<S i="0db5" f="4" s="0" t="1" n="Red Carpet TV"/>
 			<S i="0dcd" f="4" s="1" t="1" n="HBO2 HD"/>
@@ -155,17 +155,17 @@
 			<S i="0de2" f="4" s="1" t="1" n="Animal Planet HD"/>
 			<S i="0de3" f="4" s="1" t="1" n="TVP Sport HD"/>
 			<S i="0de4" f="4" s="1" t="1" n="Discovery Historia"/>
+			<S i="0de5" f="4" s="1" t="1" n="Cinemax HD"/>
 			<S i="0de6" f="4" s="1" t="1" n="AXN SPIN HD"/>
-			<S i="0de8" f="3" s="1" t="c" n="Faktura"/>
 			<S i="0dfc" f="4" s="1" t="1" n="BBC FIRST"/>
 			<S i="0dfe" f="4" s="1" t="1" n="BBC Earth HD"/>
 			<S i="0dff" f="4" s="1" t="1" n="HBO2 HD"/>
 			<S i="0e00" f="4" s="1" t="1" n="HBO3 HD"/>
+			<S i="0e03" f="4" s="1" t="1" n="Cinemax HD"/>
 			<S i="0e06" f="4" s="1" t="1" n="BBC FIRST"/>
 			<S i="0e08" f="4" s="1" t="1" n="BBC Earth HD"/>
 			<S i="0e09" f="4" s="1" t="1" n="HBO2 HD"/>
 			<S i="0e0a" f="4" s="1" t="1" n="HBO3 HD"/>
-			<S i="0e0f" f="3" s="1" t="c" n="DATA"/>
 		</TS>
 		<TS id="2e18" on="00b0" frq="10873000" inv="2" sr="27500000" fec="3" pol="1" mod="9" sys="1">
 			<S i="0001" f="4" s="0" t="1" n="Al Maghribia HD"/>
@@ -231,32 +231,28 @@
 			<S i="3e25" f="4" s="1" t="1" n="Eurosport 1 HD"/>
 			<S i="3e26" f="4" s="1" t="1" n="13 Ulica HD"/>
 			<S i="3e27" f="4" s="1" t="1" n="Lifetime HD"/>
-			<S i="3e29" f="4" s="1" t="1" n="Lifetime HD"/>
+			<S i="3e29" f="4" s="0" t="1" n="Lifetime HD"/>
 			<S i="3e2a" f="4" s="0" t="1" n="Eurosport 1 HD"/>
-			<S i="3e30" f="4" s="1" t="1" n="PPV HD KSW 60"/>
+			<S i="3e30" f="4" s="1" t="1" n="PPV HD FEN 34"/>
 			<S i="3e3e" f="4" s="0" t="1" n="SciFi HD"/>
 			<S i="3e3f" f="4" s="0" t="1" n="TLC HD"/>
 			<S i="3e44" f="4" s="0" t="1" n="13 Ulica HD"/>
-			<S i="3e4e" f="2" s="0" t="c" n="B"/>
 		</TS>
 		<TS id="2f44" on="013e" frq="10930000" inv="2" sr="30000000" fec="2" pol="0" mod="9" sys="1">
 			<S i="0029" f="4" s="0" t="1" n="Kazakh TV HD"/>
-			<S i="05e6" f="2" s="0" t="1" n="SCT"/>
 			<S i="06c3" f="4" s="0" t="1" n="HSE24"/>
 			<S i="4205" f="4" s="1" t="1" n="Dorcel TV HD"/>
 			<S i="4207" f="4" s="0" t="1" n="Brazzers HD"/>
 			<S i="4208" f="4" s="0" t="19" n="HRTInt. HD"/>
 			<S i="4209" f="4" s="0" t="2" n="VOICE OF CRO"/>
-			<S i="420e" f="1" s="0" t="16" n="MBC"/>
-			<S i="420f" f="1" s="0" t="16" n="MBC Drama"/>
-			<S i="4210" f="1" s="0" t="16" n="MBC Masr"/>
-			<S i="4211" f="1" s="0" t="16" n="MBC 3"/>
-			<S i="4212" f="1" s="0" t="16" n="Rotana Cinema"/>
-			<S i="4213" f="1" s="0" t="16" n="MTV Lebanon"/>
+			<S i="420e" f="4" s="0" t="16" n="MBC"/>
+			<S i="420f" f="4" s="0" t="16" n="MBC Drama"/>
+			<S i="4210" f="4" s="0" t="16" n="MBC Masr"/>
+			<S i="4211" f="4" s="0" t="16" n="MBC 3"/>
+			<S i="4212" f="4" s="0" t="16" n="Rotana Cinema"/>
+			<S i="4213" f="4" s="0" t="16" n="MTV Lebanon"/>
 			<S i="421c" f="4" s="0" t="16" n="UATV"/>
 			<S i="421d" f="4" s="1" t="1" n="Baby TV"/>
-			<S i="421e" f="2" s="0" t="1" n="Penthouse Black"/>
-			<S i="421f" f="2" s="0" t="1" n="Penthouse 2"/>
 			<S i="4220" f="4" s="1" t="19" n="Hustler HD"/>
 			<S i="4221" f="4" s="1" t="16" n="Blue Hustler"/>
 			<S i="4222" f="4" s="1" t="19" n="Private HD"/>
@@ -304,8 +300,7 @@
 			<S i="435f" f="4" s="0" t="2" n="Swiss Classica"/>
 		</TS>
 		<TS id="3070" on="013e" frq="10992000" inv="2" sr="27500000" fec="2" pol="1" mod="0" sys="0">
-			<S i="0110" f="3" s="1" t="1" n="UNK (0x3070_0x0110)"/>
-			<S i="0111" f="4" s="1" t="1" n="UNK (0x3070_0x0111)"/>
+			<S i="0110" f="4" s="1" t="1" n="UNK (0x3070_0x0110)"/>
 			<S i="2136" f="4" s="1" t="1" n="Rai Movie"/>
 			<S i="213f" f="4" s="1" t="1" n="Rai 1"/>
 			<S i="2140" f="4" s="1" t="1" n="Rai 2"/>
@@ -365,7 +360,7 @@
 			<S i="06aa" f="4" s="0" t="1" n="CGTN"/>
 			<S i="06ab" f="4" s="0" t="1" n="TVRUS"/>
 			<S i="06ac" f="4" s="0" t="1" n="RTR"/>
-			<S i="06ad" f="4" s="0" t="1" n="BestMarket TV"/>
+			<S i="06ad" f="4" s="0" t="1" n="Jewelleria"/>
 			<S i="06ae" f="4" s="0" t="1" n="ROSSIYA24"/>
 			<S i="06af" f="4" s="0" t="2" n="Chaine 2"/>
 			<S i="06b0" f="4" s="0" t="1" n="7D7"/>
@@ -376,7 +371,6 @@
 			<S i="06d8" f="4" s="0" t="2" n="Bahai Radio"/>
 		</TS>
 		<TS id="319c" on="013e" frq="11054000" inv="2" sr="27500000" fec="5" pol="0" mod="0" sys="0">
-			<S i="025f" f="3" s="0" t="1" n="Deutsches Musik Fernsehen"/>
 			<S i="1f43" f="4" s="0" t="1" n="ARTI TV"/>
 			<S i="1f44" f="4" s="0" t="1" n="MC EU"/>
 			<S i="1f4b" f="4" s="0" t="1" n="MB Sat - Test 1"/>
@@ -419,7 +413,7 @@
 			<S i="0076" f="4" s="0" t="1" n="Kabelio TF1"/>
 			<S i="0078" f="4" s="0" t="1" n="Kabelio M6"/>
 			<S i="0079" f="4" s="0" t="1" n="Kabelio BBC One"/>
-			<S i="007a" f="4" s="1" t="1" n="Kabelio BBC Two"/>
+			<S i="007a" f="4" s="0" t="1" n="Kabelio BBC Two"/>
 			<S i="007b" f="4" s="0" t="1" n="Kabelio itv"/>
 			<S i="007f" f="4" s="0" t="1" n="Kabelio KabelEins CH"/>
 			<S i="0082" f="4" s="0" t="1" n="Kabelio Canale 5"/>
@@ -491,7 +485,7 @@
 			<S i="132e" f="4" s="0" t="1" n="Juwelo TV"/>
 			<S i="1349" f="4" s="0" t="1" n="Marjaeyat"/>
 			<S i="134b" f="4" s="0" t="1" n="HADI TV 3"/>
-			<S i="1359" f="4" s="0" t="2" n="Radio LatteMiele"/>
+			<S i="1359" f="4" s="0" t="2" n="Radio Sintony"/>
 			<S i="135b" f="4" s="0" t="2" n="Radio Gamma Stereo"/>
 			<S i="135c" f="4" s="0" t="2" n="RIK3"/>
 			<S i="135d" f="4" s="0" t="2" n="Radio Margherita"/>
@@ -500,8 +494,7 @@
 			<S i="1360" f="4" s="0" t="1" n="Canale Italia 2"/>
 			<S i="1361" f="4" s="0" t="1" n="Canale Italia 83"/>
 			<S i="1362" f="4" s="0" t="1" n="Canale Italia 84"/>
-			<S i="1365" f="1" s="0" t="2" n="Radio Dimensione StereoTest"/>
-			<S i="1367" f="1" s="0" t="2" n="Radio Studio Delta Test"/>
+			<S i="1365" f="4" s="0" t="2" n="Radio Dimensione Stereo"/>
 			<S i="136a" f="4" s="0" t="1" n="TLC Telecampione"/>
 			<S i="1381" f="4" s="0" t="1" n="Arte Investimenti"/>
 			<S i="1382" f="4" s="0" t="1" n="Telecupole"/>
@@ -530,37 +523,12 @@
 			<S i="0604" f="4" s="1" t="16" n="Zee TV"/>
 		</TS>
 		<TS id="00c8" on="013e" frq="11240000" inv="2" sr="27500000" fec="3" pol="1" mod="0" sys="0">
-			<S i="364d" f="2" s="0" t="2" n="CHAINE 1"/>
-			<S i="364e" f="2" s="0" t="2" n="CHAINE 2"/>
-			<S i="364f" f="2" s="0" t="2" n="CHAINE 3"/>
-			<S i="3650" f="2" s="0" t="1" n="TV 4 TAMAZIGHT"/>
-			<S i="3651" f="2" s="0" t="1" n="TV 5 CORAN"/>
 			<S i="366a" f="4" s="0" t="1" n="NOVIY_MIR"/>
-		</TS>
-		<TS id="012c" on="013e" frq="11258000" inv="2" sr="27500000" fec="3" pol="0" mod="9" sys="1">
-			<S i="076d" f="4" s="1" t="16" n="MBC 1 EUROPE"/>
-			<S i="076e" f="4" s="1" t="16" n="MBC 3 EUROPE"/>
-			<S i="076f" f="4" s="1" t="16" n="MBC MASR"/>
-			<S i="0770" f="4" s="1" t="16" n="ROTANA CINEMA"/>
-			<S i="0771" f="4" s="1" t="16" n="MAZZIKA"/>
-			<S i="0772" f="4" s="1" t="16" n="MTV LEBANON"/>
-			<S i="0773" f="4" s="1" t="16" n="IQRAA INTERNATIONAL"/>
-			<S i="0774" f="4" s="1" t="16" n="Gulli Bil Arabi"/>
-			<S i="0775" f="4" s="1" t="16" n="MBC DRAMA"/>
-			<S i="0776" f="4" s="1" t="16" n="ZEE ALWAN"/>
-			<S i="0777" f="4" s="1" t="16" n="ENNAHAR"/>
-			<S i="0778" f="4" s="1" t="16" n="AL MAJD RAWDA"/>
-			<S i="0779" f="4" s="1" t="16" n="ROTANA CLASSIC"/>
-			<S i="077a" f="4" s="1" t="16" n="PANORAMA FOOD"/>
-			<S i="077b" f="4" s="1" t="16" n="Lana"/>
-			<S i="077c" f="4" s="1" t="16" n="Hannibal TV"/>
-			<S i="07c6" f="3" s="0" t="c" n="SSU DTS3439"/>
-			<S i="07cf" f="3" s="0" t="80" n="Int Table"/>
-			<S i="07d0" f="3" s="0" t="12" n="SMARTBEAM"/>
 		</TS>
 		<TS id="0190" on="013e" frq="11278000" inv="2" sr="27500000" fec="3" pol="1" mod="9" sys="1">
 			<S i="32cd" f="4" s="0" t="1" n="CANAL+ NOW"/>
 			<S i="32ce" f="4" s="0" t="1" n="ELEVEN SPORTS 4 HD"/>
+			<S i="32d7" f="4" s="0" t="1" n="STREFA ABONENTA"/>
 			<S i="32dc" f="4" s="0" t="1" n="CANAL+ PREMIUM HD"/>
 			<S i="32de" f="4" s="0" t="1" n="CANAL+ SPORT HD"/>
 			<S i="32df" f="4" s="1" t="1" n="NATIONAL GEO HD"/>
@@ -602,7 +570,6 @@
 			<S i="089d" f="4" s="0" t="1" n="SNTV 1"/>
 			<S i="089e" f="4" s="0" t="1" n="SNTV 2"/>
 			<S i="089f" f="4" s="0" t="1" n="Kurdsat SD"/>
-			<S i="08a0" f="4" s="0" t="1" n="Hala London"/>
 			<S i="08a1" f="4" s="0" t="1" n="Ictimai TV"/>
 			<S i="08a2" f="4" s="0" t="1" n="Xezer_TV"/>
 			<S i="08a3" f="4" s="0" t="1" n="Lalish TV"/>
@@ -610,10 +577,8 @@
 			<S i="08a6" f="4" s="0" t="1" n="Medya Haber"/>
 			<S i="08a7" f="4" s="0" t="1" n="ES TV"/>
 			<S i="08a8" f="4" s="0" t="1" n="Azadi"/>
-			<S i="08a9" f="2" s="0" t="1" n="Telefishinka Caalmiga/Universal"/>
 			<S i="08b2" f="4" s="0" t="1" n="Radio Novaya Zhizn"/>
 			<S i="08b3" f="4" s="0" t="1" n="WELAT"/>
-			<S i="08ca" f="2" s="0" t="1" n="RUDAW OU"/>
 		</TS>
 		<TS id="02bc" on="013e" frq="11334000" inv="2" sr="27500000" fec="3" pol="0" mod="0" sys="0">
 			<S i="0003" f="4" s="0" t="1" n="Kentron TV"/>
@@ -624,18 +589,17 @@
 			<S i="000f" f="4" s="0" t="2" n="RDPI Radio"/>
 			<S i="0010" f="4" s="0" t="2" n="RADIO A1"/>
 			<S i="0011" f="4" s="0" t="1" n="HotBird 4K1"/>
-			<S i="03e9" f="1" s="0" t="1" n="Vatican Channel"/>
+			<S i="03e9" f="4" s="0" t="1" n="Vatican Channel"/>
 		</TS>
 		<TS id="0384" on="013e" frq="11373000" inv="2" sr="27500000" fec="3" pol="0" mod="9" sys="1">
 			<S i="01f5" f="4" s="0" t="1" n="Iran International HD"/>
 			<S i="01f6" f="4" s="0" t="1" n="ER24"/>
-			<S i="01f7" f="4" s="0" t="1" n="Well TV"/>
+			<S i="01f7" f="4" s="0" t="1" n="WellTV"/>
 			<S i="01f8" f="4" s="0" t="1" n="NASA TV HD"/>
 			<S i="01fa" f="4" s="0" t="1" n="RUDAW HD"/>
 			<S i="01fb" f="4" s="0" t="19" n="AVA"/>
 			<S i="01fc" f="4" s="0" t="1" n="Kurdistan 24 HD"/>
 			<S i="01fe" f="4" s="0" t="1" n="Parole di Vita"/>
-			<S i="0211" f="2" s="0" t="1" n="Penthouse HD"/>
 			<S i="0214" f="4" s="0" t="1" n="Tesory Channel"/>
 			<S i="0215" f="4" s="0" t="19" n="NHK WORLD-JAPAN"/>
 			<S i="0216" f="4" s="0" t="1" n="Iraqia News HD"/>
@@ -703,11 +667,9 @@
 			<S i="3ab9" f="4" s="1" t="1" n="nSport+"/>
 			<S i="3abd" f="4" s="1" t="1" n="TVP 1 HD"/>
 			<S i="3abe" f="4" s="1" t="1" n="Romance TV"/>
-			<S i="3aca" f="3" s="0" t="c" n="Upload"/>
 			<S i="3acb" f="4" s="0" t="1" n="CANAL+ DOKUMENT HD"/>
 			<S i="3acd" f="4" s="1" t="1" n="ID HD"/>
 			<S i="3ace" f="4" s="1" t="1" n="DTX"/>
-			<S i="3ad4" f="3" s="1" t="c" n="Faktura"/>
 			<S i="3ad6" f="4" s="1" t="1" n="Discovery HD"/>
 			<S i="3adb" f="4" s="1" t="1" n="TVP 1 HD"/>
 			<S i="3adc" f="4" s="1" t="1" n="Romance TV"/>
@@ -716,7 +678,6 @@
 			<S i="3af4" f="4" s="1" t="1" n="Discovery HD"/>
 			<S i="3af5" f="4" s="1" t="1" n="ID HD"/>
 			<S i="3af6" f="4" s="1" t="1" n="DTX"/>
-			<S i="3b38" f="3" s="1" t="c" n="pVOD"/>
 		</TS>
 		<TS id="05dc" on="013e" frq="11488000" inv="2" sr="27500000" fec="3" pol="0" mod="9" sys="1">
 			<S i="13ed" f="4" s="0" t="1" n="CANAL+1 HD"/>
@@ -727,6 +688,8 @@
 			<S i="13f3" f="4" s="1" t="1" n="Eleven Sports 1 HD"/>
 			<S i="13f4" f="4" s="1" t="1" n="5108"/>
 			<S i="13f5" f="4" s="1" t="1" n="Eleven Sports 2 HD"/>
+			<S i="13f6" f="4" s="1" t="1" n="National Geographic Wild HD"/>
+			<S i="13f7" f="4" s="1" t="1" n="TVP 3"/>
 			<S i="13f8" f="4" s="1" t="1" n="Eleven Sports 3 HD"/>
 			<S i="1410" f="4" s="0" t="2" n="Radio ZET"/>
 			<S i="1411" f="4" s="0" t="2" n="Meloradio"/>
@@ -736,15 +699,16 @@
 			<S i="1418" f="4" s="0" t="2" n="CANAL+ PR"/>
 			<S i="1419" f="4" s="0" t="2" n="JASNA GORA"/>
 			<S i="141a" f="4" s="1" t="2" n="CANAL+ RADIO"/>
-			<S i="141c" f="4" s="1" t="1" n="UNK (0x05DC_0x141C)"/>
-			<S i="141d" f="4" s="1" t="1" n="UNK (0x05DC_0x141D)"/>
-			<S i="1420" f="4" s="1" t="1" n="CANAL+ SPORT 2 HD"/>
+			<S i="1420" f="4" s="0" t="1" n="CANAL+ SPORT 2 HD"/>
 			<S i="1421" f="4" s="1" t="1" n="CANAL+ DOMO HD"/>
 			<S i="1424" f="4" s="1" t="1" n="KINO POLSKA HD"/>
 			<S i="1425" f="4" s="1" t="1" n="Eleven Sports 1 HD"/>
 			<S i="1427" f="4" s="1" t="1" n="Eleven Sports 2 HD"/>
+			<S i="1428" f="4" s="1" t="1" n="National Geographic Wild HD"/>
+			<S i="1429" f="4" s="1" t="1" n="TVP 3"/>
 			<S i="142a" f="4" s="0" t="2" n="TOK FM"/>
 			<S i="143e" f="4" s="1" t="1" n="Eleven Sports 3 HD"/>
+			<S i="1446" f="4" s="1" t="1" n="National Geographic Wild HD"/>
 			<S i="1448" f="4" s="1" t="1" n="Eleven Sports 3 HD"/>
 			<S i="144d" f="4" s="1" t="1" n="Eleven Sports 1 HD"/>
 			<S i="144e" f="4" s="1" t="1" n=""/>
@@ -806,8 +770,6 @@
 			<S i="0e29" f="4" s="1" t="1" n="VH1"/>
 			<S i="0e2b" f="4" s="1" t="1" n="Paramount Network"/>
 			<S i="0e2c" f="4" s="0" t="1" n="TG NORBA 24"/>
-			<S i="0e2d" f="2" s="1" t="19" n="Horse TV HD"/>
-			<S i="0e2e" f="2" s="0" t="1" n="Class TvModa"/>
 			<S i="0e34" f="4" s="0" t="2" n="R-BuonConsiglio"/>
 		</TS>
 		<TS id="3bc4" on="013e" frq="11566000" inv="2" sr="29900000" fec="3" pol="0" mod="9" sys="1">
@@ -837,12 +799,6 @@
 			<S i="29db" f="4" s="0" t="1" n="ARIRANG WORLD"/>
 			<S i="29e3" f="4" s="0" t="1" n="SOYUZ"/>
 			<S i="29e5" f="4" s="1" t="1" n="MEZZO"/>
-			<S i="29e6" f="2" s="0" t="1" n="ERT World Europe"/>
-			<S i="29e7" f="2" s="0" t="2" n="PROTO"/>
-			<S i="29e8" f="2" s="0" t="2" n="DEUTERO"/>
-			<S i="29e9" f="2" s="0" t="2" n="TRITO"/>
-			<S i="29ea" f="2" s="0" t="2" n="ERA SPORT"/>
-			<S i="29eb" f="2" s="0" t="2" n="VOICE OF GREECE"/>
 			<S i="29ed" f="4" s="0" t="2" n="WRN Russki"/>
 			<S i="29ee" f="4" s="0" t="2" n="WRN English Europe"/>
 			<S i="29f0" f="4" s="0" t="2" n="Radio Jahani"/>
@@ -859,10 +815,8 @@
 			<S i="051e" f="4" s="0" t="1" n="i24News HD English"/>
 			<S i="051f" f="4" s="0" t="1" n="RADIONORBA TV"/>
 			<S i="0520" f="4" s="0" t="1" n="Yes TV"/>
-			<S i="0522" f="4" s="0" t="16" n="HRT Int"/>
 			<S i="0524" f="4" s="0" t="19" n="SAT.TV - Hot Bird"/>
 			<S i="0526" f="4" s="0" t="19" n="DAYSTAR HD"/>
-			<S i="0527" f="4" s="0" t="2" n="VOICE OF CRO"/>
 			<S i="0529" f="4" s="0" t="19" n="RADIO ZETA HD"/>
 			<S i="052b" f="4" s="0" t="19" n="RTL 102.5 NEWS ASPI"/>
 			<S i="052c" f="4" s="1" t="19" n="Paramount Network HD"/>
@@ -882,7 +836,6 @@
 			<S i="421e" f="4" s="0" t="1" n="SCT"/>
 			<S i="421f" f="4" s="0" t="1" n="Just 89"/>
 			<S i="4224" f="4" s="1" t="1" n="Redlight HD"/>
-			<S i="4227" f="2" s="0" t="c" n="OTA TV Sat"/>
 			<S i="422e" f="4" s="1" t="1" n="Vivid Red HD!"/>
 			<S i="422f" f="4" s="1" t="1" n="Redlight HD!"/>
 			<S i="4238" f="4" s="0" t="1" n="Padre Pio Tv"/>
@@ -947,7 +900,6 @@
 			<S i="332e" f="4" s="0" t="1" n="BBC Arabic HD"/>
 			<S i="332f" f="4" s="0" t="1" n="POBEDA TV"/>
 			<S i="3330" f="4" s="0" t="1" n="KBS WORLD HD"/>
-			<S i="3331" f="3" s="0" t="1" n="Al Hiwar"/>
 			<S i="3341" f="4" s="0" t="2" n="DW08"/>
 			<S i="3342" f="4" s="0" t="2" n="DW09"/>
 			<S i="3343" f="4" s="0" t="2" n="DW-FM01"/>
@@ -979,9 +931,6 @@
 			<S i="338f" f="4" s="0" t="1" n="Test GC 4"/>
 		</TS>
 		<TS id="13ef" on="013e" frq="11747000" inv="2" sr="27500000" fec="3" pol="0" mod="9" sys="1">
-			<S i="012d" f="1" s="0" t="1" n="AD Sport 3 HD"/>
-			<S i="012e" f="1" s="0" t="1" n="AD Sport 4 HD"/>
-			<S i="0130" f="1" s="0" t="1" n="ALAAN TV HD"/>
 			<S i="2520" f="4" s="0" t="1" n="AL SHARJAH HD"/>
 			<S i="2523" f="4" s="0" t="1" n="AD SPORT1 HD"/>
 			<S i="2525" f="4" s="0" t="1" n="ZAD TV"/>
@@ -1012,12 +961,12 @@
 			<S i="0d7b" f="4" s="0" t="2" n="Rai Radio Tutta Italiana"/>
 			<S i="0d7c" f="4" s="0" t="2" n="Rai OM Unica"/>
 			<S i="0d7d" f="4" s="0" t="2" n="Rai Radio1 Sport"/>
-			<S i="0d7e" f="3" s="0" t="a" n="Rai Radio Slovenia"/>
+			<S i="0d7e" f="4" s="0" t="2" n="Rai Radio Slovenia"/>
 		</TS>
 		<TS id="14b4" on="fbff" frq="11785000" inv="2" sr="29900000" fec="5" pol="0" mod="0" sys="1">
-			<S i="0fc6" f="4" s="1" t="1" n="Paw Patrol Ch"/>
+			<S i="0fc6" f="4" s="1" t="1" n="Nick Jr +1"/>
 			<S i="104a" f="4" s="1" t="19" n="Classica HD"/>
-			<S i="106c" f="4" s="1" t="19" n="Sky Cinema Oscar HD"/>
+			<S i="106c" f="4" s="1" t="19" n="Robert De Niro Collection HD"/>
 			<S i="379c" f="4" s="1" t="19" n="NationalGeo HD"/>
 			<S i="379d" f="4" s="1" t="19" n="Fox HD"/>
 			<S i="379e" f="4" s="1" t="19" n="Fox Crime HD"/>
@@ -1025,8 +974,9 @@
 			<S i="37a9" f="4" s="1" t="19" n="Crime + Inv. HD"/>
 			<S i="37b2" f="4" s="1" t="19" n="Cartoon Network HD"/>
 			<S i="37ba" f="4" s="1" t="19" n="Sky Uno +1 HD"/>
-			<S i="37d3" f="3" s="1" t="fb" n="Fusion BGDL 14291"/>
-			<S i="37d7" f="3" s="1" t="83" n="IEPG Data"/>
+		</TS>
+		<TS id="0001" on="ffff" frq="11804000" inv="2" sr="27500000" fec="3" pol="1" mod="9" sys="1">
+			<S i="0001" f="4" s="0" t="1" n="TEST TX ON TP54@E13B"/>
 		</TS>
 		<TS id="157c" on="013e" frq="11823000" inv="2" sr="27500000" fec="3" pol="0" mod="9" sys="1">
 			<S i="012d" f="4" s="1" t="1" n="MAKEDONIA TV"/>
@@ -1062,26 +1012,20 @@
 			<S i="0150" f="4" s="1" t="1" n="Novasports3HD"/>
 			<S i="0151" f="4" s="1" t="1" n="Novasportsextra2HD"/>
 			<S i="0152" f="4" s="1" t="2" n="Ntsra2"/>
-			<S i="015d" f="3" s="0" t="98" n="Cobalt Data"/>
 		</TS>
 		<TS id="15e0" on="fbff" frq="11843000" inv="2" sr="29900000" fec="5" pol="1" mod="0" sys="1">
 			<S i="0dbb" f="4" s="1" t="19" n="NatGeo Wild HD"/>
-			<S i="0de6" f="3" s="1" t="90" n="Attiva Sky On Demand e Restart"/>
 			<S i="0dec" f="4" s="1" t="19" n="Sky Cinema Due HD"/>
-			<S i="0fc1" f="4" s="1" t="1" n="Fox Crime Bull"/>
+			<S i="0fc1" f="4" s="1" t="1" n="FoxCrime Fletcher"/>
 			<S i="1e53" f="4" s="1" t="19" n="MTV HD"/>
 			<S i="1e54" f="4" s="1" t="19" n="Sky Sport NBA HD"/>
 			<S i="1e58" f="4" s="1" t="19" n="Sky Sport Collection HD"/>
 			<S i="1e5b" f="4" s="1" t="19" n="Primafila 1 HD"/>
 			<S i="1e5c" f="4" s="1" t="19" n="Sky Sport HD"/>
 			<S i="1e62" f="4" s="1" t="19" n="Canale di servizio"/>
-			<S i="1e6e" f="3" s="1" t="fb" n="Fusion BGDL 7790"/>
-			<S i="1e76" f="3" s="1" t="83" n="IEPG Data"/>
 			<S i="38bf" f="4" s="1" t="1" n="Primafila 23"/>
-			<S i="38f6" f="3" s="1" t="90" n=""/>
 		</TS>
 		<TS id="1644" on="fbff" frq="11861000" inv="2" sr="29900000" fec="5" pol="0" mod="0" sys="1">
-			<S i="05bb" f="4" s="1" t="1" n="Discovery Sci"/>
 			<S i="0db9" f="4" s="1" t="19" n="History HD"/>
 			<S i="106e" f="4" s="1" t="19" n="Sky Cinema Action HD"/>
 			<S i="10e1" f="4" s="1" t="1" n="Sky Meteo24"/>
@@ -1091,13 +1035,7 @@
 			<S i="10e9" f="4" s="1" t="82" n="TG 24 - Feed 2"/>
 			<S i="10fe" f="4" s="1" t="1" n="Caccia e PESCA"/>
 			<S i="10ff" f="4" s="1" t="82" n="Sky TG24 Active"/>
-			<S i="1100" f="3" s="1" t="90" n="Sky TG24"/>
-			<S i="1104" f="3" s="1" t="90" n="Sky Meteo 24 Active"/>
-			<S i="110a" f="4" s="1" t="1" n="Sky TG24"/>
 			<S i="110c" f="4" s="1" t="1" n="POKERItalia24"/>
-			<S i="1123" f="4" s="1" t="1" n="Sky TG24"/>
-			<S i="1126" f="3" s="1" t="fb" n="Fusion BGDL 4390"/>
-			<S i="112e" f="3" s="1" t="83" n="IEPG Data"/>
 			<S i="1fa7" f="4" s="1" t="1" n="Fox News"/>
 			<S i="2aa2" f="4" s="1" t="1" n="Sky Sport MotoGP"/>
 			<S i="2b16" f="4" s="1" t="19" n="Sky Cinema Comedy HD"/>
@@ -1114,19 +1052,8 @@
 			<S i="0dbf" f="4" s="1" t="19" n="Sky TG24 HD"/>
 			<S i="0dc1" f="4" s="1" t="19" n="Sky TG24 HD"/>
 			<S i="0dcc" f="4" s="1" t="19" n="Sky TG24 HD"/>
-			<S i="0e39" f="4" s="1" t="1" n="NationalGeo"/>
 			<S i="0e55" f="4" s="1" t="82" n="Gestione Collegam. Telefonico"/>
-			<S i="0e56" f="3" s="1" t="90" n="Connessione internet Primafila"/>
-			<S i="0e57" f="3" s="1" t="84" n="FGDL_5800"/>
-			<S i="0e59" f="3" s="1" t="fa" n="DL IKUSI EPG"/>
-			<S i="0e5a" f="3" s="1" t="84" n="BGDL_5800"/>
-			<S i="0e66" f="3" s="1" t="96" n="GFD Service"/>
-			<S i="0e67" f="3" s="1" t="95" n="BEM Service"/>
-			<S i="0e6a" f="3" s="1" t="fb" n="Fusion BGDL 3690"/>
-			<S i="0e6d" f="3" s="1" t="b4" n="TMS Service"/>
-			<S i="0e6e" f="3" s="1" t="b5" n="AdSmart Metadata"/>
 			<S i="0e6f" f="4" s="1" t="c6" n="BDL Service"/>
-			<S i="0e70" f="3" s="1" t="83" n="IEPG Data"/>
 			<S i="10eb" f="4" s="1" t="82" n="Guida Multilingua"/>
 			<S i="1e61" f="4" s="1" t="19" n="DAZN1"/>
 		</TS>
@@ -1140,13 +1067,7 @@
 			<S i="2509" f="4" s="1" t="1" n="ON Board Mix HD"/>
 			<S i="250b" f="4" s="1" t="19" n="Sky Sport MotoGP HD"/>
 			<S i="250c" f="4" s="1" t="82" n="Feed Tot Factor"/>
-			<S i="2515" f="3" s="1" t="fb" n="Fusion BGDL 9493"/>
-			<S i="2518" f="3" s="1" t="84" n="Dl1011"/>
-			<S i="2519" f="3" s="1" t="84" n="Dl1012"/>
-			<S i="251a" f="3" s="1" t="83" n="IEPG Data"/>
 			<S i="253b" f="4" s="1" t="19" n="X Factor"/>
-			<S i="2a99" f="3" s="1" t="90" n="Informativa privacy e consenso"/>
-			<S i="2b68" f="3" s="1" t="90" n="Informativa privacy e consenso"/>
 		</TS>
 		<TS id="1770" on="0110" frq="11919000" inv="2" sr="29900000" fec="5" pol="1" mod="0" sys="0">
 			<S i="0001" f="4" s="1" t="1" n="Italia 1"/>
@@ -1160,7 +1081,6 @@
 			<S i="0067" f="4" s="0" t="2" n="RMC2"/>
 			<S i="0068" f="4" s="0" t="2" n="Virgin radio"/>
 			<S i="0069" f="4" s="0" t="2" n="Radio 105"/>
-			<S i="006a" f="2" s="0" t="2" n="Radio Orbital"/>
 		</TS>
 		<TS id="17d4" on="013e" frq="11938000" inv="2" sr="27500000" fec="3" pol="0" mod="9" sys="1">
 			<S i="1bbd" f="4" s="1" t="1" n="M3_TEST1"/>
@@ -1181,7 +1101,6 @@
 			<S i="1bcc" f="4" s="1" t="1" n="M3_TEST9"/>
 			<S i="1bcd" f="4" s="1" t="2" n="Mad Radio"/>
 			<S i="1bce" f="4" s="1" t="1" n="M3_TEST8"/>
-			<S i="1bcf" f="3" s="0" t="98" n="Cobalt Data"/>
 			<S i="1bd0" f="4" s="1" t="1" n="FOXlife HD"/>
 			<S i="1bd1" f="4" s="1" t="1" n="FOX HD"/>
 			<S i="1bd2" f="4" s="1" t="1" n="Boomerang HD"/>
@@ -1200,34 +1119,18 @@
 			<S i="2ab7" f="4" s="1" t="82" n="Sports Active 3"/>
 			<S i="2ab9" f="4" s="1" t="1" n="PPV Bundle"/>
 			<S i="2abb" f="4" s="1" t="1" n="PPV Bundle2"/>
-			<S i="2aef" f="3" s="1" t="fb" n="Fusion BGDL 10991"/>
-			<S i="2af0" f="3" s="1" t="84" n="Dl622"/>
-			<S i="2af5" f="3" s="1" t="84" n="Dl621"/>
-			<S i="2af7" f="3" s="1" t="83" n="IEPG Data"/>
 			<S i="2b0f" f="4" s="1" t="19" n="Sky Sport Uno HD"/>
 			<S i="3792" f="4" s="1" t="19" n="Sky Atlantic HD"/>
 		</TS>
 		<TS id="189c" on="fbff" frq="11976000" inv="2" sr="29900000" fec="5" pol="0" mod="0" sys="1">
-			<S i="0dcb" f="3" s="1" t="90" n="Sky AdSmart"/>
 			<S i="0dd7" f="4" s="1" t="19" n="Blaze HD"/>
-			<S i="0fdb" f="4" s="1" t="1" n="Crime + Inv."/>
 			<S i="1e59" f="4" s="1" t="19" n="Sky Cinema Drama HD"/>
 			<S i="1e63" f="4" s="1" t="19" n="Sky Cinema Due +24 HD"/>
 			<S i="1fbc" f="4" s="1" t="1" n="Vetrina Primafila"/>
 			<S i="1fbd" f="4" s="1" t="1" n="Vetrina Primafila"/>
-			<S i="1fbe" f="4" s="1" t="1" n="NatGeo Wild"/>
-			<S i="1fc6" f="4" s="1" t="1" n="Blaze"/>
 			<S i="1fc9" f="4" s="1" t="1" n="Sky Cinema Due"/>
-			<S i="1fcd" f="3" s="1" t="90" n="Sky Primafila Active"/>
-			<S i="1fcf" f="4" s="1" t="1" n="History"/>
 			<S i="1fd0" f="4" s="1" t="82" n="Sky Primafila Active"/>
 			<S i="1fd1" f="4" s="1" t="82" n="Sky Primafila"/>
-			<S i="1fd2" f="3" s="1" t="90" n="Sky Primafila"/>
-			<S i="1fed" f="3" s="1" t="fc" n="Fusion FGDL"/>
-			<S i="1fee" f="3" s="1" t="84" n="BGDL_6300"/>
-			<S i="1fef" f="3" s="1" t="84" n="Downl IKUSI"/>
-			<S i="1ffe" f="3" s="1" t="fb" n="Fusion BGDL 8190"/>
-			<S i="2006" f="3" s="1" t="83" n="IEPG Data"/>
 			<S i="250f" f="4" s="1" t="19" n="Inter TV"/>
 			<S i="2a96" f="4" s="1" t="1" n="Sky Sport24"/>
 			<S i="2a9a" f="4" s="1" t="1" n="Sky Sport24"/>
@@ -1239,20 +1142,14 @@
 			<S i="2ab8" f="4" s="1" t="1" n="Sky Sport24"/>
 			<S i="2aba" f="4" s="1" t="1" n="Sky Sport24"/>
 			<S i="2b13" f="4" s="1" t="19" n="Discovery Sci HD"/>
-			<S i="38e7" f="3" s="1" t="90" n="Offerte e promozioni"/>
 		</TS>
 		<TS id="1900" on="fbff" frq="11996000" inv="2" sr="29900000" fec="5" pol="1" mod="0" sys="1">
 			<S i="0f6f" f="4" s="1" t="19" n="Sky Sport HD"/>
 			<S i="0f72" f="4" s="1" t="19" n="Primafila 12 HD"/>
 			<S i="2b10" f="4" s="1" t="19" n="Sky Sport Arena HD"/>
 			<S i="2b27" f="4" s="1" t="19" n="Sky Cinema Suspense HD"/>
-			<S i="2b39" f="3" s="1" t="9b" n="SDMS Service1"/>
-			<S i="2b3b" f="3" s="1" t="91" n="SDMS Service2"/>
 			<S i="2b42" f="4" s="1" t="19" n="Sky Arte HD"/>
 			<S i="2b43" f="4" s="1" t="19" n="Sky Arte HD"/>
-			<S i="2b52" f="3" s="1" t="fb" n="Fusion BGDL 11090"/>
-			<S i="2b55" f="3" s="1" t="84" n="Dl641"/>
-			<S i="2b57" f="3" s="1" t="83" n="IEPG Data"/>
 			<S i="2fc4" f="4" s="1" t="19" n="Gambero Rosso HD"/>
 			<S i="2fc5" f="4" s="1" t="19" n="Gambero Rosso HD"/>
 		</TS>
@@ -1268,7 +1165,7 @@
 			<S i="000f" f="4" s="1" t="1" n="MTV Polska HD"/>
 			<S i="0010" f="4" s="1" t="1" n="Polsat Comedy Central Extra"/>
 			<S i="0015" f="4" s="1" t="1" n="MTV Live HD"/>
-			<S i="0019" f="4" s="1" t="1" n="MTV Commercial"/>
+			<S i="0019" f="4" s="0" t="1" n="MTV Commercial"/>
 			<S i="0020" f="4" s="1" t="1" n="Comedy Central HD"/>
 			<S i="0021" f="4" s="1" t="1" n="Paramount Channel HD"/>
 			<S i="0023" f="4" s="1" t="1" n="MTV Polska HD."/>
@@ -1294,14 +1191,9 @@
 			<S i="2b63" f="4" s="1" t="1" n="Sky Cinema Uno +24"/>
 			<S i="2b66" f="4" s="1" t="1" n="cielo provvisorio"/>
 			<S i="2b6b" f="4" s="1" t="1" n="Sky Cinema Action"/>
-			<S i="2b71" f="4" s="1" t="1" n="Discovery"/>
 			<S i="2b73" f="4" s="1" t="1" n="Sky Cinema Romance"/>
 			<S i="2b8f" f="4" s="1" t="1" n="Sky Cinema Suspense"/>
 			<S i="2b9e" f="4" s="1" t="19" n="Info2"/>
-			<S i="2bb6" f="2" s="1" t="fb" n="Fusion BGDL 11190"/>
-			<S i="2bbc" f="2" s="1" t="fa" n="DL IKUSI MI"/>
-			<S i="2bbd" f="2" s="1" t="84" n="BGDL_6600"/>
-			<S i="2bbf" f="2" s="1" t="83" n="IEPG Data"/>
 			<S i="2c28" f="4" s="1" t="1" n="Deejay TV"/>
 			<S i="2c29" f="4" s="1" t="19" n="SuperTennis HD"/>
 			<S i="2c2b" f="4" s="1" t="19" n="Documentari HD"/>
@@ -1327,7 +1219,6 @@
 			<S i="057c" f="4" s="1" t="1" n="Comedy Central"/>
 			<S i="0590" f="4" s="1" t="1" n="Nick Jr"/>
 			<S i="1c4d" f="4" s="1" t="19" n="CNBC HD"/>
-			<S i="1fcb" f="2" s="1" t="1" n="Fox Crime"/>
 			<S i="2b7b" f="4" s="1" t="2" n="InBlu"/>
 			<S i="2ba6" f="4" s="1" t="2" n="INBLU2000"/>
 			<S i="2bcf" f="4" s="1" t="1" n="Sky Sport"/>
@@ -1341,34 +1232,24 @@
 			<S i="2dc0" f="4" s="1" t="1" n="Sky Sport Football"/>
 			<S i="2dc4" f="4" s="1" t="1" n="UNK (0x1A2C_0x2DC4)"/>
 			<S i="2dc6" f="4" s="1" t="1" n="Sky Uno"/>
-			<S i="2dc9" f="3" s="1" t="90" n="Mosaico Cinema"/>
-			<S i="2dcc" f="4" s="1" t="1" n="Sky Cinema Oscar"/>
+			<S i="2dcc" f="4" s="1" t="1" n="Robert De Niro Collection"/>
 			<S i="2dcd" f="4" s="1" t="1" n="Sky Cinema Comedy"/>
 			<S i="2dcf" f="4" s="1" t="1" n="Sky Cinema Drama"/>
 			<S i="2dd2" f="4" s="1" t="1" n="Sky Sport Collection"/>
 			<S i="2dd4" f="4" s="1" t="1" n="Sky Cinema Due +24"/>
 			<S i="2de9" f="4" s="1" t="1" n=".BLU"/>
-			<S i="2e0e" f="3" s="1" t="fb" n="Fusion BGDL 11790"/>
-			<S i="2e15" f="3" s="1" t="84" n="Dl861"/>
-			<S i="2e17" f="3" s="1" t="83" n="IEPG Data"/>
 			<S i="3c07" f="4" s="1" t="1" n="Boomerang"/>
 		</TS>
 		<TS id="1a90" on="fbff" frq="12073000" inv="2" sr="29900000" fec="5" pol="1" mod="0" sys="1">
 			<S i="0584" f="4" s="1" t="1" n="Sky Atlantic"/>
 			<S i="1018" f="4" s="1" t="19" n="cielo HD"/>
 			<S i="1c5c" f="4" s="1" t="19" n="TV8 HD"/>
-			<S i="2c1a" f="3" s="1" t="fb" n="Fusion BGDL 11290"/>
-			<S i="2c21" f="3" s="1" t="84" n="Dl681"/>
-			<S i="2c23" f="3" s="1" t="83" n="IEPG Data"/>
 			<S i="2d6c" f="4" s="1" t="1f" n="4K HDR"/>
 		</TS>
 		<TS id="1af4" on="fbff" frq="12092000" inv="2" sr="29900000" fec="3" pol="0" mod="9" sys="1">
-			<S i="0bb8" f="3" s="1" t="4" n="PUSH REF SD 3000"/>
 			<S i="0dc4" f="4" s="1" t="82" n="Fake TG 24 HD"/>
 			<S i="0dc5" f="4" s="1" t="1" n="Arte Channel"/>
 			<S i="0deb" f="4" s="1" t="1" n="Match Music"/>
-			<S i="0e07" f="3" s="1" t="fb" n="Fusion BGDL 3591"/>
-			<S i="0e0e" f="3" s="1" t="83" n="IEPG Data"/>
 			<S i="0fbf" f="4" s="1" t="1" n="DeAKids +1"/>
 			<S i="0fd9" f="4" s="1" t="1" n="History +1"/>
 			<S i="0fda" f="4" s="1" t="1" n="NationalGeo +1"/>
@@ -1397,10 +1278,9 @@
 			<S i="02d3" f="4" s="0" t="1" n="Sender Neu Jerusalem"/>
 			<S i="02d4" f="4" s="0" t="1" n="Sender Neu Jerusalem2"/>
 			<S i="02d7" f="4" s="0" t="1" n="El Sharq"/>
-			<S i="02d8" f="4" s="0" t="1" n="AL Magharibia TV"/>
+			<S i="02d8" f="4" s="0" t="1" n="Al Magharibia TV"/>
 			<S i="02db" f="4" s="0" t="2" n="Radio Mariam Armenia"/>
 			<S i="02dc" f="4" s="0" t="2" n="Radio Maria"/>
-			<S i="02dd" f="2" s="0" t="2" n="RIK 3"/>
 			<S i="02df" f="4" s="0" t="1" n="AL-MAYADEEN"/>
 			<S i="02e0" f="4" s="0" t="2" n="RDS"/>
 			<S i="02e1" f="4" s="0" t="2" n="DimSuono Roma"/>
@@ -1414,7 +1294,6 @@
 			<S i="02ff" f="4" s="0" t="2" n="DimSuono Soft RM"/>
 			<S i="0300" f="4" s="0" t="2" n="Discoradio"/>
 			<S i="030c" f="4" s="0" t="1" n="QVC Italia"/>
-			<S i="030e" f="2" s="0" t="1" n="RIKSat"/>
 			<S i="0311" f="4" s="0" t="1" n="Mekameleen HD"/>
 			<S i="0314" f="4" s="0" t="1" n="mta-muslim tv"/>
 		</TS>
@@ -1433,7 +1312,6 @@
 			<S i="3c98" f="4" s="1" t="1" n="Eurosport 2 HD"/>
 			<S i="3c99" f="4" s="1" t="1" n="Novasports2HD Cy"/>
 			<S i="3c9a" f="4" s="1" t="1" n="Food Network HD"/>
-			<S i="3cb4" f="3" s="0" t="98" n="Cobalt Data"/>
 		</TS>
 		<TS id="1c20" on="013e" frq="12149000" inv="2" sr="27500000" fec="3" pol="1" mod="0" sys="0">
 			<S i="0e2e" f="4" s="0" t="2" n="RADIO FRECCIA"/>
@@ -1468,7 +1346,6 @@
 			<S i="0164" f="4" s="1" t="1" n="NR1 HD"/>
 			<S i="0165" f="4" s="1" t="1" n="R10"/>
 			<S i="0166" f="4" s="1" t="1" n="OPEN BEYOND"/>
-			<S i="0167" f="2" s="0" t="98" n="Cobalt Data"/>
 			<S i="0168" f="4" s="1" t="1" n="MyZen TV HD"/>
 			<S i="0169" f="4" s="1" t="1" n="Travel Channel HD"/>
 			<S i="016a" f="4" s="1" t="1" n="Novasumme r"/>
@@ -1504,7 +1381,6 @@
 			<S i="018b" f="4" s="1" t="1" n="R17"/>
 		</TS>
 		<TS id="1ce8" on="0071" frq="12188000" inv="2" sr="27500000" fec="3" pol="1" mod="9" sys="1">
-			<S i="1c85" f="4" s="1" t="1" n="Polsat Seriale"/>
 			<S i="1c86" f="4" s="1" t="1" n="AXN White"/>
 			<S i="1c87" f="4" s="1" t="1" n="AXN Black"/>
 			<S i="1c88" f="4" s="1" t="1" n="Dla Abonentow"/>
@@ -1535,41 +1411,13 @@
 			<S i="1cb6" f="4" s="1" t="1" n="Disney Channel HD"/>
 			<S i="1cb7" f="4" s="1" t="1" n="Polsat Jim Jam"/>
 			<S i="1cb9" f="4" s="1" t="1" n="MTV 90s"/>
-			<S i="1cba" f="2" s="1" t="1" n="195"/>
 			<S i="1cbb" f="4" s="1" t="1" n="Vivid Touch SD"/>
 			<S i="1cbd" f="4" s="0" t="1" n="TEST1"/>
 			<S i="1cbe" f="4" s="1" t="1" n="Superstacja"/>
-			<S i="1cc5" f="4" s="1" t="1" n="Disney Channel HD"/>
+			<S i="1cc5" f="4" s="0" t="1" n="Disney Channel HD"/>
 			<S i="1cca" f="4" s="1" t="1" n="Polsat Viasat Explore HD"/>
 			<S i="1ccd" f="4" s="1" t="1" n="Polsat Reality"/>
 			<S i="1ccf" f="4" s="1" t="1" n="Polsat Film 2"/>
-			<S i="1cd1" f="2" s="0" t="c" n="D56G"/>
-			<S i="1cd2" f="2" s="0" t="c" n="D47"/>
-			<S i="1cd3" f="2" s="0" t="c" n="D30"/>
-			<S i="1cd4" f="2" s="1" t="ab" n="Strefa Abonenta"/>
-			<S i="1cd5" f="2" s="0" t="c" n="32056"/>
-			<S i="1cd6" f="2" s="0" t="c" n="HD5000"/>
-			<S i="1cd7" f="2" s="1" t="c" n="Ap"/>
-			<S i="1cd8" f="2" s="0" t="c" n="32058"/>
-			<S i="1cd9" f="2" s="0" t="c" n="32055"/>
-			<S i="1cda" f="2" s="0" t="c" n="32057"/>
-			<S i="1cdb" f="2" s="0" t="c" n="ADB"/>
-			<S i="1cdc" f="2" s="0" t="c" n="D56"/>
-			<S i="1cde" f="2" s="0" t="c" n="HD_2000_NF"/>
-			<S i="1cdf" f="2" s="0" t="c" n="HD3000_NF"/>
-			<S i="1ce0" f="2" s="0" t="c" n="HD5500s"/>
-			<S i="1ce1" f="2" s="0" t="c" n="HD7000"/>
-			<S i="1ce2" f="2" s="0" t="c" n="HD_6000_FS"/>
-			<S i="1ce3" f="2" s="0" t="c" n="HD_3000_FS"/>
-			<S i="1ce4" f="2" s="0" t="c" n="HD3000 NP"/>
-			<S i="1ce5" f="2" s="0" t="c" n="HD6000"/>
-			<S i="1ce6" f="2" s="0" t="c" n="HD 3000"/>
-			<S i="1ce7" f="2" s="0" t="c" n="HD2000"/>
-		</TS>
-		<TS id="1d4c" on="fbff" frq="12207000" inv="2" sr="29900000" fec="3" pol="0" mod="9" sys="1">
-			<S i="105e" f="3" s="1" t="fb" n="Fusion BGDL 4190"/>
-			<S i="1063" f="3" s="1" t="83" n="IEPG Data"/>
-			<S i="2ca1" f="2" s="1" t="1" n="UNK (0x1D4C_0x2CA1)"/>
 		</TS>
 		<TS id="0065" on="0001" frq="12226000" inv="2" sr="27500000" fec="3" pol="1" mod="0" sys="0">
 			<S i="0001" f="4" s="0" t="1" n="Current Time HD ch1"/>
@@ -1622,11 +1470,9 @@
 			<S i="0154" f="4" s="0" t="1" n="VOA Global HD ch340"/>
 		</TS>
 		<TS id="1e14" on="fbff" frq="12245000" inv="2" sr="29900000" fec="5" pol="0" mod="9" sys="1">
-			<S i="1002" f="3" s="1" t="83" n="IEPG Data"/>
 			<S i="1008" f="4" s="1" t="19" n="TEST5"/>
 		</TS>
 		<TS id="1e78" on="0071" frq="12265000" inv="2" sr="27500000" fec="3" pol="1" mod="9" sys="1">
-			<S i="0016" f="3" s="0" t="81" n="Consumer Cam"/>
 			<S i="0c1d" f="4" s="1" t="1" n="Polsat Sport HD"/>
 			<S i="0c1e" f="4" s="1" t="1" n="Polsat Sport HD"/>
 			<S i="0c1f" f="4" s="1" t="1" n="Fox Comedy HD"/>
@@ -1692,16 +1538,16 @@
 		</TS>
 		<TS id="1fa4" on="013e" frq="12322000" inv="2" sr="27500000" fec="3" pol="0" mod="0" sys="0">
 			<S i="39d1" f="4" s="0" t="19" n="BBC Persian HD"/>
-			<S i="39d3" f="4" s="1" t="1" n="Detskii Mir"/>
+			<S i="39d3" f="4" s="1" t="1" n="Detskiy Mir - TeleClub"/>
 			<S i="39d4" f="4" s="1" t="1" n="Lubimoe Kino"/>
 			<S i="39d5" f="4" s="0" t="1" n="Ronahi TV"/>
 			<S i="39d6" f="4" s="0" t="1" n="STERK TV"/>
 			<S i="39d7" f="4" s="0" t="1" n="Velayat TV"/>
 			<S i="39d8" f="4" s="0" t="1" n="Thai TV Global Network"/>
-			<S i="39da" f="2" s="0" t="1" n="IRAN INTERNATIONAL"/>
 			<S i="39db" f="4" s="0" t="1" n="Kalemeh TV"/>
 			<S i="39dc" f="4" s="0" t="1" n="Mohabat TV"/>
 			<S i="39dd" f="4" s="0" t="2" n="Radio Mojdeh"/>
+			<S i="39de" f="4" s="0" t="2" n="Mohabat Radio"/>
 		</TS>
 		<TS id="2008" on="fbff" frq="12341000" inv="2" sr="29900000" fec="5" pol="1" mod="0" sys="1">
 			<S i="1089" f="4" s="1" t="19" n="Sky Sport HD"/>
@@ -1709,9 +1555,6 @@
 			<S i="108b" f="4" s="1" t="19" n="Primafila 8 HD"/>
 			<S i="108f" f="4" s="1" t="19" n="Primafila 10 HD"/>
 			<S i="1092" f="4" s="1" t="19" n="Calcio Overlay HD"/>
-			<S i="10c1" f="3" s="1" t="fc" n="Fusion Bootloader"/>
-			<S i="10c4" f="3" s="1" t="fb" n="Fusion BGDL 4292"/>
-			<S i="10ca" f="3" s="1" t="83" n="IEPG Data"/>
 			<S i="1c50" f="4" s="1" t="19" n="Sky Sport Football HD"/>
 			<S i="2d51" f="4" s="1" t="1" n="Primafila 16"/>
 			<S i="2d54" f="4" s="1" t="1" n="Primafila 17"/>
@@ -1728,8 +1571,6 @@
 			<S i="1c3f" f="4" s="1" t="19" n="Sky Cinema Romance HD"/>
 			<S i="1c40" f="4" s="1" t="82" n="Sky Supercalcio HD"/>
 			<S i="1c57" f="4" s="1" t="19" n="Sky Cinema Family HD"/>
-			<S i="1c7d" f="3" s="1" t="fb" n="Fusion BGDL 7293"/>
-			<S i="1c80" f="3" s="1" t="83" n="IEPG Data"/>
 			<S i="2a97" f="4" s="1" t="1" n="Sky Uno +1"/>
 			<S i="2d00" f="4" s="1" t="19" n="Sky Atlantic +1 HD"/>
 			<S i="2da2" f="4" s="1" t="19" n="PremiumCin.1 +24 HD"/>
@@ -1759,7 +1600,6 @@
 			<S i="039c" f="4" s="0" t="2" n="OMAN HOLY QURAN"/>
 		</TS>
 		<TS id="2198" on="fbff" frq="12418000" inv="2" sr="29900000" fec="5" pol="1" mod="0" sys="1">
-			<S i="0bb9" f="3" s="1" t="1b" n="PUSH REF HD 3001"/>
 			<S i="0f46" f="4" s="1" t="19" n="Sky Sport HD"/>
 			<S i="0f48" f="4" s="1" t="19" n="Sky Sport HD"/>
 			<S i="0f4c" f="4" s="1" t="19" n="Primafila 6 HD"/>
@@ -1767,10 +1607,6 @@
 			<S i="0f54" f="4" s="1" t="19" n="Onboard Mix HD"/>
 			<S i="0f5a" f="4" s="1" t="82" n="Calcio1Magaz"/>
 			<S i="0f71" f="4" s="1" t="19" n="Primafila 4 HD"/>
-			<S i="0f87" f="3" s="1" t="84" n="Dl951"/>
-			<S i="0f89" f="3" s="1" t="83" n="IEPG Data"/>
-			<S i="0f8a" f="3" s="1" t="84" n="Dl583"/>
-			<S i="0f96" f="3" s="1" t="fb" n="Fusion BGDL 3990"/>
 			<S i="10a8" f="4" s="1" t="19" n="Roma TV"/>
 			<S i="2aa8" f="4" s="1" t="1" n="Sky Sport Uno"/>
 			<S i="2d53" f="4" s="1" t="1" n="Primafila 15"/>
@@ -1778,15 +1614,11 @@
 		</TS>
 		<TS id="005f" on="0055" frq="12437000" inv="2" sr="29900000" fec="2" pol="0" mod="9" sys="1">
 			<S i="07d0" f="4" s="1" t="16" n="Viasat Sport"/>
-			<S i="07e4" f="2" s="1" t="19" n="XSPORT HD"/>
 			<S i="080c" f="4" s="1" t="19" n="History HD"/>
 			<S i="0820" f="4" s="1" t="19" n="Setanta Sports+ HD"/>
-			<S i="0834" f="2" s="1" t="16" n="Da Vinci"/>
 			<S i="0848" f="4" s="1" t="19" n="VIP Premiere HD"/>
 			<S i="085c" f="4" s="1" t="19" n="VIP Megahit HD"/>
 			<S i="0884" f="4" s="1" t="19" n="Setanta Sports HD"/>
-			<S i="08c0" f="2" s="1" t="19" n="Niki Kids HD"/>
-			<S i="08d4" f="2" s="1" t="19" n="Niki Junior HD"/>
 			<S i="08e8" f="4" s="1" t="16" n="Baby TV"/>
 			<S i="08fc" f="4" s="1" t="16" n="Detskiy Mir"/>
 			<S i="0910" f="4" s="1" t="16" n="Cartoon Network"/>
@@ -1804,9 +1636,6 @@
 			<S i="2da5" f="4" s="1" t="19" n="PremiumCinema3 HD"/>
 			<S i="2da7" f="4" s="1" t="19" n="Premium Stories HD"/>
 			<S i="2da9" f="4" s="1" t="19" n="Premium Crime HD"/>
-			<S i="2daa" f="3" s="1" t="fb" n="Fusion BGDL 11690"/>
-			<S i="2dae" f="3" s="1" t="84" n="Dl821"/>
-			<S i="2db3" f="3" s="1" t="83" n="IEPG Data"/>
 			<S i="3400" f="4" s="1" t="1" n="Primafila 9"/>
 			<S i="3402" f="4" s="1" t="1" n="Primafila 11"/>
 			<S i="341e" f="4" s="1" t="1" n="Primafila 28"/>
@@ -1840,6 +1669,7 @@
 		<TS id="2328" on="013e" frq="12520000" inv="2" sr="27500000" fec="5" pol="1" mod="0" sys="1">
 			<S i="232b" f="4" s="0" t="1" n="Ronahi TV"/>
 			<S i="232c" f="4" s="0" t="1" n="Med Music"/>
+			<S i="232d" f="4" s="0" t="1" n="Zaytouna Radio &amp; TV"/>
 			<S i="232e" f="4" s="0" t="1" n="AlAraby TV HD"/>
 			<S i="2330" f="4" s="0" t="1" n="Deluxe 139"/>
 			<S i="2331" f="4" s="0" t="1" n="Angel TV Europe"/>
@@ -1854,7 +1684,6 @@
 			<S i="2361" f="4" s="0" t="2" n="Radio Quraan"/>
 		</TS>
 		<TS id="238c" on="013e" frq="12539000" inv="2" sr="30000000" fec="5" pol="0" mod="9" sys="1">
-			<S i="044e" f="4" s="0" t="1" n="FTV UHD"/>
 			<S i="044f" f="4" s="0" t="1" n="Love Nature 4K"/>
 			<S i="0450" f="4" s="0" t="1" n="MyZen 4K"/>
 			<S i="0451" f="4" s="0" t="11" n="Insight TV UHD"/>
@@ -1866,31 +1695,28 @@
 			<S i="04b4" f="4" s="0" t="19" n="Al Ekhbaria HD"/>
 			<S i="04b5" f="4" s="0" t="19" n="SAUDI TV HD"/>
 			<S i="04b6" f="4" s="0" t="19" n="Abu Dhabi TV"/>
-			<S i="04b7" f="1" s="0" t="1" n="UNITED STATES OF AFRICA TV"/>
+			<S i="04b7" f="4" s="0" t="1" n="UNITED STATES OF AFRICA TV"/>
 			<S i="04b9" f="4" s="1" t="1f" n="Ultra Nature 4K"/>
 		</TS>
 		<TS id="2454" on="013e" frq="12577000" inv="2" sr="27500000" fec="3" pol="0" mod="9" sys="1">
 			<S i="0641" f="4" s="0" t="19" n="Al Jazeera HD"/>
 			<S i="0642" f="4" s="0" t="1" n="Italian Fishing TV"/>
 			<S i="0643" f="4" s="0" t="1" n="Wine TV"/>
-			<S i="0645" f="4" s="0" t="19" n="AL ALAM TV HD"/>
+			<S i="0645" f="4" s="0" t="1" n="AL ALAM TV HD"/>
 			<S i="0646" f="4" s="0" t="1" n="MS MOTORTV"/>
-			<S i="064b" f="4" s="0" t="1" n="Church Of Jesus Christ"/>
 			<S i="064c" f="4" s="0" t="1" n="CNC World English"/>
 			<S i="064d" f="4" s="0" t="1" n="ACI_sportTV"/>
 			<S i="064e" f="4" s="0" t="1" n="MS CHANNEL"/>
 			<S i="064f" f="4" s="0" t="1" n="Canal Algerie"/>
 			<S i="0650" f="4" s="0" t="1" n="A3"/>
 			<S i="0651" f="4" s="0" t="1" n="TV Art Live"/>
-			<S i="0652" f="4" s="0" t="19" n="RT ARABIC HD"/>
+			<S i="0652" f="4" s="0" t="1" n="RT ARABIC HD"/>
 			<S i="0653" f="4" s="0" t="1" n="Pop Economy"/>
-			<S i="069a" f="2" s="0" t="c" n="Eutelsat Data 1"/>
-			<S i="069b" f="2" s="0" t="1" n="FTA - HbbTV Demo App"/>
+			<S i="069a" f="4" s="0" t="1" n="Eutelsat Data 1"/>
 		</TS>
 		<TS id="24b8" on="013e" frq="12597000" inv="2" sr="27500000" fec="3" pol="1" mod="0" sys="0">
 			<S i="200c" f="4" s="0" t="1" n="BBC World News"/>
 			<S i="2010" f="4" s="0" t="1" n="1TVRUS Europe"/>
-			<S i="2011" f="4" s="0" t="1" n="CNNi"/>
 			<S i="2023" f="4" s="0" t="2" n="Service 8227"/>
 			<S i="2065" f="4" s="0" t="1" n="1TVRUS Europe"/>
 		</TS>
@@ -1915,11 +1741,6 @@
 			<S i="01cf" f="4" s="1" t="1" n="Science et Vie"/>
 			<S i="01d2" f="4" s="1" t="1" n="Téva"/>
 			<S i="01d4" f="4" s="1" t="1" n="XXL"/>
-			<S i="01d5" f="2" s="0" t="1" n="XXL PL"/>
 			<S i="01d6" f="4" s="1" t="1" n="Golf Channel"/>
-			<S i="0457" f="2" s="0" t="c" n="Neotion Update Service"/>
-			<S i="045e" f="2" s="0" t="c" n="Neotion Update Service"/>
-			<S i="0461" f="2" s="0" t="c" n="Neotion Update Service"/>
-			<S i="0464" f="2" s="0" t="c" n="Neotion Update Service"/>
 		</TS>
 	</sat>
