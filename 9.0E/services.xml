@@ -60,6 +60,14 @@
 			<S i="020b" f="4" s="1" t="19" n="Penthouse Gold"/>
 			<S i="020d" f="4" s="1" t="16" n="24 Kitchen"/>
 		</TS>
+		<TS id="0001" on="04d2" frq="11759000" inv="2" sr="14324000" fec="5" pol="1" mod="0" sys="0">
+			<S i="0001" f="4" s="1" t="1" n="Clasico TV"/>
+			<S i="0002" f="4" s="1" t="1" n="Ritmoson"/>
+			<S i="0003" f="4" s="1" t="1" n="Telehit"/>
+			<S i="0004" f="4" s="1" t="1" n="De Pelicula"/>
+			<S i="0005" f="4" s="1" t="1" n="Canal de las Estrellas"/>
+			<S i="0006" f="4" s="1" t="1" n="Telenovelas"/>
+		</TS>
 		<TS id="14b4" on="009c" frq="11785000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
 			<S i="00c9" f="4" s="1" t="19" n="ProSieben MAXX HD"/>
 			<S i="00ca" f="4" s="1" t="19" n="MTV HD"/>
@@ -229,15 +237,17 @@
 			<S i="01f6" f="4" s="1" t="1" n="Playboy TV"/>
 			<S i="01f7" f="4" s="1" t="1" n="iTVN"/>
 			<S i="01f8" f="4" s="1" t="1" n="auto motor und sport channel"/>
-			<S i="01f9" f="4" s="1" t="19" n="FUEL TV HD"/>
+			<S i="01f9" f="2" s="1" t="19" n="FUEL TV HD"/>
 			<S i="01fa" f="4" s="1" t="1" n="Fix &amp; Foxi"/>
 			<S i="01fb" f="4" s="1" t="19" n="Penthouse Passion"/>
+			<S i="01fc" f="2" s="0" t="1" n="Blue Hustler"/>
 			<S i="01fd" f="4" s="1" t="19" n="Mezzo Live HD"/>
 			<S i="01fe" f="4" s="1" t="1" n="OstWest"/>
 			<S i="01ff" f="4" s="1" t="1" n="Kinomir"/>
 			<S i="0200" f="4" s="1" t="1" n="TeleBom/TeleDom"/>
 			<S i="0201" f="4" s="1" t="19" n="Penthouse Passion (20-06)"/>
 			<S i="0203" f="4" s="1" t="1" n="Playboy TV SD (20-06)"/>
+			<S i="0204" f="1" s="1" t="16" n="Dusk"/>
 		</TS>
 		<TS id="0001" on="0001" frq="11996000" inv="2" sr="27500000" fec="3" pol="1" mod="0" sys="0">
 			<S i="026b" f="4" s="0" t="1" n="CCTV-4"/>
