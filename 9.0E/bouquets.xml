@@ -1,3 +1,67 @@
+	<Bouquet name="[C384.1] ARD">
+	</Bouquet>
+	<Bouquet name="[C384.1] ARD BR">
+	</Bouquet>
+	<Bouquet name="[C384.1] ARD HR">
+	</Bouquet>
+	<Bouquet name="[C384.1] ARD MDR">
+	</Bouquet>
+	<Bouquet name="[C384.1] ARD NDR">
+	</Bouquet>
+	<Bouquet name="[C384.1] ARD RB">
+	</Bouquet>
+	<Bouquet name="[C384.1] ARD rbb">
+	</Bouquet>
+	<Bouquet name="[C384.1] ARD SR">
+	</Bouquet>
+	<Bouquet name="[C384.1] ARD SWR">
+	</Bouquet>
+	<Bouquet name="[C384.1] ARD WDR">
+	</Bouquet>
+	<Bouquet name="[C384.1] betaresearch">
+	</Bouquet>
+	<Bouquet name="[C384.1] Sky">
+	</Bouquet>
+	<Bouquet name="[C384.1] UMKBW">
+	</Bouquet>
+	<Bouquet name="[C384.1] Unitymedia">
+	</Bouquet>
+	<Bouquet name="[C384.1] Unitymedia - STINGRAY MUSIC">
+	</Bouquet>
+	<Bouquet name="[C384.1] ZDFvision">
+	</Bouquet>
+	<Bouquet name="[C384.6] ARD">
+	</Bouquet>
+	<Bouquet name="[C384.6] ARD BR">
+	</Bouquet>
+	<Bouquet name="[C384.6] ARD HR">
+	</Bouquet>
+	<Bouquet name="[C384.6] ARD MDR">
+	</Bouquet>
+	<Bouquet name="[C384.6] ARD NDR">
+	</Bouquet>
+	<Bouquet name="[C384.6] ARD RB">
+	</Bouquet>
+	<Bouquet name="[C384.6] ARD rbb">
+	</Bouquet>
+	<Bouquet name="[C384.6] ARD SR">
+	</Bouquet>
+	<Bouquet name="[C384.6] ARD SWR">
+	</Bouquet>
+	<Bouquet name="[C384.6] ARD WDR">
+	</Bouquet>
+	<Bouquet name="[C384.6] betaresearch">
+	</Bouquet>
+	<Bouquet name="[C384.6] Sky">
+	</Bouquet>
+	<Bouquet name="[C384.6] UMKBW">
+	</Bouquet>
+	<Bouquet name="[C384.6] Unitymedia">
+	</Bouquet>
+	<Bouquet name="[C384.6] Unitymedia - STINGRAY MUSIC">
+	</Bouquet>
+	<Bouquet name="[C384.6] ZDFvision">
+	</Bouquet>
 	<Bouquet name="[E009.0] A1 Broadcasting">
 		<S i="35e" t="c35a" on="9e" s="90" frq="11727" n="EUROBET 11"/>
 		<S i="35f" t="c35a" on="9e" s="90" frq="11727" n="EUROBET 12"/>
@@ -10,10 +74,6 @@
 	</Bouquet>
 	<Bouquet name="[E009.0] ADTH">
 		<S i="15f" t="19c8" on="9e" s="90" frq="12034" n="HWAZAN"/>
-	</Bouquet>
-	<Bouquet name="[E009.0] ARQIVA">
-		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
-		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="IRN"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva">
 		<S i="48d" t="1af4" on="9e" s="90" frq="12092" n="DAB D1"/>
@@ -31,6 +91,10 @@
 		<S i="4ab" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist4"/>
 		<S i="4b0" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist5"/>
 		<S i="483" t="1af4" on="9e" s="90" frq="12092" n="Premier Radio"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] ARQIVA">
+		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
+		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="IRN"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] BASIS 1">
 		<S i="ec" t="1644" on="9c" s="90" frq="11861" n="BBC WORLD"/>
@@ -76,6 +140,8 @@
 		<S i="dba" t="16a8" on="9c" s="90" frq="11881" n="EUROBET 14"/>
 		<S i="dbb" t="16a8" on="9c" s="90" frq="11881" n="ORTB TV"/>
 	</Bouquet>
+	<Bouquet name="[E009.0] Eurosport">
+	</Bouquet>
 	<Bouquet name="[E009.0] Eutelsat">
 		<S i="74e" t="1" on="64" s="90" frq="11823" n="Italy Service 3"/>
 		<S i="762" t="1" on="64" s="90" frq="11823" n="Italy Service 5"/>
@@ -93,17 +159,6 @@
 		<S i="6a4" t="1" on="64" s="90" frq="11823" n="Radio CHINA FM"/>
 		<S i="654" t="1" on="64" s="90" frq="11823" n="Ros Ros Selex"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] GLOBECAST">
-		<S i="165" t="19c8" on="9e" s="90" frq="12034" n="BBC_Entertainment_Europe"/>
-		<S i="168" t="19c8" on="9e" s="90" frq="12034" n="Karusel Int"/>
-		<S i="ce" t="19c8" on="9e" s="90" frq="12034" n="MCM TOP"/>
-		<S i="162" t="19c8" on="9e" s="90" frq="12034" n="ORTM"/>
-		<S i="16a" t="19c8" on="9e" s="90" frq="12034" n="Outdoor HD"/>
-		<S i="161" t="19c8" on="9e" s="90" frq="12034" n="Phoenix Info News"/>
-		<S i="160" t="19c8" on="9e" s="90" frq="12034" n="RTG Int"/>
-		<S i="163" t="19c8" on="9e" s="90" frq="12034" n="Télé Sahel"/>
-		<S i="164" t="19c8" on="9e" s="90" frq="12034" n="La Voix Du Sahel"/>
-	</Bouquet>
 	<Bouquet name="[E009.0] GlobeCast">
 		<S i="273" t="1" on="1" s="90" frq="11996" n="CBS Reality EMEA"/>
 		<S i="26b" t="1" on="1" s="90" frq="11996" n="CCTV-4"/>
@@ -115,6 +170,32 @@
 		<S i="275" t="1" on="1" s="90" frq="11996" n="JimJam ME"/>
 		<S i="274" t="1" on="1" s="90" frq="11996" n="JimJam PE"/>
 		<S i="277" t="1" on="1" s="90" frq="11996" n="EDM FM"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] GLOBECAST">
+		<S i="165" t="19c8" on="9e" s="90" frq="12034" n="BBC_Entertainment_Europe"/>
+		<S i="168" t="19c8" on="9e" s="90" frq="12034" n="Karusel Int"/>
+		<S i="ce" t="19c8" on="9e" s="90" frq="12034" n="MCM TOP"/>
+		<S i="162" t="19c8" on="9e" s="90" frq="12034" n="ORTM"/>
+		<S i="16a" t="19c8" on="9e" s="90" frq="12034" n="Outdoor HD"/>
+		<S i="161" t="19c8" on="9e" s="90" frq="12034" n="Phoenix Info News"/>
+		<S i="160" t="19c8" on="9e" s="90" frq="12034" n="RTG Int"/>
+		<S i="163" t="19c8" on="9e" s="90" frq="12034" n="Télé Sahel"/>
+		<S i="164" t="19c8" on="9e" s="90" frq="12034" n="La Voix Du Sahel"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] Harmonic">
+		<S i="1518" t="c3aa" on="9e" s="90" frq="11881" n="Animal Planet Europe HD"/>
+		<S i="14b4" t="c3aa" on="9e" s="90" frq="11881" n="Discovery Central Europe HD"/>
+		<S i="1838" t="c3be" on="9e" s="90" frq="11919" n="Discovery Hungary HD"/>
+		<S i="15e0" t="c3aa" on="9e" s="90" frq="11881" n="Discovery Turbo Xtra HD"/>
+		<S i="189c" t="c3be" on="9e" s="90" frq="11919" n="Discovery Turkey HD"/>
+		<S i="13ec" t="c3aa" on="9e" s="90" frq="11881" n="HGTV Central Europe HD"/>
+		<S i="157c" t="c3aa" on="9e" s="90" frq="11881" n="ID Xtra Europe HD"/>
+		<S i="1644" t="c3aa" on="9e" s="90" frq="11881" n="Science Europe HD"/>
+		<S i="1900" t="c3be" on="9e" s="90" frq="11919" n="Science Turkey HD"/>
+		<S i="1450" t="c3aa" on="9e" s="90" frq="11881" n="TLC Balkans HD"/>
+		<S i="17d4" t="c3be" on="9e" s="90" frq="11919" n="TLC Hungary SD"/>
+		<S i="16a8" t="c3aa" on="9e" s="90" frq="11881" n="TLC Pan Regional SD"/>
+		<S i="1388" t="c3aa" on="9e" s="90" frq="11881" n="Travel EMEA HD"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Jonye">
 		<S i="1a2" t="c40e" on="9e" s="90" frq="12074" n="History HD"/>

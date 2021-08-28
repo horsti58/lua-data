@@ -160,7 +160,7 @@
 			<S i="00eb" f="4" s="1" t="19" n="TLC HD"/>
 			<S i="00ec" f="4" s="0" t="16" n="BBC WORLD"/>
 		</TS>
-		<TS id="16a8" on="009c" frq="11881000" inv="2" sr="27500000" fec="2" pol="1" mod="9" sys="1">
+		<TS id="16a8" on="009c" frq="11881000" inv="2" sr="30000000" fec="3" pol="1" mod="9" sys="1">
 			<S i="0daf" f="4" s="1" t="1" n="Rai Africa"/>
 			<S i="0db7" f="4" s="1" t="1" n="EUROBET 11"/>
 			<S i="0db8" f="4" s="1" t="1" n="EUROBET 12"/>
@@ -168,6 +168,17 @@
 			<S i="0dba" f="4" s="1" t="1" n="EUROBET 14"/>
 			<S i="0dbb" f="4" s="0" t="1" n="ORTB TV"/>
 			<S i="0dc5" f="4" s="1" t="19" n="MCM TOP"/>
+		</TS>
+		<TS id="c3aa" on="009e" frq="11881000" inv="2" sr="30000000" fec="3" pol="1" mod="9" sys="1">
+			<S i="1388" f="4" s="0" t="1" n="Travel EMEA HD"/>
+			<S i="13ec" f="4" s="0" t="1" n="HGTV Central Europe HD"/>
+			<S i="1450" f="4" s="0" t="1" n="TLC Balkans HD"/>
+			<S i="14b4" f="4" s="0" t="1" n="Discovery Central Europe HD"/>
+			<S i="1518" f="4" s="0" t="1" n="Animal Planet Europe HD"/>
+			<S i="157c" f="1" s="0" t="1" n="ID Xtra Europe HD"/>
+			<S i="15e0" f="1" s="0" t="1" n="Discovery Turbo Xtra HD"/>
+			<S i="1644" f="1" s="0" t="1" n="Science Europe HD"/>
+			<S i="16a8" f="1" s="1" t="1" n="TLC Pan Regional SD"/>
 		</TS>
 		<TS id="170c" on="009e" frq="11900000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
 			<S i="000e" f="4" s="0" t="1" n="TRACE SPORTS INTER HD"/>
@@ -186,6 +197,12 @@
 			<S i="0074" f="4" s="0" t="1" n="ORTB TV"/>
 			<S i="00e9" f="4" s="0" t="19" n="EBSHD"/>
 			<S i="01b1" f="4" s="0" t="19" n="EBS+HD"/>
+		</TS>
+		<TS id="c3be" on="009e" frq="11919000" inv="2" sr="30000000" fec="3" pol="1" mod="9" sys="1">
+			<S i="17d4" f="4" s="0" t="1" n="TLC Hungary SD"/>
+			<S i="1838" f="4" s="0" t="1" n="Discovery Hungary HD"/>
+			<S i="189c" f="4" s="0" t="1" n="Discovery Turkey HD"/>
+			<S i="1900" f="1" s="0" t="1" n="Science Turkey HD"/>
 		</TS>
 		<TS id="0009" on="00aa" frq="11938000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
 			<S i="03ea" f="4" s="1" t="1" n="TEST 16"/>
@@ -283,7 +300,7 @@
 			<S i="0164" f="4" s="0" t="2" n="La Voix Du Sahel"/>
 			<S i="0165" f="4" s="1" t="1" n="BBC_Entertainment_Europe"/>
 			<S i="0168" f="4" s="0" t="1" n="Karusel Int"/>
-			<S i="016a" f="4" s="1" t="1" n="Outdoor HD"/>
+			<S i="016a" f="2" s="1" t="1" n="Outdoor HD"/>
 		</TS>
 		<TS id="0002" on="00aa" frq="12054000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
 			<S i="03e9" f="4" s="1" t="1" n="TEST 14"/>
