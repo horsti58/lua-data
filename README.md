@@ -2,7 +2,7 @@
 
 diverse Neutrino Sat-Settings 28.2E, 23.5E, 19.2E, 13.0E, 16.0E, 9.0E
 
-        Neutrino Kabel-Settings Vodafone 
+        Neutrino Kabel-Settings Vodafone (vormals UnityMedia)
 
 gescant im Westen von NRW....
 
