@@ -294,6 +294,7 @@
 			<S i="4e54" f="4" s="0" t="1" n="Pink Romance"/>
 			<S i="4e55" f="4" s="0" t="1" n="Pink Sci-Fi &amp; Fantasy"/>
 			<S i="4e65" f="4" s="0" t="1" n="Kuvo TV"/>
+			<S i="4e6c" f="1" s="1" t="1" n="Klasik TV"/>
 			<S i="4f2e" f="2" s="0" t="1" n="Arena 720p"/>
 		</TS>
 		<TS id="0c86" on="0003" frq="11817000" inv="2" sr="30000000" fec="3" pol="1" mod="9" sys="1">
@@ -398,6 +399,7 @@
 			<S i="4e7f" f="4" s="0" t="1" n="RTS Poletarac"/>
 			<S i="4e82" f="4" s="0" t="1" n="RTS 3 HD"/>
 			<S i="4e83" f="4" s="0" t="19" n="RTS Svet HD"/>
+			<S i="4ea3" f="1" s="0" t="1" n="Dox TV"/>
 			<S i="4ef2" f="4" s="0" t="1" n="M1"/>
 			<S i="4ef3" f="4" s="0" t="1" n="M2"/>
 			<S i="4ef4" f="4" s="0" t="1" n="RTL Klub"/>
@@ -405,11 +407,11 @@
 			<S i="4ef6" f="4" s="0" t="1" n="Story 4"/>
 			<S i="4ef8" f="4" s="0" t="1" n="RTL 2"/>
 			<S i="4ef9" f="4" s="0" t="1" n="Duna"/>
-			<S i="4efa" f="4" s="0" t="1" n="Duna world"/>
-			<S i="4fb0" f="4" s="0" t="1" n="Uci doma 2"/>
-			<S i="4fb1" f="4" s="0" t="1" n="Uci doma 3"/>
-			<S i="50dc" f="4" s="0" t="c" n="STB SSU"/>
-			<S i="50e7" f="4" s="0" t="c" n="NG SSU"/>
+			<S i="4efa" f="4" s="1" t="1" n="Duna world"/>
+			<S i="4fb0" f="2" s="0" t="1" n="Uci doma 2"/>
+			<S i="4fb1" f="2" s="0" t="1" n="Uci doma 3"/>
+			<S i="50dc" f="2" s="0" t="c" n="STB SSU"/>
+			<S i="50e7" f="2" s="0" t="c" n="NG SSU"/>
 			<S i="5154" f="4" s="0" t="2" n="Radio Beograd 1"/>
 			<S i="5155" f="4" s="0" t="2" n="Radio Beograd 2"/>
 			<S i="5156" f="4" s="0" t="2" n="Radio Beograd 202"/>

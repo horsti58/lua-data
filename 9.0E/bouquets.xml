@@ -1,67 +1,3 @@
-	<Bouquet name="[C384.1] ARD">
-	</Bouquet>
-	<Bouquet name="[C384.1] ARD BR">
-	</Bouquet>
-	<Bouquet name="[C384.1] ARD HR">
-	</Bouquet>
-	<Bouquet name="[C384.1] ARD MDR">
-	</Bouquet>
-	<Bouquet name="[C384.1] ARD NDR">
-	</Bouquet>
-	<Bouquet name="[C384.1] ARD RB">
-	</Bouquet>
-	<Bouquet name="[C384.1] ARD rbb">
-	</Bouquet>
-	<Bouquet name="[C384.1] ARD SR">
-	</Bouquet>
-	<Bouquet name="[C384.1] ARD SWR">
-	</Bouquet>
-	<Bouquet name="[C384.1] ARD WDR">
-	</Bouquet>
-	<Bouquet name="[C384.1] betaresearch">
-	</Bouquet>
-	<Bouquet name="[C384.1] Sky">
-	</Bouquet>
-	<Bouquet name="[C384.1] UMKBW">
-	</Bouquet>
-	<Bouquet name="[C384.1] Unitymedia">
-	</Bouquet>
-	<Bouquet name="[C384.1] Unitymedia - STINGRAY MUSIC">
-	</Bouquet>
-	<Bouquet name="[C384.1] ZDFvision">
-	</Bouquet>
-	<Bouquet name="[C384.6] ARD">
-	</Bouquet>
-	<Bouquet name="[C384.6] ARD BR">
-	</Bouquet>
-	<Bouquet name="[C384.6] ARD HR">
-	</Bouquet>
-	<Bouquet name="[C384.6] ARD MDR">
-	</Bouquet>
-	<Bouquet name="[C384.6] ARD NDR">
-	</Bouquet>
-	<Bouquet name="[C384.6] ARD RB">
-	</Bouquet>
-	<Bouquet name="[C384.6] ARD rbb">
-	</Bouquet>
-	<Bouquet name="[C384.6] ARD SR">
-	</Bouquet>
-	<Bouquet name="[C384.6] ARD SWR">
-	</Bouquet>
-	<Bouquet name="[C384.6] ARD WDR">
-	</Bouquet>
-	<Bouquet name="[C384.6] betaresearch">
-	</Bouquet>
-	<Bouquet name="[C384.6] Sky">
-	</Bouquet>
-	<Bouquet name="[C384.6] UMKBW">
-	</Bouquet>
-	<Bouquet name="[C384.6] Unitymedia">
-	</Bouquet>
-	<Bouquet name="[C384.6] Unitymedia - STINGRAY MUSIC">
-	</Bouquet>
-	<Bouquet name="[C384.6] ZDFvision">
-	</Bouquet>
 	<Bouquet name="[E009.0] A1 Broadcasting">
 		<S i="35e" t="c35a" on="9e" s="90" frq="11727" n="EUROBET 11"/>
 		<S i="35f" t="c35a" on="9e" s="90" frq="11727" n="EUROBET 12"/>
@@ -74,6 +10,10 @@
 	</Bouquet>
 	<Bouquet name="[E009.0] ADTH">
 		<S i="15f" t="19c8" on="9e" s="90" frq="12034" n="HWAZAN"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] ARQIVA">
+		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
+		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="IRN"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva">
 		<S i="48d" t="1af4" on="9e" s="90" frq="12092" n="DAB D1"/>
@@ -91,10 +31,6 @@
 		<S i="4ab" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist4"/>
 		<S i="4b0" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist5"/>
 		<S i="483" t="1af4" on="9e" s="90" frq="12092" n="Premier Radio"/>
-	</Bouquet>
-	<Bouquet name="[E009.0] ARQIVA">
-		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
-		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="IRN"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] BASIS 1">
 		<S i="ec" t="1644" on="9c" s="90" frq="11861" n="BBC WORLD"/>
