@@ -6,9 +6,35 @@
 	</Bouquet>
 	<Bouquet name="[E016.0] Antik">
 	</Bouquet>
-	<Bouquet name="[E016.0] DigitALB">
-	</Bouquet>
 	<Bouquet name="[E016.0] Digitalb">
+	</Bouquet>
+	<Bouquet name="[E016.0] DigitALB">
+		<S i="410" t="4f4c" on="16e" s="160" frq="10762" n="Bang Bang"/>
+		<S i="5b4" t="4f4c" on="16e" s="160" frq="10762" n="Big Brother 1 HD"/>
+		<S i="5f0" t="4f4c" on="16e" s="160" frq="10762" n="Big Brother 2 HD"/>
+		<S i="26c" t="4f4c" on="16e" s="160" frq="10762" n="DGA-OTT200S"/>
+		<S i="424" t="4f4c" on="16e" s="160" frq="10762" n="EXP shkence"/>
+		<S i="5dc" t="4f4c" on="16e" s="160" frq="10762" n="Film Aksion HD"/>
+		<S i="5c8" t="4f4c" on="16e" s="160" frq="10762" n="Film Hits HD"/>
+		<S i="44c" t="4f4c" on="16e" s="160" frq="10762" n="Film Komedi"/>
+		<S i="460" t="4f4c" on="16e" s="160" frq="10762" n="Klan Music"/>
+		<S i="265" t="4f4c" on="16e" s="160" frq="10762" n="KSF-S270HDCO"/>
+		<S i="266" t="4f4c" on="16e" s="160" frq="10762" n="KSF-S660HDCO"/>
+		<S i="4d8" t="4f4c" on="16e" s="160" frq="10762" n="News 24"/>
+		<S i="269" t="4f4c" on="16e" s="160" frq="10762" n="ODS-2+3000H"/>
+		<S i="49c" t="4f4c" on="16e" s="160" frq="10762" n="Ora News"/>
+		<S i="27a" t="4f4c" on="16e" s="160" frq="10762" n="OTA SMIT MSD"/>
+		<S i="3e8" t="4f4c" on="16e" s="160" frq="10762" n="RTK-1"/>
+		<S i="5a0" t="4f4c" on="16e" s="160" frq="10762" n="RTV Ora"/>
+		<S i="58c" t="4f4c" on="16e" s="160" frq="10762" n="SS-7 HD"/>
+		<S i="488" t="4f4c" on="16e" s="160" frq="10762" n="Stinet"/>
+		<S i="438" t="4f4c" on="16e" s="160" frq="10762" n="Syri TV"/>
+		<S i="578" t="4f4c" on="16e" s="160" frq="10762" n="T HD"/>
+		<S i="604" t="4f4c" on="16e" s="160" frq="10762" n="Top Channel HD"/>
+		<S i="3fc" t="4f4c" on="16e" s="160" frq="10762" n="Top News"/>
+		<S i="4ec" t="4f4c" on="16e" s="160" frq="10762" n="X1"/>
+		<S i="708" t="4f4c" on="16e" s="160" frq="10762" n="Top Albania Radio"/>
+		<S i="71c" t="4f4c" on="16e" s="160" frq="10762" n="Top Gold Radio"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] Djemba IT&amp;C">
 	</Bouquet>
@@ -83,6 +109,7 @@
 		<S i="45" t="3" on="40" s="160" frq="11678" n="Radio Capodistria."/>
 	</Bouquet>
 	<Bouquet name="[E016.0] TAG">
+		<S i="4e2" t="4f4c" on="16e" s="160" frq="10762" n="TAG TEST"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] TEAM:SAT">
 	</Bouquet>

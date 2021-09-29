@@ -91,7 +91,6 @@
 		<S i="52ec" t="c96" on="3" s="235" frq="12129" n="Eleven Sports Pro League 1 NL"/>
 		<S i="338f" t="c93" on="3" s="235" frq="12070" n="EPG Nagra"/>
 		<S i="3700" t="c8c" on="3" s="235" frq="11934" n="Epic Drama HD"/>
-		<S i="339e" t="c89" on="3" s="235" frq="11876" n="Epic Drama HD-PRELADTE"/>
 		<S i="1bfc" t="c88" on="3" s="235" frq="11856" n="ESPN 2 HD"/>
 		<S i="17b4" t="c82" on="3" s="235" frq="11739" n="ESPN 4 HD"/>
 		<S i="17cc" t="c82" on="3" s="235" frq="11739" n="ESPN HD"/>
@@ -178,9 +177,9 @@
 		<S i="3b60" t="c8d" on="3" s="235" frq="11953" n="Nickelodeon Hungary"/>
 		<S i="3b74" t="c8d" on="3" s="235" frq="11953" n="Nicktoons CZ"/>
 		<S i="372c" t="c8e" on="3" s="235" frq="11973" n="Nova +1 HD"/>
-		<S i="3722" t="c8e" on="3" s="235" frq="11973" n="Nova 2 HD"/>
 		<S i="3394" t="c89" on="3" s="235" frq="11876" n="Nova Action HD"/>
 		<S i="3395" t="c89" on="3" s="235" frq="11876" n="Nova Cinema HD"/>
+		<S i="3722" t="c8e" on="3" s="235" frq="11973" n="Nova Fun HD"/>
 		<S i="3721" t="c8e" on="3" s="235" frq="11973" n="Nova Gold"/>
 		<S i="3391" t="c89" on="3" s="235" frq="11876" n="Nova HD"/>
 		<S i="339b" t="c89" on="3" s="235" frq="11876" n="Nova International"/>
@@ -251,6 +250,7 @@
 		<S i="3b6e" t="c8d" on="3" s="235" frq="11953" n="STORY4"/>
 		<S i="3b66" t="c8d" on="3" s="235" frq="11953" n="SuperTV2"/>
 		<S i="339f" t="c89" on="3" s="235" frq="11876" n="Test"/>
+		<S i="339e" t="c89" on="3" s="235" frq="11876" n="TEST"/>
 		<S i="1f4d" t="ca1" on="3" s="235" frq="12344" n="TESTS7"/>
 		<S i="17ae" t="c82" on="3" s="235" frq="11739" n="Travel XP HD"/>
 		<S i="17af" t="c82" on="3" s="235" frq="11739" n="Travel XP HD BNL"/>
@@ -329,6 +329,8 @@
 		<S i="1451" t="c98" on="3" s="235" frq="12168" n="Ocko TV"/>
 		<S i="1478" t="c98" on="3" s="235" frq="12168" n="RTL Tele Letzebuerg 23.5"/>
 		<S i="1455" t="c98" on="3" s="235" frq="12168" n="SES_LCN2"/>
+		<S i="1485" t="c98" on="3" s="235" frq="12168" n="TELEIPPICA 1"/>
+		<S i="1486" t="c98" on="3" s="235" frq="12168" n="TELEIPPICA 2"/>
 		<S i="145a" t="c98" on="3" s="235" frq="12168" n="TV Lux HD"/>
 		<S i="147e" t="c98" on="3" s="235" frq="12168" n="radio 100,7 Letzebuerg"/>
 		<S i="147d" t="c98" on="3" s="235" frq="12168" n="RTL Radio Letzebuerg"/>
@@ -355,6 +357,8 @@
 		<S i="4e37" t="c85" on="3" s="235" frq="11798" n="Arena Sport 4 HD"/>
 		<S i="4e38" t="c85" on="3" s="235" frq="11798" n="Arena Sport 5 HD"/>
 		<S i="4eea" t="c81" on="3" s="235" frq="11719" n="Arena Sport 5 HD CG"/>
+		<S i="4eeb" t="c86" on="3" s="235" frq="11817" n="Arena Sport 6"/>
+		<S i="4eec" t="c86" on="3" s="235" frq="11817" n="Arena Sport 7"/>
 		<S i="4e39" t="c8b" on="3" s="235" frq="11914" n="Arena Sport HD"/>
 		<S i="4e8f" t="ca4" on="3" s="235" frq="12402" n="ATV HD"/>
 		<S i="4e5b" t="c86" on="3" s="235" frq="11817" n="AXN"/>
@@ -439,8 +443,8 @@
 		<S i="4eaf" t="ca4" on="3" s="235" frq="12402" n="LoL"/>
 		<S i="4ef2" t="c8b" on="3" s="235" frq="11914" n="M1"/>
 		<S i="4ef3" t="c8b" on="3" s="235" frq="11914" n="M2"/>
-		<S i="4efb" t="c81" on="3" s="235" frq="11719" n="Minimax"/>
 		<S i="4e3f" t="c85" on="3" s="235" frq="11798" n="Minimax"/>
+		<S i="4efb" t="c81" on="3" s="235" frq="11719" n="Minimax"/>
 		<S i="4efd" t="c81" on="3" s="235" frq="11719" n="Mozy +"/>
 		<S i="4e20" t="c8b" on="3" s="235" frq="11914" n="mSAT Info"/>
 		<S i="4f09" t="c81" on="3" s="235" frq="11719" n="Muszicka TV"/>
@@ -700,8 +704,8 @@
 		<S i="8de" t="1" on="0" s="235" frq="11671" n="2270 - ESKA Koszalin"/>
 		<S i="8fc" t="0" on="1" s="235" frq="11671" n="2300 - ESKA Beskidy/Zywiec"/>
 		<S i="8fc" t="1" on="0" s="235" frq="11671" n="2300 - ESKA Beskidy/Zywiec"/>
-		<S i="906" t="1" on="0" s="235" frq="11671" n="2310 - ESKA Szczecinek"/>
 		<S i="906" t="0" on="1" s="235" frq="11671" n="2310 - ESKA Szczecinek"/>
+		<S i="906" t="1" on="0" s="235" frq="11671" n="2310 - ESKA Szczecinek"/>
 		<S i="910" t="1" on="0" s="235" frq="11671" n="2320 - ESKA Przemysl"/>
 		<S i="910" t="0" on="1" s="235" frq="11671" n="2320 - ESKA Przemysl"/>
 		<S i="91a" t="0" on="1" s="235" frq="11671" n="2330 - ESKA Malopolska"/>
@@ -716,8 +720,8 @@
 		<S i="97e" t="1" on="0" s="235" frq="11671" n="2430 - ESKA Elblag"/>
 		<S i="988" t="0" on="1" s="235" frq="11671" n="2440 - ESKA Ilawa"/>
 		<S i="988" t="1" on="0" s="235" frq="11671" n="2440 - ESKA Ilawa"/>
-		<S i="992" t="1" on="0" s="235" frq="11671" n="2450 - ESKA Grudziadz"/>
 		<S i="992" t="0" on="1" s="235" frq="11671" n="2450 - ESKA Grudziadz"/>
+		<S i="992" t="1" on="0" s="235" frq="11671" n="2450 - ESKA Grudziadz"/>
 		<S i="99c" t="0" on="1" s="235" frq="11671" n="2460 - ESKA Lomza"/>
 		<S i="99c" t="1" on="0" s="235" frq="11671" n="2460 - ESKA Lomza"/>
 		<S i="9b0" t="0" on="1" s="235" frq="11671" n="2480 - ESKA Wroclaw JG"/>
@@ -742,8 +746,8 @@
 		<S i="1022" t="0" on="1" s="235" frq="11671" n="4130 - PLUS Lublin"/>
 		<S i="10ae" t="1" on="0" s="235" frq="11671" n="4270 - PLUS Koszalin"/>
 		<S i="10ae" t="0" on="1" s="235" frq="11671" n="4270 - PLUS Koszalin"/>
-		<S i="10f4" t="1" on="0" s="235" frq="11671" n="4340 - PLUS Podhale"/>
 		<S i="10f4" t="0" on="1" s="235" frq="11671" n="4340 - PLUS Podhale"/>
+		<S i="10f4" t="1" on="0" s="235" frq="11671" n="4340 - PLUS Podhale"/>
 		<S i="1388" t="1" on="0" s="235" frq="11671" n="5000 - Testowy 1"/>
 		<S i="1388" t="0" on="1" s="235" frq="11671" n="5000 - Testowy 1"/>
 		<S i="1392" t="0" on="1" s="235" frq="11671" n="5010 - Testowy 2"/>
@@ -752,6 +756,7 @@
 		<S i="1f4a" t="1" on="0" s="235" frq="11671" n="8010 - Radio Rodzina"/>
 		<S i="1f54" t="1" on="0" s="235" frq="11671" n="8020 - Radio Wielkopolska"/>
 		<S i="1f54" t="0" on="1" s="235" frq="11671" n="8020 - Radio Wielkopolska"/>
+		<S i="4eed" t="ca4" on="3" s="235" frq="12402" n="Arena Sport 8"/>
 		<S i="2af8" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x2AF8)"/>
 		<S i="2ee0" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x2EE0)"/>
 		<S i="32c8" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x32C8)"/>

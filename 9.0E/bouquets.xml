@@ -11,10 +11,6 @@
 	<Bouquet name="[E009.0] ADTH">
 		<S i="15f" t="19c8" on="9e" s="90" frq="12034" n="HWAZAN"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] ARQIVA">
-		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
-		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="IRN"/>
-	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva">
 		<S i="48d" t="1af4" on="9e" s="90" frq="12092" n="DAB D1"/>
 		<S i="451" t="1af4" on="9e" s="90" frq="12092" n="DISJ1_CEMA"/>
@@ -31,6 +27,10 @@
 		<S i="4ab" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist4"/>
 		<S i="4b0" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist5"/>
 		<S i="483" t="1af4" on="9e" s="90" frq="12092" n="Premier Radio"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] ARQIVA">
+		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
+		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="IRN"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] BASIS 1">
 		<S i="ec" t="1644" on="9c" s="90" frq="11861" n="BBC WORLD"/>
@@ -49,9 +49,10 @@
 		<S i="130" t="1edc" on="9c" s="90" frq="12245" n="ProSieben HD"/>
 		<S i="c9" t="14b4" on="9c" s="90" frq="11785" n="ProSieben MAXX HD"/>
 		<S i="12d" t="1edc" on="9c" s="90" frq="12245" n="RTL HD"/>
-		<S i="cc" t="14b4" on="9c" s="90" frq="11785" n="RTLplus HD"/>
+		<S i="cc" t="14b4" on="9c" s="90" frq="11785" n="RTLup HD"/>
 		<S i="12f" t="1edc" on="9c" s="90" frq="12245" n="SAT.1 HD"/>
 		<S i="ea" t="1644" on="9c" s="90" frq="11861" n="SPORT 1 HD"/>
+		<S i="ea60" t="14b4" on="9c" s="90" frq="11785" n="TC ATV 1"/>
 		<S i="e8" t="1644" on="9c" s="90" frq="11861" n="TELE 5 HD"/>
 		<S i="eb" t="1644" on="9c" s="90" frq="11861" n="TLC HD"/>
 		<S i="ce" t="14b4" on="9c" s="90" frq="11785" n="TOGGO plus HD"/>
@@ -64,6 +65,17 @@
 		<S i="1a1" t="1964" on="9c" s="90" frq="12015" n="RTLZWEI HD"/>
 		<S i="1a0" t="1964" on="9c" s="90" frq="12015" n="sixx HD"/>
 		<S i="196" t="1964" on="9c" s="90" frq="12015" n="SUPER RTL HD"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] Discovery">
+		<S i="1518" t="c3aa" on="9e" s="90" frq="11881" n="Animal Planet Europe HD"/>
+		<S i="14b4" t="c3aa" on="9e" s="90" frq="11881" n="Discovery Central Europe HD"/>
+		<S i="15e0" t="c3aa" on="9e" s="90" frq="11881" n="Discovery Turbo Xtra HD"/>
+		<S i="13ec" t="c3aa" on="9e" s="90" frq="11881" n="HGTV Central Europe HD"/>
+		<S i="157c" t="c3aa" on="9e" s="90" frq="11881" n="ID Xtra Europe HD"/>
+		<S i="1644" t="c3aa" on="9e" s="90" frq="11881" n="Science Europe HD"/>
+		<S i="1450" t="c3aa" on="9e" s="90" frq="11881" n="TLC Balkans HD"/>
+		<S i="16a8" t="c3aa" on="9e" s="90" frq="11881" n="TLC Pan Regional SD"/>
+		<S i="1388" t="c3aa" on="9e" s="90" frq="11881" n="Travel EMEA HD"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] encoder">
 		<S i="6f" t="170c" on="9e" s="90" frq="11900" n="Better-1"/>

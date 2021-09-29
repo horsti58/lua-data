@@ -4,6 +4,11 @@
 			<S i="0bba" f="4" s="0" t="2" n="Ognjisce Radio Slovenija"/>
 		</TS>
 		<TS id="4f4c" on="016e" frq="10762000" inv="2" sr="30000000" fec="10" pol="0" mod="9" sys="1">
+			<S i="0265" f="2" s="0" t="9" n="KSF-S270HDCO"/>
+			<S i="0266" f="2" s="0" t="9" n="KSF-S660HDCO"/>
+			<S i="0269" f="2" s="0" t="9" n="ODS-2+3000H"/>
+			<S i="026c" f="2" s="0" t="9" n="DGA-OTT200S"/>
+			<S i="027a" f="2" s="0" t="9" n="OTA SMIT MSD"/>
 			<S i="03e8" f="4" s="0" t="1" n="RTK-1"/>
 			<S i="03fc" f="4" s="0" t="1" n="Top News"/>
 			<S i="0410" f="4" s="0" t="1" n="Bang Bang"/>
@@ -19,9 +24,11 @@
 			<S i="0578" f="4" s="0" t="19" n="T HD"/>
 			<S i="058c" f="4" s="0" t="19" n="SS-7 HD"/>
 			<S i="05a0" f="4" s="0" t="19" n="RTV Ora"/>
+			<S i="05b4" f="1" s="0" t="19" n="Big Brother 1 HD"/>
 			<S i="05c8" f="4" s="0" t="19" n="Film Hits HD"/>
 			<S i="05dc" f="4" s="0" t="19" n="Film Aksion HD"/>
-			<S i="0604" f="4" s="0" t="19" n="Top Channel HD"/>
+			<S i="05f0" f="1" s="0" t="19" n="Big Brother 2 HD"/>
+			<S i="0604" f="4" s="1" t="19" n="Top Channel HD"/>
 			<S i="0708" f="4" s="0" t="2" n="Top Albania Radio"/>
 			<S i="071c" f="4" s="0" t="2" n="Top Gold Radio"/>
 		</TS>
@@ -689,11 +696,11 @@
 			<S i="0125" f="4" s="1" t="16" n="RTL2."/>
 			<S i="0126" f="4" s="1" t="16" n="Doma TV."/>
 			<S i="0128" f="4" s="1" t="16" n="M1."/>
-			<S i="012a" f="1" s="1" t="16" n="HRT4."/>
+			<S i="012a" f="4" s="1" t="16" n="HRT4."/>
 			<S i="012d" f="4" s="1" t="16" n="Mini TV."/>
 			<S i="019c" f="4" s="1" t="19" n="Arena Sport 1 HD."/>
 			<S i="01ae" f="4" s="1" t="16" n="SPTV."/>
-			<S i="07e5" f="1" s="0" t="16" n="Maria Vision"/>
+			<S i="07e5" f="4" s="0" t="16" n="Maria Vision"/>
 		</TS>
 		<TS id="145c" on="0005" frq="12516000" inv="2" sr="19365000" fec="3" pol="1" mod="0" sys="1">
 			<S i="1db1" f="4" s="1" t="1" n="PRO TV"/>
