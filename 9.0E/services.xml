@@ -203,7 +203,7 @@
 			<S i="17d4" f="4" s="0" t="1" n="TLC Hungary SD"/>
 			<S i="1838" f="4" s="0" t="1" n="Discovery Hungary HD"/>
 			<S i="189c" f="4" s="0" t="1" n="Discovery Turkey HD"/>
-			<S i="1900" f="1" s="0" t="1" n="Science Turkey HD"/>
+			<S i="1900" f="4" s="1" t="1" n="Science Turkey HD"/>
 		</TS>
 		<TS id="0009" on="00aa" frq="11938000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
 			<S i="03ea" f="4" s="1" t="1" n="TEST 16"/>
@@ -397,7 +397,7 @@
 			<S i="03fb" f="4" s="1" t="1" n="Promo HD"/>
 			<S i="03fc" f="4" s="1" t="1" n="IONIAN TV"/>
 			<S i="040e" f="4" s="1" t="1" n="FOX HD"/>
-			<S i="041c" f="4" s="1" t="1" n="POP UP TEST HD"/>
+			<S i="041c" f="4" s="1" t="1" n="COSMOTE Cinema Marvel Studios HD"/>
 			<S i="0455" f="4" s="1" t="1" n="COSMOTESport5HD"/>
 			<S i="0462" f="4" s="1" t="1" n="TEST 5"/>
 			<S i="0463" f="4" s="1" t="1" n="Κρήτη Νέα Τηλεόραση"/>

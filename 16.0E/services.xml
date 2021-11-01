@@ -384,12 +384,12 @@
 			<S i="0069" f="4" s="1" t="19" n="HBO2 HD"/>
 			<S i="006a" f="4" s="1" t="19" n="HBO3 HD"/>
 			<S i="006b" f="4" s="1" t="19" n="HBO HD"/>
-			<S i="006c" f="4" s="1" t="16" n="Discovery Channel"/>
+			<S i="006c" f="4" s="1" t="16" n="Discovery SD"/>
 			<S i="0070" f="4" s="1" t="16" n="Golf Channel"/>
-			<S i="0071" f="4" s="1" t="16" n="IDX SD"/>
+			<S i="0071" f="4" s="1" t="16" n="IDX Pan Regional SD"/>
 			<S i="0072" f="4" s="1" t="16" n="Leo TV/Extasy"/>
 			<S i="0073" f="4" s="1" t="16" n="Minimax"/>
-			<S i="0074" f="4" s="1" t="16" n="TLC SD"/>
+			<S i="0074" f="4" s="1" t="16" n="new TLC SD"/>
 			<S i="0077" f="4" s="1" t="19" n="Prima PLUS HD"/>
 			<S i="0078" f="4" s="1" t="19" n="Sport 1 HD"/>
 			<S i="0079" f="4" s="1" t="19" n="Arena Sport 1 HD"/>
@@ -616,26 +616,26 @@
 			<S i="0396" f="2" s="1" t="1f" n="Ultra 4K Extreme"/>
 		</TS>
 		<TS id="c6d4" on="016e" frq="11637000" inv="2" sr="30000000" fec="5" pol="0" mod="9" sys="1">
-			<S i="076d" f="4" s="1" t="16" n="Toxic TV"/>
+			<S i="076d" f="4" s="0" t="19" n="CroTV"/>
 			<S i="076e" f="4" s="1" t="19" n="History HD"/>
 			<S i="076f" f="4" s="1" t="16" n="Nick Jr."/>
 			<S i="0770" f="4" s="0" t="16" n="Super SAT"/>
-			<S i="0771" f="4" s="1" t="16" n="PlanetSport 4"/>
+			<S i="0771" f="4" s="0" t="16" n="ZDRAVA TV"/>
 			<S i="0772" f="4" s="1" t="19" n="Travelxp HD"/>
 			<S i="0773" f="4" s="1" t="16" n="Cartoon Network"/>
 			<S i="0774" f="4" s="1" t="16" n="Disney Channel Romania"/>
 			<S i="0775" f="4" s="1" t="19" n="History HD"/>
 			<S i="0776" f="4" s="1" t="16" n="Disney Channel Bulgaria"/>
 			<S i="0777" f="4" s="0" t="16" n="Aurora TV"/>
-			<S i="0778" f="4" s="1" t="16" n="Toxic Folk"/>
+			<S i="0778" f="4" s="1" t="19" n="Arena Sport 10 HD"/>
 			<S i="0779" f="4" s="0" t="16" n="YU PLANET"/>
 			<S i="077a" f="4" s="1" t="16" n="AXN Spin"/>
-			<S i="077b" f="4" s="1" t="16" n="Arena Fight"/>
+			<S i="077b" f="4" s="0" t="16" n="Zapad TV"/>
 			<S i="077c" f="4" s="0" t="16" n="P-TV Vienna"/>
 			<S i="077d" f="4" s="1" t="16" n="Barely Legal"/>
-			<S i="077e" f="4" s="0" t="19" n="Myzen TV HD"/>
+			<S i="077e" f="4" s="0" t="2" n="Hrvatski Radio Frankfurt"/>
 			<S i="077f" f="4" s="1" t="16" n="Da Vinci LEARNING"/>
-			<S i="0782" f="4" s="1" t="16" n="PlanetSport 5"/>
+			<S i="0782" f="2" s="1" t="16" n="PlanetSport 5"/>
 			<S i="0784" f="4" s="1" t="19" n="HBO HD"/>
 			<S i="0785" f="4" s="1" t="19" n="HBO 2 HD"/>
 			<S i="0786" f="4" s="1" t="19" n="Cinemax HD"/>
