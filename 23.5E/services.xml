@@ -298,7 +298,7 @@
 			<S i="4f2e" f="2" s="0" t="1" n="Arena 720p"/>
 		</TS>
 		<TS id="0c86" on="0003" frq="11817000" inv="2" sr="30000000" fec="3" pol="1" mod="9" sys="1">
-			<S i="4e57" f="4" s="0" t="1" n="Arena Sport 3 BiH"/>
+			<S i="4e57" f="4" s="0" t="1" n="Arena Sport_3"/>
 			<S i="4e58" f="4" s="0" t="1" n="Pink Film"/>
 			<S i="4e59" f="4" s="0" t="1" n="TV 1000"/>
 			<S i="4e5a" f="4" s="0" t="1" n="AMC"/>
@@ -310,9 +310,9 @@
 			<S i="4e62" f="4" s="0" t="1" n="FOX Movies HD"/>
 			<S i="4e66" f="4" s="0" t="19" n="HBO HD"/>
 			<S i="4e67" f="4" s="0" t="19" n="HBO 2 HD"/>
-			<S i="4e68" f="4" s="0" t="19" n="HBO 3 HD"/>
-			<S i="4e69" f="4" s="0" t="19" n="Cinemax HD"/>
-			<S i="4e6a" f="4" s="0" t="19" n="Cinemax 2 HD"/>
+			<S i="4e68" f="4" s="0" t="19" n="HBO 3"/>
+			<S i="4e69" f="4" s="0" t="19" n="Cinemax"/>
+			<S i="4e6a" f="4" s="0" t="19" n="Cinemax 2"/>
 			<S i="4e70" f="4" s="0" t="1" n="Pink Family"/>
 			<S i="4e71" f="4" s="0" t="1" n="Pink Serije"/>
 			<S i="4e73" f="4" s="0" t="1" n="Prva Life"/>
@@ -323,7 +323,7 @@
 			<S i="4e78" f="4" s="0" t="1" n="TVDR"/>
 			<S i="4e79" f="4" s="0" t="1" n="Kazbuka"/>
 			<S i="4e80" f="4" s="0" t="1" n="RTV 1"/>
-			<S i="4e81" f="4" s="0" t="1" n="RTV 2"/>
+			<S i="4e81" f="4" s="1" t="1" n="RTV 2"/>
 			<S i="4e85" f="4" s="0" t="1" n="RTRS"/>
 			<S i="4e86" f="4" s="0" t="1" n="Al Jazeera"/>
 			<S i="4e87" f="4" s="0" t="1" n="BN 2"/>
@@ -387,10 +387,15 @@
 			<S i="4f29" f="4" s="0" t="1" n="MRT 4"/>
 			<S i="4f2a" f="4" s="0" t="1" n="MRT 5"/>
 			<S i="4f2b" f="4" s="0" t="1" n="Sobraniski Kanal"/>
-			<S i="4f2c" f="4" s="0" t="1" n="Nasa TV"/>
+			<S i="4f2c" f="4" s="0" t="1" n="Nasha TV"/>
 			<S i="4f2d" f="4" s="0" t="1" n="RTV 21 M"/>
 			<S i="4f2e" f="4" s="0" t="1" n="TV 24"/>
 			<S i="4f2f" f="4" s="0" t="1" n="Klan Macedonia"/>
+			<S i="4f30" f="1" s="0" t="1" n="Sitel"/>
+			<S i="4f31" f="1" s="0" t="1" n="Telma"/>
+			<S i="4f32" f="1" s="0" t="1" n="Alfa TV"/>
+			<S i="4f33" f="1" s="0" t="1" n="Alsat M"/>
+			<S i="4f34" f="1" s="1" t="1" n="Kanal 5"/>
 		</TS>
 		<TS id="0c8b" on="0003" frq="11914000" inv="2" sr="30000000" fec="3" pol="0" mod="9" sys="1">
 			<S i="4e20" f="4" s="0" t="1" n="mSAT Info"/>
@@ -533,7 +538,7 @@
 			<S i="17de" f="4" s="0" t="19" n="SES Demo HD"/>
 			<S i="17e9" f="4" s="0" t="1" n="RTS Nauka"/>
 			<S i="17ea" f="4" s="0" t="1" n="RTS Poletarac 2"/>
-			<S i="182e" f="4" s="0" t="c" n="A2C-RMT"/>
+			<S i="182e" f="2" s="0" t="c" n="A2C-RMT"/>
 		</TS>
 		<TS id="0c93" on="0003" frq="12070000" inv="2" sr="27500000" fec="3" pol="0" mod="0" sys="0">
 			<S i="334b" f="4" s="1" t="19" n="Sport 1 HD"/>
@@ -779,7 +784,7 @@
 			<S i="4eb3" f="4" s="0" t="1" n="TV Hayatovci"/>
 			<S i="4eb4" f="4" s="0" t="1" n="TV Hayat Folk"/>
 			<S i="4eb5" f="4" s="0" t="1" n="TV Hayat Music"/>
-			<S i="4eb6" f="4" s="0" t="1" n="VH1"/>
+			<S i="4eb6" f="4" s="0" t="1" n="MTV 00s"/>
 			<S i="4eb7" f="4" s="0" t="1" n="Pink Music"/>
 			<S i="4eb8" f="4" s="0" t="1" n="Pink Hits 1"/>
 			<S i="4eb9" f="4" s="0" t="1" n="Pink&amp;Roll"/>
