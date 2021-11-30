@@ -120,12 +120,12 @@
 			<S i="0192" f="4" s="0" t="19" n="Bars &amp; Tone"/>
 		</TS>
 		<TS id="0001" on="0064" frq="11823000" inv="2" sr="27500000" fec="3" pol="0" mod="0" sys="0">
-			<S i="0654" f="4" s="0" t="2" n="Ros Ros Selex"/>
+			<S i="0654" f="4" s="0" t="2" n="Ros * Ros Selex"/>
 			<S i="065e" f="4" s="0" t="2" n="Carrefour Iper"/>
 			<S i="0668" f="4" s="0" t="2" n="Carrefour Market"/>
-			<S i="0672" f="4" s="0" t="1" n="TVT International"/>
-			<S i="067c" f="4" s="0" t="1" n="TVT Radio 1 (Radio Lome)"/>
-			<S i="0686" f="4" s="0" t="1" n="TVT Radio 2 (Radio Kara)"/>
+			<S i="0672" f="2" s="0" t="1" n="TVT International"/>
+			<S i="067c" f="2" s="0" t="1" n="TVT Radio 1 (Radio Lome)"/>
+			<S i="0686" f="2" s="0" t="1" n="TVT Radio 2 (Radio Kara)"/>
 			<S i="06a4" f="4" s="0" t="2" n="Radio CHINA FM"/>
 			<S i="0712" f="4" s="1" t="1" n="SISAL 1"/>
 			<S i="071c" f="4" s="1" t="1" n="SISAL 2"/>
@@ -373,15 +373,15 @@
 			<S i="0488" f="4" s="0" t="2" n="IRN"/>
 			<S i="048d" f="4" s="0" t="1" n="DAB D1"/>
 			<S i="0492" f="4" s="0" t="1" n="SDL NATL"/>
-			<S i="0497" f="1" s="0" t="c" n="talkSPORT Dist"/>
-			<S i="049c" f="4" s="0" t="c" n="BBC AM Dist1"/>
+			<S i="0497" f="2" s="0" t="c" n="talkSPORT Dist"/>
+			<S i="049c" f="2" s="0" t="c" n="BBC AM Dist1"/>
 			<S i="04a1" f="4" s="0" t="2" n="BBC AM Dist2"/>
 			<S i="04a6" f="4" s="0" t="2" n="BBC AM Dist3"/>
 			<S i="04ab" f="4" s="0" t="2" n="BBC AM Dist4"/>
-			<S i="04b0" f="4" s="0" t="c" n="BBC AM Dist5"/>
+			<S i="04b0" f="2" s="0" t="c" n="BBC AM Dist5"/>
 			<S i="04b5" f="4" s="0" t="2" n="Absolute Radio"/>
-			<S i="04ba" f="1" s="0" t="c" n="1210"/>
-			<S i="04bf" f="1" s="0" t="c" n="1215"/>
+			<S i="04ba" f="2" s="0" t="c" n="1210"/>
+			<S i="04bf" f="2" s="0" t="c" n="1215"/>
 		</TS>
 		<TS id="1bbc" on="009c" frq="12130000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
 			<S i="09c4" f="4" s="1" t="1" n="Euro Star"/>
@@ -400,7 +400,7 @@
 			<S i="03fb" f="4" s="1" t="1" n="Promo HD"/>
 			<S i="03fc" f="4" s="1" t="1" n="IONIAN TV"/>
 			<S i="040e" f="4" s="1" t="1" n="FOX HD"/>
-			<S i="041c" f="4" s="1" t="1" n="COSMOTE Cinema Marvel Studios HD"/>
+			<S i="041c" f="4" s="1" t="1" n="COSMOTE Cinema Christmas HD"/>
 			<S i="0455" f="4" s="1" t="1" n="COSMOTESport5HD"/>
 			<S i="0462" f="4" s="1" t="1" n="TEST 5"/>
 			<S i="0463" f="4" s="1" t="1" n="Κρήτη Νέα Τηλεόραση"/>
@@ -435,7 +435,7 @@
 			<S i="012f" f="4" s="1" t="19" n="SAT.1 HD"/>
 			<S i="0130" f="4" s="1" t="19" n="ProSieben HD"/>
 			<S i="0132" f="4" s="1" t="19" n="NITRO HD"/>
-			<S i="0133" f="4" s="1" t="19" n="n-tv HD"/>
+			<S i="0133" f="4" s="1" t="19" n="ntv HD"/>
 			<S i="0134" f="4" s="0" t="16" n="VOXup SD"/>
 		</TS>
 		<TS id="0005" on="00aa" frq="12284000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
@@ -524,7 +524,7 @@
 			<S i="4ef6" f="4" s="1" t="19" n="FOX HD"/>
 		</TS>
 		<TS id="0007" on="00aa" frq="12475000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
-			<S i="040a" f="4" s="1" t="1" n="TEST-18"/>
+			<S i="040a" f="4" s="1" t="1" n="Panik TV"/>
 			<S i="0427" f="4" s="1" t="1" n="MAD Viral HD"/>
 			<S i="0435" f="4" s="1" t="1" n="PPV TST1"/>
 			<S i="0439" f="4" s="1" t="1" n="Deutsche Welle"/>
@@ -535,8 +535,8 @@
 			<S i="0457" f="4" s="1" t="1" n="TEST I"/>
 			<S i="045c" f="4" s="1" t="1" n="MTV Europe"/>
 			<S i="0468" f="4" s="1" t="1" n="Museum TV"/>
-			<S i="046a" f="4" s="1" t="1" n="Food Network HD"/>
-			<S i="046f" f="4" s="1" t="1" n="Outdoor Channel HD"/>
+			<S i="046a" f="4" s="1" t="1" n="Sky News"/>
+			<S i="046f" f="4" s="1" t="1" n="MyZen TV"/>
 			<S i="0471" f="4" s="1" t="1" n="Nautical Channel HD"/>
 		</TS>
 	</sat>
