@@ -1,40 +1,41 @@
 	<sat name="9.0E Eutelsat" position="90" diseqc="-1" uncommited="-1">
 		<TS id="c35a" on="009e" frq="11727000" inv="2" sr="30000000" fec="3" pol="1" mod="9" sys="1">
-			<S i="0322" f="4" s="1" t="19" n="Ziggo Sport Select HD"/>
-			<S i="0324" f="4" s="1" t="19" n="VTM HD"/>
-			<S i="0325" f="4" s="1" t="19" n="Play4 HD"/>
-			<S i="0326" f="4" s="1" t="19" n="Play5 HD"/>
-			<S i="0327" f="4" s="1" t="19" n="Play6 HD"/>
-			<S i="0328" f="4" s="1" t="16" n="VTM 3"/>
-			<S i="0329" f="4" s="1" t="16" n="VTM 4"/>
-			<S i="032a" f="4" s="1" t="16" n="VTM 2"/>
-			<S i="032b" f="4" s="1" t="19" n="Ment HD"/>
-			<S i="032c" f="4" s="1" t="16" n="VTM Kids"/>
-			<S i="032d" f="4" s="1" t="16" n="VTM GOLD"/>
-			<S i="032e" f="4" s="1" t="19" n="ZiggoSport Voetbal HD"/>
-			<S i="032f" f="4" s="1" t="16" n="Ziggo Sport Racing"/>
-			<S i="0330" f="4" s="1" t="16" n="Ziggo Sport Golf"/>
-			<S i="0331" f="4" s="0" t="2" n="VRT Radio 1"/>
-			<S i="0332" f="4" s="0" t="2" n="VRT Radio 2"/>
-			<S i="0333" f="4" s="0" t="2" n="VRT NWS"/>
-			<S i="0334" f="4" s="0" t="2" n="MNM"/>
-			<S i="0335" f="4" s="0" t="2" n="MNM Hits"/>
-			<S i="0336" f="4" s="0" t="2" n="Studio Brussel"/>
-			<S i="0337" f="4" s="0" t="2" n="Klara"/>
-			<S i="0338" f="4" s="0" t="2" n="Klara Continuo"/>
-			<S i="0339" f="4" s="0" t="2" n="Sporza"/>
-			<S i="033a" f="4" s="0" t="2" n="Q Music"/>
-			<S i="033b" f="4" s="0" t="2" n="Joe"/>
-			<S i="033c" f="4" s="0" t="2" n="Nostalgie"/>
-			<S i="033d" f="4" s="0" t="2" n="Radio Continu"/>
-			<S i="033e" f="4" s="0" t="2" n="Groot nieuws Radio"/>
+			<S i="0322" f="2" s="1" t="19" n="Ziggo Sport Select HD"/>
+			<S i="0324" f="2" s="1" t="19" n="VTM HD"/>
+			<S i="0325" f="2" s="1" t="19" n="Play4 HD"/>
+			<S i="0326" f="2" s="1" t="19" n="Play5 HD"/>
+			<S i="0327" f="2" s="1" t="19" n="Play6 HD"/>
+			<S i="0328" f="2" s="1" t="16" n="VTM 3"/>
+			<S i="0329" f="2" s="1" t="16" n="VTM 4"/>
+			<S i="032a" f="2" s="1" t="16" n="VTM 2"/>
+			<S i="032b" f="2" s="1" t="19" n="Ment HD"/>
+			<S i="032c" f="2" s="1" t="16" n="VTM Kids"/>
+			<S i="032d" f="2" s="1" t="16" n="VTM GOLD"/>
+			<S i="032e" f="2" s="1" t="19" n="ZiggoSport Voetbal HD"/>
+			<S i="032f" f="2" s="1" t="16" n="Ziggo Sport Racing"/>
+			<S i="0330" f="2" s="1" t="16" n="Ziggo Sport Golf"/>
+			<S i="0331" f="2" s="0" t="2" n="VRT Radio 1"/>
+			<S i="0332" f="2" s="0" t="2" n="VRT Radio 2"/>
+			<S i="0333" f="2" s="0" t="2" n="VRT NWS"/>
+			<S i="0334" f="2" s="0" t="2" n="MNM"/>
+			<S i="0335" f="2" s="0" t="2" n="MNM Hits"/>
+			<S i="0336" f="2" s="0" t="2" n="Studio Brussel"/>
+			<S i="0337" f="2" s="0" t="2" n="Klara"/>
+			<S i="0338" f="2" s="0" t="2" n="Klara Continuo"/>
+			<S i="0339" f="2" s="0" t="2" n="Sporza"/>
+			<S i="033a" f="2" s="0" t="2" n="Q Music"/>
+			<S i="033b" f="2" s="0" t="2" n="Joe"/>
+			<S i="033c" f="2" s="0" t="2" n="Nostalgie"/>
+			<S i="033d" f="2" s="0" t="2" n="Radio Continu"/>
+			<S i="033e" f="2" s="0" t="2" n="Groot nieuws Radio"/>
+			<S i="035d" f="1" s="0" t="19" n="RT DE"/>
 			<S i="035e" f="4" s="1" t="1f" n="EUROBET 11"/>
 			<S i="035f" f="4" s="1" t="1f" n="EUROBET 12"/>
 			<S i="0360" f="4" s="1" t="1f" n="EUROBET 13"/>
 			<S i="0361" f="4" s="1" t="1f" n="EUROBET 14"/>
 			<S i="0362" f="4" s="0" t="2" n="TRT tamil"/>
 			<S i="0363" f="4" s="1" t="19" n="MUSEUM HD"/>
-			<S i="0364" f="4" s="1" t="1" n="TIN - The Israeli Network - new"/>
+			<S i="0364" f="4" s="1" t="16" n="TIN - The Israeli Network - new"/>
 			<S i="0365" f="4" s="1" t="19" n="MyZen TV HD"/>
 		</TS>
 		<TS id="c364" on="009e" frq="11747000" inv="2" sr="30000000" fec="3" pol="0" mod="9" sys="1">
@@ -135,6 +136,7 @@
 			<S i="0744" f="4" s="0" t="1" n="NLM TV"/>
 			<S i="074e" f="4" s="0" t="1" n="Italy Service 3"/>
 			<S i="0762" f="4" s="0" t="1" n="Italy Service 5"/>
+			<S i="0776" f="1" s="0" t="1" n="Mandarin TV"/>
 		</TS>
 		<TS id="0001" on="00aa" frq="11843000" inv="2" sr="27500000" fec="10" pol="1" mod="9" sys="1">
 			<S i="03f5" f="4" s="1" t="1" n="Stingray iConcerts"/>
@@ -200,10 +202,13 @@
 			<S i="01b1" f="4" s="0" t="19" n="EBS+HD"/>
 		</TS>
 		<TS id="c3be" on="009e" frq="11919000" inv="2" sr="30000000" fec="3" pol="1" mod="9" sys="1">
-			<S i="17d4" f="4" s="0" t="1" n="TLC Hungary SD"/>
-			<S i="1838" f="4" s="0" t="1" n="Discovery Hungary HD"/>
-			<S i="189c" f="4" s="0" t="1" n="Discovery Turkey HD"/>
-			<S i="1900" f="4" s="1" t="1" n="Science Turkey HD"/>
+			<S i="17d4" f="4" s="0" t="16" n="TLC Hungary SD"/>
+			<S i="1838" f="4" s="0" t="19" n="Discovery Hungary HD"/>
+			<S i="189c" f="4" s="0" t="19" n="Discovery Turkey HD"/>
+			<S i="1900" f="4" s="0" t="19" n="Science Turkey HD"/>
+			<S i="1964" f="1" s="0" t="19" n="Eurosport 3 HD"/>
+			<S i="19c8" f="1" s="0" t="19" n="Eurosport 4 HD"/>
+			<S i="1a2c" f="1" s="1" t="19" n="Eurosport 5 HD"/>
 		</TS>
 		<TS id="0009" on="00aa" frq="11938000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
 			<S i="03ea" f="4" s="1" t="1" n="TEST 16"/>
@@ -493,7 +498,7 @@
 			<S i="040d" f="4" s="1" t="1" n="Travel Channel HD"/>
 			<S i="0417" f="4" s="1" t="1" n="COSMOTE SERIES MARATHON"/>
 			<S i="0418" f="4" s="1" t="1" n="Body in Balance"/>
-			<S i="0419" f="4" s="1" t="1" n="TEST 7"/>
+			<S i="0419" f="4" s="1" t="1" n="COSMOTECinemaDisneyPrincessHD"/>
 			<S i="0420" f="4" s="1" t="1" n="MAD"/>
 			<S i="0421" f="4" s="0" t="1" n="TEST BISS"/>
 			<S i="0423" f="4" s="0" t="1" n="ΤΕΣΤ 8"/>

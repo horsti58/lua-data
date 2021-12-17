@@ -34,6 +34,8 @@
 	</Bouquet>
 	<Bouquet name="[E016.0] Antik">
 	</Bouquet>
+	<Bouquet name="[E016.0] Digitalb">
+	</Bouquet>
 	<Bouquet name="[E016.0] DigitALB">
 		<S i="410" t="4f4c" on="16e" s="160" frq="10762" n="Bang Bang"/>
 		<S i="5b4" t="4f4c" on="16e" s="160" frq="10762" n="Big Brother 1 HD"/>
@@ -62,8 +64,6 @@
 		<S i="708" t="4f4c" on="16e" s="160" frq="10762" n="Top Albania Radio"/>
 		<S i="71c" t="4f4c" on="16e" s="160" frq="10762" n="Top Gold Radio"/>
 	</Bouquet>
-	<Bouquet name="[E016.0] Digitalb">
-	</Bouquet>
 	<Bouquet name="[E016.0] Djemba IT&amp;C">
 	</Bouquet>
 	<Bouquet name="[E016.0] Djemba ITC">
@@ -73,6 +73,14 @@
 	<Bouquet name="[E016.0] EPQ">
 	</Bouquet>
 	<Bouquet name="[E016.0] GMDS">
+		<S i="7" t="1" on="1" s="160" frq="12537" n="Arta TV"/>
+		<S i="6" t="1" on="1" s="160" frq="12537" n="First Channel"/>
+		<S i="1" t="1" on="1" s="160" frq="12537" n="KTV"/>
+		<S i="f" t="1" on="1" s="160" frq="12537" n="MCR"/>
+		<S i="3" t="1" on="1" s="160" frq="12537" n="RTV21"/>
+		<S i="a" t="1" on="1" s="160" frq="12537" n="RTV21M"/>
+		<S i="8" t="1" on="1" s="160" frq="12537" n="T7"/>
+		<S i="9" t="1" on="1" s="160" frq="12537" n="Zico TV"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] OIV">
 	</Bouquet>
@@ -195,8 +203,14 @@
 		<S i="556" t="75fb" on="16e" s="160" frq="10972" n="Cinestar Premiere 2"/>
 		<S i="551" t="75fb" on="16e" s="160" frq="10972" n="CineStar TV 1 HRV"/>
 		<S i="557" t="75fb" on="16e" s="160" frq="10972" n="Crime &amp; Invest."/>
+		<S i="5b0" t="75fc" on="16e" s="160" frq="11011" n="Discovery HD"/>
 		<S i="558" t="75fb" on="16e" s="160" frq="10972" n="Dusk! TV"/>
 		<S i="673" t="9fc4" on="16e" s="160" frq="11387" n="Fight Channel"/>
+		<S i="5b1" t="75fc" on="16e" s="160" frq="11011" n="FOX Movies HD"/>
+		<S i="5b4" t="75fc" on="16e" s="160" frq="11011" n="Gradska TV"/>
+		<S i="5af" t="75fc" on="16e" s="160" frq="11011" n="HBO 2 HD"/>
+		<S i="5ae" t="75fc" on="16e" s="160" frq="11011" n="HBO HD"/>
+		<S i="5b2" t="75fc" on="16e" s="160" frq="11011" n="Insajder TV"/>
 		<S i="547" t="75fb" on="16e" s="160" frq="10972" n="K::CN 1"/>
 		<S i="559" t="75fb" on="16e" s="160" frq="10972" n="K::CN Music 2"/>
 		<S i="55a" t="75fb" on="16e" s="160" frq="10972" n="K::CN Svet+ 3"/>
@@ -216,15 +230,20 @@
 		<S i="674" t="9fc4" on="16e" s="160" frq="11387" n="RTS 3"/>
 		<S i="553" t="75fb" on="16e" s="160" frq="10972" n="Shoppster"/>
 		<S i="67f" t="9fc4" on="16e" s="160" frq="11387" n="Sitel"/>
+		<S i="5ad" t="75fc" on="16e" s="160" frq="11011" n="SK 1 CG HD"/>
+		<S i="5ab" t="75fc" on="16e" s="160" frq="11011" n="SK 1 HD"/>
+		<S i="5ac" t="75fc" on="16e" s="160" frq="11011" n="SK 2 HD"/>
 		<S i="684" t="9fc4" on="16e" s="160" frq="11387" n="SK 2 SLO"/>
 		<S i="555" t="75fb" on="16e" s="160" frq="10972" n="SK Esports"/>
 		<S i="54c" t="75fb" on="16e" s="160" frq="10972" n="Televizija 24"/>
 		<S i="54d" t="75fb" on="16e" s="160" frq="10972" n="Telma"/>
 		<S i="552" t="75fb" on="16e" s="160" frq="10972" n="Travel"/>
 		<S i="679" t="9fc4" on="16e" s="160" frq="11387" n="TV 3 Medias"/>
+		<S i="5b3" t="75fc" on="16e" s="160" frq="11011" n="TV Vijesti"/>
 		<S i="55b" t="75fb" on="16e" s="160" frq="10972" n="Radio Studio B"/>
 		<S i="55c" t="75fb" on="16e" s="160" frq="10972" n="Test 1"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] Unknown Provider">
+		<S i="d" t="1" on="1" s="160" frq="12537" n="ATV"/>
 		<S i="7a" t="9f60" on="16e" s="160" frq="11366" n="Travel Channel"/>
 	</Bouquet>
