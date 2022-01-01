@@ -28,7 +28,7 @@
 			<S i="033c" f="2" s="0" t="2" n="Nostalgie"/>
 			<S i="033d" f="2" s="0" t="2" n="Radio Continu"/>
 			<S i="033e" f="2" s="0" t="2" n="Groot nieuws Radio"/>
-			<S i="035d" f="1" s="0" t="19" n="RT DE"/>
+			<S i="035d" f="4" s="0" t="19" n="RT DE"/>
 			<S i="035e" f="4" s="1" t="1f" n="EUROBET 11"/>
 			<S i="035f" f="4" s="1" t="1f" n="EUROBET 12"/>
 			<S i="0360" f="4" s="1" t="1f" n="EUROBET 13"/>
@@ -136,7 +136,8 @@
 			<S i="0744" f="4" s="0" t="1" n="NLM TV"/>
 			<S i="074e" f="4" s="0" t="1" n="Italy Service 3"/>
 			<S i="0762" f="4" s="0" t="1" n="Italy Service 5"/>
-			<S i="0776" f="1" s="0" t="1" n="Mandarin TV"/>
+			<S i="076c" f="1" s="0" t="1" n="TVM INTERNACIONAL"/>
+			<S i="0776" f="4" s="0" t="1" n="Mandarin TV"/>
 		</TS>
 		<TS id="0001" on="00aa" frq="11843000" inv="2" sr="27500000" fec="10" pol="1" mod="9" sys="1">
 			<S i="03f5" f="4" s="1" t="1" n="Stingray iConcerts"/>
@@ -233,12 +234,13 @@
 			<S i="0066" f="4" s="0" t="19" n="M2 HD"/>
 			<S i="0067" f="4" s="0" t="19" n="Duna HD"/>
 			<S i="0068" f="4" s="1" t="19" n="M4 Sport HD"/>
-			<S i="0069" f="4" s="0" t="1" n="Duna World HD"/>
+			<S i="0069" f="4" s="0" t="19" n="Duna World HD"/>
 			<S i="006a" f="4" s="0" t="19" n="M5 HD"/>
 			<S i="006f" f="4" s="0" t="19" n="M1 HD (Europa)"/>
 			<S i="0070" f="4" s="0" t="19" n="M2 HD (Europa)"/>
 			<S i="0071" f="4" s="0" t="19" n="Duna HD (Europa)"/>
 			<S i="0072" f="4" s="0" t="19" n="M4 Sport HD (Europa)"/>
+			<S i="0073" f="4" s="0" t="19" n="Duna World HD (Europa)"/>
 			<S i="0074" f="4" s="0" t="19" n="M5 HD (Europa)"/>
 			<S i="0097" f="4" s="0" t="2" n="Kossuth Radio (AAC)"/>
 			<S i="0098" f="4" s="0" t="2" n="Petofi Radio (AAC)"/>
@@ -483,7 +485,7 @@
 			<S i="0267" f="4" s="1" t="1" n="Nick Jr."/>
 			<S i="0268" f="4" s="1" t="19" n="Spiegel TV Wissen HD"/>
 			<S i="0269" f="4" s="1" t="19" n="History"/>
-			<S i="026a" f="4" s="1" t="19" n="Crime + Investigation HD"/>
+			<S i="026a" f="4" s="1" t="19" n="Crime+Investigation"/>
 			<S i="026c" f="4" s="1" t="19" n="13th Street HD"/>
 			<S i="026d" f="4" s="1" t="19" n="SyFy HD"/>
 			<S i="026e" f="4" s="1" t="19" n="National Geographic HD"/>

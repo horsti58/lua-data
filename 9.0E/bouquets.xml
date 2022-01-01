@@ -82,6 +82,9 @@
 		<S i="16a8" t="c3aa" on="9e" s="90" frq="11881" n="TLC Pan Regional SD"/>
 		<S i="1388" t="c3aa" on="9e" s="90" frq="11881" n="Travel EMEA HD"/>
 	</Bouquet>
+	<Bouquet name="[E009.0] DTK-Satelio">
+		<S i="76c" t="1" on="64" s="90" frq="11823" n="TVM INTERNACIONAL"/>
+	</Bouquet>
 	<Bouquet name="[E009.0] encoder">
 		<S i="6f" t="170c" on="9e" s="90" frq="11900" n="Better-1"/>
 		<S i="70" t="170c" on="9e" s="90" frq="11900" n="Better-2"/>
@@ -255,7 +258,7 @@
 		<S i="1f8" t="2134" on="9c" s="90" frq="11977" n="auto motor und sport channel"/>
 		<S i="bb8" t="1bbc" on="9c" s="90" frq="12130" n="BonGusto"/>
 		<S i="44c" t="1fa4" on="9c" s="90" frq="12322" n="CNN TURK"/>
-		<S i="26a" t="206c" on="9c" s="90" frq="12360" n="Crime + Investigation HD"/>
+		<S i="26a" t="206c" on="9c" s="90" frq="12360" n="Crime+Investigation"/>
 		<S i="4eee" t="21fc" on="9c" s="90" frq="12437" n="Duck TV SD"/>
 		<S i="4eed" t="21fc" on="9c" s="90" frq="12437" n="E! Entertainment D"/>
 		<S i="4b0" t="1fa4" on="9c" s="90" frq="12322" n="Euro D"/>
@@ -313,6 +316,7 @@
 		<S i="67" t="1838" on="9e" s="90" frq="11958" n="Duna HD"/>
 		<S i="71" t="1838" on="9e" s="90" frq="11958" n="Duna HD (Europa)"/>
 		<S i="69" t="1838" on="9e" s="90" frq="11958" n="Duna World HD"/>
+		<S i="73" t="1838" on="9e" s="90" frq="11958" n="Duna World HD (Europa)"/>
 		<S i="65" t="1838" on="9e" s="90" frq="11958" n="M1 HD"/>
 		<S i="6f" t="1838" on="9e" s="90" frq="11958" n="M1 HD (Europa)"/>
 		<S i="66" t="1838" on="9e" s="90" frq="11958" n="M2 HD"/>

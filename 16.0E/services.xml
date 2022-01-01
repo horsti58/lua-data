@@ -102,7 +102,7 @@
 			<S i="1284" f="4" s="0" t="19" n="Discovery Showcase HD"/>
 			<S i="1298" f="4" s="0" t="1" n="DTX"/>
 		</TS>
-		<TS id="526c" on="016e" frq="10928000" inv="2" sr="30000000" fec="8" pol="0" mod="0" sys="1">
+		<TS id="526c" on="016e" frq="10928000" inv="2" sr="30000000" fec="10" pol="0" mod="9" sys="1">
 			<S i="044d" f="4" s="1" t="1" n="Viasat Nature SD"/>
 			<S i="044e" f="4" s="1" t="1" n="Viasat Explore SD"/>
 			<S i="044f" f="4" s="1" t="1" n="Viasat History SD"/>
@@ -513,6 +513,7 @@
 			<S i="06dc" f="4" s="1" t="1" n="TV SLO 1"/>
 			<S i="06dd" f="4" s="1" t="1" n="TV SLO 2 HD"/>
 			<S i="06de" f="4" s="1" t="1" n="Prva CG"/>
+			<S i="06df" f="1" s="1" t="1" n="Pickbox HD"/>
 			<S i="06e2" f="4" s="1" t="1" n="SK Golf"/>
 			<S i="06e3" f="4" s="1" t="1" n="Prva World"/>
 			<S i="06e4" f="4" s="1" t="1" n="Nova S HD"/>
@@ -521,6 +522,11 @@
 			<S i="06e8" f="4" s="1" t="1" n="N1 Hrv"/>
 			<S i="06ec" f="4" s="1" t="1" n="FOX Crime HD"/>
 			<S i="06ed" f="4" s="1" t="1" n="24Kitchen HD"/>
+			<S i="1770" f="1" s="0" t="c" n="unknown (0xC544_0x1770)"/>
+			<S i="1771" f="1" s="0" t="c" n="unknown (0xC544_0x1771)"/>
+			<S i="1772" f="1" s="0" t="c" n="unknown (0xC544_0x1772)"/>
+			<S i="17d4" f="1" s="0" t="c" n="unknown (0xC544_0x17D4)"/>
+			<S i="17d5" f="1" s="0" t="c" n="unknown (0xC544_0x17D5)"/>
 		</TS>
 		<TS id="c5a8" on="016e" frq="11554000" inv="2" sr="30000000" fec="5" pol="1" mod="9" sys="1">
 			<S i="0709" f="4" s="1" t="16" n="HTV1"/>
@@ -619,14 +625,14 @@
 			<S i="076d" f="4" s="0" t="19" n="CroTV"/>
 			<S i="076e" f="4" s="1" t="19" n="History HD"/>
 			<S i="076f" f="4" s="1" t="16" n="Nick Jr."/>
-			<S i="0770" f="4" s="0" t="16" n="Super SAT"/>
+			<S i="0770" f="2" s="0" t="16" n="Super SAT"/>
 			<S i="0771" f="4" s="0" t="16" n="ZDRAVA TV"/>
 			<S i="0772" f="4" s="1" t="19" n="Travelxp HD"/>
 			<S i="0773" f="4" s="1" t="16" n="Cartoon Network"/>
 			<S i="0774" f="4" s="1" t="16" n="Disney Channel Romania"/>
 			<S i="0775" f="4" s="1" t="19" n="History HD"/>
 			<S i="0776" f="4" s="1" t="16" n="Disney Channel Bulgaria"/>
-			<S i="0777" f="4" s="0" t="16" n="Aurora TV"/>
+			<S i="0777" f="2" s="0" t="16" n="Aurora TV"/>
 			<S i="0778" f="4" s="1" t="19" n="Arena Sport 10 HD"/>
 			<S i="0779" f="4" s="0" t="16" n="YU PLANET"/>
 			<S i="077a" f="4" s="1" t="16" n="AXN Spin"/>
@@ -635,6 +641,7 @@
 			<S i="077d" f="4" s="1" t="16" n="Barely Legal"/>
 			<S i="077e" f="4" s="0" t="2" n="Hrvatski Radio Frankfurt"/>
 			<S i="077f" f="4" s="1" t="16" n="Da Vinci LEARNING"/>
+			<S i="0780" f="1" s="0" t="19" n="ARENA HD"/>
 			<S i="0782" f="2" s="1" t="16" n="PlanetSport 5"/>
 			<S i="0784" f="4" s="1" t="19" n="HBO HD"/>
 			<S i="0785" f="4" s="1" t="19" n="HBO 2 HD"/>
