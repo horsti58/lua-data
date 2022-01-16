@@ -268,8 +268,8 @@
 			<S i="02f2" f="4" s="1" t="1" n="Nick Jr."/>
 			<S i="02f3" f="4" s="1" t="1" n="Nickelodeon Hrv"/>
 			<S i="02f4" f="4" s="1" t="1" n="CineStar TV 2"/>
-			<S i="02f5" f="4" s="1" t="1" n="Animal Planet"/>
-			<S i="02f6" f="4" s="1" t="1" n="ID"/>
+			<S i="02f5" f="2" s="1" t="1" n="Animal Planet"/>
+			<S i="02f6" f="4" s="1" t="1" n="ID HD"/>
 			<S i="02f7" f="4" s="1" t="1" n="E!"/>
 			<S i="02f9" f="4" s="1" t="1" n="Nat Geographic HD"/>
 			<S i="02fa" f="4" s="1" t="1" n="Fox Movies Slo"/>
@@ -283,7 +283,7 @@
 			<S i="0302" f="4" s="1" t="1" n="Dorcel HD"/>
 			<S i="0304" f="4" s="1" t="1" n="Disney"/>
 			<S i="0305" f="4" s="1" t="2" n="Play radio"/>
-			<S i="0306" f="4" s="1" t="1" n="Sport TV 1 HD"/>
+			<S i="0306" f="4" s="1" t="1" n="Sport TV 1"/>
 			<S i="0307" f="4" s="1" t="1" n="Prva Kick"/>
 			<S i="0308" f="4" s="1" t="1" n="TLC HD"/>
 			<S i="030a" f="4" s="1" t="1" n="Vavoom"/>
@@ -396,7 +396,7 @@
 			<S i="007a" f="4" s="1" t="19" n="Travel Channel"/>
 		</TS>
 		<TS id="9fc4" on="016e" frq="11387000" inv="2" sr="30000000" fec="10" pol="0" mod="9" sys="1">
-			<S i="0673" f="4" s="1" t="1" n="Fight Channel"/>
+			<S i="0673" f="4" s="1" t="1" n="SK Fight"/>
 			<S i="0674" f="4" s="1" t="1" n="RTS 3"/>
 			<S i="0675" f="4" s="1" t="1" n="ATV"/>
 			<S i="0676" f="4" s="1" t="1" n="RTRS"/>
@@ -418,9 +418,9 @@
 		</TS>
 		<TS id="c418" on="016e" frq="11470000" inv="2" sr="30000000" fec="5" pol="1" mod="9" sys="1">
 			<S i="0259" f="4" s="1" t="1f" n="Extasy 4K"/>
-			<S i="025a" f="2" s="1" t="19" n="Test"/>
+			<S i="025a" f="4" s="1" t="19" n="JOJ Sport HD"/>
 			<S i="025b" f="4" s="1" t="19" n="ID Xtra HD"/>
-			<S i="025c" f="4" s="0" t="19" n="ARENA HD"/>
+			<S i="025c" f="2" s="0" t="19" n="ARENA HD"/>
 			<S i="025d" f="4" s="1" t="19" n="Slagr Premium HD"/>
 			<S i="025e" f="4" s="1" t="19" n="Eurosport 1 HD"/>
 			<S i="025f" f="4" s="1" t="19" n="Eurosport 2 HD"/>
@@ -440,7 +440,7 @@
 			<S i="0282" f="4" s="1" t="19" n="Eurosport 1 HD"/>
 			<S i="0283" f="4" s="1" t="19" n="Eurosport 2 HD"/>
 			<S i="0288" f="4" s="1" t="16" n="FOX Movies"/>
-			<S i="0289" f="4" s="1" t="16" n="National Geographic Wild"/>
+			<S i="0289" f="4" s="1" t="19" n="National Geographic Wild HD"/>
 			<S i="028a" f="4" s="1" t="16" n="Boomerang"/>
 			<S i="028b" f="4" s="1" t="16" n="24 Kitchen"/>
 			<S i="02bb" f="4" s="1" t="16" n="Duck TV"/>

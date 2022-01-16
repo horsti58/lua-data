@@ -283,7 +283,7 @@
 			<S i="4e40" f="4" s="0" t="1" n="Nickelodeon Junior"/>
 			<S i="4e41" f="4" s="0" t="1" n="Euronews Serbia"/>
 			<S i="4e42" f="4" s="0" t="1" n="JimJam"/>
-			<S i="4e43" f="4" s="1" t="1" n="Pink Super Kids"/>
+			<S i="4e43" f="4" s="0" t="1" n="Pink Super Kids"/>
 			<S i="4e44" f="4" s="0" t="1" n="Hype TV"/>
 			<S i="4e45" f="4" s="0" t="1" n="Disney"/>
 			<S i="4e46" f="4" s="0" t="1" n="Arena Sport_2"/>
@@ -350,7 +350,7 @@
 			<S i="4e95" f="4" s="0" t="1" n="TLC"/>
 			<S i="4e96" f="4" s="0" t="1" n="Pink Reality"/>
 			<S i="4eeb" f="4" s="0" t="1" n="Arena Sport 6"/>
-			<S i="4eec" f="4" s="1" t="1" n="Arena Sport 7"/>
+			<S i="4eec" f="4" s="0" t="1" n="Arena Sport 7"/>
 		</TS>
 		<TS id="0c88" on="0003" frq="11856000" inv="2" sr="29900000" fec="2" pol="1" mod="9" sys="1">
 			<S i="1b6c" f="4" s="1" t="19" n="RTL4 HD"/>
@@ -454,7 +454,7 @@
 			<S i="5173" f="4" s="0" t="2" n="Play radio"/>
 		</TS>
 		<TS id="0c8c" on="0003" frq="11934000" inv="2" sr="27500000" fec="3" pol="1" mod="9" sys="1">
-			<S i="36d9" f="4" s="0" t="1" n="GERMAN TOTE TV"/>
+			<S i="36d9" f="2" s="0" t="1" n="GERMAN TOTE TV"/>
 			<S i="36e2" f="2" s="0" t="1" n=""/>
 			<S i="36e3" f="4" s="1" t="16" n="DOCUBOX"/>
 			<S i="36e4" f="4" s="1" t="16" n="Paramount Network"/>
@@ -560,7 +560,7 @@
 			<S i="17de" f="4" s="0" t="19" n="SES Demo HD"/>
 			<S i="17e9" f="4" s="0" t="1" n="RTS Nauka"/>
 			<S i="17ea" f="4" s="0" t="1" n="RTS Poletarac 2"/>
-			<S i="182e" f="2" s="0" t="c" n="A2C-RMT"/>
+			<S i="182e" f="4" s="0" t="c" n="A2C-RMT"/>
 		</TS>
 		<TS id="0c93" on="0003" frq="12070000" inv="2" sr="27500000" fec="3" pol="0" mod="0" sys="0">
 			<S i="334b" f="4" s="1" t="19" n="Sport 1 HD"/>
@@ -606,9 +606,9 @@
 			<S i="0319" f="4" s="1" t="16" n="Sport 5"/>
 			<S i="031a" f="4" s="1" t="19" n="Love Nature HD INT"/>
 			<S i="031b" f="4" s="1" t="19" n="Love Nature HD BNL"/>
-			<S i="031c" f="1" s="1" t="19" n="TV Barrandov HD"/>
-			<S i="031d" f="1" s="1" t="16" n="Kino Barrandov"/>
-			<S i="031e" f="1" s="1" t="16" n="Barrandov Krimi"/>
+			<S i="031c" f="4" s="1" t="19" n="TV Barrandov HD"/>
+			<S i="031d" f="4" s="1" t="16" n="Kino Barrandov"/>
+			<S i="031e" f="4" s="1" t="16" n="Barrandov Krimi"/>
 		</TS>
 		<TS id="0c95" on="0003" frq="12110000" inv="2" sr="29900000" fec="2" pol="0" mod="9" sys="1">
 			<S i="3cf0" f="4" s="1" t="19" n="Viasat History HD"/>
@@ -738,15 +738,15 @@
 		</TS>
 		<TS id="0ca2" on="0003" frq="12363000" inv="2" sr="29500000" fec="3" pol="1" mod="9" sys="1">
 			<S i="1328" f="4" s="0" t="19" n="TA3 HD"/>
-			<S i="1329" f="4" s="1" t="19" n="Preladte - Jednotka"/>
-			<S i="132a" f="4" s="1" t="19" n="Preladte - Dvojka"/>
-			<S i="132b" f="4" s="1" t="19" n="TV Barrandov HD"/>
-			<S i="132c" f="4" s="1" t="19" n="Kino Barrandov HD"/>
-			<S i="132d" f="4" s="1" t="19" n="Barrandov Krimi HD"/>
+			<S i="1329" f="2" s="1" t="19" n="Preladte - Jednotka"/>
+			<S i="132a" f="2" s="1" t="19" n="Preladte - Dvojka"/>
+			<S i="132b" f="2" s="1" t="19" n="TV Barrandov HD"/>
+			<S i="132c" f="2" s="1" t="19" n="Kino Barrandov HD"/>
+			<S i="132d" f="2" s="1" t="19" n="Barrandov Krimi HD"/>
 			<S i="132e" f="4" s="0" t="19" n="TV Noe HD"/>
-			<S i="132f" f="4" s="1" t="16" n="Preladte - Trojka"/>
-			<S i="1332" f="4" s="0" t="19" n="TV8 HD PRELADTE"/>
-			<S i="1336" f="4" s="0" t="1" n="Otta - interaktivna sluzba"/>
+			<S i="132f" f="2" s="1" t="16" n="Preladte - Trojka"/>
+			<S i="1332" f="2" s="0" t="19" n="TV8 HD PRELADTE"/>
+			<S i="1336" f="2" s="0" t="1" n="Otta - interaktivna sluzba"/>
 			<S i="1338" f="4" s="0" t="c" n="RDS SAT"/>
 			<S i="1339" f="4" s="0" t="2" n="Slovensko"/>
 			<S i="133a" f="4" s="0" t="2" n="ReginaBA"/>
@@ -812,7 +812,7 @@
 			<S i="4eb3" f="4" s="0" t="1" n="TV Hayatovci"/>
 			<S i="4eb4" f="4" s="0" t="1" n="TV Hayat Folk"/>
 			<S i="4eb5" f="4" s="0" t="1" n="TV Hayat Music"/>
-			<S i="4eb6" f="4" s="0" t="1" n="MTV 00s"/>
+			<S i="4eb6" f="4" s="0" t="1" n="Nova BH"/>
 			<S i="4eb7" f="4" s="0" t="1" n="Pink Music"/>
 			<S i="4eb8" f="4" s="0" t="1" n="Pink Hits 1"/>
 			<S i="4eb9" f="4" s="0" t="1" n="Pink&amp;Roll"/>

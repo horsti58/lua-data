@@ -41,6 +41,10 @@
 		<S i="1f83" t="ca1" on="3" s="235" frq="12344" n="CRo VYSOCINA"/>
 		<S i="1f89" t="ca1" on="3" s="235" frq="12344" n="CRo ZLIN"/>
 	</Bouquet>
+	<Bouquet name="[E023.5] M7 group">
+		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
+		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
+	</Bouquet>
 	<Bouquet name="[E023.5] M7 Group">
 		<S i="177f" t="c82" on="3" s="235" frq="11739" n="192TV"/>
 		<S i="523f" t="c99" on="3" s="235" frq="12188" n="24Kitchen"/>
@@ -320,10 +324,6 @@
 		<S i="5262" t="c99" on="3" s="235" frq="12188" n="SLAM!"/>
 		<S i="52db" t="c96" on="3" s="235" frq="12129" n="Studio Brussel"/>
 	</Bouquet>
-	<Bouquet name="[E023.5] M7 group">
-		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
-		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
-	</Bouquet>
 	<Bouquet name="[E023.5] MB Satellite">
 		<S i="36d9" t="c8c" on="3" s="235" frq="11934" n="GERMAN TOTE TV"/>
 		<S i="3e8" t="1" on="1" s="235" frq="12639" n="DLF USI1"/>
@@ -477,7 +477,6 @@
 		<S i="4e3f" t="c85" on="3" s="235" frq="11798" n="Minimax"/>
 		<S i="4efd" t="c81" on="3" s="235" frq="11719" n="Mozy +"/>
 		<S i="4e20" t="c8b" on="3" s="235" frq="11914" n="mSAT Info"/>
-		<S i="4eb6" t="ca4" on="3" s="235" frq="12402" n="MTV 00s"/>
 		<S i="4f09" t="c81" on="3" s="235" frq="11719" n="Muszicka TV"/>
 		<S i="4f37" t="c8a" on="3" s="235" frq="11895" n="Nat Geo Adria"/>
 		<S i="4e9b" t="ca4" on="3" s="235" frq="12402" n="National Geographic"/>
@@ -487,6 +486,7 @@
 		<S i="50e7" t="c8b" on="3" s="235" frq="11914" n="NG SSU"/>
 		<S i="4e3e" t="c85" on="3" s="235" frq="11798" n="Nickelodeon"/>
 		<S i="4e40" t="c85" on="3" s="235" frq="11798" n="Nickelodeon Junior"/>
+		<S i="4eb6" t="ca4" on="3" s="235" frq="12402" n="Nova BH"/>
 		<S i="4ece" t="c81" on="3" s="235" frq="11719" n="Novi Pazar"/>
 		<S i="4ee1" t="c81" on="3" s="235" frq="11719" n="Novosadska TV"/>
 		<S i="4f11" t="c81" on="3" s="235" frq="11719" n="OBN"/>
@@ -523,8 +523,8 @@
 		<S i="4e2a" t="c85" on="3" s="235" frq="11798" n="Red TV"/>
 		<S i="4ec8" t="ca4" on="3" s="235" frq="12402" n="RT"/>
 		<S i="4f12" t="c81" on="3" s="235" frq="11719" n="RTL"/>
-		<S i="4ef8" t="c8b" on="3" s="235" frq="11914" n="RTL 2"/>
 		<S i="4f15" t="c81" on="3" s="235" frq="11719" n="RTL 2"/>
+		<S i="4ef8" t="c8b" on="3" s="235" frq="11914" n="RTL 2"/>
 		<S i="4eb0" t="ca4" on="3" s="235" frq="12402" n="RTL Croatia"/>
 		<S i="4f0a" t="c81" on="3" s="235" frq="11719" n="RTL Gold"/>
 		<S i="4ef4" t="c8b" on="3" s="235" frq="11914" n="RTL Klub"/>
