@@ -119,17 +119,6 @@
 		<S i="6a4" t="1" on="64" s="90" frq="11823" n="Radio CHINA FM"/>
 		<S i="654" t="1" on="64" s="90" frq="11823" n="Ros Ros Selex"/>
 	</Bouquet>
-	<Bouquet name="[E009.0] GLOBECAST">
-		<S i="165" t="19c8" on="9e" s="90" frq="12034" n="BBC_Entertainment_Europe"/>
-		<S i="168" t="19c8" on="9e" s="90" frq="12034" n="Karusel Int"/>
-		<S i="ce" t="19c8" on="9e" s="90" frq="12034" n="MCM TOP"/>
-		<S i="162" t="19c8" on="9e" s="90" frq="12034" n="ORTM"/>
-		<S i="16a" t="19c8" on="9e" s="90" frq="12034" n="Outdoor HD"/>
-		<S i="161" t="19c8" on="9e" s="90" frq="12034" n="Phoenix Info News"/>
-		<S i="160" t="19c8" on="9e" s="90" frq="12034" n="RTG Int"/>
-		<S i="163" t="19c8" on="9e" s="90" frq="12034" n="Télé Sahel"/>
-		<S i="164" t="19c8" on="9e" s="90" frq="12034" n="La Voix Du Sahel"/>
-	</Bouquet>
 	<Bouquet name="[E009.0] GlobeCast">
 		<S i="273" t="1" on="1" s="90" frq="11996" n="CBS Reality EMEA"/>
 		<S i="26b" t="1" on="1" s="90" frq="11996" n="CCTV-4"/>
@@ -141,6 +130,17 @@
 		<S i="275" t="1" on="1" s="90" frq="11996" n="JimJam ME"/>
 		<S i="274" t="1" on="1" s="90" frq="11996" n="JimJam PE"/>
 		<S i="277" t="1" on="1" s="90" frq="11996" n="EDM FM"/>
+	</Bouquet>
+	<Bouquet name="[E009.0] GLOBECAST">
+		<S i="165" t="19c8" on="9e" s="90" frq="12034" n="BBC_Entertainment_Europe"/>
+		<S i="168" t="19c8" on="9e" s="90" frq="12034" n="Karusel Int"/>
+		<S i="ce" t="19c8" on="9e" s="90" frq="12034" n="MCM TOP"/>
+		<S i="162" t="19c8" on="9e" s="90" frq="12034" n="ORTM"/>
+		<S i="16a" t="19c8" on="9e" s="90" frq="12034" n="Outdoor HD"/>
+		<S i="161" t="19c8" on="9e" s="90" frq="12034" n="Phoenix Info News"/>
+		<S i="160" t="19c8" on="9e" s="90" frq="12034" n="RTG Int"/>
+		<S i="163" t="19c8" on="9e" s="90" frq="12034" n="Télé Sahel"/>
+		<S i="164" t="19c8" on="9e" s="90" frq="12034" n="La Voix Du Sahel"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Harmonic">
 		<S i="1518" t="c3aa" on="9e" s="90" frq="11881" n="Animal Planet Europe HD"/>
@@ -534,7 +534,7 @@
 		<S i="3f2" t="5" on="aa" s="90" frq="12284" n="Attica TV"/>
 		<S i="418" t="6" on="aa" s="90" frq="12399" n="Body in Balance"/>
 		<S i="416" t="4" on="aa" s="90" frq="12207" n="COSMOTE Series HD"/>
-		<S i="419" t="6" on="aa" s="90" frq="12399" n="COSMOTECinemaDisneyPrincessHD"/>
+		<S i="419" t="6" on="aa" s="90" frq="12399" n="COSMOTE SPORT 75 ΧΡΟΝΙΑ NBA"/>
 		<S i="3f7" t="6" on="aa" s="90" frq="12399" n="COSMOTESport2HD"/>
 		<S i="452" t="1" on="aa" s="90" frq="11843" n="E! HD"/>
 		<S i="444" t="7" on="aa" s="90" frq="12475" n="EDGEsport HD"/>

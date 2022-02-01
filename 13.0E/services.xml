@@ -35,7 +35,7 @@
 		<TS id="2b5c" on="013e" frq="10727000" inv="2" sr="30000000" fec="3" pol="0" mod="9" sys="1">
 			<S i="11f9" f="2" s="1" t="1" n="4K Universe"/>
 			<S i="11fa" f="4" s="0" t="1" n="Nasa TV UHD"/>
-			<S i="11fb" f="4" s="0" t="1" n="TRAVELXP 4K"/>
+			<S i="11fb" f="4" s="1" t="1" n="TRAVELXP 4K"/>
 			<S i="11fc" f="4" s="1" t="1" n="Museum 4K"/>
 		</TS>
 		<TS id="2bc0" on="013e" frq="10758000" inv="2" sr="27500000" fec="3" pol="1" mod="9" sys="1">
@@ -307,7 +307,7 @@
 			<S i="4221" f="4" s="1" t="16" n="Blue Hustler"/>
 			<S i="4222" f="4" s="1" t="19" n="Private HD"/>
 			<S i="4223" f="4" s="1" t="19" n="Hustler HD POL"/>
-			<S i="4224" f="1" s="1" t="16" n="Blue Hustler POL"/>
+			<S i="4224" f="4" s="1" t="16" n="Blue Hustler POL"/>
 			<S i="4225" f="4" s="1" t="19" n="Private HD POL"/>
 			<S i="4226" f="4" s="1" t="1" n="Hustler HD SBB"/>
 			<S i="4227" f="4" s="1" t="19" n="Private HD SBB"/>
@@ -320,7 +320,7 @@
 			<S i="422f" f="2" s="0" t="1" n="Sharing TV"/>
 			<S i="4230" f="4" s="0" t="1" n="Giornale Radio"/>
 			<S i="4231" f="4" s="0" t="1" n="LoveWorld SAT"/>
-			<S i="4267" f="4" s="0" t="1" n="Eutelsat Data 1"/>
+			<S i="4267" f="4" s="0" t="1" n="Eutelsat data 1"/>
 		</TS>
 		<TS id="005f" on="0055" frq="10949000" inv="2" sr="29900000" fec="10" pol="1" mod="9" sys="1">
 			<S i="07d0" f="4" s="1" t="16" n="Viasat Sport"/>
@@ -707,7 +707,7 @@
 		<TS id="0384" on="013e" frq="11373000" inv="2" sr="27500000" fec="3" pol="0" mod="9" sys="1">
 			<S i="01f5" f="4" s="0" t="0" n="Iran International HD"/>
 			<S i="01f6" f="4" s="0" t="1" n="ER24"/>
-			<S i="01f7" f="4" s="0" t="1" n="Well TV"/>
+			<S i="01f7" f="4" s="0" t="1" n="WellTV"/>
 			<S i="01f8" f="4" s="0" t="1" n="NASA TV HD"/>
 			<S i="01fa" f="4" s="0" t="1" n="RUDAW HD"/>
 			<S i="01fb" f="2" s="0" t="19" n="AVA"/>
@@ -773,6 +773,7 @@
 			<S i="0084" f="4" s="1" t="16" n="TOPcrime"/>
 			<S i="0085" f="4" s="1" t="16" n="Cartoonito"/>
 			<S i="0086" f="4" s="1" t="16" n="Focus"/>
+			<S i="0087" f="1" s="1" t="19" n="27 Twentyseven HD"/>
 			<S i="0325" f="2" s="0" t="1" n="Mediaset Infinity"/>
 			<S i="0383" f="2" s="0" t="1" n="Infinity+"/>
 		</TS>
@@ -805,7 +806,10 @@
 			<S i="0001" f="4" s="0" t="1" n="CNA TV"/>
 			<S i="0002" f="4" s="0" t="1" n="DIEUTV"/>
 			<S i="0003" f="4" s="0" t="1" n="HOLYGOD TV"/>
-			<S i="0004" f="4" s="0" t="1" n="TEST"/>
+			<S i="0004" f="2" s="0" t="1" n="TEST"/>
+			<S i="000b" f="1" s="0" t="1" n="cna"/>
+			<S i="000c" f="1" s="0" t="1" n="dieutv"/>
+			<S i="000d" f="1" s="0" t="1" n="holy-god"/>
 		</TS>
 		<TS id="05dc" on="013e" frq="11488000" inv="2" sr="27500000" fec="3" pol="0" mod="9" sys="1">
 			<S i="13ed" f="4" s="0" t="1" n="CANAL+1 HD"/>
@@ -968,8 +972,8 @@
 			<S i="0526" f="4" s="0" t="19" n="DAYSTAR HD"/>
 			<S i="0529" f="4" s="0" t="19" n="RADIO ZETA HD"/>
 			<S i="052b" f="4" s="0" t="19" n="RTL 102.5 NEWS ASPI"/>
-			<S i="052c" f="4" s="1" t="19" n="Paramount Network HD"/>
-			<S i="052d" f="4" s="1" t="19" n="Spike HD"/>
+			<S i="052c" f="2" s="1" t="19" n="Paramount Network HD"/>
+			<S i="052d" f="2" s="1" t="19" n="Spike HD"/>
 			<S i="052e" f="4" s="1" t="19" n="VH1 HD"/>
 			<S i="052f" f="4" s="1" t="16" n="Super!"/>
 			<S i="0530" f="4" s="0" t="1" n="People TV"/>
@@ -1129,7 +1133,7 @@
 			<S i="1015" f="4" s="1" t="19" n="Discovery HD"/>
 			<S i="1020" f="4" s="1" t="19" n="Crime + Inv. HD"/>
 			<S i="104a" f="4" s="1" t="19" n="Classica HD"/>
-			<S i="106c" f="4" s="1" t="19" n="Harry Potter Collection HD"/>
+			<S i="106c" f="4" s="1" t="19" n="Anni 80 Collection HD"/>
 			<S i="379c" f="4" s="1" t="19" n="NationalGeo HD"/>
 			<S i="379d" f="4" s="1" t="19" n="Fox HD"/>
 			<S i="379e" f="2" s="1" t="19" n="Fox Crime HD"/>
@@ -1486,7 +1490,7 @@
 			<S i="2dc4" f="2" s="1" t="1" n="UNK (0x1A2C_0x2DC4)"/>
 			<S i="2dc6" f="4" s="1" t="1" n="Sky Uno"/>
 			<S i="2dc9" f="4" s="1" t="90" n="Mosaico Cinema"/>
-			<S i="2dcc" f="4" s="1" t="1" n="Cinema Christmas"/>
+			<S i="2dcc" f="4" s="1" t="1" n="Pitt vs Clooney Collection"/>
 			<S i="2dcd" f="4" s="1" t="1" n="Sky Cinema Comedy"/>
 			<S i="2dcf" f="4" s="1" t="1" n="Sky Cinema Drama"/>
 			<S i="2dd2" f="2" s="1" t="1" n="Sky Sport Collection"/>
@@ -1530,7 +1534,7 @@
 			<S i="2cca" f="2" s="1" t="1" n="K2"/>
 			<S i="2cf3" f="2" s="1" t="19" n="Real Time HD"/>
 			<S i="2dca" f="2" s="1" t="19" n="Food Network HD"/>
-			<S i="3424" f="4" s="1" t="1" n="NatGeo Wild + 1"/>
+			<S i="3424" f="4" s="1" t="1" n="Il Mitico Pol"/>
 			<S i="34de" f="4" s="1" t="19" n="Explorer HD Channel"/>
 			<S i="37ad" f="2" s="1" t="19" n="DMAX HD"/>
 			<S i="37b5" f="4" s="1" t="1" n="Milan TV"/>
@@ -1583,6 +1587,7 @@
 			<S i="3c99" f="4" s="1" t="1" n="Novasports2HD Cy"/>
 			<S i="3c9a" f="4" s="1" t="1" n="Food Network HD"/>
 			<S i="3c9b" f="4" s="1" t="1" n="Novasports Prime HD CY"/>
+			<S i="3c9c" f="1" s="1" t="1" n="Euronews Greek"/>
 			<S i="3cb4" f="4" s="0" t="98" n="Cobalt Data"/>
 		</TS>
 		<TS id="1c20" on="013e" frq="12149000" inv="2" sr="27500000" fec="3" pol="1" mod="0" sys="0">
@@ -1793,17 +1798,18 @@
 			<S i="0136" f="4" s="0" t="2" n="VOA Urdu Radio ch310"/>
 			<S i="0154" f="4" s="0" t="1" n="VOA Global HD ch340"/>
 		</TS>
-		<TS id="1e14" on="fbff" frq="12245000" inv="2" sr="29900000" fec="5" pol="0" mod="9" sys="1">
+		<TS id="1e14" on="fbff" frq="12245000" inv="2" sr="29900000" fec="5" pol="0" mod="0" sys="1">
 			<S i="1002" f="4" s="1" t="83" n="IEPG Data"/>
 			<S i="1008" f="2" s="1" t="19" n="TEST5"/>
 			<S i="2d9b" f="3" s="1" t="19" n="Sky News Climate Live"/>
-			<S i="2da1" f="4" s="1" t="19" n="PremiumCinema1 HD"/>
-			<S i="2da2" f="4" s="1" t="19" n="PremiumCin.1 +24 HD"/>
-			<S i="2da3" f="4" s="1" t="19" n="PremiumCinema2 HD"/>
-			<S i="2da5" f="4" s="1" t="19" n="PremiumCinema3 HD"/>
-			<S i="2da7" f="4" s="1" t="19" n="Premium Stories HD"/>
-			<S i="2da8" f="4" s="1" t="19" n="Premium Action HD"/>
-			<S i="2da9" f="4" s="1" t="19" n="Premium Crime HD"/>
+			<S i="2da0" f="1" s="1" t="1f" n="Sky Cinema 4K"/>
+			<S i="2da1" f="2" s="1" t="19" n="PremiumCinema1 HD"/>
+			<S i="2da2" f="2" s="1" t="19" n="PremiumCin.1 +24 HD"/>
+			<S i="2da3" f="2" s="1" t="19" n="PremiumCinema2 HD"/>
+			<S i="2da5" f="2" s="1" t="19" n="PremiumCinema3 HD"/>
+			<S i="2da7" f="2" s="1" t="19" n="Premium Stories HD"/>
+			<S i="2da8" f="2" s="1" t="19" n="Premium Action HD"/>
+			<S i="2da9" f="2" s="1" t="19" n="Premium Crime HD"/>
 		</TS>
 		<TS id="1e78" on="0071" frq="12265000" inv="2" sr="27500000" fec="3" pol="1" mod="9" sys="1">
 			<S i="0016" f="4" s="0" t="81" n="Consumer Cam"/>

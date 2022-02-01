@@ -251,8 +251,8 @@
 		<S i="3b72" t="c8d" on="3" s="235" frq="11953" n="Slager TV"/>
 		<S i="3aad" t="c84" on="3" s="235" frq="11778" n="Slager TV"/>
 		<S i="3c32" t="c90" on="3" s="235" frq="12012" n="Slagr Premium HD"/>
-		<S i="3aa9" t="c84" on="3" s="235" frq="11778" n="Sorozat+"/>
 		<S i="3b65" t="c8d" on="3" s="235" frq="11953" n="Sorozat+"/>
+		<S i="3aa9" t="c84" on="3" s="235" frq="11778" n="Sorozat+"/>
 		<S i="310" t="c94" on="3" s="235" frq="12090" n="Spektrum HD"/>
 		<S i="3b6f" t="c8d" on="3" s="235" frq="11953" n="Spektrum Home"/>
 		<S i="36f9" t="c8c" on="3" s="235" frq="11934" n="Spike 24"/>
@@ -264,6 +264,7 @@
 		<S i="3b6e" t="c8d" on="3" s="235" frq="11953" n="STORY4"/>
 		<S i="3b66" t="c8d" on="3" s="235" frq="11953" n="SuperTV2"/>
 		<S i="339f" t="c89" on="3" s="235" frq="11876" n="Test"/>
+		<S i="52ed" t="c96" on="3" s="235" frq="12129" n="TestS10"/>
 		<S i="1f4d" t="ca1" on="3" s="235" frq="12344" n="TESTS7"/>
 		<S i="17ae" t="c82" on="3" s="235" frq="11739" n="Travel XP HD"/>
 		<S i="17af" t="c82" on="3" s="235" frq="11739" n="Travel XP HD BNL"/>
@@ -626,6 +627,9 @@
 		<S i="1352" t="ca2" on="3" s="235" frq="12363" n="COUNTRY JZ"/>
 		<S i="1353" t="ca2" on="3" s="235" frq="12363" n="COUNTRY SV"/>
 		<S i="133d" t="ca2" on="3" s="235" frq="12363" n="Devin"/>
+		<S i="135b" t="ca2" on="3" s="235" frq="12363" n="Europa 2 S"/>
+		<S i="135c" t="ca2" on="3" s="235" frq="12363" n="Europa 2 V"/>
+		<S i="135a" t="ca2" on="3" s="235" frq="12363" n="Europa 2 Z"/>
 		<S i="1346" t="ca2" on="3" s="235" frq="12363" n="Jemne S"/>
 		<S i="1347" t="ca2" on="3" s="235" frq="12363" n="Jemne V"/>
 		<S i="1345" t="ca2" on="3" s="235" frq="12363" n="Jemne Z"/>
@@ -642,9 +646,9 @@
 		<S i="1344" t="ca2" on="3" s="235" frq="12363" n="Slovakia"/>
 		<S i="1339" t="ca2" on="3" s="235" frq="12363" n="Slovensko"/>
 		<S i="134a" t="ca2" on="3" s="235" frq="12363" n="TEST"/>
-		<S i="1428" t="ca2" on="3" s="235" frq="12363" n="VLNA SS"/>
-		<S i="1429" t="ca2" on="3" s="235" frq="12363" n="VLNA VS"/>
 		<S i="1427" t="ca2" on="3" s="235" frq="12363" n="VLNA ZS"/>
+		<S i="1428" t="ca2" on="3" s="235" frq="12363" n="VLNA_SS"/>
+		<S i="1429" t="ca2" on="3" s="235" frq="12363" n="VLNA_VS"/>
 		<S i="134b" t="ca2" on="3" s="235" frq="12363" n="ZET"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] Unknown Provider">
