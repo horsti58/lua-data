@@ -440,7 +440,7 @@
 			<S i="036a" f="4" s="1" t="1" n="SK 1 HD"/>
 			<S i="036b" f="4" s="1" t="1" n="RTV 2"/>
 			<S i="036c" f="4" s="1" t="1" n="IDJ TV HD"/>
-			<S i="0383" f="4" s="1" t="1" n="Test"/>
+			<S i="0383" f="2" s="1" t="1" n="Test"/>
 		</TS>
 		<TS id="0001" on="0040" frq="11512000" inv="2" sr="30000000" fec="3" pol="0" mod="9" sys="1">
 			<S i="0014" f="4" s="1" t="16" n="RTL Living."/>
@@ -594,7 +594,7 @@
 		<TS id="c6d4" on="016e" frq="11637000" inv="2" sr="30000000" fec="5" pol="0" mod="9" sys="1">
 			<S i="076d" f="4" s="0" t="19" n="CroTV"/>
 			<S i="076e" f="4" s="1" t="19" n="History HD"/>
-			<S i="076f" f="4" s="1" t="16" n="Nick Jr."/>
+			<S i="076f" f="2" s="1" t="16" n="Nick Jr."/>
 			<S i="0771" f="4" s="0" t="16" n="ZDRAVA TV"/>
 			<S i="0772" f="4" s="1" t="19" n="Travelxp HD"/>
 			<S i="0773" f="4" s="1" t="16" n="Cartoon Network"/>
