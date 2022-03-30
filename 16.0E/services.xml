@@ -414,10 +414,10 @@
 			<S i="0280" f="4" s="1" t="16" n="Duck TV"/>
 			<S i="0282" f="4" s="1" t="19" n="Eurosport 1 HD"/>
 			<S i="0283" f="4" s="1" t="19" n="Eurosport 2 HD"/>
-			<S i="0288" f="4" s="1" t="16" n="FOX Movies"/>
+			<S i="0288" f="4" s="1" t="19" n="FOX Movies HD"/>
 			<S i="0289" f="4" s="1" t="19" n="National Geographic Wild HD"/>
 			<S i="028a" f="4" s="1" t="16" n="Boomerang"/>
-			<S i="028b" f="4" s="1" t="16" n="24 Kitchen"/>
+			<S i="028b" f="4" s="1" t="19" n="24 Kitchen HD"/>
 		</TS>
 		<TS id="c3b4" on="016e" frq="11471000" inv="2" sr="30000000" fec="3" pol="0" mod="9" sys="1">
 			<S i="0353" f="4" s="1" t="1" n="Prva"/>
@@ -490,7 +490,7 @@
 			<S i="06d9" f="4" s="1" t="1" n="RED TV"/>
 			<S i="06da" f="4" s="1" t="1" n="B92"/>
 			<S i="06db" f="4" s="1" t="1" n="OBN"/>
-			<S i="06dc" f="4" s="1" t="1" n="TV SLO 1"/>
+			<S i="06dc" f="4" s="1" t="1" n="TV SLO 1 HD"/>
 			<S i="06dd" f="4" s="1" t="1" n="TV SLO 2 HD"/>
 			<S i="06de" f="4" s="1" t="1" n="Prva CG"/>
 			<S i="06e2" f="4" s="1" t="1" n="SK Golf"/>
