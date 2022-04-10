@@ -250,6 +250,7 @@
 		<S i="116c" t="50dc" on="16e" s="160" frq="10845" n="FOX Movies"/>
 		<S i="3e9" t="50dc" on="16e" s="160" frq="10845" n="GOLD HD"/>
 		<S i="40a" t="50dc" on="16e" s="160" frq="10845" n="IN tv"/>
+		<S i="474" t="4f4c" on="16e" s="160" frq="10762" n="Info24"/>
 		<S i="834" t="5014" on="16e" s="160" frq="10804" n="Junior TV"/>
 		<S i="10e0" t="51a4" on="16e" s="160" frq="10887" n="Klan Macedonia"/>
 		<S i="460" t="4f4c" on="16e" s="160" frq="10762" n="Klan Music"/>
@@ -271,10 +272,10 @@
 		<S i="269" t="5014" on="16e" s="160" frq="10804" n="ODS-2+3000H"/>
 		<S i="26a" t="5014" on="16e" s="160" frq="10804" n="ODS-4000H"/>
 		<S i="49c" t="4f4c" on="16e" s="160" frq="10762" n="Ora News"/>
-		<S i="27a" t="5014" on="16e" s="160" frq="10804" n="OTA SMIT MSD"/>
-		<S i="27a" t="4f4c" on="16e" s="160" frq="10762" n="OTA SMIT MSD"/>
 		<S i="27a" t="50dc" on="16e" s="160" frq="10845" n="OTA SMIT MSD"/>
+		<S i="27a" t="4f4c" on="16e" s="160" frq="10762" n="OTA SMIT MSD"/>
 		<S i="27a" t="51a4" on="16e" s="160" frq="10887" n="OTA SMIT MSD"/>
+		<S i="27a" t="5014" on="16e" s="160" frq="10804" n="OTA SMIT MSD"/>
 		<S i="ca8" t="51a4" on="16e" s="160" frq="10887" n="Playboy TV HD"/>
 		<S i="407" t="51a4" on="16e" s="160" frq="10887" n="Report TV"/>
 		<S i="3e8" t="4f4c" on="16e" s="160" frq="10762" n="RTK-1"/>
@@ -394,19 +395,19 @@
 		<S i="5" t="1f4" on="5" s="160" frq="12643" n="PRO TV"/>
 	</Bouquet>
 	<Bouquet name="[E016.0] ProTV">
+		<S i="1db2" t="145c" on="5" s="160" frq="12516" n="ACASA"/>
 		<S i="4" t="1f4" on="5" s="160" frq="12643" n="Boomerang"/>
 		<S i="b" t="1f4" on="5" s="160" frq="12643" n="DIGI 24"/>
 		<S i="c" t="1f4" on="5" s="160" frq="12643" n="Etno TV"/>
 		<S i="2" t="1f4" on="5" s="160" frq="12643" n="Kanal D"/>
 		<S i="3" t="1f4" on="5" s="160" frq="12643" n="National TV"/>
-		<S i="1db2" t="145c" on="5" s="160" frq="12516" n="PRO 2"/>
 		<S i="7" t="1f4" on="5" s="160" frq="12643" n="PRO 2"/>
-		<S i="1db4" t="145c" on="5" s="160" frq="12516" n="PRO CINEMA"/>
+		<S i="1db5" t="145c" on="5" s="160" frq="12516" n="PRO ARENA"/>
 		<S i="8" t="1f4" on="5" s="160" frq="12643" n="PRO CINEMA"/>
+		<S i="1db4" t="145c" on="5" s="160" frq="12516" n="PRO CINEMA"/>
 		<S i="1db7" t="145c" on="5" s="160" frq="12516" n="PRO GOLD"/>
 		<S i="1" t="1f4" on="5" s="160" frq="12643" n="PRO GOLD"/>
 		<S i="1db3" t="145c" on="5" s="160" frq="12516" n="PRO TV International"/>
-		<S i="1db5" t="145c" on="5" s="160" frq="12516" n="PRO X"/>
 		<S i="6" t="1f4" on="5" s="160" frq="12643" n="PRO X"/>
 		<S i="a" t="1f4" on="5" s="160" frq="12643" n="RomaniaTV"/>
 		<S i="1db6" t="145c" on="5" s="160" frq="12516" n="TEST 1"/>

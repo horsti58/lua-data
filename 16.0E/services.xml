@@ -12,19 +12,20 @@
 			<S i="0438" f="4" s="0" t="16" n="Syri TV"/>
 			<S i="044c" f="4" s="0" t="1" n="Film Komedi"/>
 			<S i="0460" f="4" s="0" t="16" n="Klan Music"/>
+			<S i="0474" f="1" s="0" t="16" n="Info24"/>
 			<S i="0488" f="4" s="0" t="1" n="Stinet"/>
 			<S i="049c" f="4" s="0" t="1" n="Ora News"/>
 			<S i="04d8" f="4" s="0" t="1" n="News 24"/>
-			<S i="04e2" f="4" s="0" t="1" n="TAG TEST"/>
+			<S i="04e2" f="2" s="0" t="1" n="TAG TEST"/>
 			<S i="04ec" f="4" s="0" t="1" n="X1"/>
 			<S i="0578" f="4" s="0" t="19" n="T HD"/>
 			<S i="058c" f="4" s="0" t="19" n="SS-7 HD"/>
 			<S i="05a0" f="4" s="0" t="19" n="RTV Ora"/>
-			<S i="05b4" f="4" s="0" t="19" n="Big Brother 1 HD"/>
+			<S i="05b4" f="2" s="0" t="19" n="Big Brother 1 HD"/>
 			<S i="05c8" f="4" s="0" t="19" n="Film Hits HD"/>
 			<S i="05dc" f="4" s="0" t="19" n="Film Aksion HD"/>
-			<S i="05f0" f="4" s="0" t="19" n="Big Brother 2 HD"/>
-			<S i="0604" f="4" s="0" t="19" n="Top Channel HD"/>
+			<S i="05f0" f="2" s="0" t="19" n="Big Brother 2 HD"/>
+			<S i="0604" f="4" s="1" t="19" n="Top Channel HD"/>
 			<S i="0708" f="4" s="0" t="2" n="Top Albania Radio"/>
 			<S i="071c" f="4" s="0" t="2" n="Top Gold Radio"/>
 		</TS>
@@ -514,7 +515,7 @@
 			<S i="070c" f="4" s="1" t="16" n="Toxic Folk"/>
 			<S i="070d" f="4" s="1" t="16" n="Toxic TV"/>
 			<S i="070e" f="4" s="1" t="16" n="Balkanika TV"/>
-			<S i="070f" f="4" s="1" t="16" n="Doku TV"/>
+			<S i="070f" f="2" s="1" t="16" n="Doku TV"/>
 			<S i="0710" f="4" s="1" t="19" n="Arena Sport 2 HD"/>
 			<S i="0711" f="4" s="1" t="19" n="Hustler HD"/>
 			<S i="0712" f="4" s="1" t="16" n="Hustler TV"/>
@@ -673,10 +674,10 @@
 		</TS>
 		<TS id="145c" on="0005" frq="12516000" inv="2" sr="19365000" fec="3" pol="1" mod="0" sys="1">
 			<S i="1db1" f="4" s="1" t="1" n="PRO TV"/>
-			<S i="1db2" f="4" s="1" t="1" n="PRO 2"/>
+			<S i="1db2" f="4" s="1" t="1" n="ACASA"/>
 			<S i="1db3" f="4" s="0" t="1" n="PRO TV International"/>
 			<S i="1db4" f="4" s="1" t="1" n="PRO CINEMA"/>
-			<S i="1db5" f="4" s="1" t="1" n="PRO X"/>
+			<S i="1db5" f="4" s="1" t="1" n="PRO ARENA"/>
 			<S i="1db6" f="4" s="1" t="1" n="TEST 1"/>
 			<S i="1db7" f="4" s="1" t="1" n="PRO GOLD"/>
 		</TS>

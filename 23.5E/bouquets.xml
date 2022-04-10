@@ -646,71 +646,138 @@
 	</Bouquet>
 	<Bouquet name="[E023.5] Unknown Provider">
 		<S i="41a" t="0" on="1" s="235" frq="11671" n="1050 - SuperNova Kielce"/>
+		<S i="41a" t="1" on="0" s="235" frq="11671" n="1050 - SuperNova Kielce"/>
 		<S i="42e" t="0" on="1" s="235" frq="11671" n="1070 - SuperNova Krakow"/>
+		<S i="42e" t="1" on="0" s="235" frq="11671" n="1070 - SuperNova Krakow"/>
 		<S i="44c" t="0" on="1" s="235" frq="11671" n="1100 - SuperNova Lodz"/>
+		<S i="44c" t="1" on="0" s="235" frq="11671" n="1100 - SuperNova Lodz"/>
 		<S i="460" t="0" on="1" s="235" frq="11671" n="1120 - SuperNova Opole"/>
+		<S i="460" t="1" on="0" s="235" frq="11671" n="1120 - SuperNova Opole"/>
 		<S i="47e" t="0" on="1" s="235" frq="11671" n="1150 - SuperNova Torun"/>
+		<S i="47e" t="1" on="0" s="235" frq="11671" n="1150 - SuperNova Torun"/>
+		<S i="492" t="1" on="0" s="235" frq="11671" n="1170 - SuperNova Gdansk"/>
 		<S i="492" t="0" on="1" s="235" frq="11671" n="1170 - SuperNova Gdansk"/>
 		<S i="49c" t="0" on="1" s="235" frq="11671" n="1180 - SuperNova Wroclaw"/>
+		<S i="49c" t="1" on="0" s="235" frq="11671" n="1180 - SuperNova Wroclaw"/>
 		<S i="4d8" t="0" on="1" s="235" frq="11671" n="1240 - SuperNova Rzeszow"/>
+		<S i="4d8" t="1" on="0" s="235" frq="11671" n="1240 - SuperNova Rzeszow"/>
 		<S i="4ec" t="0" on="1" s="235" frq="11671" n="1260 - SuperNova Szczecin"/>
+		<S i="4ec" t="1" on="0" s="235" frq="11671" n="1260 - SuperNova Szczecin"/>
+		<S i="50a" t="1" on="0" s="235" frq="11671" n="1290 - SuperNova Nowy Sacz"/>
 		<S i="50a" t="0" on="1" s="235" frq="11671" n="1290 - SuperNova Nowy Sacz"/>
+		<S i="564" t="1" on="0" s="235" frq="11671" n="1380 - SuperNova Warszawa"/>
 		<S i="564" t="0" on="1" s="235" frq="11671" n="1380 - SuperNova Warszawa"/>
 		<S i="5c8" t="0" on="1" s="235" frq="11671" n="1480 - SuperNova Jelenia Gora"/>
+		<S i="5c8" t="1" on="0" s="235" frq="11671" n="1480 - SuperNova Jelenia Gora"/>
 		<S i="5e6" t="0" on="1" s="235" frq="11671" n="1510 - SuperNova Trzebnica"/>
+		<S i="5e6" t="1" on="0" s="235" frq="11671" n="1510 - SuperNova Trzebnica"/>
 		<S i="5fa" t="0" on="1" s="235" frq="11671" n="1530 - SuperNova Paprotnia"/>
+		<S i="5fa" t="1" on="0" s="235" frq="11671" n="1530 - SuperNova Paprotnia"/>
 		<S i="7d0" t="0" on="1" s="235" frq="11671" n="2000 - ESKA SES"/>
+		<S i="7d0" t="1" on="0" s="235" frq="11671" n="2000 - ESKA SES"/>
 		<S i="7da" t="0" on="1" s="235" frq="11671" n="2010 - ESKA Belchatow"/>
+		<S i="7da" t="1" on="0" s="235" frq="11671" n="2010 - ESKA Belchatow"/>
+		<S i="7e4" t="1" on="0" s="235" frq="11671" n="2020 - ESKA Bialystok"/>
 		<S i="7e4" t="0" on="1" s="235" frq="11671" n="2020 - ESKA Bialystok"/>
+		<S i="7ee" t="1" on="0" s="235" frq="11671" n="2030 - ESKA Bydgoszcz"/>
 		<S i="7ee" t="0" on="1" s="235" frq="11671" n="2030 - ESKA Bydgoszcz"/>
+		<S i="7f8" t="1" on="0" s="235" frq="11671" n="2040 - ESKA Gorzow"/>
 		<S i="7f8" t="0" on="1" s="235" frq="11671" n="2040 - ESKA Gorzow"/>
 		<S i="802" t="0" on="1" s="235" frq="11671" n="2050 - ESKA Kielce"/>
+		<S i="802" t="1" on="0" s="235" frq="11671" n="2050 - ESKA Kielce"/>
 		<S i="80c" t="0" on="1" s="235" frq="11671" n="2060 - ESKA Siedlce"/>
+		<S i="80c" t="1" on="0" s="235" frq="11671" n="2060 - ESKA Siedlce"/>
 		<S i="816" t="0" on="1" s="235" frq="11671" n="2070 - ESKA Krakow"/>
+		<S i="816" t="1" on="0" s="235" frq="11671" n="2070 - ESKA Krakow"/>
 		<S i="820" t="0" on="1" s="235" frq="11671" n="2080 - ESKA Leszno"/>
+		<S i="820" t="1" on="0" s="235" frq="11671" n="2080 - ESKA Leszno"/>
 		<S i="82a" t="0" on="1" s="235" frq="11671" n="2090 - ESKA Pila"/>
+		<S i="82a" t="1" on="0" s="235" frq="11671" n="2090 - ESKA Pila"/>
+		<S i="834" t="1" on="0" s="235" frq="11671" n="2100 - ESKA Lodz"/>
 		<S i="834" t="0" on="1" s="235" frq="11671" n="2100 - ESKA Lodz"/>
 		<S i="83e" t="0" on="1" s="235" frq="11671" n="2110 - ESKA Olsztyn"/>
+		<S i="83e" t="1" on="0" s="235" frq="11671" n="2110 - ESKA Olsztyn"/>
 		<S i="848" t="0" on="1" s="235" frq="11671" n="2120 - ESKA Opole"/>
+		<S i="848" t="1" on="0" s="235" frq="11671" n="2120 - ESKA Opole"/>
 		<S i="852" t="0" on="1" s="235" frq="11671" n="2130 - ESKA Lublin"/>
+		<S i="852" t="1" on="0" s="235" frq="11671" n="2130 - ESKA Lublin"/>
 		<S i="85c" t="0" on="1" s="235" frq="11671" n="2140 - ESKA Poznan"/>
+		<S i="85c" t="1" on="0" s="235" frq="11671" n="2140 - ESKA Poznan"/>
 		<S i="866" t="0" on="1" s="235" frq="11671" n="2150 - ESKA Torun"/>
+		<S i="866" t="1" on="0" s="235" frq="11671" n="2150 - ESKA Torun"/>
 		<S i="870" t="0" on="1" s="235" frq="11671" n="2160 - ESKA Tarnow"/>
+		<S i="870" t="1" on="0" s="235" frq="11671" n="2160 - ESKA Tarnow"/>
 		<S i="87a" t="0" on="1" s="235" frq="11671" n="2170 - ESKA Trojmiasto"/>
+		<S i="87a" t="1" on="0" s="235" frq="11671" n="2170 - ESKA Trojmiasto"/>
 		<S i="884" t="0" on="1" s="235" frq="11671" n="2180 - ESKA Wroclaw"/>
+		<S i="884" t="1" on="0" s="235" frq="11671" n="2180 - ESKA Wroclaw"/>
 		<S i="88e" t="0" on="1" s="235" frq="11671" n="2190 - ESKA Zielona Gora"/>
+		<S i="88e" t="1" on="0" s="235" frq="11671" n="2190 - ESKA Zielona Gora"/>
+		<S i="898" t="1" on="0" s="235" frq="11671" n="2200 - ESKA Ostrow"/>
 		<S i="898" t="0" on="1" s="235" frq="11671" n="2200 - ESKA Ostrow"/>
 		<S i="8a2" t="0" on="1" s="235" frq="11671" n="2210 - ESKA Radom"/>
+		<S i="8a2" t="1" on="0" s="235" frq="11671" n="2210 - ESKA Radom"/>
+		<S i="8ac" t="1" on="0" s="235" frq="11671" n="2220 - ESKA Slask"/>
 		<S i="8ac" t="0" on="1" s="235" frq="11671" n="2220 - ESKA Slask"/>
+		<S i="8b6" t="1" on="0" s="235" frq="11671" n="2230 - ESKA Zamosc"/>
 		<S i="8b6" t="0" on="1" s="235" frq="11671" n="2230 - ESKA Zamosc"/>
 		<S i="8c0" t="0" on="1" s="235" frq="11671" n="2240 - ESKA Rzeszow"/>
+		<S i="8c0" t="1" on="0" s="235" frq="11671" n="2240 - ESKA Rzeszow"/>
 		<S i="8ca" t="0" on="1" s="235" frq="11671" n="2250 - ESKA Plock"/>
+		<S i="8ca" t="1" on="0" s="235" frq="11671" n="2250 - ESKA Plock"/>
 		<S i="8d4" t="0" on="1" s="235" frq="11671" n="2260 - ESKA Szczecin"/>
+		<S i="8d4" t="1" on="0" s="235" frq="11671" n="2260 - ESKA Szczecin"/>
+		<S i="8de" t="1" on="0" s="235" frq="11671" n="2270 - ESKA Koszalin"/>
 		<S i="8de" t="0" on="1" s="235" frq="11671" n="2270 - ESKA Koszalin"/>
+		<S i="8fc" t="1" on="0" s="235" frq="11671" n="2300 - ESKA Beskidy/Zywiec"/>
 		<S i="8fc" t="0" on="1" s="235" frq="11671" n="2300 - ESKA Beskidy/Zywiec"/>
 		<S i="906" t="0" on="1" s="235" frq="11671" n="2310 - ESKA Szczecinek"/>
+		<S i="906" t="1" on="0" s="235" frq="11671" n="2310 - ESKA Szczecinek"/>
+		<S i="910" t="1" on="0" s="235" frq="11671" n="2320 - ESKA Przemysl"/>
 		<S i="910" t="0" on="1" s="235" frq="11671" n="2320 - ESKA Przemysl"/>
+		<S i="91a" t="1" on="0" s="235" frq="11671" n="2330 - ESKA Malopolska"/>
 		<S i="91a" t="0" on="1" s="235" frq="11671" n="2330 - ESKA Malopolska"/>
 		<S i="938" t="0" on="1" s="235" frq="11671" n="2360 - ESKA Krasnik"/>
+		<S i="938" t="1" on="0" s="235" frq="11671" n="2360 - ESKA Krasnik"/>
+		<S i="960" t="1" on="0" s="235" frq="11671" n="2400 - ESKA Starachowice"/>
 		<S i="960" t="0" on="1" s="235" frq="11671" n="2400 - ESKA Starachowice"/>
 		<S i="974" t="0" on="1" s="235" frq="11671" n="2420 - ESKA Zary"/>
+		<S i="974" t="1" on="0" s="235" frq="11671" n="2420 - ESKA Zary"/>
+		<S i="97e" t="1" on="0" s="235" frq="11671" n="2430 - ESKA Elblag"/>
 		<S i="97e" t="0" on="1" s="235" frq="11671" n="2430 - ESKA Elblag"/>
+		<S i="988" t="1" on="0" s="235" frq="11671" n="2440 - ESKA Ilawa"/>
 		<S i="988" t="0" on="1" s="235" frq="11671" n="2440 - ESKA Ilawa"/>
+		<S i="992" t="1" on="0" s="235" frq="11671" n="2450 - ESKA Grudziadz"/>
 		<S i="992" t="0" on="1" s="235" frq="11671" n="2450 - ESKA Grudziadz"/>
 		<S i="99c" t="0" on="1" s="235" frq="11671" n="2460 - ESKA Lomza"/>
+		<S i="99c" t="1" on="0" s="235" frq="11671" n="2460 - ESKA Lomza"/>
 		<S i="9b0" t="0" on="1" s="235" frq="11671" n="2480 - ESKA Wroclaw JG"/>
+		<S i="9b0" t="1" on="0" s="235" frq="11671" n="2480 - ESKA Wroclaw JG"/>
+		<S i="9c4" t="1" on="0" s="235" frq="11671" n="2500 - ESKA Ostrzeszow"/>
 		<S i="9c4" t="0" on="1" s="235" frq="11671" n="2500 - ESKA Ostrzeszow"/>
 		<S i="9d8" t="0" on="1" s="235" frq="11671" n="2520 - ESKA Braniewo"/>
+		<S i="9d8" t="1" on="0" s="235" frq="11671" n="2520 - ESKA Braniewo"/>
+		<S i="be0" t="1" on="0" s="235" frq="11671" n="3040 - VOX Gorzow"/>
 		<S i="be0" t="0" on="1" s="235" frq="11671" n="3040 - VOX Gorzow"/>
+		<S i="c44" t="1" on="0" s="235" frq="11671" n="3140 - VOX Poznan"/>
 		<S i="c44" t="0" on="1" s="235" frq="11671" n="3140 - VOX Poznan"/>
+		<S i="c8a" t="1" on="0" s="235" frq="11671" n="3210 - VOX Radom"/>
 		<S i="c8a" t="0" on="1" s="235" frq="11671" n="3210 - VOX Radom"/>
 		<S i="f96" t="0" on="1" s="235" frq="11671" n="3990 - VOX"/>
+		<S i="f96" t="1" on="0" s="235" frq="11671" n="3990 - VOX"/>
+		<S i="fa0" t="1" on="0" s="235" frq="11671" n="4000 - PLUS SES"/>
 		<S i="fa0" t="0" on="1" s="235" frq="11671" n="4000 - PLUS SES"/>
+		<S i="100e" t="1" on="0" s="235" frq="11671" n="4110 - PLUS Olsztyn"/>
 		<S i="100e" t="0" on="1" s="235" frq="11671" n="4110 - PLUS Olsztyn"/>
+		<S i="1022" t="1" on="0" s="235" frq="11671" n="4130 - PLUS Lublin"/>
 		<S i="1022" t="0" on="1" s="235" frq="11671" n="4130 - PLUS Lublin"/>
 		<S i="10ae" t="0" on="1" s="235" frq="11671" n="4270 - PLUS Koszalin"/>
+		<S i="10ae" t="1" on="0" s="235" frq="11671" n="4270 - PLUS Koszalin"/>
 		<S i="10f4" t="0" on="1" s="235" frq="11671" n="4340 - PLUS Podhale"/>
+		<S i="10f4" t="1" on="0" s="235" frq="11671" n="4340 - PLUS Podhale"/>
 		<S i="1f36" t="0" on="1" s="235" frq="11671" n="7990 - 7990"/>
+		<S i="1f36" t="1" on="0" s="235" frq="11671" n="7990 - 7990"/>
+		<S i="1f4a" t="1" on="0" s="235" frq="11671" n="8010 - Radio Rodzina"/>
 		<S i="1f4a" t="0" on="1" s="235" frq="11671" n="8010 - Radio Rodzina"/>
 		<S i="4f2f" t="c8a" on="3" s="235" frq="11895" n="Klan Macedonia"/>
 		<S i="4f25" t="c8a" on="3" s="235" frq="11895" n="MRT 1"/>
