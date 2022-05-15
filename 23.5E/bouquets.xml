@@ -41,10 +41,6 @@
 		<S i="1f83" t="ca1" on="3" s="235" frq="12344" n="CRo VYSOCINA"/>
 		<S i="1f89" t="ca1" on="3" s="235" frq="12344" n="CRo ZLIN"/>
 	</Bouquet>
-	<Bouquet name="[E023.5] M7 group">
-		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
-		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
-	</Bouquet>
 	<Bouquet name="[E023.5] M7 Group">
 		<S i="177f" t="c82" on="3" s="235" frq="11739" n="192TV"/>
 		<S i="523f" t="c99" on="3" s="235" frq="12188" n="24Kitchen"/>
@@ -315,6 +311,10 @@
 		<S i="5262" t="c99" on="3" s="235" frq="12188" n="SLAM!"/>
 		<S i="52db" t="c96" on="3" s="235" frq="12129" n="Studio Brussel"/>
 	</Bouquet>
+	<Bouquet name="[E023.5] M7 group">
+		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
+		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
+	</Bouquet>
 	<Bouquet name="[E023.5] MX1">
 		<S i="17d6" t="c91" on="3" s="235" frq="12032" n="iConcert"/>
 		<S i="17de" t="c91" on="3" s="235" frq="12032" n="SES Demo HD"/>
@@ -373,11 +373,12 @@
 		<S i="4e56" t="c81" on="3" s="235" frq="11719" n="Balkan Trip"/>
 		<S i="4e99" t="ca4" on="3" s="235" frq="12402" n="BBC Earth"/>
 		<S i="4e90" t="c86" on="3" s="235" frq="11817" n="BHTV"/>
+		<S i="4e6d" t="c8a" on="3" s="235" frq="11895" n="Bloomberg Adria"/>
 		<S i="4e87" t="c86" on="3" s="235" frq="11817" n="BN 2"/>
 		<S i="4e88" t="c86" on="3" s="235" frq="11817" n="BN HD"/>
 		<S i="4eba" t="ca4" on="3" s="235" frq="12402" n="BN Music"/>
-		<S i="4ebf" t="c8a" on="3" s="235" frq="11895" n="Bravo music"/>
 		<S i="4ebf" t="ca4" on="3" s="235" frq="12402" n="Bravo Music"/>
+		<S i="4ebf" t="c8a" on="3" s="235" frq="11895" n="Bravo music"/>
 		<S i="4ed5" t="c81" on="3" s="235" frq="11719" n="Brazzers TV"/>
 		<S i="4ea5" t="ca4" on="3" s="235" frq="12402" n="CBS Reality"/>
 		<S i="4e69" t="c86" on="3" s="235" frq="11817" n="Cinemax"/>
@@ -514,8 +515,8 @@
 		<S i="4e2a" t="c85" on="3" s="235" frq="11798" n="Red TV"/>
 		<S i="4ec8" t="ca4" on="3" s="235" frq="12402" n="RT"/>
 		<S i="4f12" t="c81" on="3" s="235" frq="11719" n="RTL"/>
-		<S i="4ef8" t="c8b" on="3" s="235" frq="11914" n="RTL 2"/>
 		<S i="4f15" t="c81" on="3" s="235" frq="11719" n="RTL 2"/>
+		<S i="4ef8" t="c8b" on="3" s="235" frq="11914" n="RTL 2"/>
 		<S i="4eb0" t="ca4" on="3" s="235" frq="12402" n="RTL Croatia"/>
 		<S i="4f0a" t="c81" on="3" s="235" frq="11719" n="RTL Gold"/>
 		<S i="4ef4" t="c8b" on="3" s="235" frq="11914" n="RTL Klub"/>
@@ -595,6 +596,7 @@
 		<S i="4e9e" t="ca4" on="3" s="235" frq="12402" n="Viasat History"/>
 		<S i="4ea0" t="ca4" on="3" s="235" frq="12402" n="Viasat Nature"/>
 		<S i="5172" t="c8b" on="3" s="235" frq="11914" n="AS FM"/>
+		<S i="5157" t="c8a" on="3" s="235" frq="11895" n="BN radio"/>
 		<S i="5173" t="c8b" on="3" s="235" frq="11914" n="Play radio"/>
 		<S i="5154" t="c8b" on="3" s="235" frq="11914" n="Radio Beograd 1"/>
 		<S i="5155" t="c8b" on="3" s="235" frq="11914" n="Radio Beograd 2"/>

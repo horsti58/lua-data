@@ -9,9 +9,16 @@
 	<Bouquet name="[E009.0] ADTH">
 		<S i="15f" t="19c8" on="9e" s="90" frq="12034" n="HWAZAN"/>
 	</Bouquet>
+	<Bouquet name="[E009.0] ARQIVA">
+		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
+		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="IRN"/>
+	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva">
 		<S i="4ba" t="1af4" on="9e" s="90" frq="12092" n="1210"/>
 		<S i="4bf" t="1af4" on="9e" s="90" frq="12092" n="1215"/>
+		<S i="49c" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist1"/>
+		<S i="4a1" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist2"/>
+		<S i="4b0" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist5"/>
 		<S i="48d" t="1af4" on="9e" s="90" frq="12092" n="DAB D1"/>
 		<S i="474" t="1af4" on="9e" s="90" frq="12092" n="Diva Balkans"/>
 		<S i="46f" t="1af4" on="9e" s="90" frq="12092" n="Diva Romania"/>
@@ -21,28 +28,25 @@
 		<S i="492" t="1af4" on="9e" s="90" frq="12092" n="SDL NATL"/>
 		<S i="497" t="1af4" on="9e" s="90" frq="12092" n="talkSPORT Dist"/>
 		<S i="4b5" t="1af4" on="9e" s="90" frq="12092" n="Absolute Radio"/>
-		<S i="49c" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist1"/>
-		<S i="4a1" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist2"/>
 		<S i="4a6" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist3"/>
 		<S i="4ab" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist4"/>
-		<S i="4b0" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist5"/>
 		<S i="483" t="1af4" on="9e" s="90" frq="12092" n="Premier Radio"/>
-	</Bouquet>
-	<Bouquet name="[E009.0] ARQIVA">
-		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
-		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="IRN"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] BASIS 1">
 		<S i="ec" t="1644" on="9c" s="90" frq="11861" n="BBC WORLD"/>
 		<S i="d8" t="14b4" on="9c" s="90" frq="11785" n="Comedy Central"/>
 		<S i="1a3" t="1964" on="9c" s="90" frq="12015" n="Comedy Central HD"/>
+		<S i="1a3" t="1964" on="9c" s="90" frq="11747" n="Comedy Central HD"/>
+		<S i="1a2" t="1964" on="9c" s="90" frq="11747" n="Deluxe Music HD"/>
 		<S i="1a2" t="1964" on="9c" s="90" frq="12015" n="Deluxe Music HD"/>
+		<S i="1a4" t="1964" on="9c" s="90" frq="11747" n="Disney Channel HD"/>
 		<S i="1a4" t="1964" on="9c" s="90" frq="12015" n="Disney Channel HD"/>
 		<S i="e7" t="1644" on="9c" s="90" frq="11861" n="DMAX HD"/>
 		<S i="cd" t="14b4" on="9c" s="90" frq="11785" n="Eurosport 1 HD"/>
 		<S i="e6" t="1644" on="9c" s="90" frq="11861" n="Kabel Eins HD"/>
 		<S i="ca" t="14b4" on="9c" s="90" frq="11785" n="MTV HD"/>
 		<S i="1a5" t="1964" on="9c" s="90" frq="12015" n="NICK/CC+1"/>
+		<S i="1a5" t="1964" on="9c" s="90" frq="11747" n="NICK/CC+1"/>
 		<S i="e9" t="1644" on="9c" s="90" frq="11861" n="NICK/CC+1 HD"/>
 		<S i="132" t="1edc" on="9c" s="90" frq="12245" n="NITRO HD"/>
 		<S i="133" t="1edc" on="9c" s="90" frq="12245" n="ntv HD"/>
@@ -54,6 +58,7 @@
 		<S i="ea" t="1644" on="9c" s="90" frq="11861" n="SPORT 1 HD"/>
 		<S i="ea60" t="14b4" on="9c" s="90" frq="11785" n="TC ATV 1"/>
 		<S i="ee48" t="1964" on="9c" s="90" frq="12015" n="TC ATV 2"/>
+		<S i="ee48" t="1964" on="9c" s="90" frq="11747" n="TC ATV 2"/>
 		<S i="e8" t="1644" on="9c" s="90" frq="11861" n="TELE 5 HD"/>
 		<S i="eb" t="1644" on="9c" s="90" frq="11861" n="TLC HD"/>
 		<S i="ce" t="14b4" on="9c" s="90" frq="11785" n="TOGGO plus HD"/>
@@ -65,8 +70,11 @@
 	</Bouquet>
 	<Bouquet name="[E009.0] BASIS 2">
 		<S i="1a1" t="1964" on="9c" s="90" frq="12015" n="RTLZWEI HD"/>
+		<S i="1a1" t="1964" on="9c" s="90" frq="11747" n="RTLZWEI HD"/>
 		<S i="1a0" t="1964" on="9c" s="90" frq="12015" n="sixx HD"/>
+		<S i="1a0" t="1964" on="9c" s="90" frq="11747" n="sixx HD"/>
 		<S i="196" t="1964" on="9c" s="90" frq="12015" n="SUPER RTL HD"/>
+		<S i="196" t="1964" on="9c" s="90" frq="11747" n="SUPER RTL HD"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Discovery">
 		<S i="1518" t="c3aa" on="9e" s="90" frq="11881" n="Animal Planet Europe HD"/>
@@ -150,6 +158,7 @@
 		<S i="bb8" t="1bbc" on="9c" s="90" frq="12130" n="BonGusto"/>
 		<S i="44c" t="1fa4" on="9c" s="90" frq="12322" n="CNN TURK"/>
 		<S i="26a" t="206c" on="9c" s="90" frq="12360" n="Crime+Investigation"/>
+		<S i="268" t="206c" on="9c" s="90" frq="12360" n="Curiosity Channel HD"/>
 		<S i="4eee" t="21fc" on="9c" s="90" frq="12437" n="Duck TV SD"/>
 		<S i="4eed" t="21fc" on="9c" s="90" frq="12437" n="E! Entertainment D"/>
 		<S i="4b0" t="1fa4" on="9c" s="90" frq="12322" n="Euro D"/>
@@ -186,7 +195,6 @@
 		<S i="41a" t="1fa4" on="9c" s="90" frq="12322" n="Show Turk"/>
 		<S i="4eeb" t="21fc" on="9c" s="90" frq="12437" n="SONY AXN HD"/>
 		<S i="faa" t="1bbc" on="9c" s="90" frq="12130" n="SONY CHANNEL HD"/>
-		<S i="268" t="206c" on="9c" s="90" frq="12360" n="Spiegel TV Wissen HD"/>
 		<S i="26f" t="206c" on="9c" s="90" frq="12360" n="SPORT1+ HD"/>
 		<S i="4eef" t="21fc" on="9c" s="90" frq="12437" n="SPORTDIGITAL FUSSBALL"/>
 		<S i="26d" t="206c" on="9c" s="90" frq="12360" n="SyFy HD"/>
@@ -254,7 +262,6 @@
 		<S i="3f0" t="5" on="aa" s="90" frq="12284" n="COSMOTECinema1HD"/>
 		<S i="460" t="9" on="aa" s="90" frq="11938" n="COSMOTECinema2HD"/>
 		<S i="446" t="6" on="aa" s="90" frq="12399" n="COSMOTECinema3"/>
-		<S i="41c" t="8" on="aa" s="90" frq="12169" n="CosmoteCinemaOscarsHD"/>
 		<S i="447" t="5" on="aa" s="90" frq="12284" n="COSMOTESport1HD"/>
 		<S i="404" t="6" on="aa" s="90" frq="12399" n="COSMOTESport3HD"/>
 		<S i="40f" t="2" on="aa" s="90" frq="12054" n="COSMOTESport4HD"/>
@@ -302,11 +309,11 @@
 		<S i="405" t="5" on="aa" s="90" frq="12284" n="OPEN BEYOND HD"/>
 		<S i="40a" t="7" on="aa" s="90" frq="12475" n="Panik TV"/>
 		<S i="425" t="5" on="aa" s="90" frq="12284" n="Penthouse Gold"/>
+		<S i="41c" t="8" on="aa" s="90" frq="12169" n="POP UP TEST HD"/>
 		<S i="435" t="7" on="aa" s="90" frq="12475" n="PPV TST1"/>
 		<S i="3f3" t="5" on="aa" s="90" frq="12284" n="PPV TST2"/>
 		<S i="456" t="5" on="aa" s="90" frq="12284" n="Private TV"/>
 		<S i="3fb" t="8" on="aa" s="90" frq="12169" n="Promo HD"/>
-		<S i="43e" t="7" on="aa" s="90" frq="12475" n="RT"/>
 		<S i="3ec" t="5" on="aa" s="90" frq="12284" n="Sirina TV HD"/>
 		<S i="46a" t="7" on="aa" s="90" frq="12475" n="Sky News"/>
 		<S i="40c" t="4" on="aa" s="90" frq="12207" n="Smile TV"/>
@@ -325,6 +332,7 @@
 		<S i="429" t="9" on="aa" s="90" frq="11938" n="TEST 2 SD"/>
 		<S i="45f" t="1" on="aa" s="90" frq="11843" n="TEST 4"/>
 		<S i="462" t="8" on="aa" s="90" frq="12169" n="TEST 5"/>
+		<S i="43e" t="7" on="aa" s="90" frq="12475" n="TEST 6"/>
 		<S i="472" t="9" on="aa" s="90" frq="11938" n="TEST 81"/>
 		<S i="448" t="4" on="aa" s="90" frq="12207" n="TEST G"/>
 		<S i="457" t="7" on="aa" s="90" frq="12475" n="TEST I"/>
@@ -366,6 +374,7 @@
 	</Bouquet>
 	<Bouquet name="[E009.0] TRACE">
 		<S i="f" t="170c" on="9e" s="90" frq="11900" n="TRACE URBAN INTER HD"/>
+		<S i="14" t="170c" on="9e" s="90" frq="11900" n="TVT International"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] TVT">
 		<S i="17" t="170c" on="9e" s="90" frq="11900" n="RTB TV"/>
@@ -429,11 +438,11 @@
 		<S i="453" t="9" on="aa" s="90" frq="11938" n="National Geographic HD"/>
 		<S i="42c" t="5" on="aa" s="90" frq="12284" n="Opap"/>
 		<S i="419" t="6" on="aa" s="90" frq="12399" n="POP UP 02"/>
-		<S i="434" t="5" on="aa" s="90" frq="12284" n="TEST 1"/>
 		<S i="421" t="6" on="aa" s="90" frq="12399" n="TEST BISS"/>
 		<S i="431" t="6" on="aa" s="90" frq="12399" n="TEST FREE"/>
 		<S i="45e" t="6" on="aa" s="90" frq="12399" n="TRT"/>
 		<S i="3f8" t="9" on="aa" s="90" frq="11938" n="Village Cinema HD"/>
+		<S i="434" t="5" on="aa" s="90" frq="12284" n="VIXEN"/>
 		<S i="450" t="6" on="aa" s="90" frq="12399" n="Αιγαίο TV"/>
 		<S i="3f9" t="9" on="aa" s="90" frq="11938" n="Βεργίνα TV"/>
 		<S i="451" t="9" on="aa" s="90" frq="11938" n="ΕΡΤ3 HD"/>
