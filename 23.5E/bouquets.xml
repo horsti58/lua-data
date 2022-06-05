@@ -41,6 +41,10 @@
 		<S i="1f83" t="ca1" on="3" s="235" frq="12344" n="CRo VYSOCINA"/>
 		<S i="1f89" t="ca1" on="3" s="235" frq="12344" n="CRo ZLIN"/>
 	</Bouquet>
+	<Bouquet name="[E023.5] M7 group">
+		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
+		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
+	</Bouquet>
 	<Bouquet name="[E023.5] M7 Group">
 		<S i="177f" t="c82" on="3" s="235" frq="11739" n="192TV"/>
 		<S i="523f" t="c99" on="3" s="235" frq="12188" n="24Kitchen"/>
@@ -146,6 +150,7 @@
 		<S i="372d" t="c8e" on="3" s="235" frq="11973" n="Markiza +1 HD"/>
 		<S i="3731" t="c8e" on="3" s="235" frq="11973" n="Markiza HD"/>
 		<S i="3720" t="c8e" on="3" s="235" frq="11973" n="Markiza International"/>
+		<S i="339f" t="c89" on="3" s="235" frq="11876" n="Markiza Krimi HD"/>
 		<S i="51d5" t="c96" on="3" s="235" frq="12129" n="MENT TV"/>
 		<S i="1816" t="c82" on="3" s="235" frq="11739" n="Mezzo HD"/>
 		<S i="3cfb" t="c95" on="3" s="235" frq="12110" n="Minimax"/>
@@ -153,8 +158,8 @@
 		<S i="3cfa" t="c95" on="3" s="235" frq="12110" n="Mnam TV"/>
 		<S i="3aab" t="c84" on="3" s="235" frq="11778" n="Mozi+"/>
 		<S i="30c" t="c94" on="3" s="235" frq="12090" n="MTV Europe CZ"/>
-		<S i="528c" t="c99" on="3" s="235" frq="12188" n="MTV NL"/>
 		<S i="36f6" t="c8c" on="3" s="235" frq="11934" n="MTV NL"/>
+		<S i="528c" t="c99" on="3" s="235" frq="12188" n="MTV NL"/>
 		<S i="3aac" t="c84" on="3" s="235" frq="11778" n="Muzsika TV"/>
 		<S i="302" t="c94" on="3" s="235" frq="12090" n="Nat Geo HD"/>
 		<S i="303" t="c94" on="3" s="235" frq="12090" n="Nat Geo HD CZ"/>
@@ -167,8 +172,8 @@
 		<S i="51e5" t="c96" on="3" s="235" frq="12129" n="NGC HD"/>
 		<S i="36f0" t="c8c" on="3" s="235" frq="11934" n="Nick Jr Czech"/>
 		<S i="3aae" t="c84" on="3" s="235" frq="11778" n="Nick Jr Hungary"/>
-		<S i="5274" t="c99" on="3" s="235" frq="12188" n="Nickelodeon"/>
 		<S i="36fa" t="c8c" on="3" s="235" frq="11934" n="Nickelodeon"/>
+		<S i="5274" t="c99" on="3" s="235" frq="12188" n="Nickelodeon"/>
 		<S i="335c" t="c93" on="3" s="235" frq="12070" n="Nickelodeon CZ"/>
 		<S i="3aa8" t="c84" on="3" s="235" frq="11778" n="Nickelodeon Hungary"/>
 		<S i="3b74" t="c8d" on="3" s="235" frq="11953" n="Nicktoons CZ"/>
@@ -311,10 +316,6 @@
 		<S i="5262" t="c99" on="3" s="235" frq="12188" n="SLAM!"/>
 		<S i="52db" t="c96" on="3" s="235" frq="12129" n="Studio Brussel"/>
 	</Bouquet>
-	<Bouquet name="[E023.5] M7 group">
-		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
-		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
-	</Bouquet>
 	<Bouquet name="[E023.5] MX1">
 		<S i="17d6" t="c91" on="3" s="235" frq="12032" n="iConcert"/>
 		<S i="17de" t="c91" on="3" s="235" frq="12032" n="SES Demo HD"/>
@@ -430,6 +431,7 @@
 		<S i="4e67" t="c86" on="3" s="235" frq="11817" n="HBO 2 HD"/>
 		<S i="4e68" t="c86" on="3" s="235" frq="11817" n="HBO 3"/>
 		<S i="4e66" t="c86" on="3" s="235" frq="11817" n="HBO HD"/>
+		<S i="4f1e" t="c8a" on="3" s="235" frq="11895" n="HGTV"/>
 		<S i="4e9d" t="ca4" on="3" s="235" frq="12402" n="History 2"/>
 		<S i="4e48" t="c85" on="3" s="235" frq="11798" n="HRT 1"/>
 		<S i="4e49" t="c85" on="3" s="235" frq="11798" n="HRT 2"/>
@@ -457,8 +459,8 @@
 		<S i="4e47" t="c85" on="3" s="235" frq="11798" n="LFCTV"/>
 		<S i="4ef2" t="c8b" on="3" s="235" frq="11914" n="M1"/>
 		<S i="4ef3" t="c8b" on="3" s="235" frq="11914" n="M2"/>
-		<S i="4e3f" t="c85" on="3" s="235" frq="11798" n="Minimax"/>
 		<S i="4efb" t="c81" on="3" s="235" frq="11719" n="Minimax"/>
+		<S i="4e3f" t="c85" on="3" s="235" frq="11798" n="Minimax"/>
 		<S i="4efd" t="c81" on="3" s="235" frq="11719" n="Mozy +"/>
 		<S i="4f25" t="c8a" on="3" s="235" frq="11895" n="MRT 1"/>
 		<S i="4f27" t="c8a" on="3" s="235" frq="11895" n="MRT 2"/>

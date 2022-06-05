@@ -65,7 +65,7 @@
 			<S i="1022" f="4" s="1" t="1" n="4130 - PLUS Lublin"/>
 			<S i="10ae" f="4" s="1" t="1" n="4270 - PLUS Koszalin"/>
 			<S i="10f4" f="4" s="1" t="1" n="4340 - PLUS Podhale"/>
-			<S i="1f36" f="1" s="1" t="1" n="7990 - 7990"/>
+			<S i="1f36" f="4" s="1" t="1" n="7990 - 7990"/>
 			<S i="1f4a" f="4" s="1" t="1" n="8010 - Radio Rodzina"/>
 		</TS>
 		<TS id="0001" on="0000" frq="11671000" inv="2" sr="6000000" fec="3" pol="1" mod="9" sys="1">
@@ -364,12 +364,13 @@
 			<S i="339c" f="4" s="1" t="16" n="Prima KRIMI"/>
 			<S i="339d" f="4" s="1" t="16" n="Slager Muzika"/>
 			<S i="339e" f="4" s="1" t="19" n="JOJ Sport HD"/>
+			<S i="339f" f="1" s="1" t="19" n="Markiza Krimi HD"/>
 		</TS>
 		<TS id="0c8a" on="0003" frq="11895000" inv="2" sr="30000000" fec="3" pol="1" mod="9" sys="1">
 			<S i="4e46" f="4" s="0" t="1" n="Arena Sport_2 HD"/>
 			<S i="4e4a" f="4" s="0" t="1" n="Arena Sport_4 HD"/>
 			<S i="4e57" f="4" s="0" t="1" n="Arena Sport_3 HD"/>
-			<S i="4e6d" f="1" s="0" t="1" n="Bloomberg Adria"/>
+			<S i="4e6d" f="4" s="0" t="1" n="Bloomberg Adria"/>
 			<S i="4e70" f="4" s="0" t="1" n="Pink family"/>
 			<S i="4e92" f="4" s="0" t="1" n="Koreni"/>
 			<S i="4ea1" f="4" s="0" t="1" n="Turizam"/>
@@ -381,6 +382,7 @@
 			<S i="4ee3" f="4" s="0" t="1" n="TV Galaksija 32"/>
 			<S i="4ef5" f="4" s="0" t="1" n="KCN Music 2"/>
 			<S i="4f1d" f="4" s="0" t="1" n="TV Budva"/>
+			<S i="4f1e" f="1" s="0" t="1" n="HGTV"/>
 			<S i="4f25" f="4" s="0" t="1" n="MRT 1"/>
 			<S i="4f27" f="4" s="0" t="1" n="MRT 2"/>
 			<S i="4f28" f="4" s="0" t="1" n="MRT 3"/>
@@ -393,14 +395,14 @@
 			<S i="4f2f" f="4" s="0" t="1" n="Klan Macedonia"/>
 			<S i="4f30" f="4" s="0" t="1" n="Sitel"/>
 			<S i="4f31" f="4" s="0" t="1" n="Telma"/>
-			<S i="4f32" f="4" s="0" t="1" n="Alfa TV"/>
+			<S i="4f32" f="4" s="1" t="1" n="Alfa TV"/>
 			<S i="4f33" f="4" s="0" t="1" n="Alsat M"/>
 			<S i="4f34" f="4" s="0" t="1" n="Kanal 5"/>
 			<S i="4f35" f="4" s="0" t="1" n="Fox Adria"/>
 			<S i="4f36" f="4" s="0" t="1" n="Fox Crime Adria"/>
 			<S i="4f37" f="4" s="0" t="1" n="Nat Geo Adria"/>
 			<S i="4f38" f="4" s="0" t="1" n="24Kitchen Adria"/>
-			<S i="5157" f="1" s="0" t="2" n="BN radio"/>
+			<S i="5157" f="4" s="0" t="2" n="BN radio"/>
 		</TS>
 		<TS id="0c8b" on="0003" frq="11914000" inv="2" sr="30000000" fec="3" pol="0" mod="9" sys="1">
 			<S i="4e20" f="4" s="0" t="1" n="mSAT Info"/>
