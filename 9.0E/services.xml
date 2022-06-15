@@ -1,6 +1,7 @@
 	<sat name="9.0E Eutelsat" position="90" diseqc="-1" uncommited="-1">
 		<TS id="c35a" on="009e" frq="11727000" inv="2" sr="30000000" fec="3" pol="1" mod="9" sys="1">
-			<S i="035d" f="4" s="0" t="16" n="SATHANGAI TV"/>
+			<S i="035c" f="4" s="0" t="c" n="DAB Radio 1 Test"/>
+			<S i="035d" f="4" s="0" t="c" n="DAB Radio 2 Test"/>
 			<S i="035e" f="4" s="1" t="1f" n="EUROBET 11"/>
 			<S i="035f" f="4" s="1" t="1f" n="EUROBET 12"/>
 			<S i="0360" f="4" s="1" t="1f" n="EUROBET 13"/>
@@ -81,7 +82,7 @@
 			<S i="0c03" f="4" s="0" t="c" n="INV1-afnatl"/>
 		</TS>
 		<TS id="0001" on="0064" frq="11823000" inv="2" sr="27500000" fec="3" pol="0" mod="0" sys="0">
-			<S i="0654" f="4" s="0" t="2" n="Ros * Ros Selex"/>
+			<S i="0654" f="4" s="0" t="2" n="Ros Ros Selex"/>
 			<S i="065e" f="4" s="0" t="2" n="Carrefour Iper"/>
 			<S i="0668" f="4" s="0" t="2" n="Carrefour Market"/>
 			<S i="06a4" f="4" s="0" t="2" n="Radio CHINA FM"/>
@@ -134,8 +135,8 @@
 			<S i="16a8" f="4" s="0" t="16" n="TLC Pan Regional SD"/>
 		</TS>
 		<TS id="170c" on="009e" frq="11900000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
-			<S i="000e" f="4" s="0" t="1" n="TRACE SPORTS INTER HD"/>
-			<S i="000f" f="4" s="0" t="1" n="TRACE URBAN INTER HD"/>
+			<S i="000e" f="4" s="1" t="1" n="TRACE SPORTS INTER HD"/>
+			<S i="000f" f="4" s="1" t="1" n="TRACE URBAN INTER HD"/>
 			<S i="0014" f="4" s="0" t="19" n="TVT International"/>
 			<S i="0015" f="4" s="0" t="2" n="TVT Radio 1 (Radio Lome)"/>
 			<S i="0016" f="4" s="0" t="2" n="TVT Radio 2 (Radio Kara)"/>
@@ -147,7 +148,6 @@
 			<S i="006f" f="4" s="1" t="1" n="Better-1"/>
 			<S i="0070" f="4" s="1" t="1" n="Better-2"/>
 			<S i="0071" f="4" s="1" t="1" n="Better-3"/>
-			<S i="0072" f="4" s="1" t="1" n="Better-4"/>
 			<S i="0073" f="4" s="1" t="1" n="Rai Africa"/>
 			<S i="0074" f="4" s="0" t="1" n="ORTB TV"/>
 			<S i="00e9" f="4" s="0" t="19" n="EBSHD"/>
@@ -157,10 +157,7 @@
 			<S i="17d4" f="4" s="0" t="16" n="TLC Hungary SD"/>
 			<S i="1838" f="4" s="0" t="19" n="Discovery Hungary HD"/>
 			<S i="189c" f="4" s="0" t="19" n="Discovery Turkey HD"/>
-			<S i="1900" f="4" s="0" t="19" n="Science Turkey HD"/>
-			<S i="1964" f="2" s="0" t="19" n="Eurosport 3 HD"/>
-			<S i="19c8" f="2" s="0" t="19" n="Eurosport 4 HD"/>
-			<S i="1a2c" f="2" s="0" t="19" n="Eurosport 5 HD"/>
+			<S i="1964" f="4" s="0" t="19" n="AD HOC Contribution"/>
 		</TS>
 		<TS id="0009" on="00aa" frq="11938000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
 			<S i="03ea" f="4" s="1" t="1" n="TEST 16"/>
@@ -213,6 +210,7 @@
 			<S i="01f6" f="4" s="1" t="1" n="Playboy TV"/>
 			<S i="01f7" f="4" s="1" t="1" n="iTVN"/>
 			<S i="01f8" f="4" s="1" t="1" n="auto motor und sport channel"/>
+			<S i="01f9" f="4" s="1" t="1" n="RTVi"/>
 			<S i="01fa" f="4" s="1" t="16" n="Fix &amp; Foxi"/>
 			<S i="01fb" f="4" s="1" t="19" n="Penthouse Passion"/>
 			<S i="01fd" f="4" s="1" t="19" n="Mezzo Live HD"/>
@@ -296,7 +294,6 @@
 			<S i="04ab" f="4" s="0" t="2" n="BBC AM Dist4"/>
 			<S i="04b0" f="4" s="0" t="c" n="BBC AM Dist5"/>
 			<S i="04b5" f="4" s="0" t="2" n="Absolute Radio"/>
-			<S i="04ba" f="2" s="0" t="c" n="1210"/>
 			<S i="04bf" f="4" s="0" t="c" n="1215"/>
 		</TS>
 		<TS id="1bbc" on="009c" frq="12130000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
@@ -359,7 +356,7 @@
 			<S i="03ec" f="4" s="1" t="1" n="Sirina TV HD"/>
 			<S i="03ef" f="4" s="1" t="1" n="α.Epsilon"/>
 			<S i="03f0" f="4" s="1" t="1" n="COSMOTECinema1HD"/>
-			<S i="03f2" f="4" s="1" t="1" n="Attica TV"/>
+			<S i="03f2" f="4" s="1" t="1" n="ducktv"/>
 			<S i="03f3" f="4" s="1" t="1" n="PPV TST2"/>
 			<S i="03fe" f="4" s="1" t="1" n="TEAM1 PPV"/>
 			<S i="03ff" f="4" s="1" t="1" n="TEAM2 PPV"/>
