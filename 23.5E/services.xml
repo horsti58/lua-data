@@ -299,6 +299,10 @@
 			<S i="4e70" f="4" s="0" t="1" n="Pink family"/>
 			<S i="4e92" f="4" s="0" t="1" n="Koreni"/>
 			<S i="4ea1" f="4" s="0" t="1" n="Turizam"/>
+			<S i="4ea2" f="4" s="0" t="1" n="Tring Tring"/>
+			<S i="4ea8" f="4" s="0" t="1" n="Vision plus"/>
+			<S i="4eaa" f="4" s="0" t="1" n="Summertime"/>
+			<S i="4eab" f="4" s="0" t="1" n="Tring Action"/>
 			<S i="4eb7" f="4" s="0" t="1" n="Pink music"/>
 			<S i="4ebf" f="4" s="0" t="1" n="Bravo music"/>
 			<S i="4ec0" f="4" s="0" t="1" n="Pink music 2"/>
@@ -423,17 +427,15 @@
 		</TS>
 		<TS id="0c8e" on="0003" frq="11973000" inv="2" sr="29900000" fec="2" pol="1" mod="9" sys="1">
 			<S i="371e" f="4" s="1" t="19" n="Nova Sport 2 HD"/>
-			<S i="371f" f="4" s="1" t="19" n="WAU HD"/>
+			<S i="371f" f="4" s="1" t="19" n="WAU HD_PRELADTE"/>
 			<S i="3720" f="4" s="1" t="16" n="Markiza International"/>
 			<S i="3721" f="4" s="1" t="16" n="Nova Gold"/>
 			<S i="3722" f="4" s="1" t="19" n="Nova Fun HD"/>
-			<S i="3723" f="4" s="1" t="19" n="JOJ Family HD"/>
+			<S i="3723" f="4" s="1" t="19" n="JOJ Family HD_PRELADTE"/>
 			<S i="3727" f="4" s="1" t="19" n="Penthouse Gold"/>
 			<S i="3728" f="4" s="1" t="19" n="Penthouse Gold CZ"/>
 			<S i="3729" f="4" s="1" t="19" n="Penthouse Quickies"/>
 			<S i="372a" f="4" s="1" t="19" n="Penthouse Quickies CZ"/>
-			<S i="372c" f="4" s="1" t="19" n="Nova +1 HD_Konci"/>
-			<S i="372d" f="4" s="1" t="19" n="Markiza +1 HD_Konci"/>
 			<S i="3731" f="4" s="1" t="19" n="Markiza HD"/>
 			<S i="3732" f="4" s="1" t="19" n="DOMA HD"/>
 			<S i="3746" f="4" s="0" t="2" n="Proglas"/>
@@ -460,6 +462,7 @@
 			<S i="3c38" f="4" s="0" t="16" n="REBEL"/>
 			<S i="3c39" f="4" s="0" t="16" n="RELAX"/>
 			<S i="3c3a" f="4" s="1" t="16" n="Retro Music TV"/>
+			<S i="3c3b" f="4" s="0" t="19" n="Newsmax HD"/>
 		</TS>
 		<TS id="0c91" on="0003" frq="12032000" inv="2" sr="27500000" fec="11" pol="0" mod="0" sys="1">
 			<S i="17d4" f="4" s="1" t="19" n="unknown (0x0C91_0x17D4)"/>
@@ -477,8 +480,6 @@
 			<S i="334e" f="4" s="1" t="16" n="Slager Original"/>
 			<S i="334f" f="4" s="1" t="19" n="WAU HD"/>
 			<S i="3350" f="4" s="1" t="19" n="JOJ Family HD"/>
-			<S i="3353" f="4" s="1" t="19" n="JOJ Cinema +1 HD_Konci"/>
-			<S i="3358" f="4" s="1" t="19" n="TV JOJ +1 HD_Konci"/>
 			<S i="3359" f="4" s="1" t="19" n="JOJ Cinema HD"/>
 			<S i="335a" f="4" s="1" t="16" n="CS History"/>
 			<S i="335b" f="4" s="1" t="19" n="Seznam.cz HD"/>
@@ -612,7 +613,6 @@
 			<S i="1f48" f="4" s="1" t="19" n="CT 1 JM HD"/>
 			<S i="1f49" f="4" s="1" t="19" n="Prima PLUS HD"/>
 			<S i="1f4b" f="4" s="1" t="19" n="Skylink 7"/>
-			<S i="1f4c" f="4" s="1" t="19" n="Prima +1 HD_Konci"/>
 			<S i="1f4d" f="4" s="1" t="19" n="TESTS7"/>
 			<S i="1f73" f="4" s="0" t="2" n="CRo RADIOZURNAL"/>
 			<S i="1f74" f="4" s="0" t="2" n="CRo DVOJKA"/>
@@ -654,9 +654,9 @@
 			<S i="1342" f="4" s="0" t="2" n="PatriaFM"/>
 			<S i="1343" f="4" s="0" t="2" n="PatriaRD"/>
 			<S i="1344" f="4" s="0" t="2" n="Slovakia"/>
-			<S i="1345" f="4" s="0" t="2" n="Jemne Z"/>
-			<S i="1346" f="4" s="0" t="2" n="Jemne S"/>
-			<S i="1347" f="4" s="0" t="2" n="Jemne V"/>
+			<S i="1345" f="4" s="0" t="2" n="Melody Z"/>
+			<S i="1346" f="4" s="0" t="2" n="Melody S"/>
+			<S i="1347" f="4" s="0" t="2" n="Melody V"/>
 			<S i="1348" f="4" s="0" t="2" n="Radio Lumen"/>
 			<S i="134b" f="4" s="0" t="2" n="ZET"/>
 			<S i="134c" f="4" s="0" t="2" n="BEAT"/>
@@ -703,7 +703,6 @@
 			<S i="4ea5" f="4" s="0" t="1" n="CBS Reality"/>
 			<S i="4ea6" f="4" s="0" t="1" n="KCN 1"/>
 			<S i="4ea7" f="4" s="0" t="1" n="Toxic Folk"/>
-			<S i="4ea8" f="4" s="0" t="1" n="English Club TV"/>
 			<S i="4ea9" f="4" s="0" t="1" n="E!"/>
 			<S i="4eac" f="4" s="0" t="1" n="24Kitchen"/>
 			<S i="4ead" f="4" s="0" t="1" n="Fashion TV"/>

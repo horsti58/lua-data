@@ -1,4 +1,3 @@
-<cables>
 	<cable name="Vodafone" satfeed="true" flags="9">
 		<transponder frequency="114000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="122000" symbol_rate="6900000" fec_inner="0" modulation="5"/>

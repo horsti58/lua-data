@@ -11,7 +11,6 @@
 	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva">
 		<S i="4bf" t="1af4" on="9e" s="90" frq="12092" n="1215"/>
-		<S i="49c" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist1"/>
 		<S i="4a1" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist2"/>
 		<S i="4b0" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist5"/>
 		<S i="48d" t="1af4" on="9e" s="90" frq="12092" n="DAB D1"/>
@@ -23,6 +22,7 @@
 		<S i="492" t="1af4" on="9e" s="90" frq="12092" n="SDL NATL"/>
 		<S i="497" t="1af4" on="9e" s="90" frq="12092" n="talkSPORT Dist"/>
 		<S i="4b5" t="1af4" on="9e" s="90" frq="12092" n="Absolute Radio"/>
+		<S i="49c" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist1"/>
 		<S i="4a6" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist3"/>
 		<S i="4ab" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist4"/>
 		<S i="483" t="1af4" on="9e" s="90" frq="12092" n="Premier Radio"/>
@@ -76,7 +76,6 @@
 		<S i="196" t="1964" on="9c" s="90" frq="12015" n="SUPER RTL HD"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Discovery">
-		<S i="1964" t="c3be" on="9e" s="90" frq="11919" n="AD HOC Contribution"/>
 		<S i="1518" t="c3aa" on="9e" s="90" frq="11881" n="Animal Planet Europe HD"/>
 		<S i="14b4" t="c3aa" on="9e" s="90" frq="11881" n="Discovery Central Europe HD"/>
 		<S i="1838" t="c3be" on="9e" s="90" frq="11919" n="Discovery Hungary HD"/>
@@ -143,57 +142,22 @@
 		<S i="362" t="c35a" on="9e" s="90" frq="11727" n="TRT tamil"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Inview Ltd">
-		<S i="6c" t="65" on="12" s="90" frq="11804" n="AFN|family"/>
-		<S i="6d" t="65" on="12" s="90" frq="11804" n="AFN|movie"/>
-		<S i="67" t="65" on="12" s="90" frq="11804" n="AFN|news"/>
-		<S i="66" t="65" on="12" s="90" frq="11804" n="AFN|prime Atlantic"/>
-		<S i="69" t="65" on="12" s="90" frq="11804" n="AFN|prime Pacific"/>
-		<S i="6a" t="65" on="12" s="90" frq="11804" n="AFN|spectrum"/>
-		<S i="68" t="65" on="12" s="90" frq="11804" n="AFN|sports"/>
-		<S i="6b" t="65" on="12" s="90" frq="11804" n="AFN|sports 2"/>
 		<S i="c03" t="65" on="12" s="90" frq="11804" n="INV1-afnatl"/>
-		<S i="78" t="65" on="12" s="90" frq="11804" n="AFN Atlantic Eagle"/>
-		<S i="84" t="65" on="12" s="90" frq="11804" n="AFN Contingency"/>
-		<S i="81" t="65" on="12" s="90" frq="11804" n="AFN Country"/>
-		<S i="7c" t="65" on="12" s="90" frq="11804" n="AFN Fans"/>
-		<S i="80" t="65" on="12" s="90" frq="11804" n="AFN Gravity"/>
-		<S i="7d" t="65" on="12" s="90" frq="11804" n="AFN Hot AC"/>
-		<S i="7f" t="65" on="12" s="90" frq="11804" n="AFN Joe FM"/>
-		<S i="7e" t="65" on="12" s="90" frq="11804" n="AFN Legacy"/>
-		<S i="83" t="65" on="12" s="90" frq="11804" n="AFN Seasonal"/>
-		<S i="87" t="65" on="12" s="90" frq="11804" n="Aviano Eagle"/>
-		<S i="93" t="65" on="12" s="90" frq="11804" n="Bahrain"/>
-		<S i="88" t="65" on="12" s="90" frq="11804" n="Bavaria Eagle"/>
-		<S i="89" t="65" on="12" s="90" frq="11804" n="Benelux Eagle"/>
-		<S i="7b" t="65" on="12" s="90" frq="11804" n="Clutch Sports Radio"/>
-		<S i="85" t="65" on="12" s="90" frq="11804" n="Freedom Radio"/>
-		<S i="8a" t="65" on="12" s="90" frq="11804" n="Incirlik Eagle"/>
-		<S i="8b" t="65" on="12" s="90" frq="11804" n="Kaiserslautern Eagle"/>
-		<S i="8c" t="65" on="12" s="90" frq="11804" n="Naples Eagle"/>
-		<S i="82" t="65" on="12" s="90" frq="11804" n="NPR International"/>
-		<S i="7a" t="65" on="12" s="90" frq="11804" n="Power Talk"/>
-		<S i="8d" t="65" on="12" s="90" frq="11804" n="Rota Eagle"/>
-		<S i="94" t="65" on="12" s="90" frq="11804" n="Sembach Afternoon Radio"/>
-		<S i="8e" t="65" on="12" s="90" frq="11804" n="Souda Bay Eagle"/>
-		<S i="8f" t="65" on="12" s="90" frq="11804" n="Spangdahlem Eagle"/>
-		<S i="90" t="65" on="12" s="90" frq="11804" n="Stuttgart Eagle"/>
-		<S i="79" t="65" on="12" s="90" frq="11804" n="The Voice"/>
-		<S i="91" t="65" on="12" s="90" frq="11804" n="Vicenza Eagle"/>
-		<S i="92" t="65" on="12" s="90" frq="11804" n="Weisbaden Eagle"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] KabelKiosk">
 		<S i="26c" t="206c" on="9c" s="90" frq="12360" n="13th Street HD"/>
 		<S i="546" t="1fa4" on="9c" s="90" frq="12322" n="ATV Avrupa"/>
 		<S i="1f8" t="2134" on="9c" s="90" frq="11977" n="auto motor und sport channel"/>
-		<S i="bb8" t="1bbc" on="9c" s="90" frq="12130" n="BonGusto"/>
 		<S i="44c" t="1fa4" on="9c" s="90" frq="12322" n="CNN TURK"/>
 		<S i="26a" t="206c" on="9c" s="90" frq="12360" n="Crime+Investigation"/>
 		<S i="268" t="206c" on="9c" s="90" frq="12360" n="Curiosity Channel HD"/>
 		<S i="4eee" t="21fc" on="9c" s="90" frq="12437" n="Duck TV SD"/>
 		<S i="4eed" t="21fc" on="9c" s="90" frq="12437" n="E! Entertainment D"/>
+		<S i="802" t="1bbc" on="9c" s="90" frq="12130" n="eSports1 HD"/>
 		<S i="4b0" t="1fa4" on="9c" s="90" frq="12322" n="Euro D"/>
 		<S i="9c4" t="1bbc" on="9c" s="90" frq="12130" n="Euro Star"/>
 		<S i="aa0" t="1bbc" on="9c" s="90" frq="12130" n="EuroNews French"/>
+		<S i="3e8" t="1fa4" on="9c" s="90" frq="12322" n="Fast&amp;Fun Box HD"/>
 		<S i="1fa" t="2134" on="9c" s="90" frq="11977" n="Fix &amp; Foxi"/>
 		<S i="4ef3" t="21fc" on="9c" s="90" frq="12437" n="GEO HD"/>
 		<S i="4ef2" t="21fc" on="9c" s="90" frq="12437" n="Gute Laune TV"/>
@@ -220,7 +184,7 @@
 		<S i="4eea" t="21fc" on="9c" s="90" frq="12437" n="Romance TV"/>
 		<S i="672" t="1fa4" on="9c" s="90" frq="12322" n="RTL Crime HD"/>
 		<S i="4ef1" t="21fc" on="9c" s="90" frq="12437" n="RTL Living"/>
-		<S i="9f6" t="1bbc" on="9c" s="90" frq="12130" n="RTR Planeta"/>
+		<S i="1f9" t="2134" on="9c" s="90" frq="11977" n="RTVi"/>
 		<S i="4ef6" t="21fc" on="9c" s="90" frq="12437" n="SAT.1 emotions HD"/>
 		<S i="41a" t="1fa4" on="9c" s="90" frq="12322" n="Show Turk"/>
 		<S i="4eeb" t="21fc" on="9c" s="90" frq="12437" n="SONY AXN HD"/>
@@ -234,14 +198,13 @@
 		<S i="60e" t="1fa4" on="9c" s="90" frq="12322" n="TRT-Turk TV"/>
 		<S i="5dc" t="1fa4" on="9c" s="90" frq="12322" n="TV Polonia"/>
 		<S i="4e2" t="1fa4" on="9c" s="90" frq="12322" n="TV8 Int"/>
-		<S i="640" t="1fa4" on="9c" s="90" frq="12322" n="wetter.com TV"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Katolikus Radio">
 		<S i="9e" t="1838" on="9e" s="90" frq="11958" n="Katolikus Radio (AAC)"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] M7 Group">
 		<S i="204" t="2134" on="9c" s="90" frq="11977" n="Dusk"/>
-		<S i="1f9" t="2134" on="9c" s="90" frq="11977" n="RTVi"/>
+		<S i="1fc" t="2134" on="9c" s="90" frq="11977" n="Luxe TV HD"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] MTVA">
 		<S i="67" t="1838" on="9e" s="90" frq="11958" n="Duna HD"/>
@@ -302,7 +265,6 @@
 		<S i="44d" t="6" on="aa" s="90" frq="12399" n="COSMOTESport8HD"/>
 		<S i="466" t="8" on="aa" s="90" frq="12169" n="COSMOTESport9HD"/>
 		<S i="42f" t="4" on="aa" s="90" frq="12207" n="COSMOTESportHighlightsHD"/>
-		<S i="41f" t="5" on="aa" s="90" frq="12284" n="CRETA"/>
 		<S i="46e" t="8" on="aa" s="90" frq="12169" n="Crime + Investigation"/>
 		<S i="439" t="7" on="aa" s="90" frq="12475" n="Deutsche Welle"/>
 		<S i="42e" t="4" on="aa" s="90" frq="12207" n="Disney Channel"/>
@@ -319,11 +281,9 @@
 		<S i="426" t="2" on="aa" s="90" frq="12054" n="FTV HD"/>
 		<S i="454" t="1" on="aa" s="90" frq="11843" n="GINX eSports"/>
 		<S i="411" t="5" on="aa" s="90" frq="12284" n="Hustler TV HD"/>
-		<S i="3fc" t="8" on="aa" s="90" frq="12169" n="IONIAN TV"/>
 		<S i="407" t="1" on="aa" s="90" frq="11843" n="Luxe TV HD"/>
 		<S i="420" t="6" on="aa" s="90" frq="12399" n="MAD"/>
 		<S i="40d" t="6" on="aa" s="90" frq="12399" n="MAD HD"/>
-		<S i="41e" t="1" on="aa" s="90" frq="11843" n="MAD Hits"/>
 		<S i="427" t="7" on="aa" s="90" frq="12475" n="MAD Viral HD"/>
 		<S i="40b" t="4" on="aa" s="90" frq="12207" n="MEGA"/>
 		<S i="400" t="6" on="aa" s="90" frq="12399" n="MEGA HD"/>
@@ -353,19 +313,22 @@
 		<S i="41d" t="1" on="aa" s="90" frq="11843" n="Stingray CMusic"/>
 		<S i="3f5" t="1" on="aa" s="90" frq="11843" n="Stingray iConcerts"/>
 		<S i="414" t="9" on="aa" s="90" frq="11938" n="TCM HD"/>
+		<S i="3e9" t="2" on="aa" s="90" frq="12054" n="TEAM 1"/>
+		<S i="448" t="4" on="aa" s="90" frq="12207" n="TEAM 2"/>
+		<S i="41f" t="5" on="aa" s="90" frq="12284" n="TEAM 3"/>
+		<S i="3fc" t="8" on="aa" s="90" frq="12169" n="TEAM 4"/>
 		<S i="3f6" t="2" on="aa" s="90" frq="12054" n="TEAM1"/>
 		<S i="3fe" t="5" on="aa" s="90" frq="12284" n="TEAM1 PPV"/>
 		<S i="3ff" t="5" on="aa" s="90" frq="12284" n="TEAM2 PPV"/>
 		<S i="473" t="9" on="aa" s="90" frq="11938" n="TEST - 3"/>
-		<S i="3e9" t="2" on="aa" s="90" frq="12054" n="TEST 14"/>
 		<S i="459" t="9" on="aa" s="90" frq="11938" n="TEST 15"/>
 		<S i="3ea" t="9" on="aa" s="90" frq="11938" n="TEST 16"/>
+		<S i="41e" t="1" on="aa" s="90" frq="11843" n="TEST 17"/>
 		<S i="429" t="9" on="aa" s="90" frq="11938" n="TEST 2 SD"/>
 		<S i="45f" t="1" on="aa" s="90" frq="11843" n="TEST 4"/>
 		<S i="462" t="8" on="aa" s="90" frq="12169" n="TEST 5"/>
 		<S i="43e" t="7" on="aa" s="90" frq="12475" n="TEST 6"/>
 		<S i="472" t="9" on="aa" s="90" frq="11938" n="TEST 81"/>
-		<S i="448" t="4" on="aa" s="90" frq="12207" n="TEST G"/>
 		<S i="457" t="7" on="aa" s="90" frq="12475" n="TEST I"/>
 		<S i="409" t="9" on="aa" s="90" frq="11938" n="TV100"/>
 		<S i="46d" t="8" on="aa" s="90" frq="12169" n="Viasat Explore HD"/>
@@ -414,11 +377,47 @@
 	</Bouquet>
 	<Bouquet name="[E009.0] Unknown Provider">
 		<S i="cc" t="19c8" on="9e" s="90" frq="12034" n="6ter Suisse"/>
+		<S i="6c" t="65" on="12" s="90" frq="11804" n="AFN|family"/>
+		<S i="6d" t="65" on="12" s="90" frq="11804" n="AFN|movie"/>
+		<S i="67" t="65" on="12" s="90" frq="11804" n="AFN|news"/>
+		<S i="66" t="65" on="12" s="90" frq="11804" n="AFN|prime Atlantic"/>
+		<S i="69" t="65" on="12" s="90" frq="11804" n="AFN|prime Pacific"/>
+		<S i="6a" t="65" on="12" s="90" frq="11804" n="AFN|spectrum"/>
+		<S i="68" t="65" on="12" s="90" frq="11804" n="AFN|sports"/>
+		<S i="6b" t="65" on="12" s="90" frq="11804" n="AFN|sports 2"/>
 		<S i="192" t="65" on="12" s="90" frq="11804" n="Bars &amp; Tone"/>
 		<S i="ca" t="19c8" on="9e" s="90" frq="12034" n="M6 Suisse"/>
 		<S i="191" t="65" on="12" s="90" frq="11804" n="Reaper (EPG Video)"/>
 		<S i="e" t="170c" on="9e" s="90" frq="11900" n="TRACE SPORTS INTER HD"/>
 		<S i="cd" t="19c8" on="9e" s="90" frq="12034" n="W9 Suisse"/>
+		<S i="78" t="65" on="12" s="90" frq="11804" n="AFN Atlantic Eagle"/>
+		<S i="84" t="65" on="12" s="90" frq="11804" n="AFN Contingency"/>
+		<S i="81" t="65" on="12" s="90" frq="11804" n="AFN Country"/>
+		<S i="7c" t="65" on="12" s="90" frq="11804" n="AFN Fans"/>
+		<S i="80" t="65" on="12" s="90" frq="11804" n="AFN Gravity"/>
+		<S i="7d" t="65" on="12" s="90" frq="11804" n="AFN Hot AC"/>
+		<S i="7f" t="65" on="12" s="90" frq="11804" n="AFN Joe FM"/>
+		<S i="7e" t="65" on="12" s="90" frq="11804" n="AFN Legacy"/>
+		<S i="83" t="65" on="12" s="90" frq="11804" n="AFN Seasonal"/>
+		<S i="87" t="65" on="12" s="90" frq="11804" n="Aviano Eagle"/>
+		<S i="93" t="65" on="12" s="90" frq="11804" n="Bahrain"/>
+		<S i="88" t="65" on="12" s="90" frq="11804" n="Bavaria Eagle"/>
+		<S i="89" t="65" on="12" s="90" frq="11804" n="Benelux Eagle"/>
+		<S i="7b" t="65" on="12" s="90" frq="11804" n="Clutch Sports Radio"/>
+		<S i="85" t="65" on="12" s="90" frq="11804" n="Freedom Radio"/>
+		<S i="8a" t="65" on="12" s="90" frq="11804" n="Incirlik Eagle"/>
+		<S i="8b" t="65" on="12" s="90" frq="11804" n="Kaiserslautern Eagle"/>
+		<S i="8c" t="65" on="12" s="90" frq="11804" n="Naples Eagle"/>
+		<S i="82" t="65" on="12" s="90" frq="11804" n="NPR International"/>
+		<S i="7a" t="65" on="12" s="90" frq="11804" n="Power Talk"/>
+		<S i="8d" t="65" on="12" s="90" frq="11804" n="Rota Eagle"/>
+		<S i="94" t="65" on="12" s="90" frq="11804" n="Sembach Afternoon Radio"/>
+		<S i="8e" t="65" on="12" s="90" frq="11804" n="Souda Bay Eagle"/>
+		<S i="8f" t="65" on="12" s="90" frq="11804" n="Spangdahlem Eagle"/>
+		<S i="90" t="65" on="12" s="90" frq="11804" n="Stuttgart Eagle"/>
+		<S i="79" t="65" on="12" s="90" frq="11804" n="The Voice"/>
+		<S i="91" t="65" on="12" s="90" frq="11804" n="Vicenza Eagle"/>
+		<S i="92" t="65" on="12" s="90" frq="11804" n="Weisbaden Eagle"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] ΟΤΕ">
 		<S i="42d" t="2" on="aa" s="90" frq="12054" n="ANT1 EUROPE"/>
