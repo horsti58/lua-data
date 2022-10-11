@@ -28,8 +28,7 @@ gescant im Westen von NRW....
 
  Kabel-Settings bestehen aus cables.xml, bouquets.xml und service.xml
 
- keine ubouquets.xml enthalten, denn da gibt es zuviele Geschmäcker :) 
+ keine ubouquets.xml enthalten, denn da gibt es zuviele Geschmäcker :)
 
 
-29.09.2021
-
+11.10.2022

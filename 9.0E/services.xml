@@ -94,7 +94,6 @@
 			<S i="0744" f="4" s="0" t="1" n="NLM TV"/>
 			<S i="074e" f="4" s="0" t="1" n="Italy Service 3"/>
 			<S i="0762" f="4" s="0" t="1" n="Italy Service 5"/>
-			<S i="076c" f="4" s="0" t="1" n="TVM INTERNACIONAL"/>
 			<S i="0776" f="4" s="0" t="1" n="Mandarin TV"/>
 			<S i="0780" f="4" s="1" t="1" n="AMC Ukr"/>
 		</TS>
@@ -135,8 +134,8 @@
 			<S i="16a8" f="4" s="0" t="16" n="TLC Pan Regional SD"/>
 		</TS>
 		<TS id="170c" on="009e" frq="11900000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
-			<S i="000e" f="4" s="0" t="1" n="TRACE SPORTS INTER HD"/>
-			<S i="000f" f="4" s="0" t="1" n="TRACE URBAN INTER HD"/>
+			<S i="000e" f="4" s="1" t="1" n="TRACE SPORTS INTER HD"/>
+			<S i="000f" f="4" s="1" t="1" n="TRACE URBAN INTER HD"/>
 			<S i="0014" f="4" s="0" t="19" n="TVT International"/>
 			<S i="0015" f="4" s="0" t="2" n="TVT Radio 1 (Radio Lome)"/>
 			<S i="0016" f="4" s="0" t="2" n="TVT Radio 2 (Radio Kara)"/>
@@ -159,7 +158,7 @@
 			<S i="189c" f="4" s="0" t="19" n="Discovery Turkey HD"/>
 		</TS>
 		<TS id="0009" on="00aa" frq="11938000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
-			<S i="03ea" f="4" s="1" t="1" n="TEST 16"/>
+			<S i="03ea" f="4" s="1" t="1" n="ΕΡΤ NEWS"/>
 			<S i="03f8" f="4" s="1" t="1" n="Village Cinema HD"/>
 			<S i="03f9" f="4" s="1" t="1" n="Βεργίνα TV"/>
 			<S i="0409" f="4" s="1" t="1" n="TV100"/>
@@ -177,10 +176,10 @@
 			<S i="0473" f="4" s="1" t="1" n="TEST - 3"/>
 		</TS>
 		<TS id="1838" on="009e" frq="11958000" inv="2" sr="27500000" fec="2" pol="1" mod="9" sys="1">
-			<S i="0065" f="4" s="1" t="19" n="M1 HD"/>
+			<S i="0065" f="4" s="0" t="19" n="M1 HD"/>
 			<S i="0066" f="4" s="0" t="19" n="M2 HD"/>
 			<S i="0067" f="4" s="0" t="19" n="Duna HD"/>
-			<S i="0068" f="4" s="0" t="19" n="M4 Sport HD"/>
+			<S i="0068" f="4" s="1" t="19" n="M4 Sport HD"/>
 			<S i="0069" f="4" s="0" t="19" n="Duna World HD"/>
 			<S i="006a" f="4" s="0" t="19" n="M5 HD"/>
 			<S i="006f" f="4" s="0" t="19" n="M1 HD (Europa)"/>
@@ -247,7 +246,7 @@
 			<S i="00ca" f="4" s="0" t="19" n="M6 Suisse"/>
 			<S i="00cc" f="4" s="0" t="19" n="6ter Suisse"/>
 			<S i="00cd" f="4" s="0" t="19" n="W9 Suisse"/>
-			<S i="00ce" f="4" s="1" t="1" n="MCM TOP"/>
+			<S i="00ce" f="4" s="1" t="19" n="MCM TOP"/>
 			<S i="015f" f="4" s="0" t="1" n="HWAZAN"/>
 			<S i="0160" f="4" s="0" t="1" n="RTG Int"/>
 			<S i="0161" f="4" s="0" t="1" n="Phoenix Info News"/>
@@ -255,7 +254,6 @@
 			<S i="0163" f="4" s="0" t="1" n="Télé Sahel"/>
 			<S i="0164" f="4" s="0" t="2" n="La Voix Du Sahel"/>
 			<S i="0165" f="4" s="1" t="1" n="BBC_Entertainment_Europe"/>
-			<S i="0168" f="4" s="0" t="1" n="Karusel Int"/>
 		</TS>
 		<TS id="0002" on="00aa" frq="12054000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
 			<S i="03e9" f="4" s="1" t="1" n="AEK SL Pass"/>
@@ -287,13 +285,12 @@
 			<S i="048d" f="4" s="0" t="1" n="DAB D1"/>
 			<S i="0492" f="4" s="0" t="1" n="SDL NATL"/>
 			<S i="0497" f="4" s="0" t="c" n="talkSPORT Dist"/>
-			<S i="049c" f="4" s="0" t="2" n="BBC AM Dist1"/>
-			<S i="04a1" f="4" s="0" t="2" n="BBC AM Dist2"/>
+			<S i="049c" f="4" s="0" t="c" n="BBC AM Dist1"/>
+			<S i="04a1" f="4" s="0" t="c" n="BBC AM Dist2"/>
 			<S i="04a6" f="4" s="0" t="2" n="BBC AM Dist3"/>
-			<S i="04ab" f="4" s="0" t="2" n="BBC AM Dist4"/>
+			<S i="04ab" f="4" s="0" t="c" n="BBC AM Dist4"/>
 			<S i="04b0" f="4" s="0" t="c" n="BBC AM Dist5"/>
 			<S i="04b5" f="4" s="0" t="2" n="Absolute Radio"/>
-			<S i="04bf" f="4" s="0" t="c" n="1215"/>
 		</TS>
 		<TS id="1bbc" on="009c" frq="12130000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
 			<S i="0802" f="4" s="1" t="19" n="eSports1 HD"/>
@@ -404,7 +401,7 @@
 			<S i="040d" f="4" s="1" t="1" n="MAD HD"/>
 			<S i="0417" f="4" s="1" t="1" n="COSMOTE SERIES MARATHON"/>
 			<S i="0418" f="4" s="1" t="1" n="Body in Balance"/>
-			<S i="0419" f="4" s="1" t="1" n="COSMOTESportAcropolisRallyHD"/>
+			<S i="0419" f="4" s="1" t="1" n="POP UP 02"/>
 			<S i="0420" f="4" s="1" t="1" n="MAD"/>
 			<S i="0421" f="4" s="0" t="1" n="TEST BISS"/>
 			<S i="0423" f="4" s="0" t="1" n="ΤΕΣΤ 8"/>
@@ -440,7 +437,7 @@
 			<S i="0435" f="4" s="1" t="1" n="PPV TST1"/>
 			<S i="0439" f="4" s="1" t="1" n="Deutsche Welle"/>
 			<S i="043c" f="4" s="1" t="1" n="Al Jazeera"/>
-			<S i="043e" f="4" s="1" t="1" n="TEST 6"/>
+			<S i="043e" f="4" s="1" t="1" n="Naftemporiki"/>
 			<S i="043f" f="4" s="1" t="1" n="Bloomberg"/>
 			<S i="0444" f="4" s="1" t="1" n="EDGEsport HD"/>
 			<S i="0457" f="4" s="1" t="1" n="TEST I"/>

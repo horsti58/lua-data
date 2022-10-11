@@ -68,6 +68,57 @@
 			<S i="1f36" f="4" s="1" t="1" n="7990 - 7990"/>
 			<S i="1f4a" f="4" s="1" t="1" n="8010 - Radio Rodzina"/>
 		</TS>
+		<TS id="0c81" on="0003" frq="11719000" inv="2" sr="30000000" fec="3" pol="0" mod="9" sys="1">
+			<S i="4e4d" f="4" s="0" t="1" n="Kurir TV"/>
+			<S i="4e56" f="4" s="0" t="1" n="Balkan Trip"/>
+			<S i="4e60" f="4" s="0" t="1" n="Toxic"/>
+			<S i="4e6b" f="4" s="0" t="1" n="Arena Fight"/>
+			<S i="4eca" f="4" s="0" t="1" n="Arena Premium 3"/>
+			<S i="4ecb" f="4" s="0" t="1" n="FOX News"/>
+			<S i="4ecc" f="4" s="0" t="1" n="Tanjug TV"/>
+			<S i="4ecd" f="4" s="0" t="1" n="Parlamentarni"/>
+			<S i="4ece" f="4" s="0" t="1" n="Novi Pazar"/>
+			<S i="4ed4" f="4" s="0" t="1" n="Dorcel"/>
+			<S i="4ed5" f="4" s="0" t="1" n="Brazzers TV"/>
+			<S i="4ed8" f="4" s="0" t="1" n="Erotic"/>
+			<S i="4eda" f="4" s="0" t="1" n="Hustler"/>
+			<S i="4ede" f="4" s="0" t="1" n="TV Belle Amie"/>
+			<S i="4ee0" f="4" s="0" t="1" n="Panon TV"/>
+			<S i="4ee1" f="4" s="0" t="1" n="Novosadska TV"/>
+			<S i="4ee4" f="4" s="0" t="1" n="TV 5"/>
+			<S i="4ee8" f="4" s="0" t="1" n="Arena Sport_1 HD"/>
+			<S i="4ee9" f="4" s="0" t="1" n="Arena Sport 1 HD CG"/>
+			<S i="4eea" f="4" s="0" t="1" n="Arena Sport 5 HD CG"/>
+			<S i="4efb" f="4" s="0" t="1" n="Minimax"/>
+			<S i="4efd" f="4" s="0" t="1" n="Mozy +"/>
+			<S i="4efe" f="4" s="0" t="1" n="Film 4"/>
+			<S i="4eff" f="4" s="0" t="1" n="RTL+"/>
+			<S i="4f00" f="4" s="0" t="1" n="Film +"/>
+			<S i="4f01" f="4" s="0" t="1" n="Cool TV"/>
+			<S i="4f02" f="4" s="0" t="1" n="Digi 24"/>
+			<S i="4f03" f="4" s="0" t="1" n="Pro TV International"/>
+			<S i="4f04" f="4" s="0" t="1" n="Realitatea"/>
+			<S i="4f05" f="4" s="0" t="1" n="Trinitas"/>
+			<S i="4f06" f="4" s="0" t="1" n="Etno"/>
+			<S i="4f07" f="4" s="0" t="1" n="Favorit TV"/>
+			<S i="4f08" f="4" s="0" t="1" n="Taraf TV"/>
+			<S i="4f09" f="4" s="0" t="1" n="Muszicka TV"/>
+			<S i="4f0a" f="4" s="0" t="1" n="RTL Gold"/>
+			<S i="4f0b" f="4" s="0" t="1" n="Sorozat +"/>
+			<S i="4f0c" f="4" s="0" t="1" n="TV 2"/>
+			<S i="4f0d" f="4" s="0" t="1" n="Super TV2"/>
+			<S i="4f10" f="4" s="0" t="1" n="TV Mreza Most"/>
+			<S i="4f11" f="4" s="0" t="1" n="OBN"/>
+			<S i="4f12" f="4" s="0" t="1" n="RTL"/>
+			<S i="4f13" f="4" s="0" t="1" n="Pink BiH"/>
+			<S i="4f14" f="4" s="0" t="1" n="Face TV"/>
+			<S i="4f15" f="4" s="0" t="1" n="RTL 2"/>
+			<S i="4f16" f="4" s="0" t="1" n="K3"/>
+			<S i="4f1a" f="4" s="0" t="1" n="TV Niksic"/>
+			<S i="4f1b" f="4" s="0" t="1" n="Adria TV"/>
+			<S i="4f1c" f="4" s="0" t="1" n="TV Pljevlja"/>
+			<S i="4f24" f="4" s="0" t="1" n="Baby TV"/>
+		</TS>
 		<TS id="0c82" on="0003" frq="11739000" inv="2" sr="29900000" fec="2" pol="1" mod="9" sys="1">
 			<S i="177a" f="4" s="1" t="16" n="NPO Politiek en Nieuws"/>
 			<S i="177f" f="4" s="1" t="16" n="192TV"/>
@@ -129,6 +180,7 @@
 			<S i="4e28" f="4" s="0" t="1" n="Studio B"/>
 			<S i="4e2a" f="4" s="0" t="1" n="Red TV"/>
 			<S i="4e2b" f="4" s="0" t="1" n="Vesti"/>
+			<S i="4e2d" f="4" s="0" t="1" n="Film Klub"/>
 			<S i="4e2e" f="4" s="0" t="1" n="Prva MAX"/>
 			<S i="4e2f" f="4" s="0" t="1" n="Timeless Dizi Channel"/>
 			<S i="4e34" f="4" s="0" t="19" n="Arena Sport 1 HD"/>
@@ -158,7 +210,6 @@
 			<S i="4e51" f="4" s="0" t="1" n="Pink Comedy"/>
 			<S i="4e52" f="4" s="0" t="1" n="Arena ESport"/>
 			<S i="4e53" f="4" s="0" t="1" n="Pink Western"/>
-			<S i="4e54" f="4" s="0" t="1" n="Pink Romance"/>
 			<S i="4e55" f="4" s="0" t="1" n="Pink Sci-Fi &amp; Fantasy"/>
 			<S i="4e65" f="4" s="0" t="1" n="Kuvo TV"/>
 			<S i="4e6c" f="4" s="0" t="1" n="Klasik TV"/>
@@ -179,6 +230,7 @@
 			<S i="4e69" f="4" s="0" t="19" n="Cinemax"/>
 			<S i="4e6a" f="4" s="0" t="19" n="Cinemax 2"/>
 			<S i="4e71" f="4" s="0" t="1" n="Pink Serije"/>
+			<S i="4e72" f="4" s="0" t="1" n="Film Klub Extra"/>
 			<S i="4e73" f="4" s="0" t="1" n="Prva Life"/>
 			<S i="4e74" f="4" s="0" t="1" n="Prva Files"/>
 			<S i="4e75" f="4" s="0" t="1" n="Prva Kick"/>
@@ -200,7 +252,6 @@
 			<S i="4e8e" f="4" s="0" t="1" n="TV Pink M"/>
 			<S i="4e90" f="4" s="0" t="1" n="BHTV"/>
 			<S i="4e91" f="4" s="0" t="1" n="FTV"/>
-			<S i="4e93" f="4" s="0" t="1" n="OK KANAL"/>
 			<S i="4e94" f="4" s="0" t="1" n="Travel Channel"/>
 			<S i="4e95" f="4" s="0" t="1" n="TLC"/>
 			<S i="4e96" f="4" s="0" t="1" n="Pink Reality"/>
@@ -217,10 +268,8 @@
 			<S i="1b91" f="4" s="1" t="19" n="Play4"/>
 			<S i="1b92" f="4" s="1" t="16" n="RTL Z"/>
 			<S i="1b95" f="4" s="1" t="16" n="Play6"/>
-			<S i="1bd6" f="4" s="1" t="16" n="RTL Lounge"/>
 			<S i="1bfc" f="4" s="1" t="19" n="ESPN 2 HD"/>
 			<S i="1bfd" f="4" s="1" t="19" n="Nautical HD"/>
-			<S i="1bff" f="4" s="1" t="16" n="RTL Crime"/>
 		</TS>
 		<TS id="0c89" on="0003" frq="11876000" inv="2" sr="29900000" fec="3" pol="0" mod="9" sys="1">
 			<S i="3391" f="4" s="1" t="19" n="Nova HD"/>
@@ -234,16 +283,19 @@
 			<S i="3399" f="4" s="1" t="19" n="JOJ PLUS HD"/>
 			<S i="339a" f="4" s="1" t="16" n="Jojko"/>
 			<S i="339b" f="4" s="1" t="16" n="Nova International"/>
-			<S i="339c" f="4" s="1" t="16" n="Prima KRIMI"/>
+			<S i="339c" f="4" s="0" t="16" n="Prima KRIMI_PRELADTE"/>
 			<S i="339d" f="4" s="1" t="16" n="Slager Muzika"/>
 			<S i="339e" f="4" s="1" t="19" n="JOJ Sport HD"/>
 			<S i="339f" f="4" s="1" t="19" n="Markiza Krimi HD"/>
+			<S i="33a0" f="4" s="1" t="19" n="JOJ 24 HD"/>
 		</TS>
 		<TS id="0c8a" on="0003" frq="11895000" inv="2" sr="30000000" fec="3" pol="1" mod="9" sys="1">
 			<S i="4e46" f="4" s="0" t="1" n="Arena Sport_2 HD"/>
 			<S i="4e4a" f="4" s="0" t="1" n="Arena Sport_4 HD"/>
 			<S i="4e57" f="4" s="0" t="1" n="Arena Sport_3 HD"/>
+			<S i="4e5c" f="4" s="0" t="1" n="KCN 3 Svet plus"/>
 			<S i="4e6d" f="4" s="0" t="1" n="Bloomberg Adria"/>
+			<S i="4e6e" f="4" s="0" t="1" n="Moj Astrolog"/>
 			<S i="4e70" f="4" s="0" t="1" n="Pink family"/>
 			<S i="4e92" f="4" s="0" t="1" n="Koreni"/>
 			<S i="4ea1" f="4" s="0" t="1" n="Turizam"/>
@@ -280,6 +332,7 @@
 			<S i="4f37" f="4" s="0" t="1" n="Nat Geo Adria"/>
 			<S i="4f38" f="4" s="0" t="1" n="24Kitchen Adria"/>
 			<S i="4f39" f="4" s="0" t="1" n="Premier League TV HD"/>
+			<S i="4f3a" f="4" s="0" t="1" n="Arena Sport 9 HD"/>
 			<S i="5157" f="4" s="0" t="2" n="BN radio"/>
 		</TS>
 		<TS id="0c8b" on="0003" frq="11914000" inv="2" sr="30000000" fec="3" pol="0" mod="9" sys="1">
@@ -288,14 +341,12 @@
 			<S i="4e22" f="4" s="0" t="19" n="RTS 2 HD"/>
 			<S i="4e23" f="4" s="0" t="19" n="SUPERSTAR TV HD"/>
 			<S i="4e2c" f="4" s="0" t="1" n="Superstar 2 TV HD"/>
-			<S i="4e2d" f="4" s="0" t="1" n="Film Klub"/>
 			<S i="4e30" f="4" s="0" t="1" n="Dečija TV"/>
 			<S i="4e31" f="4" s="0" t="19" n="Kitchen TV HD"/>
 			<S i="4e32" f="4" s="0" t="19" n="Agro TV HD"/>
 			<S i="4e33" f="4" s="0" t="1" n="Dexy TV"/>
 			<S i="4e39" f="4" s="0" t="19" n="Arena Sport HD"/>
 			<S i="4e6f" f="4" s="0" t="1" n="RTS Klasika"/>
-			<S i="4e72" f="4" s="0" t="1" n="Film Klub Extra"/>
 			<S i="4e7a" f="4" s="0" t="1" n="RTS Život"/>
 			<S i="4e7b" f="4" s="0" t="1" n="RTS Drama"/>
 			<S i="4e7c" f="4" s="0" t="1" n="RTS Kolo"/>
@@ -305,6 +356,7 @@
 			<S i="4e82" f="4" s="0" t="1" n="RTS 3 HD"/>
 			<S i="4e83" f="4" s="0" t="19" n="RTS Svet HD"/>
 			<S i="4ea3" f="4" s="0" t="1" n="Dox TV"/>
+			<S i="4ec4" f="4" s="0" t="1" n="Blic TV HD"/>
 			<S i="4ef2" f="4" s="0" t="1" n="M1"/>
 			<S i="4ef3" f="4" s="0" t="1" n="M2"/>
 			<S i="4ef4" f="4" s="0" t="1" n="RTL Klub"/>
@@ -312,15 +364,10 @@
 			<S i="4ef8" f="4" s="0" t="1" n="RTL 2"/>
 			<S i="4ef9" f="4" s="0" t="1" n="Duna"/>
 			<S i="4efa" f="4" s="0" t="1" n="Duna world"/>
-			<S i="50dc" f="4" s="0" t="c" n="STB SSU"/>
-			<S i="50de" f="4" s="0" t="c" n="GM SRB SSU"/>
-			<S i="50df" f="4" s="0" t="c" n="GM BIH SSU"/>
-			<S i="50e0" f="4" s="0" t="c" n="GM CG SSU"/>
-			<S i="50e7" f="4" s="0" t="c" n="NG SSU"/>
 			<S i="5154" f="4" s="0" t="2" n="Radio Beograd 1"/>
 			<S i="5155" f="4" s="0" t="2" n="Radio Beograd 2"/>
 			<S i="5156" f="4" s="0" t="2" n="Radio Beograd 202"/>
-			<S i="5172" f="4" s="0" t="2" n="AS FM"/>
+			<S i="5172" f="4" s="0" t="2" n="AS FM radio"/>
 			<S i="5173" f="4" s="0" t="2" n="Play radio"/>
 		</TS>
 		<TS id="0c8c" on="0003" frq="11934000" inv="2" sr="27500000" fec="3" pol="1" mod="9" sys="1">
@@ -331,6 +378,7 @@
 			<S i="36e9" f="4" s="1" t="16" n="Filmbox"/>
 			<S i="36ea" f="4" s="1" t="16" n="CS Film"/>
 			<S i="36eb" f="4" s="1" t="16" n="CS Horror"/>
+			<S i="36ec" f="4" s="1" t="19" n="Prima Krimi HD"/>
 			<S i="36ed" f="4" s="1" t="16" n="Prima STAR"/>
 			<S i="36ee" f="4" s="1" t="16" n="Prima Show"/>
 			<S i="36ef" f="4" s="1" t="19" n="Prima Love HD"/>
@@ -383,7 +431,6 @@
 			<S i="3734" f="4" s="1" t="19" n="CANAL+ Sport (SK)"/>
 			<S i="3735" f="4" s="1" t="19" n="CANAL+ Sport 2"/>
 			<S i="3746" f="4" s="0" t="2" n="Proglas"/>
-			<S i="3749" f="4" s="0" t="2" n="Radio 7 CZ"/>
 		</TS>
 		<TS id="0c90" on="0003" frq="12012000" inv="2" sr="29900000" fec="2" pol="1" mod="9" sys="1">
 			<S i="3c29" f="4" s="1" t="19" n="Arena Sport 1 HD"/>
@@ -627,7 +674,6 @@
 			<S i="1434" f="4" s="1" t="19" n="Stingray Classica HD"/>
 		</TS>
 		<TS id="0ca4" on="0003" frq="12402000" inv="2" sr="30000000" fec="3" pol="1" mod="9" sys="1">
-			<S i="4e5c" f="4" s="0" t="1" n="KCN Svet plus 3"/>
 			<S i="4e63" f="4" s="0" t="1" n="FOX Life HD"/>
 			<S i="4e64" f="4" s="0" t="1" n="FOX Crime HD"/>
 			<S i="4e8f" f="4" s="0" t="1" n="ATV HD"/>
@@ -648,6 +694,7 @@
 			<S i="4ea9" f="4" s="0" t="1" n="E!"/>
 			<S i="4eac" f="4" s="0" t="1" n="24Kitchen"/>
 			<S i="4ead" f="4" s="0" t="1" n="Fashion TV"/>
+			<S i="4eae" f="4" s="0" t="1" n="Arena Sport 10 HD"/>
 			<S i="4eaf" f="4" s="0" t="1" n="Arena Premium 1"/>
 			<S i="4eb0" f="4" s="0" t="1" n="RTL Croatia"/>
 			<S i="4eb1" f="4" s="0" t="1" n="TV Hayat"/>
