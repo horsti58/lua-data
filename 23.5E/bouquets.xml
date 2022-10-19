@@ -43,6 +43,10 @@
 		<S i="1f83" t="ca1" on="3" s="235" frq="12344" n="CRo VYSOCINA"/>
 		<S i="1f89" t="ca1" on="3" s="235" frq="12344" n="CRo ZLIN"/>
 	</Bouquet>
+	<Bouquet name="[E023.5] M7 group">
+		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
+		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
+	</Bouquet>
 	<Bouquet name="[E023.5] M7 Group">
 		<S i="177f" t="c82" on="3" s="235" frq="11739" n="192TV"/>
 		<S i="523f" t="c99" on="3" s="235" frq="12188" n="24Kitchen"/>
@@ -85,6 +89,7 @@
 		<S i="3a99" t="c84" on="3" s="235" frq="11778" n="Duna HD"/>
 		<S i="3aa0" t="c84" on="3" s="235" frq="11778" n="Duna World / M4 Sport+"/>
 		<S i="3b79" t="c8d" on="3" s="235" frq="11953" n="Dvojka HD"/>
+		<S i="52f1" t="c96" on="3" s="235" frq="12129" n="EarthxTV"/>
 		<S i="51da" t="c96" on="3" s="235" frq="12129" n="Eclips TV"/>
 		<S i="5221" t="c99" on="3" s="235" frq="12188" n="een HD"/>
 		<S i="52ec" t="c96" on="3" s="235" frq="12129" n="Eleven Sports Pro League 1 NL"/>
@@ -303,9 +308,12 @@
 		<S i="52db" t="c96" on="3" s="235" frq="12129" n="Studio Brussel"/>
 		<S i="1831" t="c82" on="3" s="235" frq="11739" n="Sunlite Radio"/>
 	</Bouquet>
-	<Bouquet name="[E023.5] M7 group">
-		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
-		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
+	<Bouquet name="[E023.5] MB Satellite">
+		<S i="3e8" t="1" on="1" s="235" frq="12639" n="DLF USI2"/>
+		<S i="7d0" t="1" on="1" s="235" frq="12639" n="DLFK USI2"/>
+	</Bouquet>
+	<Bouquet name="[E023.5] MEDIA BROADCAST">
+		<S i="3e8" t="1" on="1" s="235" frq="12647" n="NRW Enc1 Ltg-Dssd."/>
 	</Bouquet>
 	<Bouquet name="[E023.5] MX1">
 		<S i="17d6" t="c91" on="3" s="235" frq="12032" n="iConcert"/>
@@ -314,6 +322,17 @@
 	</Bouquet>
 	<Bouquet name="[E023.5] SES">
 		<S i="145b" t="c98" on="3" s="235" frq="12168" n="SES Demo"/>
+	</Bouquet>
+	<Bouquet name="[E023.5] SES ASTRA">
+		<S i="1469" t="c98" on="3" s="235" frq="12168" n="Chamber TV HD"/>
+		<S i="14a2" t="c98" on="3" s="235" frq="12168" n="LX9SES"/>
+		<S i="1452" t="c98" on="3" s="235" frq="12168" n="Ocko Star"/>
+		<S i="1451" t="c98" on="3" s="235" frq="12168" n="Ocko TV"/>
+		<S i="1478" t="c98" on="3" s="235" frq="12168" n="RTL Tele Letzebuerg 23.5"/>
+		<S i="1455" t="c98" on="3" s="235" frq="12168" n="SES_LCN2"/>
+		<S i="145a" t="c98" on="3" s="235" frq="12168" n="TV Lux HD"/>
+		<S i="147e" t="c98" on="3" s="235" frq="12168" n="radio 100,7 Letzebuerg"/>
+		<S i="147d" t="c98" on="3" s="235" frq="12168" n="RTL Radio Letzebuerg"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] SES Astra">
 		<S i="1469" t="c98" on="3" s="235" frq="12168" n="Chamber TV HD"/>
@@ -694,4 +713,12 @@
 		<S i="10f4" t="0" on="1" s="235" frq="11671" n="4340 - PLUS Podhale"/>
 		<S i="1f36" t="0" on="1" s="235" frq="11671" n="7990 - 7990"/>
 		<S i="1f4a" t="0" on="1" s="235" frq="11671" n="8010 - Radio Rodzina"/>
+		<S i="2af8" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x2AF8)"/>
+		<S i="2ee0" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x2EE0)"/>
+		<S i="32c8" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x32C8)"/>
+		<S i="36b0" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x36B0)"/>
+		<S i="3a98" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x3A98)"/>
+		<S i="3e80" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x3E80)"/>
+		<S i="4268" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x4268)"/>
+		<S i="4650" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x4650)"/>
 	</Bouquet>

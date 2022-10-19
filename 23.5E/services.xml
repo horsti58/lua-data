@@ -68,6 +68,16 @@
 			<S i="1f36" f="4" s="1" t="1" n="7990 - 7990"/>
 			<S i="1f4a" f="4" s="1" t="1" n="8010 - Radio Rodzina"/>
 		</TS>
+		<TS id="000b" on="0003" frq="11676000" inv="2" sr="1410000" fec="4" pol="1" mod="0" sys="1">
+			<S i="2af8" f="1" s="0" t="2" n="unknown (0x000B_0x2AF8)"/>
+			<S i="2ee0" f="1" s="0" t="2" n="unknown (0x000B_0x2EE0)"/>
+			<S i="32c8" f="1" s="0" t="2" n="unknown (0x000B_0x32C8)"/>
+			<S i="36b0" f="1" s="0" t="2" n="unknown (0x000B_0x36B0)"/>
+			<S i="3a98" f="1" s="0" t="2" n="unknown (0x000B_0x3A98)"/>
+			<S i="3e80" f="1" s="0" t="2" n="unknown (0x000B_0x3E80)"/>
+			<S i="4268" f="1" s="0" t="2" n="unknown (0x000B_0x4268)"/>
+			<S i="4650" f="1" s="0" t="2" n="unknown (0x000B_0x4650)"/>
+		</TS>
 		<TS id="0c81" on="0003" frq="11719000" inv="2" sr="30000000" fec="3" pol="0" mod="9" sys="1">
 			<S i="4e4d" f="4" s="0" t="1" n="Kurir TV"/>
 			<S i="4e56" f="4" s="0" t="1" n="Balkan Trip"/>
@@ -283,7 +293,7 @@
 			<S i="3399" f="4" s="1" t="19" n="JOJ PLUS HD"/>
 			<S i="339a" f="4" s="1" t="16" n="Jojko"/>
 			<S i="339b" f="4" s="1" t="16" n="Nova International"/>
-			<S i="339c" f="4" s="0" t="16" n="Prima KRIMI_PRELADTE"/>
+			<S i="339c" f="2" s="0" t="16" n="Prima KRIMI_PRELADTE"/>
 			<S i="339d" f="4" s="1" t="16" n="Slager Muzika"/>
 			<S i="339e" f="4" s="1" t="19" n="JOJ Sport HD"/>
 			<S i="339f" f="4" s="1" t="19" n="Markiza Krimi HD"/>
@@ -545,6 +555,7 @@
 			<S i="52eb" f="4" s="0" t="2" n="Sky Radio"/>
 			<S i="52ec" f="4" s="1" t="16" n="Eleven Sports Pro League 1 NL"/>
 			<S i="52ed" f="4" s="1" t="19" n="Sport 10 HD"/>
+			<S i="52f1" f="4" s="0" t="19" n="EarthxTV"/>
 		</TS>
 		<TS id="0c98" on="0003" frq="12168000" inv="2" sr="27500000" fec="3" pol="1" mod="0" sys="0">
 			<S i="1451" f="4" s="0" t="1" n="Ocko TV"/>
@@ -697,7 +708,7 @@
 			<S i="4eae" f="4" s="0" t="1" n="Arena Sport 10 HD"/>
 			<S i="4eaf" f="4" s="0" t="1" n="Arena Premium 1"/>
 			<S i="4eb0" f="4" s="0" t="1" n="RTL Croatia"/>
-			<S i="4eb1" f="4" s="0" t="1" n="TV Hayat"/>
+			<S i="4eb1" f="4" s="1" t="1" n="TV Hayat"/>
 			<S i="4eb2" f="4" s="0" t="1" n="TV Hayat Plus"/>
 			<S i="4eb3" f="4" s="0" t="1" n="TV Hayatovci"/>
 			<S i="4eb4" f="4" s="0" t="1" n="TV Hayat Folk"/>
@@ -719,5 +730,12 @@
 			<S i="4ec8" f="4" s="0" t="1" n="RT"/>
 			<S i="4ee6" f="4" s="0" t="1" n="Telemark"/>
 			<S i="4eed" f="4" s="0" t="1" n="Arena Sport 8 HD"/>
+		</TS>
+		<TS id="0001" on="0001" frq="12639000" inv="2" sr="940000" fec="1" pol="1" mod="0" sys="0">
+			<S i="03e8" f="1" s="0" t="2" n="DLF USI2"/>
+			<S i="07d0" f="1" s="0" t="2" n="DLFK USI2"/>
+		</TS>
+		<TS id="0001" on="0001" frq="12647000" inv="2" sr="285000" fec="7" pol="1" mod="0" sys="0">
+			<S i="03e8" f="1" s="0" t="2" n="NRW Enc1 Ltg-Dssd."/>
 		</TS>
 	</sat>
