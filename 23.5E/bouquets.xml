@@ -43,10 +43,6 @@
 		<S i="1f83" t="ca1" on="3" s="235" frq="12344" n="CRo VYSOCINA"/>
 		<S i="1f89" t="ca1" on="3" s="235" frq="12344" n="CRo ZLIN"/>
 	</Bouquet>
-	<Bouquet name="[E023.5] M7 group">
-		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
-		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
-	</Bouquet>
 	<Bouquet name="[E023.5] M7 Group">
 		<S i="177f" t="c82" on="3" s="235" frq="11739" n="192TV"/>
 		<S i="523f" t="c99" on="3" s="235" frq="12188" n="24Kitchen"/>
@@ -161,6 +157,7 @@
 		<S i="30c" t="c94" on="3" s="235" frq="12090" n="MTV Europe CZ"/>
 		<S i="528c" t="c99" on="3" s="235" frq="12188" n="MTV NL"/>
 		<S i="3aac" t="c84" on="3" s="235" frq="11778" n="Muzsika TV"/>
+		<S i="312" t="c94" on="3" s="235" frq="12090" n="Nas region TV"/>
 		<S i="302" t="c94" on="3" s="235" frq="12090" n="Nat Geo HD"/>
 		<S i="303" t="c94" on="3" s="235" frq="12090" n="Nat Geo HD CZ"/>
 		<S i="304" t="c94" on="3" s="235" frq="12090" n="National Geographic Wild HD"/>
@@ -198,8 +195,8 @@
 		<S i="36e4" t="c8c" on="3" s="235" frq="11934" n="Paramount Network"/>
 		<S i="3727" t="c8e" on="3" s="235" frq="11973" n="Penthouse Gold"/>
 		<S i="3728" t="c8e" on="3" s="235" frq="11973" n="Penthouse Gold CZ"/>
-		<S i="3729" t="c8e" on="3" s="235" frq="11973" n="Penthouse Quickies"/>
-		<S i="372a" t="c8e" on="3" s="235" frq="11973" n="Penthouse Quickies CZ"/>
+		<S i="3729" t="c8e" on="3" s="235" frq="11973" n="Penthouse Reality TV"/>
+		<S i="372a" t="c8e" on="3" s="235" frq="11973" n="Penthouse Reality TV CZ"/>
 		<S i="1b91" t="c88" on="3" s="235" frq="11856" n="Play4"/>
 		<S i="5286" t="c96" on="3" s="235" frq="12129" n="Play5"/>
 		<S i="1b95" t="c88" on="3" s="235" frq="11856" n="Play6"/>
@@ -216,14 +213,13 @@
 		<S i="36e8" t="c8c" on="3" s="235" frq="11934" n="Prima ZOOM HD"/>
 		<S i="3b61" t="c8d" on="3" s="235" frq="11953" n="Prime"/>
 		<S i="3c38" t="c90" on="3" s="235" frq="12012" n="REBEL"/>
-		<S i="312" t="c94" on="3" s="235" frq="12090" n="regionalnitelevize.cz"/>
 		<S i="3c39" t="c90" on="3" s="235" frq="12012" n="RELAX"/>
 		<S i="3c3a" t="c90" on="3" s="235" frq="12012" n="Retro Music TV"/>
 		<S i="3b64" t="c8d" on="3" s="235" frq="11953" n="RTL Gold"/>
-		<S i="3b6d" t="c8d" on="3" s="235" frq="11953" n="RTL Klub HD"/>
+		<S i="3b63" t="c8d" on="3" s="235" frq="11953" n="RTL HAROM"/>
+		<S i="3b6d" t="c8d" on="3" s="235" frq="11953" n="RTL HD"/>
+		<S i="3b62" t="c8d" on="3" s="235" frq="11953" n="RTL KETTO HD"/>
 		<S i="1b92" t="c88" on="3" s="235" frq="11856" n="RTL Z"/>
-		<S i="3b63" t="c8d" on="3" s="235" frq="11953" n="RTL+"/>
-		<S i="3b62" t="c8d" on="3" s="235" frq="11953" n="RTL2 HD"/>
 		<S i="1b6c" t="c88" on="3" s="235" frq="11856" n="RTL4 HD"/>
 		<S i="1b6f" t="c88" on="3" s="235" frq="11856" n="RTL5 HD"/>
 		<S i="1b73" t="c88" on="3" s="235" frq="11856" n="RTL7 HD"/>
@@ -307,6 +303,10 @@
 		<S i="5262" t="c99" on="3" s="235" frq="12188" n="SLAM!"/>
 		<S i="52db" t="c96" on="3" s="235" frq="12129" n="Studio Brussel"/>
 		<S i="1831" t="c82" on="3" s="235" frq="11739" n="Sunlite Radio"/>
+	</Bouquet>
+	<Bouquet name="[E023.5] M7 group">
+		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
+		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] MB Satellite">
 		<S i="3e8" t="1" on="1" s="235" frq="12639" n="DLF USI2"/>
@@ -411,6 +411,7 @@
 		<S i="4efa" t="c8b" on="3" s="235" frq="11914" n="Duna world"/>
 		<S i="4ec7" t="ca4" on="3" s="235" frq="12402" n="DW English"/>
 		<S i="4ea9" t="ca4" on="3" s="235" frq="12402" n="E!"/>
+		<S i="4ed0" t="c8a" on="3" s="235" frq="11895" n="Eko Vizija"/>
 		<S i="4e5d" t="c86" on="3" s="235" frq="11817" n="Epic Drama"/>
 		<S i="4ed8" t="c81" on="3" s="235" frq="11719" n="Erotic"/>
 		<S i="4f06" t="c81" on="3" s="235" frq="11719" n="Etno"/>
@@ -445,6 +446,7 @@
 		<S i="4eda" t="c81" on="3" s="235" frq="11719" n="Hustler"/>
 		<S i="4e44" t="c85" on="3" s="235" frq="11798" n="Hype TV"/>
 		<S i="4ea4" t="ca4" on="3" s="235" frq="12402" n="ID"/>
+		<S i="4ecf" t="c8a" on="3" s="235" frq="11895" n="Insta TV"/>
 		<S i="4ec1" t="ca4" on="3" s="235" frq="12402" n="JEKA"/>
 		<S i="4e42" t="c85" on="3" s="235" frq="11798" n="JimJam"/>
 		<S i="4e77" t="c86" on="3" s="235" frq="11817" n="K1"/>
@@ -514,13 +516,13 @@
 		<S i="4f04" t="c81" on="3" s="235" frq="11719" n="Realitatea"/>
 		<S i="4e2a" t="c85" on="3" s="235" frq="11798" n="Red TV"/>
 		<S i="4ec8" t="ca4" on="3" s="235" frq="12402" n="RT"/>
+		<S i="4ef4" t="c8b" on="3" s="235" frq="11914" n="RTL"/>
 		<S i="4f12" t="c81" on="3" s="235" frq="11719" n="RTL"/>
 		<S i="4f15" t="c81" on="3" s="235" frq="11719" n="RTL 2"/>
-		<S i="4ef8" t="c8b" on="3" s="235" frq="11914" n="RTL 2"/>
 		<S i="4eb0" t="ca4" on="3" s="235" frq="12402" n="RTL Croatia"/>
 		<S i="4f0a" t="c81" on="3" s="235" frq="11719" n="RTL Gold"/>
-		<S i="4ef4" t="c8b" on="3" s="235" frq="11914" n="RTL Klub"/>
-		<S i="4eff" t="c81" on="3" s="235" frq="11719" n="RTL+"/>
+		<S i="4eff" t="c81" on="3" s="235" frq="11719" n="RTL Harom"/>
+		<S i="4ef8" t="c8b" on="3" s="235" frq="11914" n="RTL KETTŐ"/>
 		<S i="4ec3" t="ca4" on="3" s="235" frq="12402" n="RTR Planeta"/>
 		<S i="4e85" t="c86" on="3" s="235" frq="11817" n="RTRS"/>
 		<S i="4e97" t="ca4" on="3" s="235" frq="12402" n="RTRS Plus"/>
@@ -721,4 +723,5 @@
 		<S i="3e80" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x3E80)"/>
 		<S i="4268" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x4268)"/>
 		<S i="4650" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x4650)"/>
+		<S i="fa00" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0xFA00)"/>
 	</Bouquet>
