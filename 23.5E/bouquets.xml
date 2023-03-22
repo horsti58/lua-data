@@ -11,10 +11,11 @@
 	<Bouquet name="[E023.5] CESKA TELEVIZE">
 		<S i="1f41" t="ca1" on="3" s="235" frq="12344" n="CT 1 HD"/>
 		<S i="1f48" t="ca1" on="3" s="235" frq="12344" n="CT 1 JM HD"/>
+		<S i="1f4c" t="ca1" on="3" s="235" frq="12344" n="CT 1 JZC HD"/>
 		<S i="1f47" t="ca1" on="3" s="235" frq="12344" n="CT 1 SM HD"/>
+		<S i="1f4a" t="ca1" on="3" s="235" frq="12344" n="CT 1 SVC HD"/>
 		<S i="1f42" t="ca1" on="3" s="235" frq="12344" n="CT 2 HD"/>
 		<S i="1f43" t="ca1" on="3" s="235" frq="12344" n="CT 24 HD"/>
-		<S i="1f46" t="ca1" on="3" s="235" frq="12344" n="CT 3 HD"/>
 		<S i="1f45" t="ca1" on="3" s="235" frq="12344" n="CT :D/art HD"/>
 		<S i="1f44" t="ca1" on="3" s="235" frq="12344" n="CT sport HD"/>
 	</Bouquet>
@@ -32,9 +33,9 @@
 		<S i="1f84" t="ca1" on="3" s="235" frq="12344" n="CRo PARDUBICE"/>
 		<S i="1f76" t="ca1" on="3" s="235" frq="12344" n="CRo PLUS"/>
 		<S i="1f85" t="ca1" on="3" s="235" frq="12344" n="CRo PLZEN"/>
-		<S i="1f7b" t="ca1" on="3" s="235" frq="12344" n="CRo Radio DAB Praha"/>
 		<S i="1f78" t="ca1" on="3" s="235" frq="12344" n="CRo RADIO JUNIOR"/>
 		<S i="1f7d" t="ca1" on="3" s="235" frq="12344" n="CRo RADIO PRAGUE Int"/>
+		<S i="1f7b" t="ca1" on="3" s="235" frq="12344" n="CRo RADIO PRAHA"/>
 		<S i="1f77" t="ca1" on="3" s="235" frq="12344" n="CRo RADIO WAVE"/>
 		<S i="1f73" t="ca1" on="3" s="235" frq="12344" n="CRo RADIOZURNAL"/>
 		<S i="1f7c" t="ca1" on="3" s="235" frq="12344" n="CRo REGION"/>
@@ -55,13 +56,12 @@
 		<S i="31e" t="c94" on="3" s="235" frq="12090" n="Barrandov Krimi"/>
 		<S i="17d1" t="c82" on="3" s="235" frq="11739" n="BBC Entertainment"/>
 		<S i="52b0" t="c99" on="3" s="235" frq="12188" n="BBC First"/>
-		<S i="1794" t="c82" on="3" s="235" frq="11739" n="Boomerang CZ"/>
-		<S i="3c2b" t="c90" on="3" s="235" frq="12012" n="CANAL+ Domo"/>
+		<S i="3736" t="c8e" on="3" s="235" frq="11973" n="CANAL+ Action"/>
 		<S i="3733" t="c8e" on="3" s="235" frq="11973" n="CANAL+ Sport (CZ)"/>
 		<S i="3734" t="c8e" on="3" s="235" frq="11973" n="CANAL+ Sport (SK)"/>
-		<S i="3735" t="c8e" on="3" s="235" frq="11973" n="CANAL+ Sport 2"/>
 		<S i="5226" t="c99" on="3" s="235" frq="12188" n="Canvas HD"/>
 		<S i="36f5" t="c8c" on="3" s="235" frq="11934" n="Cartoon Network CZ"/>
+		<S i="1794" t="c82" on="3" s="235" frq="11739" n="Cartoonito"/>
 		<S i="3c33" t="c90" on="3" s="235" frq="12012" n="CBS Reality"/>
 		<S i="17e0" t="c82" on="3" s="235" frq="11739" n="CD Infokanaal"/>
 		<S i="3c2c" t="c90" on="3" s="235" frq="12012" n="Cinemax HD"/>
@@ -80,6 +80,7 @@
 		<S i="36fc" t="c8c" on="3" s="235" frq="11934" n="Disney CZ"/>
 		<S i="36e3" t="c8c" on="3" s="235" frq="11934" n="DOCUBOX"/>
 		<S i="3732" t="c8e" on="3" s="235" frq="11973" n="DOMA HD"/>
+		<S i="1b62" t="c88" on="3" s="235" frq="11856" n="DreamWorks"/>
 		<S i="36fd" t="c8c" on="3" s="235" frq="11934" n="duck TV"/>
 		<S i="36f4" t="c8c" on="3" s="235" frq="11934" n="duck TV DUT"/>
 		<S i="3a99" t="c84" on="3" s="235" frq="11778" n="Duna HD"/>
@@ -151,7 +152,6 @@
 		<S i="51d5" t="c96" on="3" s="235" frq="12129" n="MENT TV"/>
 		<S i="1816" t="c82" on="3" s="235" frq="11739" n="Mezzo HD"/>
 		<S i="3cfb" t="c95" on="3" s="235" frq="12110" n="Minimax"/>
-		<S i="3b75" t="c8d" on="3" s="235" frq="11953" n="Minimax SK"/>
 		<S i="3cfa" t="c95" on="3" s="235" frq="12110" n="Mnam TV"/>
 		<S i="3aab" t="c84" on="3" s="235" frq="11778" n="Mozi+"/>
 		<S i="30c" t="c94" on="3" s="235" frq="12090" n="MTV Europe CZ"/>
@@ -191,8 +191,8 @@
 		<S i="3390" t="c93" on="3" s="235" frq="12070" n="OTA CAM803"/>
 		<S i="3381" t="c93" on="3" s="235" frq="12070" n="OTA SMIT"/>
 		<S i="3372" t="c93" on="3" s="235" frq="12070" n="OTA SMIT new"/>
-		<S i="528b" t="c99" on="3" s="235" frq="12188" n="Paramount Network"/>
 		<S i="36e4" t="c8c" on="3" s="235" frq="11934" n="Paramount Network"/>
+		<S i="528b" t="c99" on="3" s="235" frq="12188" n="Paramount Network"/>
 		<S i="3727" t="c8e" on="3" s="235" frq="11973" n="Penthouse Gold"/>
 		<S i="3728" t="c8e" on="3" s="235" frq="11973" n="Penthouse Gold CZ"/>
 		<S i="3729" t="c8e" on="3" s="235" frq="11973" n="Penthouse Reality TV"/>
@@ -204,7 +204,6 @@
 		<S i="3396" t="c89" on="3" s="235" frq="11876" n="Prima COOL HD"/>
 		<S i="3392" t="c89" on="3" s="235" frq="11876" n="Prima HD"/>
 		<S i="36ec" t="c8c" on="3" s="235" frq="11934" n="Prima Krimi HD"/>
-		<S i="339c" t="c89" on="3" s="235" frq="11876" n="Prima KRIMI_PRELADTE"/>
 		<S i="36ef" t="c8c" on="3" s="235" frq="11934" n="Prima Love HD"/>
 		<S i="36e5" t="c8c" on="3" s="235" frq="11934" n="Prima MAX HD"/>
 		<S i="1f49" t="ca1" on="3" s="235" frq="12344" n="Prima PLUS HD"/>
@@ -215,7 +214,7 @@
 		<S i="3c38" t="c90" on="3" s="235" frq="12012" n="REBEL"/>
 		<S i="3c39" t="c90" on="3" s="235" frq="12012" n="RELAX"/>
 		<S i="3c3a" t="c90" on="3" s="235" frq="12012" n="Retro Music TV"/>
-		<S i="3b64" t="c8d" on="3" s="235" frq="11953" n="RTL Gold"/>
+		<S i="3b64" t="c8d" on="3" s="235" frq="11953" n="RTL GOLD"/>
 		<S i="3b63" t="c8d" on="3" s="235" frq="11953" n="RTL HAROM"/>
 		<S i="3b6d" t="c8d" on="3" s="235" frq="11953" n="RTL HD"/>
 		<S i="3b62" t="c8d" on="3" s="235" frq="11953" n="RTL KETTO HD"/>
@@ -244,12 +243,12 @@
 		<S i="319" t="c94" on="3" s="235" frq="12090" n="Sport 5"/>
 		<S i="30d" t="c94" on="3" s="235" frq="12090" n="Stingray CMusic"/>
 		<S i="30e" t="c94" on="3" s="235" frq="12090" n="Stingray CMusic CZ"/>
-		<S i="3b6e" t="c8d" on="3" s="235" frq="11953" n="STORY4"/>
+		<S i="3cf8" t="c95" on="3" s="235" frq="12110" n="STORY4 HD"/>
+		<S i="3b6e" t="c8d" on="3" s="235" frq="11953" n="STORY4 HU"/>
 		<S i="3b66" t="c8d" on="3" s="235" frq="11953" n="SuperTV2"/>
 		<S i="1f4d" t="ca1" on="3" s="235" frq="12344" n="TESTS7"/>
 		<S i="17ae" t="c82" on="3" s="235" frq="11739" n="Travel XP HD"/>
 		<S i="17af" t="c82" on="3" s="235" frq="11739" n="Travel XP HD BNL"/>
-		<S i="3b7c" t="c8d" on="3" s="235" frq="11953" n="Trojka"/>
 		<S i="31c" t="c94" on="3" s="235" frq="12090" n="TV Barrandov HD"/>
 		<S i="524f" t="c99" on="3" s="235" frq="12188" n="TV Drenthe"/>
 		<S i="5250" t="c99" on="3" s="235" frq="12188" n="TV Gelderland"/>
@@ -274,7 +273,7 @@
 		<S i="5282" t="c96" on="3" s="235" frq="12129" n="VTM 4"/>
 		<S i="5276" t="c96" on="3" s="235" frq="12129" n="VTM Gold"/>
 		<S i="1b76" t="c88" on="3" s="235" frq="11856" n="VTM HD"/>
-		<S i="527c" t="c96" on="3" s="235" frq="12129" n="vtm KIDS"/>
+		<S i="527c" t="c96" on="3" s="235" frq="12129" n="VTM NON-STOP DOKTERS"/>
 		<S i="334f" t="c93" on="3" s="235" frq="12070" n="WAU HD"/>
 		<S i="3aaa" t="c84" on="3" s="235" frq="11778" n="Zenebutik"/>
 		<S i="51c2" t="c96" on="3" s="235" frq="12129" n="Ziggo Sport Golf"/>
@@ -305,34 +304,13 @@
 		<S i="1831" t="c82" on="3" s="235" frq="11739" n="Sunlite Radio"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] M7 group">
-		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO Radio4"/>
+		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO KLASSIEK"/>
 		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
-	</Bouquet>
-	<Bouquet name="[E023.5] MB Satellite">
-		<S i="3e8" t="1" on="1" s="235" frq="12639" n="DLF USI2"/>
-		<S i="7d0" t="1" on="1" s="235" frq="12639" n="DLFK USI2"/>
-	</Bouquet>
-	<Bouquet name="[E023.5] MEDIA BROADCAST">
-		<S i="3e8" t="1" on="1" s="235" frq="12647" n="NRW Enc1 Ltg-Dssd."/>
 	</Bouquet>
 	<Bouquet name="[E023.5] MX1">
 		<S i="17d6" t="c91" on="3" s="235" frq="12032" n="iConcert"/>
 		<S i="1433" t="ca2" on="3" s="235" frq="12363" n="iConcert"/>
 		<S i="17de" t="c91" on="3" s="235" frq="12032" n="SES Demo HD"/>
-	</Bouquet>
-	<Bouquet name="[E023.5] SES">
-		<S i="145b" t="c98" on="3" s="235" frq="12168" n="SES Demo"/>
-	</Bouquet>
-	<Bouquet name="[E023.5] SES ASTRA">
-		<S i="1469" t="c98" on="3" s="235" frq="12168" n="Chamber TV HD"/>
-		<S i="14a2" t="c98" on="3" s="235" frq="12168" n="LX9SES"/>
-		<S i="1452" t="c98" on="3" s="235" frq="12168" n="Ocko Star"/>
-		<S i="1451" t="c98" on="3" s="235" frq="12168" n="Ocko TV"/>
-		<S i="1478" t="c98" on="3" s="235" frq="12168" n="RTL Tele Letzebuerg 23.5"/>
-		<S i="1455" t="c98" on="3" s="235" frq="12168" n="SES_LCN2"/>
-		<S i="145a" t="c98" on="3" s="235" frq="12168" n="TV Lux HD"/>
-		<S i="147e" t="c98" on="3" s="235" frq="12168" n="radio 100,7 Letzebuerg"/>
-		<S i="147d" t="c98" on="3" s="235" frq="12168" n="RTL Radio Letzebuerg"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] SES Astra">
 		<S i="1469" t="c98" on="3" s="235" frq="12168" n="Chamber TV HD"/>
@@ -342,7 +320,7 @@
 		<S i="1478" t="c98" on="3" s="235" frq="12168" n="RTL Tele Letzebuerg 23.5"/>
 		<S i="1455" t="c98" on="3" s="235" frq="12168" n="SES_LCN2"/>
 		<S i="145a" t="c98" on="3" s="235" frq="12168" n="TV Lux HD"/>
-		<S i="147e" t="c98" on="3" s="235" frq="12168" n="radio 100,7 Letzebuerg"/>
+		<S i="147e" t="c98" on="3" s="235" frq="12168" n="Radio 100.7 Letzebuerg"/>
 		<S i="147d" t="c98" on="3" s="235" frq="12168" n="RTL Radio Letzebuerg"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] Telekom Srbija">
@@ -361,6 +339,9 @@
 		<S i="4eaf" t="ca4" on="3" s="235" frq="12402" n="Arena Premium 1"/>
 		<S i="4e5b" t="c86" on="3" s="235" frq="11817" n="Arena Premium 2"/>
 		<S i="4eca" t="c81" on="3" s="235" frq="11719" n="Arena Premium 3"/>
+		<S i="4ea9" t="ca4" on="3" s="235" frq="12402" n="Arena Premium_1"/>
+		<S i="4ea0" t="ca4" on="3" s="235" frq="12402" n="Arena Premium_2"/>
+		<S i="4f08" t="c81" on="3" s="235" frq="11719" n="Arena Premium_3"/>
 		<S i="4e34" t="c85" on="3" s="235" frq="11798" n="Arena Sport 1 HD"/>
 		<S i="4ee9" t="c81" on="3" s="235" frq="11719" n="Arena Sport 1 HD CG"/>
 		<S i="4eae" t="ca4" on="3" s="235" frq="12402" n="Arena Sport 10 HD"/>
@@ -398,7 +379,6 @@
 		<S i="4ec5" t="ca4" on="3" s="235" frq="12402" n="CNN"/>
 		<S i="4f01" t="c81" on="3" s="235" frq="11719" n="Cool TV"/>
 		<S i="4e33" t="c8b" on="3" s="235" frq="11914" n="Dexy TV"/>
-		<S i="4e30" t="c8b" on="3" s="235" frq="11914" n="Dečija TV"/>
 		<S i="4f02" t="c81" on="3" s="235" frq="11719" n="Digi 24"/>
 		<S i="4e98" t="ca4" on="3" s="235" frq="12402" n="Discovery Channel"/>
 		<S i="4e45" t="c85" on="3" s="235" frq="11798" n="Disney"/>
@@ -410,17 +390,19 @@
 		<S i="4ef9" t="c8b" on="3" s="235" frq="11914" n="Duna"/>
 		<S i="4efa" t="c8b" on="3" s="235" frq="11914" n="Duna world"/>
 		<S i="4ec7" t="ca4" on="3" s="235" frq="12402" n="DW English"/>
-		<S i="4ea9" t="ca4" on="3" s="235" frq="12402" n="E!"/>
 		<S i="4ed0" t="c8a" on="3" s="235" frq="11895" n="Eko Vizija"/>
 		<S i="4e5d" t="c86" on="3" s="235" frq="11817" n="Epic Drama"/>
 		<S i="4ed8" t="c81" on="3" s="235" frq="11719" n="Erotic"/>
 		<S i="4f06" t="c81" on="3" s="235" frq="11719" n="Etno"/>
+		<S i="4e42" t="c85" on="3" s="235" frq="11798" n="EuroCinema 1"/>
+		<S i="4e94" t="c86" on="3" s="235" frq="11817" n="EuroCinema 2"/>
+		<S i="4ead" t="ca4" on="3" s="235" frq="12402" n="EuroCinema 3"/>
+		<S i="4ec1" t="ca4" on="3" s="235" frq="12402" n="EuroCinema 4"/>
 		<S i="4ec6" t="ca4" on="3" s="235" frq="12402" n="Euronews"/>
 		<S i="4e41" t="c85" on="3" s="235" frq="11798" n="Euronews Serbia"/>
 		<S i="4e3a" t="c85" on="3" s="235" frq="11798" n="Eurosport 1 HD"/>
 		<S i="4e3b" t="c85" on="3" s="235" frq="11798" n="Eurosport 2 HD"/>
 		<S i="4f14" t="c81" on="3" s="235" frq="11719" n="Face TV"/>
-		<S i="4ead" t="ca4" on="3" s="235" frq="12402" n="Fashion TV"/>
 		<S i="4f07" t="c81" on="3" s="235" frq="11719" n="Favorit TV"/>
 		<S i="4f00" t="c81" on="3" s="235" frq="11719" n="Film +"/>
 		<S i="4efe" t="c81" on="3" s="235" frq="11719" n="Film 4"/>
@@ -447,8 +429,6 @@
 		<S i="4e44" t="c85" on="3" s="235" frq="11798" n="Hype TV"/>
 		<S i="4ea4" t="ca4" on="3" s="235" frq="12402" n="ID"/>
 		<S i="4ecf" t="c8a" on="3" s="235" frq="11895" n="Insta TV"/>
-		<S i="4ec1" t="ca4" on="3" s="235" frq="12402" n="JEKA"/>
-		<S i="4e42" t="c85" on="3" s="235" frq="11798" n="JimJam"/>
 		<S i="4e77" t="c86" on="3" s="235" frq="11817" n="K1"/>
 		<S i="4f16" t="c81" on="3" s="235" frq="11719" n="K3"/>
 		<S i="4f34" t="c8a" on="3" s="235" frq="11895" n="Kanal 5"/>
@@ -456,8 +436,6 @@
 		<S i="4ea6" t="ca4" on="3" s="235" frq="12402" n="KCN 1"/>
 		<S i="4e5c" t="c8a" on="3" s="235" frq="11895" n="KCN 3 Svet plus"/>
 		<S i="4ef5" t="c8a" on="3" s="235" frq="11895" n="KCN Music 2"/>
-		<S i="4e31" t="c8b" on="3" s="235" frq="11914" n="Kitchen TV HD"/>
-		<S i="4f2f" t="c8a" on="3" s="235" frq="11895" n="Klan Macedonia"/>
 		<S i="4e6c" t="c85" on="3" s="235" frq="11798" n="Klasik TV"/>
 		<S i="4e92" t="c8a" on="3" s="235" frq="11895" n="Koreni"/>
 		<S i="4e4d" t="c81" on="3" s="235" frq="11719" n="Kurir TV"/>
@@ -470,13 +448,8 @@
 		<S i="4e6e" t="c8a" on="3" s="235" frq="11895" n="Moj Astrolog"/>
 		<S i="4efd" t="c81" on="3" s="235" frq="11719" n="Mozy +"/>
 		<S i="4f25" t="c8a" on="3" s="235" frq="11895" n="MRT 1"/>
-		<S i="4f27" t="c8a" on="3" s="235" frq="11895" n="MRT 2"/>
-		<S i="4f28" t="c8a" on="3" s="235" frq="11895" n="MRT 3"/>
-		<S i="4f29" t="c8a" on="3" s="235" frq="11895" n="MRT 4"/>
-		<S i="4f2a" t="c8a" on="3" s="235" frq="11895" n="MRT 5"/>
 		<S i="4e20" t="c8b" on="3" s="235" frq="11914" n="mSAT Info"/>
 		<S i="4f09" t="c81" on="3" s="235" frq="11719" n="Muszicka TV"/>
-		<S i="4f2c" t="c8a" on="3" s="235" frq="11895" n="Nasha TV"/>
 		<S i="4f37" t="c8a" on="3" s="235" frq="11895" n="Nat Geo Adria"/>
 		<S i="4e9b" t="ca4" on="3" s="235" frq="12402" n="National Geographic"/>
 		<S i="4e9c" t="ca4" on="3" s="235" frq="12402" n="National Geographic Wild"/>
@@ -541,10 +514,8 @@
 		<S i="4e7a" t="c8b" on="3" s="235" frq="11914" n="RTS Život"/>
 		<S i="4e80" t="c86" on="3" s="235" frq="11817" n="RTV 1"/>
 		<S i="4e81" t="c86" on="3" s="235" frq="11817" n="RTV 2"/>
-		<S i="4f2d" t="c8a" on="3" s="235" frq="11895" n="RTV 21 M"/>
 		<S i="4e5e" t="c86" on="3" s="235" frq="11817" n="Sci Fi"/>
 		<S i="4f30" t="c8a" on="3" s="235" frq="11895" n="Sitel"/>
-		<S i="4f2b" t="c8a" on="3" s="235" frq="11895" n="Sobraniski Kanal"/>
 		<S i="4f0b" t="c81" on="3" s="235" frq="11719" n="Sorozat +"/>
 		<S i="4e3d" t="c85" on="3" s="235" frq="11798" n="SOS Kanal Plus"/>
 		<S i="4ef6" t="c8b" on="3" s="235" frq="11914" n="Story 4"/>
@@ -554,7 +525,6 @@
 		<S i="4e2c" t="c8b" on="3" s="235" frq="11914" n="Superstar 2 TV HD"/>
 		<S i="4e23" t="c8b" on="3" s="235" frq="11914" n="SUPERSTAR TV HD"/>
 		<S i="4ecc" t="c81" on="3" s="235" frq="11719" n="Tanjug TV"/>
-		<S i="4f08" t="c81" on="3" s="235" frq="11719" n="Taraf TV"/>
 		<S i="4ee6" t="ca4" on="3" s="235" frq="12402" n="Telemark"/>
 		<S i="4f31" t="c8a" on="3" s="235" frq="11895" n="Telma"/>
 		<S i="4e2f" t="c85" on="3" s="235" frq="11798" n="Timeless Dizi Channel"/>
@@ -562,14 +532,12 @@
 		<S i="4e60" t="c81" on="3" s="235" frq="11719" n="Toxic"/>
 		<S i="4ea7" t="ca4" on="3" s="235" frq="12402" n="Toxic Folk"/>
 		<S i="4ebc" t="ca4" on="3" s="235" frq="12402" n="Toxic Rap"/>
-		<S i="4e94" t="c86" on="3" s="235" frq="11817" n="Travel Channel"/>
 		<S i="4eab" t="c8a" on="3" s="235" frq="11895" n="Tring Action"/>
 		<S i="4ea2" t="c8a" on="3" s="235" frq="11895" n="Tring Tring"/>
 		<S i="4f05" t="c81" on="3" s="235" frq="11719" n="Trinitas"/>
 		<S i="4ea1" t="c8a" on="3" s="235" frq="11895" n="Turizam"/>
 		<S i="4e59" t="c86" on="3" s="235" frq="11817" n="TV 1000"/>
 		<S i="4f0c" t="c81" on="3" s="235" frq="11719" n="TV 2"/>
-		<S i="4f2e" t="c8a" on="3" s="235" frq="11895" n="TV 24"/>
 		<S i="4ee4" t="c81" on="3" s="235" frq="11719" n="TV 5"/>
 		<S i="4ede" t="c81" on="3" s="235" frq="11719" n="TV Belle Amie"/>
 		<S i="4f1d" t="c8a" on="3" s="235" frq="11895" n="TV Budva"/>
@@ -595,7 +563,6 @@
 		<S i="4e2b" t="c85" on="3" s="235" frq="11798" n="Vesti"/>
 		<S i="4e9f" t="ca4" on="3" s="235" frq="12402" n="Viasat Explore"/>
 		<S i="4e9e" t="ca4" on="3" s="235" frq="12402" n="Viasat History"/>
-		<S i="4ea0" t="ca4" on="3" s="235" frq="12402" n="Viasat Nature"/>
 		<S i="4ea8" t="c8a" on="3" s="235" frq="11895" n="Vision plus"/>
 		<S i="5172" t="c8b" on="3" s="235" frq="11914" n="AS FM radio"/>
 		<S i="5157" t="c8a" on="3" s="235" frq="11895" n="BN radio"/>
@@ -607,7 +574,7 @@
 	<Bouquet name="[E023.5] Towercom">
 		<S i="1338" t="ca2" on="3" s="235" frq="12363" n="RDS SAT"/>
 		<S i="1328" t="ca2" on="3" s="235" frq="12363" n="TA3 HD"/>
-		<S i="132e" t="ca2" on="3" s="235" frq="12363" n="TV NOE HD"/>
+		<S i="132e" t="ca2" on="3" s="235" frq="12363" n="TV NOE"/>
 		<S i="134c" t="ca2" on="3" s="235" frq="12363" n="BEAT"/>
 		<S i="134d" t="ca2" on="3" s="235" frq="12363" n="BEAT JM"/>
 		<S i="134f" t="ca2" on="3" s="235" frq="12363" n="BEAT JZ"/>
@@ -648,80 +615,13 @@
 		<S i="134b" t="ca2" on="3" s="235" frq="12363" n="ZET"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] Unknown Provider">
-		<S i="41a" t="0" on="1" s="235" frq="11671" n="1050 - SuperNova Kielce"/>
-		<S i="42e" t="0" on="1" s="235" frq="11671" n="1070 - SuperNova Krakow"/>
-		<S i="44c" t="0" on="1" s="235" frq="11671" n="1100 - SuperNova Lodz"/>
-		<S i="460" t="0" on="1" s="235" frq="11671" n="1120 - SuperNova Opole"/>
-		<S i="47e" t="0" on="1" s="235" frq="11671" n="1150 - SuperNova Torun"/>
-		<S i="492" t="0" on="1" s="235" frq="11671" n="1170 - SuperNova Gdansk"/>
-		<S i="49c" t="0" on="1" s="235" frq="11671" n="1180 - SuperNova Wroclaw"/>
-		<S i="4d8" t="0" on="1" s="235" frq="11671" n="1240 - SuperNova Rzeszow"/>
-		<S i="4ec" t="0" on="1" s="235" frq="11671" n="1260 - SuperNova Szczecin"/>
-		<S i="50a" t="0" on="1" s="235" frq="11671" n="1290 - SuperNova Nowy Sacz"/>
-		<S i="564" t="0" on="1" s="235" frq="11671" n="1380 - SuperNova Warszawa"/>
-		<S i="5c8" t="0" on="1" s="235" frq="11671" n="1480 - SuperNova Jelenia Gora"/>
-		<S i="5e6" t="0" on="1" s="235" frq="11671" n="1510 - SuperNova Trzebnica"/>
-		<S i="5fa" t="0" on="1" s="235" frq="11671" n="1530 - SuperNova Paprotnia"/>
-		<S i="7d0" t="0" on="1" s="235" frq="11671" n="2000 - ESKA SES"/>
-		<S i="7da" t="0" on="1" s="235" frq="11671" n="2010 - ESKA Belchatow"/>
-		<S i="7e4" t="0" on="1" s="235" frq="11671" n="2020 - ESKA Bialystok"/>
-		<S i="7ee" t="0" on="1" s="235" frq="11671" n="2030 - ESKA Bydgoszcz"/>
-		<S i="7f8" t="0" on="1" s="235" frq="11671" n="2040 - ESKA Gorzow"/>
-		<S i="802" t="0" on="1" s="235" frq="11671" n="2050 - ESKA Kielce"/>
-		<S i="80c" t="0" on="1" s="235" frq="11671" n="2060 - ESKA Siedlce"/>
-		<S i="816" t="0" on="1" s="235" frq="11671" n="2070 - ESKA Krakow"/>
-		<S i="820" t="0" on="1" s="235" frq="11671" n="2080 - ESKA Leszno"/>
-		<S i="82a" t="0" on="1" s="235" frq="11671" n="2090 - ESKA Pila"/>
-		<S i="834" t="0" on="1" s="235" frq="11671" n="2100 - ESKA Lodz"/>
-		<S i="83e" t="0" on="1" s="235" frq="11671" n="2110 - ESKA Olsztyn"/>
-		<S i="848" t="0" on="1" s="235" frq="11671" n="2120 - ESKA Opole"/>
-		<S i="852" t="0" on="1" s="235" frq="11671" n="2130 - ESKA Lublin"/>
-		<S i="85c" t="0" on="1" s="235" frq="11671" n="2140 - ESKA Poznan"/>
-		<S i="866" t="0" on="1" s="235" frq="11671" n="2150 - ESKA Torun"/>
-		<S i="870" t="0" on="1" s="235" frq="11671" n="2160 - ESKA Tarnow"/>
-		<S i="87a" t="0" on="1" s="235" frq="11671" n="2170 - ESKA Trojmiasto"/>
-		<S i="884" t="0" on="1" s="235" frq="11671" n="2180 - ESKA Wroclaw"/>
-		<S i="88e" t="0" on="1" s="235" frq="11671" n="2190 - ESKA Zielona Gora"/>
-		<S i="898" t="0" on="1" s="235" frq="11671" n="2200 - ESKA Ostrow"/>
-		<S i="8a2" t="0" on="1" s="235" frq="11671" n="2210 - ESKA Radom"/>
-		<S i="8ac" t="0" on="1" s="235" frq="11671" n="2220 - ESKA Slask"/>
-		<S i="8b6" t="0" on="1" s="235" frq="11671" n="2230 - ESKA Zamosc"/>
-		<S i="8c0" t="0" on="1" s="235" frq="11671" n="2240 - ESKA Rzeszow"/>
-		<S i="8ca" t="0" on="1" s="235" frq="11671" n="2250 - ESKA Plock"/>
-		<S i="8d4" t="0" on="1" s="235" frq="11671" n="2260 - ESKA Szczecin"/>
-		<S i="8de" t="0" on="1" s="235" frq="11671" n="2270 - ESKA Koszalin"/>
-		<S i="8fc" t="0" on="1" s="235" frq="11671" n="2300 - ESKA Beskidy/Zywiec"/>
-		<S i="906" t="0" on="1" s="235" frq="11671" n="2310 - ESKA Szczecinek"/>
-		<S i="910" t="0" on="1" s="235" frq="11671" n="2320 - ESKA Przemysl"/>
-		<S i="91a" t="0" on="1" s="235" frq="11671" n="2330 - ESKA Malopolska"/>
-		<S i="938" t="0" on="1" s="235" frq="11671" n="2360 - ESKA Krasnik"/>
-		<S i="960" t="0" on="1" s="235" frq="11671" n="2400 - ESKA Starachowice"/>
-		<S i="974" t="0" on="1" s="235" frq="11671" n="2420 - ESKA Zary"/>
-		<S i="97e" t="0" on="1" s="235" frq="11671" n="2430 - ESKA Elblag"/>
-		<S i="988" t="0" on="1" s="235" frq="11671" n="2440 - ESKA Ilawa"/>
-		<S i="992" t="0" on="1" s="235" frq="11671" n="2450 - ESKA Grudziadz"/>
-		<S i="99c" t="0" on="1" s="235" frq="11671" n="2460 - ESKA Lomza"/>
-		<S i="9b0" t="0" on="1" s="235" frq="11671" n="2480 - ESKA Wroclaw JG"/>
-		<S i="9c4" t="0" on="1" s="235" frq="11671" n="2500 - ESKA Ostrzeszow"/>
-		<S i="9d8" t="0" on="1" s="235" frq="11671" n="2520 - ESKA Braniewo"/>
-		<S i="be0" t="0" on="1" s="235" frq="11671" n="3040 - VOX Gorzow"/>
-		<S i="c44" t="0" on="1" s="235" frq="11671" n="3140 - VOX Poznan"/>
-		<S i="c8a" t="0" on="1" s="235" frq="11671" n="3210 - VOX Radom"/>
-		<S i="f96" t="0" on="1" s="235" frq="11671" n="3990 - VOX"/>
-		<S i="fa0" t="0" on="1" s="235" frq="11671" n="4000 - PLUS SES"/>
-		<S i="100e" t="0" on="1" s="235" frq="11671" n="4110 - PLUS Olsztyn"/>
-		<S i="1022" t="0" on="1" s="235" frq="11671" n="4130 - PLUS Lublin"/>
-		<S i="10ae" t="0" on="1" s="235" frq="11671" n="4270 - PLUS Koszalin"/>
-		<S i="10f4" t="0" on="1" s="235" frq="11671" n="4340 - PLUS Podhale"/>
-		<S i="1f36" t="0" on="1" s="235" frq="11671" n="7990 - 7990"/>
-		<S i="1f4a" t="0" on="1" s="235" frq="11671" n="8010 - Radio Rodzina"/>
-		<S i="2af8" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x2AF8)"/>
-		<S i="2ee0" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x2EE0)"/>
-		<S i="32c8" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x32C8)"/>
-		<S i="36b0" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x36B0)"/>
-		<S i="3a98" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x3A98)"/>
-		<S i="3e80" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x3E80)"/>
-		<S i="4268" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x4268)"/>
-		<S i="4650" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0x4650)"/>
-		<S i="fa00" t="b" on="3" s="235" frq="11676" n="unknown (0x000B_0xFA00)"/>
+		<S i="4f2f" t="c8a" on="3" s="235" frq="11895" n="Klan Macedonia"/>
+		<S i="4f27" t="c8a" on="3" s="235" frq="11895" n="MRT 2"/>
+		<S i="4f28" t="c8a" on="3" s="235" frq="11895" n="MRT 3"/>
+		<S i="4f29" t="c8a" on="3" s="235" frq="11895" n="MRT 4"/>
+		<S i="4f2a" t="c8a" on="3" s="235" frq="11895" n="MRT 5"/>
+		<S i="4f2c" t="c8a" on="3" s="235" frq="11895" n="Nasha TV"/>
+		<S i="4f2d" t="c8a" on="3" s="235" frq="11895" n="RTV 21 M"/>
+		<S i="4f2b" t="c8a" on="3" s="235" frq="11895" n="Sobraniski Kanal"/>
+		<S i="4f2e" t="c8a" on="3" s="235" frq="11895" n="TV 24"/>
 	</Bouquet>
