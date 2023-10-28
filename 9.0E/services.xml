@@ -286,7 +286,7 @@
 			<S i="0b86" f="4" s="1" t="1" n="Kinowelt TV"/>
 			<S i="0bb8" f="4" s="1" t="1" n="OstWest"/>
 			<S i="0bea" f="4" s="1" t="1" n="Heimatkanal"/>
-			<S i="0faa" f="4" s="1" t="19" n="SONY CHANNEL HD"/>
+			<S i="0faa" f="4" s="1" t="19" n="AXN White"/>
 		</TS>
 		<TS id="0008" on="00aa" frq="12169000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
 			<S i="03fb" f="4" s="1" t="1" n="Promo HD"/>
@@ -406,7 +406,7 @@
 		</TS>
 		<TS id="21fc" on="009c" frq="12437000" inv="2" sr="27500000" fec="2" pol="0" mod="9" sys="1">
 			<S i="4eea" f="4" s="1" t="1" n="Romance TV"/>
-			<S i="4eeb" f="4" s="1" t="19" n="SONY AXN HD"/>
+			<S i="4eeb" f="4" s="1" t="19" n="AXN Black"/>
 			<S i="4eed" f="4" s="1" t="19" n="Universal TV"/>
 			<S i="4eee" f="4" s="1" t="16" n="Duck TV SD"/>
 			<S i="4eef" f="4" s="1" t="19" n="SPORTDIGITAL FUSSBALL"/>

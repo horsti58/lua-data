@@ -654,6 +654,9 @@
 		<TS id="0001" on="ffff" frq="12540000" inv="2" sr="3166000" fec="2" pol="0" mod="9" sys="1">
 			<S i="0001" f="4" s="0" t="1" n="Enex Path 1"/>
 		</TS>
+		<TS id="0001" on="ffff" frq="12564000" inv="2" sr="3702000" fec="7" pol="0" mod="0" sys="0">
+			<S i="0001" f="4" s="1" t="1" n="SIC INTERNACIONAL"/>
+		</TS>
 		<TS id="012c" on="0003" frq="12568000" inv="2" sr="16664000" fec="2" pol="1" mod="0" sys="1">
 			<S i="000d" f="4" s="0" t="16" n="Realitatea Plus"/>
 			<S i="000f" f="4" s="0" t="1" n="Credo TV"/>
