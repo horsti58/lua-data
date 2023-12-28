@@ -44,6 +44,10 @@
 		<S i="1f83" t="ca1" on="3" s="235" frq="12344" n="CRo VYSOCINA"/>
 		<S i="1f89" t="ca1" on="3" s="235" frq="12344" n="CRo ZLIN"/>
 	</Bouquet>
+	<Bouquet name="[E023.5] M7 group">
+		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO KLASSIEK"/>
+		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
+	</Bouquet>
 	<Bouquet name="[E023.5] M7 Group">
 		<S i="177f" t="c82" on="3" s="235" frq="11739" n="192TV"/>
 		<S i="523f" t="c99" on="3" s="235" frq="12188" n="24Kitchen"/>
@@ -60,9 +64,12 @@
 		<S i="17d1" t="c82" on="3" s="235" frq="11739" n="BBC Entertainment"/>
 		<S i="52b0" t="c99" on="3" s="235" frq="12188" n="BBC First"/>
 		<S i="3736" t="c8e" on="3" s="235" frq="11973" n="CANAL+ Action"/>
+		<S i="17cf" t="c82" on="3" s="235" frq="11739" n="CANAL+ Action"/>
 		<S i="3733" t="c8e" on="3" s="235" frq="11973" n="CANAL+ Sport (CZ)"/>
 		<S i="3734" t="c8e" on="3" s="235" frq="11973" n="CANAL+ Sport (SK)"/>
-		<S i="3737" t="c8e" on="3" s="235" frq="11973" n="Canal+ Sport 2 TEST"/>
+		<S i="1f4b" t="ca1" on="3" s="235" frq="12344" n="CANAL+ Sport 2 (CZ)"/>
+		<S i="3c38" t="c90" on="3" s="235" frq="12012" n="CANAL+ Sport 2 (SK)"/>
+		<S i="3737" t="c8e" on="3" s="235" frq="11973" n="Canal+ Sport 4 TEST"/>
 		<S i="36f5" t="c8c" on="3" s="235" frq="11934" n="Cartoon Network CZ"/>
 		<S i="1794" t="c82" on="3" s="235" frq="11739" n="Cartoonito"/>
 		<S i="3c33" t="c90" on="3" s="235" frq="12012" n="CBS Reality"/>
@@ -116,7 +123,6 @@
 		<S i="3cf5" t="c95" on="3" s="235" frq="12110" n="Filmbox Premium HD"/>
 		<S i="3cf9" t="c95" on="3" s="235" frq="12110" n="Filmbox Stars"/>
 		<S i="314" t="c94" on="3" s="235" frq="12090" n="Fishing and Hunting"/>
-		<S i="178e" t="c82" on="3" s="235" frq="11739" n="FOX Channel"/>
 		<S i="3a98" t="c84" on="3" s="235" frq="11778" n="Galaxy4"/>
 		<S i="3c35" t="c90" on="3" s="235" frq="12012" n="Golf Channel"/>
 		<S i="307" t="c94" on="3" s="235" frq="12090" n="HBO HD"/>
@@ -195,8 +201,8 @@
 		<S i="3390" t="c93" on="3" s="235" frq="12070" n="OTA CAM803"/>
 		<S i="3750" t="c8e" on="3" s="235" frq="11973" n="OTA SMIT HW6"/>
 		<S i="3751" t="c8e" on="3" s="235" frq="11973" n="OTA SMIT HW8"/>
-		<S i="36e4" t="c8c" on="3" s="235" frq="11934" n="Paramount Network"/>
 		<S i="528b" t="c99" on="3" s="235" frq="12188" n="Paramount Network"/>
+		<S i="36e4" t="c8c" on="3" s="235" frq="11934" n="Paramount Network"/>
 		<S i="3727" t="c8e" on="3" s="235" frq="11973" n="Penthouse Gold"/>
 		<S i="3728" t="c8e" on="3" s="235" frq="11973" n="Penthouse Gold CZ"/>
 		<S i="3729" t="c8e" on="3" s="235" frq="11973" n="Penthouse Reality TV"/>
@@ -232,7 +238,6 @@
 		<S i="51d1" t="c96" on="3" s="235" frq="12129" n="SBS9"/>
 		<S i="36f1" t="c8c" on="3" s="235" frq="11934" n="Senzi"/>
 		<S i="335b" t="c93" on="3" s="235" frq="12070" n="Seznam.cz HD"/>
-		<S i="1f4b" t="ca1" on="3" s="235" frq="12344" n="Skylink 7"/>
 		<S i="339d" t="c89" on="3" s="235" frq="11876" n="Slager Muzika"/>
 		<S i="334e" t="c93" on="3" s="235" frq="12070" n="Slager Original"/>
 		<S i="3aad" t="c84" on="3" s="235" frq="11778" n="Slager TV"/>
@@ -243,6 +248,7 @@
 		<S i="334b" t="c93" on="3" s="235" frq="12070" n="Sport 1 HD"/>
 		<S i="52ed" t="c96" on="3" s="235" frq="12129" n="Sport 10 HD"/>
 		<S i="318" t="c94" on="3" s="235" frq="12090" n="Sport 2 HD"/>
+		<S i="178e" t="c82" on="3" s="235" frq="11739" n="Star Channel"/>
 		<S i="30d" t="c94" on="3" s="235" frq="12090" n="Stingray CMusic"/>
 		<S i="30e" t="c94" on="3" s="235" frq="12090" n="Stingray CMusic CZ"/>
 		<S i="3cf8" t="c95" on="3" s="235" frq="12110" n="STORY4 HD"/>
@@ -308,10 +314,6 @@
 		<S i="52db" t="c96" on="3" s="235" frq="12129" n="Studio Brussel"/>
 		<S i="1831" t="c82" on="3" s="235" frq="11739" n="Sunlite Radio"/>
 	</Bouquet>
-	<Bouquet name="[E023.5] M7 group">
-		<S i="525b" t="c99" on="3" s="235" frq="12188" n="NPO KLASSIEK"/>
-		<S i="525c" t="c99" on="3" s="235" frq="12188" n="NPO Radio5"/>
-	</Bouquet>
 	<Bouquet name="[E023.5] MB Satellite">
 		<S i="3e8" t="1" on="1" s="235" frq="12639" n="DLF USI2"/>
 		<S i="7d0" t="1" on="1" s="235" frq="12639" n="DLFK USI2"/>
@@ -376,6 +378,8 @@
 		<S i="4e26" t="c85" on="3" s="235" frq="11798" n="B92"/>
 		<S i="4f24" t="c81" on="3" s="235" frq="11719" n="Baby TV"/>
 		<S i="4e39" t="c8b" on="3" s="235" frq="11914" n="Balkan Sport 1"/>
+		<S i="4ea5" t="ca4" on="3" s="235" frq="12402" n="Balkan Sport 2"/>
+		<S i="4ed8" t="c81" on="3" s="235" frq="11719" n="Balkan Sport 3"/>
 		<S i="4e56" t="c81" on="3" s="235" frq="11719" n="Balkan Trip"/>
 		<S i="4e99" t="ca4" on="3" s="235" frq="12402" n="BBC Earth"/>
 		<S i="4e90" t="c86" on="3" s="235" frq="11817" n="BHTV"/>
@@ -386,7 +390,6 @@
 		<S i="4eba" t="ca4" on="3" s="235" frq="12402" n="BN Music"/>
 		<S i="4ebf" t="c8a" on="3" s="235" frq="11895" n="Bravo music"/>
 		<S i="4ed5" t="c81" on="3" s="235" frq="11719" n="Brazzers TV"/>
-		<S i="4ea5" t="ca4" on="3" s="235" frq="12402" n="CBS Reality"/>
 		<S i="4e69" t="c86" on="3" s="235" frq="11817" n="Cinemax"/>
 		<S i="4e6a" t="c86" on="3" s="235" frq="11817" n="Cinemax 2"/>
 		<S i="4ebe" t="ca4" on="3" s="235" frq="12402" n="City Play"/>
@@ -406,7 +409,6 @@
 		<S i="4ec7" t="ca4" on="3" s="235" frq="12402" n="DW English"/>
 		<S i="4ed0" t="c8a" on="3" s="235" frq="11895" n="Eko Vizija"/>
 		<S i="4e5d" t="c86" on="3" s="235" frq="11817" n="Epic Drama"/>
-		<S i="4ed8" t="c81" on="3" s="235" frq="11719" n="Erotic"/>
 		<S i="4f06" t="c81" on="3" s="235" frq="11719" n="Etno"/>
 		<S i="4e42" t="c85" on="3" s="235" frq="11798" n="EuroCinema 1"/>
 		<S i="4e94" t="c86" on="3" s="235" frq="11817" n="EuroCinema 2"/>
@@ -595,18 +597,18 @@
 		<S i="5156" t="c8b" on="3" s="235" frq="11914" n="Radio Beograd 202"/>
 	</Bouquet>
 	<Bouquet name="[E023.5] Towercom">
+		<S i="134f" t="ca2" on="3" s="235" frq="12363" n="BEAT JZ"/>
+		<S i="1350" t="ca2" on="3" s="235" frq="12363" n="BEAT SV"/>
+		<S i="1352" t="ca2" on="3" s="235" frq="12363" n="COUNTRY JZ"/>
+		<S i="1353" t="ca2" on="3" s="235" frq="12363" n="COUNTRY SV"/>
 		<S i="1338" t="ca2" on="3" s="235" frq="12363" n="RDS SAT"/>
 		<S i="1328" t="ca2" on="3" s="235" frq="12363" n="TA3 HD"/>
 		<S i="132e" t="ca2" on="3" s="235" frq="12363" n="TV NOE"/>
 		<S i="134c" t="ca2" on="3" s="235" frq="12363" n="BEAT"/>
 		<S i="134d" t="ca2" on="3" s="235" frq="12363" n="BEAT JM"/>
-		<S i="134f" t="ca2" on="3" s="235" frq="12363" n="BEAT JZ"/>
 		<S i="134e" t="ca2" on="3" s="235" frq="12363" n="BEAT SM"/>
-		<S i="1350" t="ca2" on="3" s="235" frq="12363" n="BEAT SV"/>
 		<S i="1356" t="ca2" on="3" s="235" frq="12363" n="BEAT V"/>
 		<S i="1351" t="ca2" on="3" s="235" frq="12363" n="COUNTRY JM"/>
-		<S i="1352" t="ca2" on="3" s="235" frq="12363" n="COUNTRY JZ"/>
-		<S i="1353" t="ca2" on="3" s="235" frq="12363" n="COUNTRY SV"/>
 		<S i="133d" t="ca2" on="3" s="235" frq="12363" n="Devin"/>
 		<S i="135b" t="ca2" on="3" s="235" frq="12363" n="Europa 2 S"/>
 		<S i="135c" t="ca2" on="3" s="235" frq="12363" n="Europa 2 V"/>

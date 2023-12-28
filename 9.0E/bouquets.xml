@@ -145,6 +145,9 @@
 		<S i="274" t="1" on="1" s="90" frq="11996" n="JimJam PE"/>
 		<S i="277" t="1" on="1" s="90" frq="11996" n="EDM FM"/>
 	</Bouquet>
+	<Bouquet name="[E009.0] Harmonic">
+		<S i="16a8" t="c3aa" on="9e" s="90" frq="11881" n="Food Network EMEA HD"/>
+	</Bouquet>
 	<Bouquet name="[E009.0] iKO Media Group">
 		<S i="364" t="c35a" on="9e" s="90" frq="11727" n="TIN - The Israeli Network - new"/>
 		<S i="362" t="c35a" on="9e" s="90" frq="11727" n="TRT tamil"/>
@@ -160,6 +163,7 @@
 		<S i="faa" t="1bbc" on="9c" s="90" frq="12130" n="AXN White"/>
 		<S i="44c" t="1fa4" on="9c" s="90" frq="12322" n="CNN TURK"/>
 		<S i="26a" t="206c" on="9c" s="90" frq="12360" n="Crime+Investigation"/>
+		<S i="1ff" t="2134" on="9c" s="90" frq="11977" n="Curiosity Channel HD"/>
 		<S i="268" t="206c" on="9c" s="90" frq="12360" n="Curiosity Channel HD"/>
 		<S i="4eee" t="21fc" on="9c" s="90" frq="12437" n="Duck TV SD"/>
 		<S i="802" t="1bbc" on="9c" s="90" frq="12130" n="eSports1 HD"/>
@@ -168,6 +172,7 @@
 		<S i="3e8" t="1fa4" on="9c" s="90" frq="12322" n="Fast&amp;Fun Box HD"/>
 		<S i="1fa" t="2134" on="9c" s="90" frq="11977" n="Fix &amp; Foxi"/>
 		<S i="4ef3" t="21fc" on="9c" s="90" frq="12437" n="GEO HD"/>
+		<S i="202" t="2134" on="9c" s="90" frq="11977" n="Gute Laune TV"/>
 		<S i="4ef2" t="21fc" on="9c" s="90" frq="12437" n="Gute Laune TV"/>
 		<S i="bea" t="1bbc" on="9c" s="90" frq="12130" n="Heimatkanal"/>
 		<S i="269" t="206c" on="9c" s="90" frq="12360" n="History"/>
@@ -177,6 +182,7 @@
 		<S i="4ef4" t="21fc" on="9c" s="90" frq="12437" n="Kinomir"/>
 		<S i="b86" t="1bbc" on="9c" s="90" frq="12130" n="Kinowelt TV"/>
 		<S i="abe" t="1bbc" on="9c" s="90" frq="12130" n="Marco Polo TV"/>
+		<S i="200" t="2134" on="9c" s="90" frq="11977" n="Marco Polo TV"/>
 		<S i="1f5" t="2134" on="9c" s="90" frq="11977" n="Mediaset Italia"/>
 		<S i="1fd" t="2134" on="9c" s="90" frq="11977" n="Mezzo Live"/>
 		<S i="6a4" t="1fa4" on="9c" s="90" frq="12322" n="MTV Live HD"/>
@@ -204,7 +210,7 @@
 		<S i="60e" t="1fa4" on="9c" s="90" frq="12322" n="TRT-Turk TV"/>
 		<S i="5dc" t="1fa4" on="9c" s="90" frq="12322" n="TV Polonia"/>
 		<S i="4e2" t="1fa4" on="9c" s="90" frq="12322" n="TV8 Int"/>
-		<S i="4eed" t="21fc" on="9c" s="90" frq="12437" n="Universal TV"/>
+		<S i="4eed" t="21fc" on="9c" s="90" frq="12437" n="Universal TV HD"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] Katolikus Radio">
 		<S i="9e" t="1838" on="9e" s="90" frq="11958" n="Katolikus Radio (AAC)"/>
@@ -257,7 +263,6 @@
 		<S i="44e" t="6" on="aa" s="90" frq="12399" n="Best TV"/>
 		<S i="43f" t="7" on="aa" s="90" frq="12475" n="Bloomberg"/>
 		<S i="442" t="5" on="aa" s="90" frq="12284" n="Blue Hustler"/>
-		<S i="46b" t="8" on="aa" s="90" frq="12169" n="CBS Reality"/>
 		<S i="43d" t="1" on="aa" s="90" frq="11843" n="CNBC"/>
 		<S i="410" t="9" on="aa" s="90" frq="11938" n="CNN"/>
 		<S i="44f" t="6" on="aa" s="90" frq="12399" n="Corfu Channel"/>
@@ -267,6 +272,7 @@
 		<S i="3f0" t="5" on="aa" s="90" frq="12284" n="COSMOTECinema1HD"/>
 		<S i="460" t="9" on="aa" s="90" frq="11938" n="COSMOTECinema2HD"/>
 		<S i="446" t="6" on="aa" s="90" frq="12399" n="COSMOTECinema3"/>
+		<S i="41c" t="8" on="aa" s="90" frq="12169" n="CosmoteCinemaChristmasHD"/>
 		<S i="447" t="5" on="aa" s="90" frq="12284" n="COSMOTESport1HD"/>
 		<S i="404" t="6" on="aa" s="90" frq="12399" n="COSMOTESport3HD"/>
 		<S i="40f" t="2" on="aa" s="90" frq="12054" n="COSMOTESport4HD"/>
@@ -300,7 +306,7 @@
 		<S i="40b" t="4" on="aa" s="90" frq="12207" n="MEGA"/>
 		<S i="400" t="6" on="aa" s="90" frq="12399" n="MEGA HD"/>
 		<S i="449" t="1" on="aa" s="90" frq="11843" n="MEZZO LIVE HD"/>
-		<S i="401" t="4" on="aa" s="90" frq="12207" n="Motorvision Channel HD"/>
+		<S i="401" t="4" on="aa" s="90" frq="12207" n="Motorvision+"/>
 		<S i="41b" t="4" on="aa" s="90" frq="12207" n="MTV 00s"/>
 		<S i="45a" t="1" on="aa" s="90" frq="11843" n="MTV Live"/>
 		<S i="468" t="7" on="aa" s="90" frq="12475" n="Museum TV"/>
@@ -313,7 +319,6 @@
 		<S i="405" t="5" on="aa" s="90" frq="12284" n="OPEN BEYOND HD"/>
 		<S i="40a" t="7" on="aa" s="90" frq="12475" n="Panik TV"/>
 		<S i="425" t="5" on="aa" s="90" frq="12284" n="Penthouse Gold"/>
-		<S i="41c" t="8" on="aa" s="90" frq="12169" n="POP UP TEST HD"/>
 		<S i="435" t="7" on="aa" s="90" frq="12475" n="PPV TST1"/>
 		<S i="3f3" t="5" on="aa" s="90" frq="12284" n="PPV TST2"/>
 		<S i="3fb" t="8" on="aa" s="90" frq="12169" n="Promo HD"/>
@@ -334,6 +339,7 @@
 		<S i="3f6" t="2" on="aa" s="90" frq="12054" n="TEST 22"/>
 		<S i="45f" t="1" on="aa" s="90" frq="11843" n="TEST 4"/>
 		<S i="462" t="8" on="aa" s="90" frq="12169" n="TEST 5"/>
+		<S i="46b" t="8" on="aa" s="90" frq="12169" n="TEST 6"/>
 		<S i="472" t="9" on="aa" s="90" frq="11938" n="TEST 81"/>
 		<S i="456" t="5" on="aa" s="90" frq="12284" n="TEST 9"/>
 		<S i="409" t="9" on="aa" s="90" frq="11938" n="TV100"/>
@@ -373,6 +379,8 @@
 		<S i="6" t="1" on="4d2" s="90" frq="11759" n="Telenovelas"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] TRACE">
+		<S i="17" t="170c" on="9e" s="90" frq="11900" n="RTB TV"/>
+		<S i="e" t="170c" on="9e" s="90" frq="11900" n="TRACE SPORTS INTER HD"/>
 		<S i="f" t="170c" on="9e" s="90" frq="11900" n="TRACE URBAN INTER HD"/>
 		<S i="14" t="170c" on="9e" s="90" frq="11900" n="TVT International"/>
 	</Bouquet>
@@ -414,12 +422,12 @@
 		<S i="42c" t="5" on="aa" s="90" frq="12284" n="Opap"/>
 		<S i="419" t="6" on="aa" s="90" frq="12399" n="POP UP 02"/>
 		<S i="3f1" t="2" on="aa" s="90" frq="12054" n="TEST 20"/>
+		<S i="450" t="6" on="aa" s="90" frq="12399" n="TEST 7"/>
 		<S i="421" t="6" on="aa" s="90" frq="12399" n="TEST BISS"/>
 		<S i="431" t="6" on="aa" s="90" frq="12399" n="TEST FREE"/>
 		<S i="45e" t="6" on="aa" s="90" frq="12399" n="TRT"/>
 		<S i="3f8" t="9" on="aa" s="90" frq="11938" n="Village Cinema HD"/>
 		<S i="434" t="5" on="aa" s="90" frq="12284" n="VIXEN"/>
-		<S i="450" t="6" on="aa" s="90" frq="12399" n="Αιγαίο TV"/>
 		<S i="3f9" t="9" on="aa" s="90" frq="11938" n="Βεργίνα TV"/>
 		<S i="451" t="9" on="aa" s="90" frq="11938" n="ΕΡΤ3 HD"/>
 		<S i="423" t="6" on="aa" s="90" frq="12399" n="ΤΕΣΤ 8"/>
