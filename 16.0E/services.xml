@@ -5,9 +5,10 @@
 			<S i="03eb" f="4" s="1" t="1" n="SENEMEDIA"/>
 			<S i="03ec" f="4" s="1" t="1" n="ESR24"/>
 			<S i="03ed" f="4" s="1" t="1" n="Esports Legend"/>
+			<S i="03ee" f="1" s="1" t="19" n="eClutch Live"/>
 		</TS>
 		<TS id="4f4c" on="016e" frq="10762000" inv="2" sr="30000000" fec="10" pol="0" mod="9" sys="1">
-			<S i="026c" f="4" s="0" t="9" n="DGA-OTT200S"/>
+			<S i="026c" f="2" s="0" t="9" n="DGA-OTT200S"/>
 			<S i="03e8" f="4" s="0" t="1" n="RTK-1"/>
 			<S i="0410" f="4" s="0" t="1" n="Bang Bang"/>
 			<S i="0424" f="4" s="0" t="1" n="EXP shkence"/>
@@ -28,6 +29,8 @@
 			<S i="0604" f="4" s="0" t="19" n="Top Channel HD"/>
 			<S i="0708" f="4" s="0" t="2" n="Top Albania Radio"/>
 			<S i="071c" f="4" s="0" t="2" n="Top Gold Radio"/>
+			<S i="139c" f="1" s="0" t="19" n="Dorcel TV HD"/>
+			<S i="13a1" f="1" s="1" t="19" n="Dorcel TV HD"/>
 		</TS>
 		<TS id="5014" on="016e" frq="10804000" inv="2" sr="29950000" fec="2" pol="0" mod="9" sys="1">
 			<S i="0264" f="4" s="0" t="9" n="DGA-Z100S"/>
@@ -182,30 +185,6 @@
 			<S i="0492" f="4" s="1" t="1f" n="JOJ 24"/>
 			<S i="0493" f="4" s="1" t="1f" n="Prima Zoom HD"/>
 			<S i="04af" f="4" s="0" t="c" n="Antik OTA Upgrade"/>
-		</TS>
-		<TS id="76c0" on="016e" frq="11058000" inv="2" sr="27500000" fec="4" pol="1" mod="0" sys="1">
-			<S i="047f" f="1" s="1" t="1f" n="AMC HD"/>
-			<S i="0480" f="1" s="1" t="1f" n="TV Barrandov HD"/>
-			<S i="0481" f="1" s="1" t="1f" n="CT 1 HD"/>
-			<S i="0482" f="1" s="1" t="1f" n="CT 24 HD"/>
-			<S i="0483" f="1" s="1" t="1f" n="Prima Krimi"/>
-			<S i="0484" f="1" s="1" t="1f" n="CT 2 HD"/>
-			<S i="0485" f="1" s="1" t="19" n="Arena Sport 1 HD"/>
-			<S i="0486" f="1" s="1" t="1f" n="HBO HD"/>
-			<S i="0487" f="1" s="1" t="1f" n="CT D/ art"/>
-			<S i="0488" f="1" s="1" t="1f" n="Nova Sport 1 HD"/>
-			<S i="0489" f="1" s="1" t="1f" n="Prima Cool SK HD"/>
-			<S i="048a" f="1" s="1" t="1f" n="Prima Love"/>
-			<S i="048b" f="1" s="1" t="1f" n="Discovery"/>
-			<S i="048c" f="1" s="1" t="1f" n="Prima MAX HD"/>
-			<S i="048d" f="1" s="1" t="1f" n="Prima SK HD"/>
-			<S i="048e" f="1" s="1" t="1f" n="Sport 1 HD"/>
-			<S i="048f" f="1" s="1" t="1f" n="TLC"/>
-			<S i="0490" f="1" s="1" t="1f" n=":24"/>
-			<S i="0491" f="1" s="1" t="1f" n="AutoMotorSport HD"/>
-			<S i="0492" f="1" s="1" t="1f" n="JOJ 24"/>
-			<S i="0493" f="1" s="1" t="1f" n="Prima Zoom HD"/>
-			<S i="04af" f="1" s="0" t="c" n="Antik OTA Upgrade"/>
 		</TS>
 		<TS id="76c1" on="016e" frq="11094000" inv="2" sr="27500000" fec="4" pol="1" mod="0" sys="1">
 			<S i="04b1" f="4" s="1" t="1f" n="Eurosport 2 HD"/>
@@ -803,11 +782,11 @@
 			<S i="0039" f="4" s="0" t="1" n="CH 57 - Virtuali 1"/>
 			<S i="004d" f="4" s="1" t="1" n="SNAI TV Audio Unico"/>
 		</TS>
-		<TS id="0064" on="0064" frq="12718000" inv="2" sr="6250000" fec="3" pol="0" mod="0" sys="1">
+		<TS id="0064" on="0064" frq="12720000" inv="2" sr="5000000" fec="3" pol="0" mod="9" sys="1">
 			<S i="000a" f="4" s="1" t="16" n="NationalTV"/>
 			<S i="000b" f="4" s="0" t="1" n="National FMx"/>
 			<S i="000f" f="4" s="0" t="1" n="National FM"/>
-			<S i="0010" f="4" s="0" t="1" n="RFI Romania"/>
+			<S i="0010" f="2" s="0" t="1" n="RFI Romania"/>
 			<S i="0016" f="4" s="1" t="16" n="N24 Plus"/>
 			<S i="0017" f="4" s="0" t="1" n="Favorit FM"/>
 			<S i="0020" f="4" s="0" t="16" n="Favorit TV"/>
