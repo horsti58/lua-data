@@ -766,6 +766,80 @@
 		<TS id="0000" on="0001" frq="12674000" inv="2" sr="2930000" fec="3" pol="0" mod="0" sys="0">
 			<S i="0001" f="4" s="0" t="0" n="Pink DSNG"/>
 		</TS>
+		<TS id="0000" on="0001" frq="12683000" inv="2" sr="7424000" fec="2" pol="0" mod="9" sys="1">
+			<S i="041a" f="1" s="1" t="1" n="1050 Kielce SuperNova"/>
+			<S i="042e" f="1" s="1" t="1" n="1070 Krakow SuperNova"/>
+			<S i="044c" f="1" s="1" t="1" n="1100 Lodz SuperNova"/>
+			<S i="0460" f="1" s="1" t="1" n="1120 Opole SuperNova"/>
+			<S i="047e" f="1" s="1" t="1" n="1150 Torun SuperNova"/>
+			<S i="0492" f="1" s="1" t="1" n="1170 Gdansk SuperNova"/>
+			<S i="049c" f="1" s="1" t="1" n="1180 Wroclaw SuperNova"/>
+			<S i="04d8" f="1" s="1" t="1" n="1240 Rzeszow SuperNova"/>
+			<S i="04ec" f="1" s="1" t="1" n="1260 Szczecin SuperNova"/>
+			<S i="050a" f="1" s="1" t="1" n="1290 Nowy-Sacz SuperNova"/>
+			<S i="055a" f="1" s="1" t="1" n="1370 Stalowa-Wola SuperNova"/>
+			<S i="0564" f="1" s="1" t="1" n="1380 Warszawa SuperNova"/>
+			<S i="056e" f="1" s="1" t="1" n="1390 Biala-Podlaska SuperNova"/>
+			<S i="05c8" f="1" s="1" t="1" n="1480 Jelenia-Gora SuperNova"/>
+			<S i="05e6" f="1" s="1" t="1" n="1510 Trzebnica SuperNova"/>
+			<S i="05fa" f="1" s="1" t="1" n="1530 Paprotnia SuperNova"/>
+			<S i="07d0" f="1" s="1" t="1" n="2000 SES ESKA"/>
+			<S i="07da" f="1" s="1" t="1" n="2010 Belchatow ESKA"/>
+			<S i="07e4" f="1" s="1" t="1" n="2020 Bialystok ESKA"/>
+			<S i="07ee" f="1" s="1" t="1" n="2030 Bydgoszcz ESKA"/>
+			<S i="07f8" f="1" s="1" t="1" n="2040 Gorzow ESKA"/>
+			<S i="0802" f="1" s="1" t="1" n="2050 Kielce ESKA"/>
+			<S i="080c" f="1" s="1" t="1" n="2060 Siedlce ESKA"/>
+			<S i="0816" f="1" s="1" t="1" n="2070 Krakow ESKA"/>
+			<S i="0820" f="1" s="1" t="1" n="2080 Leszno ESKA"/>
+			<S i="082a" f="1" s="1" t="1" n="2090 Pila ESKA"/>
+			<S i="0834" f="1" s="1" t="1" n="2100 Lodz ESKA"/>
+			<S i="083e" f="1" s="1" t="1" n="2110 Olsztyn ESKA"/>
+			<S i="0848" f="1" s="1" t="1" n="2120 Opole ESKA"/>
+			<S i="0852" f="1" s="1" t="1" n="2130 Lublin ESKA"/>
+			<S i="085c" f="1" s="1" t="1" n="2140 Poznan ESKA"/>
+			<S i="0866" f="1" s="1" t="1" n="2150 Torun ESKA"/>
+			<S i="0870" f="1" s="1" t="1" n="2160 Tarnow ESKA"/>
+			<S i="087a" f="1" s="1" t="1" n="2170 Trojmiasto ESKA"/>
+			<S i="0884" f="1" s="1" t="1" n="2180 Wroclaw ESKA"/>
+			<S i="088e" f="1" s="1" t="1" n="2190 Zielona-Gora ESKA"/>
+			<S i="0898" f="1" s="1" t="1" n="2200 Ostrow ESKA"/>
+			<S i="08a2" f="1" s="1" t="1" n="2210 Radom ESKA"/>
+			<S i="08ac" f="1" s="1" t="1" n="2220 Slask ESKA"/>
+			<S i="08b6" f="1" s="1" t="1" n="2230 Zamosc ESKA"/>
+			<S i="08c0" f="1" s="1" t="1" n="2240 Rzeszow ESKA"/>
+			<S i="08ca" f="1" s="1" t="1" n="2250 Plock ESKA"/>
+			<S i="08d4" f="1" s="1" t="1" n="2260 Szczecin ESKA"/>
+			<S i="08de" f="1" s="1" t="1" n="2270 Koszalin ESKA"/>
+			<S i="08fc" f="1" s="1" t="1" n="2300 Beskidy/Zywiec ESKA"/>
+			<S i="0906" f="1" s="1" t="1" n="2310 Szczecinek ESKA"/>
+			<S i="0910" f="1" s="1" t="1" n="2320 Przemysl ESKA"/>
+			<S i="091a" f="1" s="1" t="1" n="2330 Malopolska ESKA"/>
+			<S i="0938" f="1" s="1" t="1" n="2360 Krasnik ESKA"/>
+			<S i="0960" f="1" s="1" t="1" n="2400 Starachowice ESKA"/>
+			<S i="0974" f="1" s="1" t="1" n="2420 Zary ESKA"/>
+			<S i="097e" f="1" s="1" t="1" n="2430 Elblag ESKA"/>
+			<S i="0988" f="1" s="1" t="1" n="2440 Ilawa ESKA"/>
+			<S i="0992" f="1" s="1" t="1" n="2450 Grudziadz ESKA"/>
+			<S i="099c" f="1" s="1" t="1" n="2460 Lomza ESKA"/>
+			<S i="09b0" f="1" s="1" t="1" n="2480 JG-Wroclaw ESKA"/>
+			<S i="09c4" f="1" s="1" t="1" n="2500 Ostrzeszow ESKA"/>
+			<S i="09d8" f="1" s="1" t="1" n="2520 Braniewo ESKA"/>
+			<S i="0be0" f="1" s="1" t="1" n="3040 Gorzow VOX"/>
+			<S i="0c44" f="1" s="1" t="1" n="3140 Poznan VOX"/>
+			<S i="0c8a" f="1" s="1" t="1" n="3210 Radom VOX"/>
+			<S i="0f96" f="1" s="1" t="1" n="3990 VOX"/>
+			<S i="0fa0" f="1" s="1" t="1" n="4000 SES PLUS"/>
+			<S i="0fe6" f="1" s="1" t="1" n="4070 Krakow PLUS"/>
+			<S i="100e" f="1" s="1" t="1" n="4110 Olsztyn PLUS"/>
+			<S i="1022" f="1" s="1" t="1" n="4130 Lublin PLUS"/>
+			<S i="10ae" f="1" s="1" t="1" n="4270 Koszalin PLUS"/>
+			<S i="10f4" f="1" s="1" t="1" n="4340 Podhale PLUS"/>
+			<S i="1388" f="1" s="1" t="1" n="5000 - Testowy 1"/>
+			<S i="1f36" f="1" s="1" t="1" n="7990"/>
+			<S i="1f4a" f="1" s="1" t="1" n="8010 Radio Rodzina"/>
+			<S i="1f54" f="1" s="1" t="1" n="8020 Emaus"/>
+		</TS>
 		<TS id="0000" on="0000" frq="12689000" inv="2" sr="6000000" fec="3" pol="1" mod="9" sys="1">
 			<S i="0001" f="4" s="0" t="19" n="UKI 1973 Coder 1"/>
 		</TS>
@@ -794,5 +868,15 @@
 		<TS id="0065" on="ffff" frq="12724000" inv="2" sr="4100000" fec="3" pol="0" mod="0" sys="1">
 			<S i="0065" f="4" s="1" t="1" n="101 - IPPICA1"/>
 			<S i="0066" f="4" s="1" t="1" n="102 - IPPICA2"/>
+		</TS>
+		<TS id="000b" on="0003" frq="12738000" inv="2" sr="3780000" fec="4" pol="0" mod="9" sys="1">
+			<S i="044f" f="1" s="0" t="2" n="unknown (0x000B_0x044F)"/>
+			<S i="04b3" f="1" s="0" t="2" n="unknown (0x000B_0x04B3)"/>
+			<S i="0517" f="1" s="0" t="2" n="unknown (0x000B_0x0517)"/>
+			<S i="057b" f="1" s="0" t="2" n="unknown (0x000B_0x057B)"/>
+			<S i="05df" f="1" s="0" t="2" n="unknown (0x000B_0x05DF)"/>
+			<S i="0643" f="1" s="0" t="2" n="unknown (0x000B_0x0643)"/>
+			<S i="06a7" f="1" s="0" t="2" n="unknown (0x000B_0x06A7)"/>
+			<S i="070b" f="1" s="0" t="2" n="unknown (0x000B_0x070B)"/>
 		</TS>
 	</sat>
