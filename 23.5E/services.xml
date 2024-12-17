@@ -321,10 +321,10 @@
 			<S i="3722" f="4" s="1" t="19" n="Nova Fun HD"/>
 			<S i="3723" f="4" s="1" t="16" n="Nova Lady"/>
 			<S i="3724" f="4" s="1" t="19" n="Arena Sport 2 HD"/>
-			<S i="3725" f="4" s="1" t="19" n="Prima COOL SK"/>
+			<S i="3725" f="4" s="1" t="19" n="Prima COOL HD SK"/>
 			<S i="3726" f="4" s="1" t="19" n="Prima Love HD SK"/>
 			<S i="372b" f="4" s="1" t="16" n="AMC SK"/>
-			<S i="372c" f="4" s="1" t="19" n="Nova Sport 5 HD"/>
+			<S i="372c" f="4" s="1" t="19" n="Nova Sport 5 HD (CZ)"/>
 			<S i="372e" f="4" s="1" t="16" n="SuperTV2"/>
 			<S i="3731" f="4" s="1" t="19" n="Markiza HD"/>
 			<S i="3732" f="4" s="1" t="19" n="DOMA HD"/>
@@ -424,8 +424,8 @@
 			<S i="3cfd" f="4" s="0" t="16" n="TV8"/>
 			<S i="3cfe" f="4" s="1" t="16" n="TV Spark"/>
 			<S i="3cff" f="4" s="1" t="19" n="History HD"/>
-			<S i="3d00" f="4" s="1" t="16" n="AXN Black"/>
-			<S i="3d01" f="4" s="1" t="16" n="AXN White"/>
+			<S i="3d00" f="4" s="1" t="16" n="AXN Black Central Europe"/>
+			<S i="3d01" f="4" s="1" t="16" n="AXN White Central Europe"/>
 		</TS>
 		<TS id="0c96" on="0003" frq="12129000" inv="2" sr="29900000" fec="3" pol="1" mod="9" sys="1">
 			<S i="51ae" f="4" s="1" t="16" n="Film1 Family"/>
@@ -442,7 +442,7 @@
 			<S i="5273" f="4" s="1" t="16" n="History NL"/>
 			<S i="5276" f="4" s="1" t="16" n="VTM Gold"/>
 			<S i="5278" f="4" s="1" t="16" n="Ketnet"/>
-			<S i="527c" f="4" s="1" t="16" n="VTM Non-Stop 90s"/>
+			<S i="527c" f="4" s="1" t="16" n="VTM XMAS"/>
 			<S i="5280" f="4" s="1" t="16" n="VTM 3"/>
 			<S i="5282" f="4" s="1" t="16" n="VTM 4"/>
 			<S i="5284" f="4" s="1" t="16" n="Man-X"/>
@@ -458,7 +458,7 @@
 			<S i="52f5" f="4" s="1" t="16" n="Slager TV"/>
 			<S i="5314" f="4" s="1" t="16" n="RTL GOLD"/>
 			<S i="5315" f="4" s="1" t="16" n="TV2 Sef"/>
-			<S i="5316" f="4" s="1" t="19" n="Nova Sport 5 HD"/>
+			<S i="5316" f="4" s="1" t="19" n="Nova Sport 5 HD (SK)"/>
 		</TS>
 		<TS id="0c98" on="0003" frq="12168000" inv="2" sr="27500000" fec="3" pol="1" mod="0" sys="0">
 			<S i="1019" f="4" s="0" t="2" n="1.BuMux"/>
@@ -524,8 +524,8 @@
 			<S i="33a0" f="4" s="1" t="19" n="JOJ 24 HD"/>
 		</TS>
 		<TS id="0c9e" on="0003" frq="12285000" inv="2" sr="30000000" fec="2" pol="1" mod="9" sys="1">
-			<S i="0320" f="4" s="1" t="c" n="unknown (0x0C9E_0x0320)"/>
-			<S i="0321" f="4" s="0" t="c" n="unknown (0x0C9E_0x0321)"/>
+			<S i="0320" f="4" s="1" t="c" n="MX"/>
+			<S i="0321" f="4" s="0" t="c" n="Service 801"/>
 			<S i="1e1e" f="4" s="0" t="2" n="Ukrayinske Radio"/>
 			<S i="1e20" f="4" s="0" t="2" n="Radio Promin"/>
 			<S i="1e22" f="4" s="0" t="2" n="Radio Culture"/>
@@ -818,5 +818,9 @@
 			<S i="4e55" f="4" s="0" t="1" n="Pink Sci-Fi &amp; Fantasy"/>
 			<S i="4e65" f="4" s="0" t="1" n="Kuvo TV"/>
 			<S i="4e6c" f="4" s="1" t="1" n="Klasik TV"/>
+		</TS>
+		<TS id="0001" on="0001" frq="12639000" inv="2" sr="940000" fec="1" pol="1" mod="0" sys="0">
+			<S i="03e8" f="1" s="0" t="2" n="DLF USI1"/>
+			<S i="07d0" f="1" s="0" t="2" n="DLFK USI1"/>
 		</TS>
 	</sat>
