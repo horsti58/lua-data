@@ -524,8 +524,8 @@
 			<S i="33a0" f="4" s="1" t="19" n="JOJ 24 HD"/>
 		</TS>
 		<TS id="0c9e" on="0003" frq="12285000" inv="2" sr="30000000" fec="2" pol="1" mod="9" sys="1">
-			<S i="0320" f="4" s="1" t="c" n="MX"/>
-			<S i="0321" f="4" s="0" t="c" n="Service 801"/>
+			<S i="0320" f="2" s="1" t="c" n="MX"/>
+			<S i="0321" f="2" s="0" t="c" n="Service 801"/>
 			<S i="1e1e" f="4" s="0" t="2" n="Ukrayinske Radio"/>
 			<S i="1e20" f="4" s="0" t="2" n="Radio Promin"/>
 			<S i="1e22" f="4" s="0" t="2" n="Radio Culture"/>
@@ -537,6 +537,7 @@
 			<S i="1e2e" f="4" s="0" t="2" n="Golos Kyiva"/>
 			<S i="1e33" f="4" s="1" t="1" n="Pershiy"/>
 			<S i="1e35" f="4" s="1" t="1" n="Suspilne Kultura"/>
+			<S i="1e46" f="1" s="0" t="19" n="Espreso TV HD"/>
 			<S i="1e50" f="4" s="0" t="19" n="Inter HD"/>
 			<S i="1e5a" f="4" s="1" t="16" n="1+1 International"/>
 			<S i="1e5b" f="4" s="0" t="16" n="1+1"/>
