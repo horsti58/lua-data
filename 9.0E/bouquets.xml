@@ -6,6 +6,10 @@
 		<S i="67" t="170c" on="9e" s="90" frq="11900" n="JimJam ME"/>
 		<S i="68" t="170c" on="9e" s="90" frq="11900" n="JimJam PE"/>
 	</Bouquet>
+	<Bouquet name="[E009.0] ARQIVA">
+		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
+		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="IRN"/>
+	</Bouquet>
 	<Bouquet name="[E009.0] Arqiva">
 		<S i="49c" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist1"/>
 		<S i="4a1" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist2"/>
@@ -20,10 +24,6 @@
 		<S i="497" t="1af4" on="9e" s="90" frq="12092" n="talkSPORT Dist"/>
 		<S i="4a6" t="1af4" on="9e" s="90" frq="12092" n="BBC AM Dist3"/>
 		<S i="483" t="1af4" on="9e" s="90" frq="12092" n="Premier Radio"/>
-	</Bouquet>
-	<Bouquet name="[E009.0] ARQIVA">
-		<S i="460" t="1af4" on="9e" s="90" frq="12092" n="NTDTV"/>
-		<S i="488" t="1af4" on="9e" s="90" frq="12092" n="IRN"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] BASIS 1">
 		<S i="ec" t="1644" on="9c" s="90" frq="11861" n="BBC News"/>
@@ -72,9 +72,9 @@
 		<S i="65" t="170c" on="9e" s="90" frq="11900" n="TFM Senegal"/>
 	</Bouquet>
 	<Bouquet name="[E009.0] GlobeCast">
-		<S i="26b" t="21" on="b" s="90" frq="11996" n="CCTV-4"/>
 		<S i="26b" t="1" on="1" s="90" frq="11996" n="CCTV-4"/>
 		<S i="26b" t="21" on="16" s="90" frq="11996" n="CCTV-4"/>
+		<S i="26b" t="21" on="b" s="90" frq="11996" n="CCTV-4"/>
 		<S i="26f" t="1" on="1" s="90" frq="11996" n="CGTN Documentary"/>
 		<S i="26f" t="21" on="b" s="90" frq="11996" n="CGTN Documentary"/>
 		<S i="26f" t="21" on="16" s="90" frq="11996" n="CGTN Documentary"/>
@@ -82,8 +82,8 @@
 		<S i="26e" t="21" on="b" s="90" frq="11996" n="CGTN-A"/>
 		<S i="26e" t="21" on="16" s="90" frq="11996" n="CGTN-A"/>
 		<S i="26c" t="1" on="1" s="90" frq="11996" n="CGTN-E"/>
-		<S i="26c" t="21" on="b" s="90" frq="11996" n="CGTN-E"/>
 		<S i="26c" t="21" on="16" s="90" frq="11996" n="CGTN-E"/>
+		<S i="26c" t="21" on="b" s="90" frq="11996" n="CGTN-E"/>
 		<S i="26d" t="21" on="b" s="90" frq="11996" n="CGTN-R"/>
 		<S i="26d" t="21" on="16" s="90" frq="11996" n="CGTN-R"/>
 		<S i="26d" t="1" on="1" s="90" frq="11996" n="CGTN-R"/>
@@ -98,7 +98,7 @@
 		<S i="cc" t="19c8" on="9e" s="90" frq="12034" n="6ter Suisse"/>
 		<S i="ca" t="19c8" on="9e" s="90" frq="12034" n="M6 Suisse"/>
 		<S i="ce" t="19c8" on="9e" s="90" frq="12034" n="MCM TOP"/>
-		<S i="162" t="19c8" on="9e" s="90" frq="12034" n="ORTM"/>
+		<S i="162" t="19c8" on="9e" s="90" frq="12034" n="PFS500 - ORTM"/>
 		<S i="161" t="19c8" on="9e" s="90" frq="12034" n="Phoenix Info News"/>
 		<S i="160" t="19c8" on="9e" s="90" frq="12034" n="RTG Int"/>
 		<S i="163" t="19c8" on="9e" s="90" frq="12034" n="TV SAHEL"/>
@@ -154,6 +154,7 @@
 		<S i="9c" t="1838" on="9e" s="90" frq="11958" n="Danko Radio (AAC)"/>
 		<S i="a6" t="1838" on="9e" s="90" frq="11958" n="Danko Radio (L2)"/>
 		<S i="a7" t="1838" on="9e" s="90" frq="11958" n="K192ser"/>
+		<S i="9e" t="1838" on="9e" s="90" frq="11958" n="Katolikus Radio (AAC)"/>
 		<S i="97" t="1838" on="9e" s="90" frq="11958" n="Kossuth Radio (AAC)"/>
 		<S i="a1" t="1838" on="9e" s="90" frq="11958" n="Kossuth Radio (L2)"/>
 		<S i="9a" t="1838" on="9e" s="90" frq="11958" n="Nemzetisegi Radio (AAC)"/>
@@ -375,11 +376,11 @@
 	</Bouquet>
 	<Bouquet name="[E009.0] ΟΤΕ">
 		<S i="42d" t="2" on="aa" s="90" frq="12054" n="ANT1 EUROPE"/>
-		<S i="418" t="6" on="aa" s="90" frq="12399" n="Body in Balance"/>
 		<S i="416" t="4" on="aa" s="90" frq="12207" n="COSMOTE Series HD"/>
 		<S i="3f7" t="6" on="aa" s="90" frq="12399" n="COSMOTESport2HD"/>
 		<S i="3f2" t="5" on="aa" s="90" frq="12284" n="ducktv"/>
 		<S i="452" t="1" on="aa" s="90" frq="11843" n="E! HD"/>
+		<S i="418" t="6" on="aa" s="90" frq="12399" n="MEGA News"/>
 		<S i="45c" t="7" on="aa" s="90" frq="12475" n="MTV Europe"/>
 		<S i="453" t="9" on="aa" s="90" frq="11938" n="National Geographic HD"/>
 		<S i="3f1" t="2" on="aa" s="90" frq="12054" n="Novasports1HD"/>
