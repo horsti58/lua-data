@@ -6,9 +6,11 @@ diverse Neutrino Sat-Settings 28.2E, 23.5E, 19.2E, 16.0E, 13.0E, 9.0E
 
  wegen Sicherheitsänderungen auf github, kann es sein das die Settings nicht ladbar sind,
 
- dann settingsupdater.lua und cfg Datei erneuern, in der ist der SSL-Test mit dem Parameter -k ausgeschaltet.
+ dann settingsupdater.lua und cfg Datei erneuern. Die Prüfung des Serverzertifikats ist von Haus aus
+ aus, weil nicht jedes Image aktuelle CA-Zertifikate hat; wer sie hat, schaltet sie in den Einstellungen
+ (Taste rot) unter "Zertifikat des Servers prüfen" ein.
 
- settingsupdater.cfg und settingsupdater.lua ins Pluginverzeichnis /var/tuxbox/plugins der Neutrinobox kopieren,
+ settingsupdater.cfg, settingsupdater.lua und settingupdater.svg ins Pluginverzeichnis /var/tuxbox/plugins der Neutrinobox kopieren,
 
  restarten...
 
