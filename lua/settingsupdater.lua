@@ -37,6 +37,7 @@ cfg_install_a = "Senderliste ",
 cfg_install_b = " installieren",
 cfg_ubouquets = "uBouquets installieren",
 cfg_git = "Git für den Download verwenden",
+cfg_verify = "Zertifikat des Servers prüfen",
 last_update = "Letztes Update: ",
 update_available = "Aktualisierung verfügbar"
 }
@@ -52,18 +53,34 @@ cfg_install_a = "Install ",
 cfg_install_b = " settings",
 cfg_ubouquets = "Install ubouqets",
 cfg_git = "Use git for downloading",
+cfg_verify = "Verify the server certificate",
 last_update = "Last update: ",
 update_available = "Update available"
 }
 
 n = neutrino()
 tmp = "/tmp/settingupdate"
-neutrino_conf_base = "/var/tuxbox/config"
-icondir = "/share/tuxbox/neutrino/icons"
+-- newer images keep the configuration in /etc/neutrino/config
+if os.rename("/etc/neutrino/config", "/etc/neutrino/config") then
+	neutrino_conf_base = "/etc/neutrino/config"
+else
+	neutrino_conf_base = "/var/tuxbox/config"
+end
+-- the picture lies next to this script
+plugin_dir = debug.getinfo(1, "S").source:match("^@(.*/)") or "./"
 neutrino_conf = neutrino_conf_base .. "/neutrino.conf"
 zapitdir = neutrino_conf_base .. "/zapit"
-setting_intro = tmp .. "/lua"
 settingupdater_cfg = neutrino_conf_base .. "/settingupdater.cfg"
+
+-- os.execute returns a status number in Lua 5.1 and LuaJIT, true/nil plus
+-- the exit code from Lua 5.2 on: the exit code either way
+function execute(cmd)
+	local a, b, c = os.execute(cmd)
+	if type(a) == "number" then
+		return a
+	end
+	return c or (a and 0 or 1)
+end
 
 function exists(file)
 	local ok, err, exitcode = os.rename(file, file)
@@ -89,12 +106,24 @@ function create_settingupdater_cfg()
 	file:write("13.0E=0", "\n")
 	file:write("9.0E=0", "\n")
 	file:write("use_git=0", "\n")
+	file:write("verify_certs=0", "\n")
 	file:close()
 end
 
 if (exists(settingupdater_cfg) ~= true) then
 	create_settingupdater_cfg()
 end
+
+-- a configuration from before the certificate option gets it added
+function add_cfg_key(str, value)
+	for line in io.lines(settingupdater_cfg) do
+		if line:match(str .. "=") then return end
+	end
+	local file = io.open(settingupdater_cfg, "a")
+	file:write(str .. "=" .. value, "\n")
+	file:close()
+end
+add_cfg_key("verify_certs", 0)
 
 function last_updated()
 	if exists(zapitdir .. "/services.xml") then
@@ -113,7 +142,11 @@ end
 
 function check_for_update()
 	if not isdir(tmp) then os.execute("mkdir -p " .. tmp) end
-	os.execute("curl -k https://raw.githubusercontent.com/horsti58/lua-data/master/start/services.xml -o " .. tmp .. "/version_online")
+	os.execute(curl() .. "https://raw.githubusercontent.com/horsti58/lua-data/master/start/services.xml -o " .. tmp .. "/version_online")
+	if not exists(tmp .. "/version_online") then
+		os.execute("rm -rf " .. tmp)
+		return false
+	end
 	for line in io.lines(tmp .. "/version_online") do
 		if line:match(",") and line:match(":") then
 			local _,mark_begin = string.find(line, ",")
@@ -129,6 +162,7 @@ function check_for_update()
 end
 
 function get_cfg_value(str)
+	local r = nil
 	for line in io.lines(settingupdater_cfg) do
 		if line:match(str .. "=") then
 			local i,j = string.find(line, str .. "=")
@@ -136,6 +170,13 @@ function get_cfg_value(str)
 		end
 	end
 	return r
+end
+
+function curl()
+	if get_cfg_value("verify_certs") == 1 then
+		return "curl -fsSL "
+	end
+	return "curl -fsSLk "
 end
 
 function nconf_value(str)
@@ -173,10 +214,10 @@ function start_update()
 	ret:paint();
 	if (get_cfg_value("use_git") == 1) then
 		setting_url = "https://github.com/horsti58/lua-data"
-		ok ,err, exitcode = os.execute("git clone " .. setting_url .. " " .. tmp)
+		exitcode = execute("git clone " .. setting_url .. " " .. tmp)
 	else
 		setting_url = "https://codeload.github.com/horsti58/lua-data/zip/master"
-		ok ,err, exitcode = os.execute("curl -k " .. setting_url .. " -o " .. tmp .. ".zip")
+		exitcode = execute(curl() .. setting_url .. " -o " .. tmp .. ".zip")
 		if (exists(tmp) ~= true) then
 			os.execute("mkdir " .. tmp)
 		end
@@ -192,14 +233,6 @@ function start_update()
 		ret:hide()
 		show_msg(locale[lang].fetch_failed)
 		return
-	else
-		ret:hide();
-	end
-	local ok,err,exitcode = os.execute("rsync -rlpgoD --size-only " .. setting_intro .. "/settingupdater_" .. nconf_value("osd_resolution") .. ".png " .. icondir .. "/settingupdater.png")
-	if (exitcode ~= 0) then
-		ret:hide()
-		print("rsync missing?")
-		local ok,err,exitcode = os.execute("cp -f " .. setting_intro .. "/settingupdater_" .. nconf_value("osd_resolution") .. ".png " .. icondir .. "/settingupdater.png")
 	else
 		ret:hide();
 	end
@@ -249,7 +282,7 @@ function start_update()
 	ret:hide()
 	local ret = hintbox.new { title = caption, icon = "settings", text = locale[lang].cleanup };
 	ret:paint()
-	local ok,err,exitcode = os.execute("rm -r " .. tmp)
+	local exitcode = execute("rm -r " .. tmp)
 	sleep(1);
 	if (exitcode ~= 0) then
 		ret:hide()
@@ -306,6 +339,10 @@ function use_git_cfg(k, v, str)
 	write_cfg(k, v, "use_git")
 end
 
+function verify_cfg(k, v, str)
+	write_cfg(k, v, "verify_certs")
+end
+
 function options ()
 	chooser:hide()
 	menu = menu.new{name=locale[lang].menu_options}
@@ -342,9 +379,14 @@ function options ()
 		menu:addItem{type="chooser", action="eutelsata_cfg", options={off, on}, icon=7, directkey=RC["7"], name=locale[lang].cfg_install_a .. " 9.0E " .. locale[lang].cfg_install_b}
 	end
 	if (get_cfg_value("use_git") == 1) then
-		menu:addItem{type="chooser", action="use_git_cfg", options={on, off}, icon=blue, directkey=RC["blue"], name=locale[lang].cfg_git}
+		menu:addItem{type="chooser", action="use_git_cfg", options={on, off}, icon="btn_blue", directkey=RC["blue"], name=locale[lang].cfg_git}
 	elseif (get_cfg_value("use_git") == 0) then
-		menu:addItem{type="chooser", action="use_git_cfg", options={off, on}, icon=blue, directkey=RC["blue"], name=locale[lang].cfg_git}
+		menu:addItem{type="chooser", action="use_git_cfg", options={off, on}, icon="btn_blue", directkey=RC["blue"], name=locale[lang].cfg_git}
+	end
+	if (get_cfg_value("verify_certs") == 1) then
+		menu:addItem{type="chooser", action="verify_cfg", options={on, off}, icon="btn_yellow", directkey=RC["yellow"], name=locale[lang].cfg_verify}
+	else
+		menu:addItem{type="chooser", action="verify_cfg", options={off, on}, icon="btn_yellow", directkey=RC["yellow"], name=locale[lang].cfg_verify}
 	end
 	menu:exec()
 	main()
@@ -369,10 +411,18 @@ function main()
 	btnGreen = locale[lang].menu_update,
 	btnRed = locale[lang].menu_options
 	}
-	picture = cpicture.new {
-	parent = chooser,
-	image="settingupdater",
-	}
+	local picture_file = plugin_dir .. "settingupdater.svg"
+	if exists(picture_file) then
+		local margin = n:scale2Res(10)
+		picture = cpicture.new {
+		parent = chooser,
+		x = margin,
+		y = margin,
+		dx = chooser_dx - 2 * margin,
+		dy = chooser_dy - chooser:headerHeight() - chooser:footerHeight() - 2 * margin,
+		image = picture_file,
+		}
+	end
 	chooser:paint()
 	i = 0
 	d = 500 -- ms
